@@ -4,3 +4,4 @@ cluster_label.csv
 smiles.csv
 summary.csv
 ppr.csv
+.env
