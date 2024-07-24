@@ -1,0 +1,1130 @@
+pt,prod_ai,no_reactions,total,prr
+Abasia,fluvoxamine,8,1659,0.004822182037371911
+Abdominal abscess,fluvoxamine,5,237,0.02109704641350211
+Abdominal compartment syndrome,fluvoxamine,1,35,0.02857142857142857
+Abdominal discomfort,fluvoxamine,82,14497,0.005656342691591364
+Abdominal distension,fluvoxamine,19,7202,0.002638156067758956
+Abdominal hernia,fluvoxamine,1,550,0.0018181818181818182
+Abdominal incarcerated hernia,fluvoxamine,2,2,1.0
+Abdominal infection,fluvoxamine,2,144,0.013888888888888888
+Abdominal mass,fluvoxamine,1,105,0.009523809523809525
+Abdominal operation,fluvoxamine,1,71,0.014084507042253521
+Abdominal pain,fluvoxamine,73,16090,0.004536979490366687
+Abdominal pain lower,fluvoxamine,7,1175,0.005957446808510639
+Abdominal pain upper,fluvoxamine,45,12523,0.003593388165774974
+Abdominal symptom,fluvoxamine,2,43,0.046511627906976744
+Abnormal behaviour,fluvoxamine,40,6284,0.006365372374283896
+Abnormal dreams,fluvoxamine,17,4505,0.0037735849056603774
+Abnormal sleep-related event,fluvoxamine,5,323,0.015479876160990712
+Abnormal weight gain,fluvoxamine,3,906,0.0033112582781456954
+Abortion,fluvoxamine,4,92,0.043478260869565216
+Abortion induced,fluvoxamine,3,283,0.01060070671378092
+Abortion spontaneous,fluvoxamine,24,2003,0.011982026959560658
+Abscess,fluvoxamine,3,802,0.003740648379052369
+Abulia,fluvoxamine,4,452,0.008849557522123894
+Acanthosis nigricans,fluvoxamine,9,46,0.1956521739130435
+Accident,fluvoxamine,1,802,0.0012468827930174563
+Accident at home,fluvoxamine,9,36,0.25
+Accidental exposure to product,fluvoxamine,6,1296,0.004629629629629629
+Accidental exposure to product by child,fluvoxamine,6,109,0.05504587155963303
+Accidental overdose,fluvoxamine,9,2453,0.0036689767631471666
+Accommodation disorder,fluvoxamine,3,207,0.014492753623188406
+Acidosis,fluvoxamine,2,573,0.0034904013961605585
+Acne,fluvoxamine,12,2209,0.005432322317790856
+Activated partial thromboplastin time prolonged,fluvoxamine,1,214,0.004672897196261682
+Activation syndrome,fluvoxamine,5,149,0.03355704697986577
+Activities of daily living impaired,fluvoxamine,9,1625,0.005538461538461538
+Acute generalised exanthematous pustulosis,fluvoxamine,1,373,0.002680965147453083
+Acute graft versus host disease,fluvoxamine,1,16,0.0625
+Acute hepatic failure,fluvoxamine,10,610,0.01639344262295082
+Acute interstitial pneumonitis,fluvoxamine,2,34,0.058823529411764705
+Acute kidney injury,fluvoxamine,110,23399,0.004701055600666695
+Acute myocardial infarction,fluvoxamine,4,1205,0.0033195020746887966
+Acute phase reaction,fluvoxamine,1,12,0.08333333333333333
+Acute polyneuropathy,fluvoxamine,1,19,0.05263157894736842
+Acute psychosis,fluvoxamine,1,424,0.0023584905660377358
+Acute respiratory distress syndrome,fluvoxamine,6,922,0.006507592190889371
+Acute respiratory failure,fluvoxamine,5,1222,0.004091653027823241
+Adenomyosis,fluvoxamine,2,38,0.05263157894736842
+Adjustment disorder,fluvoxamine,1,243,0.00411522633744856
+Adjustment disorder with depressed mood,fluvoxamine,2,222,0.009009009009009009
+Administration site pain,fluvoxamine,1,28,0.03571428571428571
+Adrenal insufficiency,fluvoxamine,4,777,0.005148005148005148
+Adverse drug reaction,fluvoxamine,20,4524,0.004420866489832007
+Adverse event,fluvoxamine,20,3941,0.005074854097944684
+Adverse reaction,fluvoxamine,1,533,0.001876172607879925
+Affect lability,fluvoxamine,11,6072,0.0018115942028985507
+Affective disorder,fluvoxamine,8,1853,0.004317323259579061
+Aggression,fluvoxamine,67,6601,0.010149977276170277
+Agitation,fluvoxamine,75,12595,0.0059547439460103215
+Agoraphobia,fluvoxamine,16,375,0.042666666666666665
+Agranulocytosis,fluvoxamine,10,1009,0.009910802775024777
+Akathisia,fluvoxamine,37,3096,0.011950904392764857
+Akinesia,fluvoxamine,15,318,0.04716981132075472
+Alanine aminotransferase abnormal,fluvoxamine,1,300,0.0033333333333333335
+Alanine aminotransferase increased,fluvoxamine,52,2960,0.01756756756756757
+Albuminuria,fluvoxamine,1,31,0.03225806451612903
+Alcohol abuse,fluvoxamine,8,504,0.015873015873015872
+Alcohol interaction,fluvoxamine,5,408,0.012254901960784314
+Alcohol poisoning,fluvoxamine,1,347,0.002881844380403458
+Alcohol use,fluvoxamine,2,257,0.007782101167315175
+Alcoholism,fluvoxamine,1,560,0.0017857142857142857
+Alice in wonderland syndrome,fluvoxamine,11,34,0.3235294117647059
+Allergic oedema,fluvoxamine,1,78,0.01282051282051282
+Allergic reaction to excipient,fluvoxamine,1,101,0.009900990099009901
+Alopecia,fluvoxamine,32,13201,0.002424058783425498
+Altered state of consciousness,fluvoxamine,22,2218,0.009918845807033363
+Alveolar osteitis,fluvoxamine,1,27,0.037037037037037035
+Alveolitis,fluvoxamine,1,41,0.024390243902439025
+Amenorrhoea,fluvoxamine,2,610,0.003278688524590164
+Amnesia,fluvoxamine,21,5868,0.0035787321063394683
+Amylase increased,fluvoxamine,8,227,0.03524229074889868
+Anaemia,fluvoxamine,21,8359,0.002512262232324441
+Anaemia folate deficiency,fluvoxamine,5,14,0.35714285714285715
+Anaesthetic complication,fluvoxamine,1,79,0.012658227848101266
+Anal incontinence,fluvoxamine,2,770,0.0025974025974025974
+Anal sphincter atony,fluvoxamine,4,20,0.2
+Anaphylactic reaction,fluvoxamine,4,2181,0.0018340210912425492
+Anaphylactic shock,fluvoxamine,6,664,0.009036144578313253
+Anaphylactoid reaction,fluvoxamine,2,46,0.043478260869565216
+Anastomotic ulcer haemorrhage,fluvoxamine,2,13,0.15384615384615385
+Anger,fluvoxamine,16,3376,0.004739336492890996
+Angina pectoris,fluvoxamine,3,1254,0.0023923444976076554
+Angioedema,fluvoxamine,14,1702,0.008225616921269096
+Angle closure glaucoma,fluvoxamine,8,263,0.030418250950570342
+Anhedonia,fluvoxamine,5,2717,0.001840264998159735
+Ankle fracture,fluvoxamine,2,1678,0.0011918951132300357
+Ankylosing spondylitis,fluvoxamine,2,875,0.002285714285714286
+Anorgasmia,fluvoxamine,15,881,0.0170261066969353
+Anosognosia,fluvoxamine,1,22,0.045454545454545456
+Anti-transglutaminase antibody increased,fluvoxamine,3,9,0.3333333333333333
+Antidepressant drug level above therapeutic,fluvoxamine,1,93,0.010752688172043012
+Antidepressant drug level below therapeutic,fluvoxamine,1,25,0.04
+Antidepressant drug level increased,fluvoxamine,1,110,0.00909090909090909
+Antiphospholipid syndrome,fluvoxamine,1,73,0.0136986301369863
+Antipsychotic drug level above therapeutic,fluvoxamine,15,247,0.06072874493927125
+Antipsychotic drug level increased,fluvoxamine,17,446,0.03811659192825112
+Antisocial behaviour,fluvoxamine,1,124,0.008064516129032258
+Anuria,fluvoxamine,4,182,0.02197802197802198
+Anxiety,fluvoxamine,193,30085,0.006415157055010803
+Anxiety disorder,fluvoxamine,1,595,0.0016806722689075631
+Aortic aneurysm,fluvoxamine,5,315,0.015873015873015872
+Aortic dissection,fluvoxamine,1,77,0.012987012987012988
+Aortic stenosis,fluvoxamine,3,131,0.022900763358778626
+Aortic valve replacement,fluvoxamine,1,40,0.025
+Aortic valve sclerosis,fluvoxamine,2,32,0.0625
+Apathy,fluvoxamine,103,1606,0.06413449564134496
+Apgar score low,fluvoxamine,9,167,0.05389221556886228
+Aphasia,fluvoxamine,9,1874,0.0048025613660619
+Aphonia,fluvoxamine,4,696,0.005747126436781609
+Aphthous ulcer,fluvoxamine,4,481,0.008316008316008316
+Apnoea,fluvoxamine,2,596,0.003355704697986577
+Apnoeic attack,fluvoxamine,1,43,0.023255813953488372
+Appendicectomy,fluvoxamine,1,184,0.005434782608695652
+Appendicitis,fluvoxamine,1,340,0.0029411764705882353
+Appendicitis perforated,fluvoxamine,2,129,0.015503875968992248
+Appetite disorder,fluvoxamine,1,441,0.0022675736961451248
+Application site erythema,fluvoxamine,2,492,0.0040650406504065045
+Application site irritation,fluvoxamine,2,80,0.025
+Application site pruritus,fluvoxamine,1,138,0.007246376811594203
+Areflexia,fluvoxamine,1,187,0.0053475935828877
+Arrhythmia,fluvoxamine,20,2306,0.008673026886383347
+Arterial stenosis,fluvoxamine,7,46,0.15217391304347827
+Arterial thrombosis,fluvoxamine,2,58,0.034482758620689655
+Arteriosclerosis,fluvoxamine,1,395,0.002531645569620253
+Arteriosclerosis coronary artery,fluvoxamine,1,585,0.0017094017094017094
+Arthralgia,fluvoxamine,40,19575,0.0020434227330779057
+Arthritis,fluvoxamine,7,3709,0.0018873011593421407
+Arthropathy,fluvoxamine,4,2120,0.0018867924528301887
+Arthropod bite,fluvoxamine,4,341,0.011730205278592375
+Artificial crown procedure,fluvoxamine,1,18,0.05555555555555555
+Aspartate aminotransferase abnormal,fluvoxamine,1,6,0.16666666666666666
+Asphyxia,fluvoxamine,12,657,0.0182648401826484
+Aspiration,fluvoxamine,3,901,0.003329633740288568
+Aspiration of gastric residual,fluvoxamine,1,1,1.0
+Asthenia,fluvoxamine,65,15885,0.004091910607491344
+Asthma,fluvoxamine,21,6690,0.003139013452914798
+Asthmatic crisis,fluvoxamine,1,60,0.016666666666666666
+Astigmatism,fluvoxamine,3,74,0.04054054054054054
+Ataxia,fluvoxamine,8,606,0.013201320132013201
+Atelectasis,fluvoxamine,1,238,0.004201680672268907
+Atlantoaxial subluxation,fluvoxamine,1,1,1.0
+Atrial fibrillation,fluvoxamine,14,3425,0.004087591240875913
+Atrial septal defect,fluvoxamine,1,1778,0.0005624296962879641
+Atrial tachycardia,fluvoxamine,7,63,0.1111111111111111
+Atrioventricular block,fluvoxamine,4,315,0.012698412698412698
+Atrioventricular block complete,fluvoxamine,3,283,0.01060070671378092
+Attention deficit hyperactivity disorder,fluvoxamine,1,104,0.009615384615384616
+Atypical mycobacterial infection,fluvoxamine,1,5,0.2
+Aura,fluvoxamine,1,85,0.011764705882352941
+Autism spectrum disorder,fluvoxamine,11,254,0.04330708661417323
+Autoimmune disorder,fluvoxamine,3,351,0.008547008547008548
+Autonomic failure syndrome,fluvoxamine,1,4,0.25
+B-cell lymphoma,fluvoxamine,1,81,0.012345679012345678
+Back disorder,fluvoxamine,3,1055,0.002843601895734597
+Back pain,fluvoxamine,24,8125,0.0029538461538461537
+Bacterial infection,fluvoxamine,2,488,0.004098360655737705
+Bacterial toxaemia,fluvoxamine,1,2,0.5
+Bacteriuria,fluvoxamine,1,15,0.06666666666666667
+Balance disorder,fluvoxamine,20,7162,0.0027925160569673277
+Bankruptcy,fluvoxamine,1,127,0.007874015748031496
+Barrett's oesophagus,fluvoxamine,1,129,0.007751937984496124
+Basal cell carcinoma,fluvoxamine,4,619,0.006462035541195477
+Basosquamous carcinoma of skin,fluvoxamine,2,6,0.3333333333333333
+Behaviour disorder,fluvoxamine,7,309,0.022653721682847898
+Benign prostatic hyperplasia,fluvoxamine,4,200,0.02
+Beta 2 microglobulin urine increased,fluvoxamine,1,2,0.5
+Biliary obstruction,fluvoxamine,1,20,0.05
+Binocular eye movement disorder,fluvoxamine,1,8,0.125
+Bipolar I disorder,fluvoxamine,7,263,0.026615969581749048
+Bipolar disorder,fluvoxamine,10,1272,0.007861635220125786
+Bite,fluvoxamine,1,28,0.03571428571428571
+Bladder dilatation,fluvoxamine,1,101,0.009900990099009901
+Blepharal pigmentation,fluvoxamine,1,19,0.05263157894736842
+Blepharospasm,fluvoxamine,2,314,0.006369426751592357
+Blindness,fluvoxamine,2,974,0.002053388090349076
+Blindness transient,fluvoxamine,1,205,0.004878048780487805
+Blindness unilateral,fluvoxamine,1,419,0.002386634844868735
+Blister,fluvoxamine,4,1764,0.0022675736961451248
+Blister rupture,fluvoxamine,1,9,0.1111111111111111
+Blood bilirubin increased,fluvoxamine,5,482,0.01037344398340249
+Blood cholesterol increased,fluvoxamine,18,1843,0.009766684753119913
+Blood count abnormal,fluvoxamine,2,649,0.0030816640986132513
+Blood creatine increased,fluvoxamine,1,105,0.009523809523809525
+Blood creatine phosphokinase increased,fluvoxamine,29,1404,0.020655270655270654
+Blood creatinine decreased,fluvoxamine,1,67,0.014925373134328358
+Blood creatinine increased,fluvoxamine,6,1595,0.003761755485893417
+Blood disorder,fluvoxamine,1,224,0.004464285714285714
+Blood glucose abnormal,fluvoxamine,1,462,0.0021645021645021645
+Blood glucose decreased,fluvoxamine,7,923,0.007583965330444204
+Blood glucose fluctuation,fluvoxamine,4,299,0.013377926421404682
+Blood glucose increased,fluvoxamine,16,2803,0.005708169818052087
+Blood immunoglobulin M increased,fluvoxamine,1,17,0.058823529411764705
+Blood iron decreased,fluvoxamine,4,384,0.010416666666666666
+Blood lactate dehydrogenase increased,fluvoxamine,8,87,0.09195402298850575
+Blood magnesium decreased,fluvoxamine,2,379,0.005277044854881266
+Blood osmolarity increased,fluvoxamine,1,4,0.25
+Blood pH decreased,fluvoxamine,3,16,0.1875
+Blood phosphorus decreased,fluvoxamine,8,68,0.11764705882352941
+Blood potassium decreased,fluvoxamine,3,916,0.0032751091703056767
+Blood potassium increased,fluvoxamine,3,437,0.006864988558352402
+Blood pressure abnormal,fluvoxamine,9,771,0.011673151750972763
+Blood pressure decreased,fluvoxamine,14,1841,0.0076045627376425855
+Blood pressure fluctuation,fluvoxamine,1,1371,0.0007293946024799417
+Blood pressure increased,fluvoxamine,31,6102,0.0050803015404785315
+Blood pressure systolic decreased,fluvoxamine,4,96,0.041666666666666664
+Blood pressure systolic increased,fluvoxamine,4,515,0.007766990291262136
+Blood prolactin abnormal,fluvoxamine,1,19,0.05263157894736842
+Blood prolactin increased,fluvoxamine,8,483,0.016563146997929608
+Blood sodium decreased,fluvoxamine,5,568,0.008802816901408451
+Blood triglycerides increased,fluvoxamine,5,291,0.01718213058419244
+Blood urine present,fluvoxamine,4,496,0.008064516129032258
+Body height decreased,fluvoxamine,1,633,0.001579778830963665
+Body mass index increased,fluvoxamine,1,75,0.013333333333333334
+Body temperature increased,fluvoxamine,4,665,0.006015037593984963
+Bone loss,fluvoxamine,1,109,0.009174311926605505
+Bone pain,fluvoxamine,1,848,0.0011792452830188679
+Borderline personality disorder,fluvoxamine,4,101,0.039603960396039604
+Bradycardia,fluvoxamine,50,3517,0.014216661927779357
+Bradycardia foetal,fluvoxamine,3,34,0.08823529411764706
+Bradykinesia,fluvoxamine,8,485,0.016494845360824743
+Bradypnoea,fluvoxamine,1,267,0.003745318352059925
+Brain death,fluvoxamine,3,205,0.014634146341463415
+Brain hypoxia,fluvoxamine,1,51,0.0196078431372549
+Brain injury,fluvoxamine,2,609,0.003284072249589491
+Brain stem haemorrhage,fluvoxamine,2,40,0.05
+Breakthrough pain,fluvoxamine,1,134,0.007462686567164179
+Breast cancer,fluvoxamine,11,1699,0.006474396703943496
+Breast cancer female,fluvoxamine,1,243,0.00411522633744856
+Breast cancer metastatic,fluvoxamine,1,190,0.005263157894736842
+Breast cancer stage II,fluvoxamine,1,43,0.023255813953488372
+Breast cancer stage IV,fluvoxamine,3,25,0.12
+Breast discharge,fluvoxamine,1,72,0.013888888888888888
+Breast mass,fluvoxamine,1,184,0.005434782608695652
+Bronchial disorder,fluvoxamine,1,47,0.02127659574468085
+Bronchitis,fluvoxamine,16,3621,0.004418668876001105
+Bronchospasm,fluvoxamine,16,328,0.04878048780487805
+Brugada syndrome,fluvoxamine,2,204,0.00980392156862745
+Bruxism,fluvoxamine,1,955,0.0010471204188481676
+Bundle branch block left,fluvoxamine,8,224,0.03571428571428571
+Burning sensation,fluvoxamine,13,2609,0.004982752012265236
+Burns second degree,fluvoxamine,1,31,0.03225806451612903
+Bursitis,fluvoxamine,2,488,0.004098360655737705
+C-reactive protein decreased,fluvoxamine,1,13,0.07692307692307693
+C-reactive protein increased,fluvoxamine,3,516,0.005813953488372093
+COVID-19,fluvoxamine,21,5340,0.003932584269662922
+Calciphylaxis,fluvoxamine,4,15,0.26666666666666666
+Cardiac arrest,fluvoxamine,18,4297,0.004188969048173144
+Cardiac disorder,fluvoxamine,2,1766,0.0011325028312570782
+Cardiac failure,fluvoxamine,9,1781,0.0050533408197641775
+Cardiac failure acute,fluvoxamine,8,163,0.049079754601226995
+Cardiac failure chronic,fluvoxamine,6,74,0.08108108108108109
+Cardiac failure congestive,fluvoxamine,2,1435,0.0013937282229965157
+Cardio-respiratory arrest,fluvoxamine,17,4099,0.004147353012929983
+Cardiogenic shock,fluvoxamine,3,567,0.005291005291005291
+Cardiomegaly,fluvoxamine,5,229,0.021834061135371178
+Cardiomyopathy,fluvoxamine,4,272,0.014705882352941176
+Cardiovascular disorder,fluvoxamine,1,272,0.003676470588235294
+Cardiovascular insufficiency,fluvoxamine,1,63,0.015873015873015872
+Cardioversion,fluvoxamine,1,21,0.047619047619047616
+Cataplexy,fluvoxamine,4,616,0.006493506493506494
+Cataract,fluvoxamine,8,1677,0.004770423375074538
+Cataract operation,fluvoxamine,1,111,0.009009009009009009
+Catatonia,fluvoxamine,44,583,0.07547169811320754
+Catheter site erythema,fluvoxamine,2,29,0.06896551724137931
+Cellulitis,fluvoxamine,3,1773,0.001692047377326565
+Cerebellar ataxia,fluvoxamine,5,39,0.1282051282051282
+Cerebellar atrophy,fluvoxamine,3,35,0.08571428571428572
+Cerebellar syndrome,fluvoxamine,1,134,0.007462686567164179
+Cerebral artery occlusion,fluvoxamine,1,14,0.07142857142857142
+Cerebral artery stenosis,fluvoxamine,1,22,0.045454545454545456
+Cerebral atrophy,fluvoxamine,2,81,0.024691358024691357
+Cerebral haemorrhage,fluvoxamine,10,1339,0.0074682598954443615
+Cerebral infarction,fluvoxamine,8,387,0.020671834625323
+Cerebrovascular accident,fluvoxamine,7,3539,0.0019779598756710934
+Chest discomfort,fluvoxamine,4,2503,0.0015980823012385138
+Chest pain,fluvoxamine,28,4011,0.006980802792321117
+Chills,fluvoxamine,12,2640,0.004545454545454545
+Choking,fluvoxamine,8,576,0.013888888888888888
+Choking sensation,fluvoxamine,1,141,0.0070921985815602835
+Cholangitis,fluvoxamine,2,101,0.019801980198019802
+Cholecystectomy,fluvoxamine,3,363,0.008264462809917356
+Cholelithiasis,fluvoxamine,4,688,0.005813953488372093
+Cholestasis,fluvoxamine,8,1091,0.007332722273143905
+Cholestasis of pregnancy,fluvoxamine,1,80,0.0125
+Cholinergic syndrome,fluvoxamine,1,33,0.030303030303030304
+Chorea,fluvoxamine,4,155,0.025806451612903226
+Chromaturia,fluvoxamine,3,457,0.006564551422319475
+Chronic kidney disease,fluvoxamine,5,10392,0.000481139337952271
+Chronic kidney disease-mineral and bone disorder,fluvoxamine,2,48,0.041666666666666664
+Chronic obstructive pulmonary disease,fluvoxamine,3,1524,0.001968503937007874
+Circulatory collapse,fluvoxamine,4,801,0.004993757802746567
+Circumstance or information capable of leading to medication error,fluvoxamine,1,322,0.003105590062111801
+Clonic convulsion,fluvoxamine,1,55,0.01818181818181818
+Clonus,fluvoxamine,7,360,0.019444444444444445
+Clostridium difficile colitis,fluvoxamine,2,422,0.004739336492890996
+Clostridium difficile infection,fluvoxamine,2,907,0.002205071664829107
+Clostridium test positive,fluvoxamine,1,92,0.010869565217391304
+Coagulation time prolonged,fluvoxamine,1,14,0.07142857142857142
+Coeliac artery compression syndrome,fluvoxamine,1,11,0.09090909090909091
+Coeliac disease,fluvoxamine,4,555,0.007207207207207207
+Cognitive disorder,fluvoxamine,7,2731,0.002563163676309044
+Cogwheel rigidity,fluvoxamine,1,205,0.004878048780487805
+Coital bleeding,fluvoxamine,1,40,0.025
+Cold sweat,fluvoxamine,1,610,0.001639344262295082
+Colectomy,fluvoxamine,2,81,0.024691358024691357
+Colitis,fluvoxamine,4,1183,0.0033812341504649195
+Colitis microscopic,fluvoxamine,8,1063,0.007525870178739417
+Colitis ulcerative,fluvoxamine,6,961,0.006243496357960458
+Colon cancer,fluvoxamine,4,243,0.01646090534979424
+Colostomy,fluvoxamine,1,58,0.017241379310344827
+Coma,fluvoxamine,18,6481,0.0027773491745101066
+Coma blister,fluvoxamine,2,15,0.13333333333333333
+Coma scale abnormal,fluvoxamine,2,343,0.0058309037900874635
+Completed suicide,fluvoxamine,85,18279,0.004650144975108047
+Compression fracture,fluvoxamine,2,77,0.025974025974025976
+Compulsions,fluvoxamine,1,58,0.017241379310344827
+Compulsive shopping,fluvoxamine,3,150,0.02
+Concussion,fluvoxamine,7,507,0.013806706114398421
+Condition aggravated,fluvoxamine,71,12103,0.0058663141369908285
+Confabulation,fluvoxamine,1,48,0.020833333333333332
+Confusional state,fluvoxamine,52,8039,0.00646846622714268
+Congestive cardiomyopathy,fluvoxamine,1,114,0.008771929824561403
+Conjunctival haemorrhage,fluvoxamine,8,77,0.1038961038961039
+Conjunctivitis,fluvoxamine,4,550,0.007272727272727273
+Constipation,fluvoxamine,29,7743,0.003745318352059925
+Contraindicated drug prescribed,fluvoxamine,1,14,0.07142857142857142
+Contraindicated product administered,fluvoxamine,2,1672,0.0011961722488038277
+Contraindicated product prescribed,fluvoxamine,1,46,0.021739130434782608
+Contrast media reaction,fluvoxamine,2,15,0.13333333333333333
+Contusion,fluvoxamine,2,2928,0.0006830601092896175
+Convulsion neonatal,fluvoxamine,3,42,0.07142857142857142
+Convulsive threshold lowered,fluvoxamine,1,74,0.013513513513513514
+Coordination abnormal,fluvoxamine,1,287,0.003484320557491289
+Corneal oedema,fluvoxamine,1,30,0.03333333333333333
+Coronary artery disease,fluvoxamine,7,225,0.03111111111111111
+Coronary artery occlusion,fluvoxamine,1,206,0.0048543689320388345
+Coronavirus infection,fluvoxamine,1,171,0.005847953216374269
+Cough,fluvoxamine,27,5339,0.005057126802772055
+Craniocerebral injury,fluvoxamine,3,155,0.01935483870967742
+Crohn's disease,fluvoxamine,4,1856,0.0021551724137931034
+Crying,fluvoxamine,10,2514,0.003977724741447892
+Cryopyrin associated periodic syndrome,fluvoxamine,1,4,0.25
+Cushing's syndrome,fluvoxamine,11,78,0.14102564102564102
+Cutaneous vasculitis,fluvoxamine,14,81,0.1728395061728395
+Cutis verticis gyrata,fluvoxamine,1,1,1.0
+Cystic fibrosis,fluvoxamine,1,236,0.00423728813559322
+Cystitis,fluvoxamine,1,1096,0.0009124087591240876
+Cystitis bacterial,fluvoxamine,1,4,0.25
+Cystitis interstitial,fluvoxamine,1,92,0.010869565217391304
+Deafness,fluvoxamine,1,549,0.0018214936247723133
+Deafness neurosensory,fluvoxamine,1,105,0.009523809523809525
+Death,fluvoxamine,52,17866,0.0029105563640434346
+Decreased appetite,fluvoxamine,26,4648,0.005593803786574871
+Decreased immune responsiveness,fluvoxamine,1,137,0.0072992700729927005
+Deep vein thrombosis,fluvoxamine,7,2225,0.003146067415730337
+Defiant behaviour,fluvoxamine,1,7,0.14285714285714285
+Deformity,fluvoxamine,6,28,0.21428571428571427
+Dehydration,fluvoxamine,7,3088,0.0022668393782383418
+Delirium,fluvoxamine,27,2051,0.013164310092637738
+Delusion,fluvoxamine,2,927,0.002157497303128371
+"Delusional disorder, unspecified type",fluvoxamine,1,24,0.041666666666666664
+Dementia,fluvoxamine,1,789,0.0012674271229404308
+Dental caries,fluvoxamine,1,324,0.0030864197530864196
+Dental discomfort,fluvoxamine,1,20,0.05
+Dental operation,fluvoxamine,1,38,0.02631578947368421
+Dependence,fluvoxamine,1,213,0.004694835680751174
+Depressed level of consciousness,fluvoxamine,21,3196,0.006570713391739674
+Depressed mood,fluvoxamine,8,2480,0.0032258064516129032
+Depression,fluvoxamine,71,14880,0.004771505376344086
+Depression suicidal,fluvoxamine,1,299,0.0033444816053511705
+Derealisation,fluvoxamine,1,89,0.011235955056179775
+Dermatitis,fluvoxamine,2,412,0.0048543689320388345
+Dermatitis atopic,fluvoxamine,10,1208,0.008278145695364239
+Dermatitis bullous,fluvoxamine,1,273,0.003663003663003663
+Developmental hip dysplasia,fluvoxamine,2,35,0.05714285714285714
+Device battery issue,fluvoxamine,4,25,0.16
+Device breakage,fluvoxamine,2,308,0.006493506493506494
+Device computer issue,fluvoxamine,1,6,0.16666666666666666
+Device dislocation,fluvoxamine,2,1241,0.0016116035455278
+Device expulsion,fluvoxamine,2,866,0.0023094688221709007
+Device failure,fluvoxamine,1,148,0.006756756756756757
+Device issue,fluvoxamine,10,1272,0.007861635220125786
+Device leakage,fluvoxamine,1,250,0.004
+Device malfunction,fluvoxamine,3,898,0.0033407572383073497
+Device use error,fluvoxamine,1,111,0.009009009009009009
+Diabetes insipidus,fluvoxamine,1,74,0.013513513513513514
+Diabetes mellitus,fluvoxamine,12,1660,0.007228915662650603
+Diabetic foot,fluvoxamine,1,47,0.02127659574468085
+Diabetic ketoacidosis,fluvoxamine,12,696,0.017241379310344827
+Diaphragmatic disorder,fluvoxamine,1,10,0.1
+Diarrhoea,fluvoxamine,42,13927,0.0030157248510088316
+Diplopia,fluvoxamine,6,734,0.008174386920980926
+Discomfort,fluvoxamine,2,990,0.00202020202020202
+Disease complication,fluvoxamine,1,63,0.015873015873015872
+Disease progression,fluvoxamine,13,1795,0.0072423398328690805
+Disease recurrence,fluvoxamine,10,1389,0.007199424046076314
+Disorganised speech,fluvoxamine,1,68,0.014705882352941176
+Disorientation,fluvoxamine,18,1227,0.014669926650366748
+Disseminated intravascular coagulation,fluvoxamine,4,88,0.045454545454545456
+Dissociation,fluvoxamine,3,431,0.0069605568445475635
+Dissociative amnesia,fluvoxamine,1,5,0.2
+Dissociative disorder,fluvoxamine,1,106,0.009433962264150943
+Distributive shock,fluvoxamine,5,41,0.12195121951219512
+Disturbance in attention,fluvoxamine,3,1671,0.0017953321364452424
+Disturbance in social behaviour,fluvoxamine,1,47,0.02127659574468085
+Diverticulitis,fluvoxamine,1,736,0.001358695652173913
+Diverticulitis intestinal perforated,fluvoxamine,1,3,0.3333333333333333
+Dizziness,fluvoxamine,49,14470,0.0033863165169315825
+Dizziness postural,fluvoxamine,1,236,0.00423728813559322
+Drooling,fluvoxamine,6,239,0.02510460251046025
+Drug abuse,fluvoxamine,92,8901,0.0103359173126615
+Drug administered at inappropriate site,fluvoxamine,1,110,0.00909090909090909
+Drug administration error,fluvoxamine,1,588,0.0017006802721088435
+Drug chemical incompatibility,fluvoxamine,1,1,1.0
+Drug dependence,fluvoxamine,6,2254,0.0026619343389529724
+Drug dispensed to wrong patient,fluvoxamine,1,69,0.014492753623188406
+Drug dispensing error,fluvoxamine,1,503,0.0019880715705765406
+Drug dose omission,fluvoxamine,20,4784,0.004180602006688963
+Drug effect decreased,fluvoxamine,4,1363,0.00293470286133529
+Drug effect incomplete,fluvoxamine,17,1805,0.009418282548476454
+Drug effect less than expected,fluvoxamine,1,168,0.005952380952380952
+Drug effective for unapproved indication,fluvoxamine,5,348,0.014367816091954023
+Drug eruption,fluvoxamine,5,444,0.01126126126126126
+Drug hypersensitivity,fluvoxamine,38,13219,0.0028746501248203345
+Drug ineffective,fluvoxamine,189,39294,0.004809894640403115
+Drug ineffective for unapproved indication,fluvoxamine,4,2737,0.0014614541468761417
+Drug interaction,fluvoxamine,191,13502,0.014146052436676049
+Drug intolerance,fluvoxamine,3,2251,0.0013327410039982231
+Drug level below therapeutic,fluvoxamine,2,40,0.05
+Drug level decreased,fluvoxamine,1,140,0.007142857142857143
+Drug level increased,fluvoxamine,20,472,0.0423728813559322
+Drug prescribing error,fluvoxamine,2,435,0.004597701149425287
+Drug reaction with eosinophilia and systemic symptoms,fluvoxamine,48,1295,0.037065637065637064
+Drug resistance,fluvoxamine,9,353,0.025495750708215296
+Drug screen false positive,fluvoxamine,1,373,0.002680965147453083
+Drug screen positive,fluvoxamine,2,567,0.003527336860670194
+Drug specific antibody present,fluvoxamine,1,24,0.041666666666666664
+Drug withdrawal syndrome,fluvoxamine,7,3060,0.0022875816993464053
+Drug withdrawal syndrome neonatal,fluvoxamine,1,997,0.0010030090270812437
+Drug-induced liver injury,fluvoxamine,1,1537,0.0006506180871828237
+Dry age-related macular degeneration,fluvoxamine,1,151,0.006622516556291391
+Dry eye,fluvoxamine,2,836,0.0023923444976076554
+Dry mouth,fluvoxamine,6,1921,0.0031233732431025507
+Dry skin,fluvoxamine,4,1072,0.0037313432835820895
+Dysaesthesia,fluvoxamine,1,39,0.02564102564102564
+Dysarthria,fluvoxamine,3,936,0.003205128205128205
+Dyschezia,fluvoxamine,1,49,0.02040816326530612
+Dyschromatopsia,fluvoxamine,1,10,0.1
+Dysgeusia,fluvoxamine,3,1143,0.0026246719160104987
+Dyskinesia,fluvoxamine,13,1759,0.007390562819783968
+Dyslipidaemia,fluvoxamine,2,84,0.023809523809523808
+Dyspepsia,fluvoxamine,4,1412,0.0028328611898017
+Dysphagia,fluvoxamine,9,1637,0.005497861942577886
+Dysphemia,fluvoxamine,1,260,0.0038461538461538464
+Dysphonia,fluvoxamine,1,1010,0.0009900990099009901
+Dyspnoea,fluvoxamine,29,7178,0.004040122596823628
+Dystonia,fluvoxamine,15,798,0.018796992481203006
+Dysuria,fluvoxamine,1,825,0.0012121212121212121
+Ear infection,fluvoxamine,3,707,0.004243281471004243
+Eating disorder,fluvoxamine,2,274,0.0072992700729927005
+Eczema,fluvoxamine,1,670,0.0014925373134328358
+Ejection fraction decreased,fluvoxamine,1,115,0.008695652173913044
+Elective surgery,fluvoxamine,1,3,0.3333333333333333
+Electrocardiogram QT prolonged,fluvoxamine,24,2734,0.008778346744696415
+Electroencephalogram abnormal,fluvoxamine,4,53,0.07547169811320754
+Embolic stroke,fluvoxamine,1,32,0.03125
+Embolism arterial,fluvoxamine,1,24,0.041666666666666664
+Emotional disorder,fluvoxamine,2,586,0.0034129692832764505
+Emotional distress,fluvoxamine,2,767,0.002607561929595828
+Encephalitis autoimmune,fluvoxamine,1,48,0.020833333333333332
+Encephalomyelitis,fluvoxamine,1,6,0.16666666666666666
+Encephalopathy,fluvoxamine,4,794,0.005037783375314861
+Endocarditis,fluvoxamine,1,38,0.02631578947368421
+Endocrine disorder,fluvoxamine,3,12,0.25
+Endodontic procedure,fluvoxamine,2,45,0.044444444444444446
+Endometriosis,fluvoxamine,2,181,0.011049723756906077
+Energy increased,fluvoxamine,1,189,0.005291005291005291
+Enterococcal infection,fluvoxamine,1,30,0.03333333333333333
+Enterocolitis,fluvoxamine,1,90,0.011111111111111112
+Enuresis,fluvoxamine,6,278,0.02158273381294964
+Enzyme inhibition,fluvoxamine,1,3,0.3333333333333333
+Epidermal necrosis,fluvoxamine,2,3,0.6666666666666666
+Epilepsy,fluvoxamine,5,1126,0.004440497335701598
+Epistaxis,fluvoxamine,12,1213,0.00989282769991756
+Epstein-Barr virus infection,fluvoxamine,1,41,0.024390243902439025
+Erectile dysfunction,fluvoxamine,1,908,0.0011013215859030838
+Erotomanic delusion,fluvoxamine,1,1,1.0
+Erythema,fluvoxamine,16,2008,0.00796812749003984
+Erythema multiforme,fluvoxamine,3,209,0.014354066985645933
+Escherichia urinary tract infection,fluvoxamine,1,129,0.007751937984496124
+Excessive cerumen production,fluvoxamine,1,5,0.2
+Exfoliative rash,fluvoxamine,6,35,0.17142857142857143
+Expired product administered,fluvoxamine,2,446,0.004484304932735426
+Exposure during pregnancy,fluvoxamine,10,3152,0.0031725888324873096
+Exposure to household chemicals,fluvoxamine,1,2,0.5
+Extra dose administered,fluvoxamine,3,453,0.006622516556291391
+Extrapyramidal disorder,fluvoxamine,10,657,0.015220700152207
+Eye disorder,fluvoxamine,1,414,0.0024154589371980675
+Eye haematoma,fluvoxamine,2,17,0.11764705882352941
+Eye infection fungal,fluvoxamine,1,6,0.16666666666666666
+Eye irritation,fluvoxamine,2,445,0.0044943820224719105
+Eye pain,fluvoxamine,3,942,0.0031847133757961785
+Eye pruritus,fluvoxamine,2,223,0.008968609865470852
+Facial paralysis,fluvoxamine,1,195,0.005128205128205128
+Facial paresis,fluvoxamine,1,43,0.023255813953488372
+Factor XIII deficiency,fluvoxamine,1,12,0.08333333333333333
+Fall,fluvoxamine,48,11531,0.00416269187407857
+False positive tuberculosis test,fluvoxamine,1,2,0.5
+Fatigue,fluvoxamine,42,12154,0.003455652460095442
+Febrile neutropenia,fluvoxamine,3,1110,0.002702702702702703
+Feeling abnormal,fluvoxamine,15,4445,0.003374578177727784
+Feeling guilty,fluvoxamine,2,17,0.11764705882352941
+Feeling hot,fluvoxamine,1,654,0.0015290519877675841
+Feeling jittery,fluvoxamine,1,457,0.002188183807439825
+Feeling of despair,fluvoxamine,2,52,0.038461538461538464
+Female orgasmic disorder,fluvoxamine,1,46,0.021739130434782608
+Femoral neck fracture,fluvoxamine,3,102,0.029411764705882353
+Fibromyalgia,fluvoxamine,3,773,0.0038809831824062097
+Fine motor skill dysfunction,fluvoxamine,1,45,0.022222222222222223
+Flatulence,fluvoxamine,3,363,0.008264462809917356
+Flavivirus infection,fluvoxamine,1,5,0.2
+Flushing,fluvoxamine,1,1098,0.0009107468123861566
+Foetal arrhythmia,fluvoxamine,1,11,0.09090909090909091
+Foetal death,fluvoxamine,1,429,0.002331002331002331
+Foetal distress syndrome,fluvoxamine,1,36,0.027777777777777776
+Foetal exposure during pregnancy,fluvoxamine,13,4277,0.00303951367781155
+Foetal heart rate abnormal,fluvoxamine,1,8,0.125
+Folate deficiency,fluvoxamine,1,36,0.027777777777777776
+Food intolerance,fluvoxamine,1,36,0.027777777777777776
+Foot operation,fluvoxamine,3,200,0.015
+Foreign body in respiratory tract,fluvoxamine,2,31,0.06451612903225806
+Fracture,fluvoxamine,5,272,0.01838235294117647
+Freezing phenomenon,fluvoxamine,1,48,0.020833333333333332
+Frequent bowel movements,fluvoxamine,2,156,0.01282051282051282
+Frustration tolerance decreased,fluvoxamine,1,90,0.011111111111111112
+Full blood count decreased,fluvoxamine,2,490,0.004081632653061225
+Fungal infection,fluvoxamine,1,471,0.0021231422505307855
+Gait disturbance,fluvoxamine,5,2248,0.002224199288256228
+Gait inability,fluvoxamine,3,389,0.007712082262210797
+Galactorrhoea,fluvoxamine,12,475,0.02526315789473684
+Gallbladder disorder,fluvoxamine,1,298,0.003355704697986577
+Gambling disorder,fluvoxamine,2,264,0.007575757575757576
+Gastrectomy,fluvoxamine,3,47,0.06382978723404255
+Gastric bypass,fluvoxamine,1,119,0.008403361344537815
+Gastric disorder,fluvoxamine,1,496,0.0020161290322580645
+Gastric haemorrhage,fluvoxamine,1,128,0.0078125
+Gastric ulcer,fluvoxamine,4,328,0.012195121951219513
+Gastric ulcer haemorrhage,fluvoxamine,2,88,0.022727272727272728
+Gastroenteritis,fluvoxamine,2,212,0.009433962264150943
+Gastroenteritis viral,fluvoxamine,6,395,0.015189873417721518
+Gastrointestinal disorder,fluvoxamine,2,925,0.002162162162162162
+Gastrointestinal haemorrhage,fluvoxamine,6,2522,0.0023790642347343376
+Gastrointestinal hypomotility,fluvoxamine,1,18,0.05555555555555555
+Gastrointestinal mucosal disorder,fluvoxamine,1,5,0.2
+Gastrooesophageal reflux disease,fluvoxamine,4,1480,0.002702702702702703
+Gaze palsy,fluvoxamine,3,30,0.1
+General physical condition abnormal,fluvoxamine,1,59,0.01694915254237288
+General physical health deterioration,fluvoxamine,3,1238,0.0024232633279483036
+General symptom,fluvoxamine,3,38,0.07894736842105263
+Generalised tonic-clonic seizure,fluvoxamine,4,1060,0.0037735849056603774
+Genital pain,fluvoxamine,2,24,0.08333333333333333
+Genital ulceration,fluvoxamine,1,15,0.06666666666666667
+Gestational diabetes,fluvoxamine,2,358,0.00558659217877095
+Gestational hypertension,fluvoxamine,6,55,0.10909090909090909
+Gingival bleeding,fluvoxamine,1,167,0.005988023952095809
+Gingival discolouration,fluvoxamine,1,13,0.07692307692307693
+Gingival disorder,fluvoxamine,1,43,0.023255813953488372
+Glaucoma,fluvoxamine,1,347,0.002881844380403458
+Glomerulonephritis,fluvoxamine,1,35,0.02857142857142857
+Glossodynia,fluvoxamine,1,261,0.0038314176245210726
+Glycosylated haemoglobin increased,fluvoxamine,1,157,0.006369426751592357
+Grandiosity,fluvoxamine,2,6,0.3333333333333333
+Granulocytopenia,fluvoxamine,1,114,0.008771929824561403
+Guillain-Barre syndrome,fluvoxamine,2,80,0.025
+Gynaecomastia,fluvoxamine,5,437,0.011441647597254004
+Haematoma,fluvoxamine,2,385,0.005194805194805195
+Haematuria,fluvoxamine,1,452,0.0022123893805309734
+Haemoglobin decreased,fluvoxamine,5,698,0.0071633237822349575
+Haemolysis,fluvoxamine,1,31,0.03225806451612903
+Haemolytic anaemia,fluvoxamine,2,104,0.019230769230769232
+Haemorrhage intracranial,fluvoxamine,2,321,0.006230529595015576
+Haemorrhage subcutaneous,fluvoxamine,2,52,0.038461538461538464
+Hair growth abnormal,fluvoxamine,2,62,0.03225806451612903
+Hallucination,fluvoxamine,10,2187,0.004572473708276178
+"Hallucination, auditory",fluvoxamine,2,680,0.0029411764705882353
+"Hallucination, visual",fluvoxamine,2,821,0.00243605359317905
+Hangover,fluvoxamine,1,130,0.007692307692307693
+Head discomfort,fluvoxamine,1,268,0.0037313432835820895
+Head titubation,fluvoxamine,1,29,0.034482758620689655
+Headache,fluvoxamine,37,9335,0.003963577932512051
+Heart rate abnormal,fluvoxamine,1,56,0.017857142857142856
+Heart rate increased,fluvoxamine,3,1002,0.0029940119760479044
+Heart rate irregular,fluvoxamine,1,205,0.004878048780487805
+Heart valve incompetence,fluvoxamine,1,40,0.025
+Heat stroke,fluvoxamine,12,113,0.10619469026548672
+Helicobacter infection,fluvoxamine,1,61,0.01639344262295082
+Hemiparesis,fluvoxamine,3,174,0.017241379310344827
+Hepatic congestion,fluvoxamine,1,2,0.5
+Hepatic cytolysis,fluvoxamine,7,409,0.017114914425427872
+Hepatic enzyme increased,fluvoxamine,8,1240,0.0064516129032258064
+Hepatic failure,fluvoxamine,2,309,0.006472491909385114
+Hepatic function abnormal,fluvoxamine,9,535,0.016822429906542057
+Hepatic steatosis,fluvoxamine,1,276,0.0036231884057971015
+Hepatitis,fluvoxamine,1,465,0.002150537634408602
+Hepatitis C,fluvoxamine,1,104,0.009615384615384616
+Hepatorenal syndrome,fluvoxamine,2,7,0.2857142857142857
+Hernia,fluvoxamine,3,312,0.009615384615384616
+Herpes virus infection,fluvoxamine,1,77,0.012987012987012988
+Herpes zoster,fluvoxamine,4,1094,0.003656307129798903
+Hiccups,fluvoxamine,5,151,0.033112582781456956
+Hip arthroplasty,fluvoxamine,1,288,0.003472222222222222
+Hip deformity,fluvoxamine,1,3,0.3333333333333333
+Histrionic personality disorder,fluvoxamine,1,2,0.5
+Homicide,fluvoxamine,2,47,0.0425531914893617
+Hospice care,fluvoxamine,1,543,0.001841620626151013
+Hospitalisation,fluvoxamine,18,3411,0.005277044854881266
+Hot flush,fluvoxamine,1,868,0.001152073732718894
+Human herpesvirus 6 encephalitis,fluvoxamine,2,2,1.0
+Humerus fracture,fluvoxamine,2,62,0.03225806451612903
+Hunger,fluvoxamine,4,297,0.013468013468013467
+Huntington's disease,fluvoxamine,4,18,0.2222222222222222
+Hydronephrosis,fluvoxamine,1,52,0.019230769230769232
+Hyperaemia,fluvoxamine,1,5,0.2
+Hyperaesthesia,fluvoxamine,1,90,0.011111111111111112
+Hypercalcaemia,fluvoxamine,1,168,0.005952380952380952
+Hypercreatinaemia,fluvoxamine,1,4,0.25
+Hyperglycaemic hyperosmolar nonketotic syndrome,fluvoxamine,4,22,0.18181818181818182
+Hyperhidrosis,fluvoxamine,11,2295,0.004793028322440087
+Hyperlactacidaemia,fluvoxamine,1,48,0.020833333333333332
+Hyperlipidaemia,fluvoxamine,2,68,0.029411764705882353
+Hyperphagia,fluvoxamine,1,76,0.013157894736842105
+Hyperphosphataemia,fluvoxamine,1,18,0.05555555555555555
+Hyperprolactinaemia,fluvoxamine,2,301,0.006644518272425249
+Hypersensitivity,fluvoxamine,12,3106,0.0038634900193174502
+Hypertension,fluvoxamine,13,3093,0.004203039120594891
+Hypertensive crisis,fluvoxamine,7,244,0.028688524590163935
+Hypertensive emergency,fluvoxamine,1,46,0.021739130434782608
+Hyperthermia,fluvoxamine,6,208,0.028846153846153848
+Hyperthyroidism,fluvoxamine,3,203,0.014778325123152709
+Hypertonia,fluvoxamine,1,58,0.017241379310344827
+Hypnagogic hallucination,fluvoxamine,2,29,0.06896551724137931
+Hypoacusis,fluvoxamine,1,484,0.002066115702479339
+Hypoaesthesia,fluvoxamine,6,1667,0.003599280143971206
+Hypogammaglobulinaemia,fluvoxamine,1,81,0.012345679012345678
+Hypoglycaemia,fluvoxamine,3,985,0.003045685279187817
+Hypokalaemia,fluvoxamine,6,935,0.006417112299465241
+Hypokinesia,fluvoxamine,1,182,0.005494505494505495
+Hyponatraemia,fluvoxamine,20,3180,0.006289308176100629
+Hyponatraemic syndrome,fluvoxamine,1,39,0.02564102564102564
+Hypophagia,fluvoxamine,1,161,0.006211180124223602
+Hypophosphataemia,fluvoxamine,1,101,0.009900990099009901
+Hypotension,fluvoxamine,27,2910,0.009278350515463918
+Hypotensive crisis,fluvoxamine,1,3,0.3333333333333333
+Hypothermia,fluvoxamine,1,231,0.004329004329004329
+Hypothyroidism,fluvoxamine,1,624,0.0016025641025641025
+Hypoxia,fluvoxamine,2,424,0.0047169811320754715
+Hypoxic-ischaemic encephalopathy,fluvoxamine,1,30,0.03333333333333333
+Hysterectomy,fluvoxamine,2,272,0.007352941176470588
+Iatrogenic injury,fluvoxamine,2,9,0.2222222222222222
+Ill-defined disorder,fluvoxamine,6,464,0.01293103448275862
+Illness,fluvoxamine,1,1457,0.0006863417982155113
+Immune reconstitution inflammatory syndrome,fluvoxamine,2,212,0.009433962264150943
+Immunodeficiency,fluvoxamine,1,161,0.006211180124223602
+Impaired gastric emptying,fluvoxamine,9,246,0.036585365853658534
+Impaired quality of life,fluvoxamine,1,399,0.002506265664160401
+Imperception,fluvoxamine,1,1,1.0
+Impulsive behaviour,fluvoxamine,3,94,0.031914893617021274
+Inappropriate affect,fluvoxamine,1,155,0.0064516129032258064
+Inappropriate antidiuretic hormone secretion,fluvoxamine,9,780,0.011538461538461539
+Inappropriate schedule of drug administration,fluvoxamine,2,826,0.002421307506053269
+Inappropriate schedule of product administration,fluvoxamine,7,1683,0.0041592394533571005
+Incoherent,fluvoxamine,2,51,0.0392156862745098
+Incorrect dose administered,fluvoxamine,8,1601,0.004996876951905059
+Incorrect drug administration duration,fluvoxamine,1,116,0.008620689655172414
+Incorrect route of drug administration,fluvoxamine,2,137,0.014598540145985401
+Increased appetite,fluvoxamine,3,361,0.008310249307479225
+Increased tendency to bruise,fluvoxamine,1,100,0.01
+Infected bite,fluvoxamine,2,30,0.06666666666666667
+Infected skin ulcer,fluvoxamine,1,40,0.025
+Infection,fluvoxamine,7,1847,0.003789929615592853
+Inflammation,fluvoxamine,1,303,0.0033003300330033004
+Inflammatory bowel disease,fluvoxamine,1,52,0.019230769230769232
+Influenza,fluvoxamine,1,1753,0.0005704506560182544
+Influenza like illness,fluvoxamine,1,981,0.0010193679918450561
+Infusion site erythema,fluvoxamine,3,166,0.018072289156626505
+Infusion site nodule,fluvoxamine,1,24,0.041666666666666664
+Infusion site pain,fluvoxamine,2,191,0.010471204188481676
+Infusion site papule,fluvoxamine,1,1,1.0
+Infusion site pruritus,fluvoxamine,1,89,0.011235955056179775
+Infusion site swelling,fluvoxamine,1,125,0.008
+Inguinal hernia,fluvoxamine,1,50,0.02
+Inhibitory drug interaction,fluvoxamine,2,79,0.02531645569620253
+Initial insomnia,fluvoxamine,1,251,0.00398406374501992
+Injection site abscess,fluvoxamine,1,59,0.01694915254237288
+Injection site bruising,fluvoxamine,5,752,0.006648936170212766
+Injection site discolouration,fluvoxamine,2,88,0.022727272727272728
+Injection site discomfort,fluvoxamine,1,59,0.01694915254237288
+Injection site erythema,fluvoxamine,4,998,0.004008016032064128
+Injection site haemorrhage,fluvoxamine,2,326,0.006134969325153374
+Injection site mass,fluvoxamine,2,297,0.006734006734006734
+Injection site oedema,fluvoxamine,1,11,0.09090909090909091
+Injection site pain,fluvoxamine,4,1724,0.002320185614849188
+Injection site reaction,fluvoxamine,1,487,0.002053388090349076
+Injection site swelling,fluvoxamine,3,226,0.01327433628318584
+Injury,fluvoxamine,1,253,0.003952569169960474
+Insomnia,fluvoxamine,19,3870,0.0049095607235142115
+Intentional dose omission,fluvoxamine,2,378,0.005291005291005291
+Intentional overdose,fluvoxamine,53,4185,0.012664277180406212
+Intentional product misuse,fluvoxamine,11,2138,0.005144995322731525
+Intentional product use issue,fluvoxamine,15,2102,0.007136060894386299
+Intentional self-injury,fluvoxamine,11,921,0.011943539630836048
+International normalised ratio abnormal,fluvoxamine,1,36,0.027777777777777776
+International normalised ratio fluctuation,fluvoxamine,1,28,0.03571428571428571
+Interstitial lung disease,fluvoxamine,6,976,0.006147540983606557
+Intervertebral disc degeneration,fluvoxamine,2,129,0.015503875968992248
+Intervertebral disc protrusion,fluvoxamine,5,395,0.012658227848101266
+Intestinal obstruction,fluvoxamine,2,651,0.0030721966205837174
+Intestinal perforation,fluvoxamine,2,105,0.01904761904761905
+Intestinal pseudo-obstruction,fluvoxamine,2,59,0.03389830508474576
+Intracranial pressure increased,fluvoxamine,6,134,0.04477611940298507
+Irritability,fluvoxamine,6,601,0.009983361064891847
+Irritable bowel syndrome,fluvoxamine,1,237,0.004219409282700422
+Ischaemia,fluvoxamine,1,26,0.038461538461538464
+Joint dislocation,fluvoxamine,2,131,0.015267175572519083
+Joint injury,fluvoxamine,2,239,0.008368200836820083
+Joint range of motion decreased,fluvoxamine,1,65,0.015384615384615385
+Joint swelling,fluvoxamine,4,879,0.004550625711035267
+Keratoconus,fluvoxamine,1,6,0.16666666666666666
+Kidney infection,fluvoxamine,3,416,0.007211538461538462
+Labelled drug-drug interaction medication error,fluvoxamine,6,245,0.024489795918367346
+Laboratory test abnormal,fluvoxamine,1,432,0.0023148148148148147
+Large intestinal obstruction,fluvoxamine,1,28,0.03571428571428571
+Laryngitis,fluvoxamine,1,189,0.005291005291005291
+Latent autoimmune diabetes in adults,fluvoxamine,1,4,0.25
+Lethargy,fluvoxamine,1,435,0.0022988505747126436
+Leukopenia,fluvoxamine,2,733,0.002728512960436562
+Libido decreased,fluvoxamine,7,197,0.03553299492385787
+Lichen planus,fluvoxamine,2,47,0.0425531914893617
+Limb discomfort,fluvoxamine,2,310,0.0064516129032258064
+Lip and/or oral cavity cancer,fluvoxamine,2,11,0.18181818181818182
+Lip disorder,fluvoxamine,2,29,0.06896551724137931
+Lip haematoma,fluvoxamine,1,1,1.0
+Lip swelling,fluvoxamine,1,493,0.002028397565922921
+Lipids abnormal,fluvoxamine,1,7,0.14285714285714285
+Lipids increased,fluvoxamine,1,26,0.038461538461538464
+Lipoma,fluvoxamine,2,56,0.03571428571428571
+Liver disorder,fluvoxamine,4,497,0.008048289738430584
+Liver function test abnormal,fluvoxamine,2,436,0.0045871559633027525
+Liver injury,fluvoxamine,2,331,0.006042296072507553
+Living in residential institution,fluvoxamine,2,47,0.0425531914893617
+Localised infection,fluvoxamine,1,377,0.002652519893899204
+Long QT syndrome,fluvoxamine,1,203,0.0049261083743842365
+Loss of consciousness,fluvoxamine,19,1674,0.011350059737156512
+Loss of libido,fluvoxamine,7,195,0.035897435897435895
+Loss of personal independence in daily activities,fluvoxamine,1,855,0.0011695906432748538
+Low density lipoprotein decreased,fluvoxamine,1,5,0.2
+Lower gastrointestinal haemorrhage,fluvoxamine,2,298,0.006711409395973154
+Lower respiratory tract infection,fluvoxamine,1,609,0.0016420361247947454
+Lumbar vertebral fracture,fluvoxamine,1,62,0.016129032258064516
+Lung disorder,fluvoxamine,1,498,0.002008032128514056
+Lung neoplasm malignant,fluvoxamine,1,394,0.0025380710659898475
+Lymphadenopathy,fluvoxamine,1,253,0.003952569169960474
+Lymphoma,fluvoxamine,2,101,0.019801980198019802
+Major depression,fluvoxamine,9,512,0.017578125
+Malaise,fluvoxamine,11,4500,0.0024444444444444444
+Malignant catatonia,fluvoxamine,2,28,0.07142857142857142
+Malignant melanoma,fluvoxamine,2,294,0.006802721088435374
+Malignant neoplasm progression,fluvoxamine,1,639,0.001564945226917058
+Malocclusion,fluvoxamine,5,20,0.25
+Malpositioned teeth,fluvoxamine,2,5,0.4
+Mammoplasty,fluvoxamine,1,14,0.07142857142857142
+Mania,fluvoxamine,26,818,0.03178484107579462
+Mast cell activation syndrome,fluvoxamine,1,36,0.027777777777777776
+Mastication disorder,fluvoxamine,1,14,0.07142857142857142
+Maternal exposure during breast feeding,fluvoxamine,1,86,0.011627906976744186
+Maternal exposure during pregnancy,fluvoxamine,12,2214,0.005420054200542005
+Medial tibial stress syndrome,fluvoxamine,1,1,1.0
+Medication error,fluvoxamine,7,841,0.008323424494649227
+Meige's syndrome,fluvoxamine,3,16,0.1875
+Melanocytic naevus,fluvoxamine,1,50,0.02
+Memory impairment,fluvoxamine,3,1777,0.0016882386043894203
+Menorrhagia,fluvoxamine,1,183,0.00546448087431694
+Menstruation irregular,fluvoxamine,1,125,0.008
+Mental disorder,fluvoxamine,14,640,0.021875
+Mental impairment,fluvoxamine,2,271,0.007380073800738007
+Mental status changes,fluvoxamine,2,404,0.0049504950495049506
+Metabolic acidosis,fluvoxamine,9,336,0.026785714285714284
+Metastases to bone,fluvoxamine,1,45,0.022222222222222223
+Metastasis,fluvoxamine,1,17,0.058823529411764705
+Metastatic neoplasm,fluvoxamine,1,23,0.043478260869565216
+Metrorrhagia,fluvoxamine,3,83,0.03614457831325301
+Micturition urgency,fluvoxamine,1,170,0.0058823529411764705
+Middle insomnia,fluvoxamine,3,343,0.008746355685131196
+Migraine,fluvoxamine,2,2083,0.0009601536245799327
+Mood altered,fluvoxamine,2,269,0.007434944237918215
+Mood swings,fluvoxamine,1,278,0.0035971223021582736
+Motor developmental delay,fluvoxamine,4,9,0.4444444444444444
+Mouth ulceration,fluvoxamine,2,287,0.006968641114982578
+Movement disorder,fluvoxamine,1,278,0.0035971223021582736
+Mucosal membrane hyperplasia,fluvoxamine,1,1,1.0
+Multi-organ disorder,fluvoxamine,1,3,0.3333333333333333
+Multiple fractures,fluvoxamine,1,62,0.016129032258064516
+Multiple organ dysfunction syndrome,fluvoxamine,2,194,0.010309278350515464
+Multiple sclerosis,fluvoxamine,8,758,0.010554089709762533
+Multiple sclerosis relapse,fluvoxamine,2,1334,0.0014992503748125937
+Muscle disorder,fluvoxamine,2,40,0.05
+Muscle spasms,fluvoxamine,5,1744,0.0028669724770642203
+Muscle twitching,fluvoxamine,1,426,0.002347417840375587
+Muscular weakness,fluvoxamine,5,715,0.006993006993006993
+Musculoskeletal disorder,fluvoxamine,1,160,0.00625
+Musculoskeletal pain,fluvoxamine,1,215,0.004651162790697674
+Musculoskeletal stiffness,fluvoxamine,4,730,0.005479452054794521
+Myalgia,fluvoxamine,3,967,0.0031023784901758012
+Mycobacterium tuberculosis complex test positive,fluvoxamine,1,32,0.03125
+Mydriasis,fluvoxamine,5,270,0.018518518518518517
+Myocardial infarction,fluvoxamine,4,1488,0.002688172043010753
+Myocarditis,fluvoxamine,1,145,0.006896551724137931
+Myoglobin urine present,fluvoxamine,8,53,0.1509433962264151
+Narcolepsy,fluvoxamine,1,88,0.011363636363636364
+Nasal congestion,fluvoxamine,2,452,0.004424778761061947
+Nasal discomfort,fluvoxamine,1,50,0.02
+Nasal polyps,fluvoxamine,1,33,0.030303030303030304
+Nasal septum deviation,fluvoxamine,1,39,0.02564102564102564
+Nasopharyngitis,fluvoxamine,8,2101,0.0038077106139933364
+Nausea,fluvoxamine,21,7027,0.002988473032588587
+Neck pain,fluvoxamine,8,386,0.02072538860103627
+Needle issue,fluvoxamine,1,152,0.006578947368421052
+Neonatal behavioural syndrome,fluvoxamine,1,15,0.06666666666666667
+Neoplasm malignant,fluvoxamine,1,522,0.0019157088122605363
+Neoplasm progression,fluvoxamine,1,328,0.003048780487804878
+Nephrolithiasis,fluvoxamine,2,1345,0.001486988847583643
+Nerve compression,fluvoxamine,2,108,0.018518518518518517
+Neurodermatitis,fluvoxamine,1,26,0.038461538461538464
+Neurogenic bladder,fluvoxamine,4,32,0.125
+Neuroleptic malignant syndrome,fluvoxamine,26,876,0.02968036529680365
+Neuroleptic-induced deficit syndrome,fluvoxamine,3,3,1.0
+Neuromyopathy,fluvoxamine,1,16,0.0625
+Neutropenia,fluvoxamine,18,1557,0.011560693641618497
+Neutrophil count decreased,fluvoxamine,4,424,0.009433962264150943
+Neutrophil count increased,fluvoxamine,1,48,0.020833333333333332
+Neutrophil percentage decreased,fluvoxamine,1,1,1.0
+Neutrophilia,fluvoxamine,1,39,0.02564102564102564
+Night sweats,fluvoxamine,2,458,0.004366812227074236
+Nightmare,fluvoxamine,2,1096,0.0018248175182481751
+No adverse event,fluvoxamine,10,1892,0.005285412262156448
+Nodule,fluvoxamine,1,101,0.009900990099009901
+Noninfective encephalitis,fluvoxamine,2,9,0.2222222222222222
+Obesity,fluvoxamine,11,317,0.03470031545741325
+Obsessive-compulsive disorder,fluvoxamine,12,192,0.0625
+Obstructive sleep apnoea syndrome,fluvoxamine,2,126,0.015873015873015872
+Ocular discomfort,fluvoxamine,2,137,0.014598540145985401
+Oculogyric crisis,fluvoxamine,1,85,0.011764705882352941
+Oedema peripheral,fluvoxamine,5,886,0.0056433408577878106
+Oesophageal carcinoma,fluvoxamine,1,73,0.0136986301369863
+Oestradiol increased,fluvoxamine,1,5,0.2
+Off label use,fluvoxamine,100,10509,0.009515653249595584
+Ophthalmic migraine,fluvoxamine,1,2,0.5
+Ophthalmoplegia,fluvoxamine,1,4,0.25
+Oral pain,fluvoxamine,1,189,0.005291005291005291
+Orgasmic sensation decreased,fluvoxamine,1,44,0.022727272727272728
+Oropharyngeal pain,fluvoxamine,4,565,0.007079646017699115
+Orthostatic hypotension,fluvoxamine,15,820,0.018292682926829267
+Oscillopsia,fluvoxamine,14,18,0.7777777777777778
+Osteoarthritis,fluvoxamine,1,496,0.0020161290322580645
+Osteonecrosis of jaw,fluvoxamine,1,260,0.0038461538461538464
+Ovarian cancer,fluvoxamine,1,49,0.02040816326530612
+Overdose,fluvoxamine,31,4348,0.007129714811407544
+PCO2 decreased,fluvoxamine,1,1,1.0
+PO2 decreased,fluvoxamine,1,4,0.25
+Paediatric acute-onset neuropsychiatric syndrome,fluvoxamine,1,6,0.16666666666666666
+Pain,fluvoxamine,7,4732,0.0014792899408284023
+Pain in extremity,fluvoxamine,5,1731,0.0028885037550548816
+Palpitations,fluvoxamine,4,846,0.004728132387706856
+Pancreatic carcinoma metastatic,fluvoxamine,1,56,0.017857142857142856
+Pancreatitis,fluvoxamine,1,824,0.0012135922330097086
+Pancreatitis acute,fluvoxamine,2,638,0.003134796238244514
+Pancytopenia,fluvoxamine,1,625,0.0016
+Panic attack,fluvoxamine,3,504,0.005952380952380952
+Panic reaction,fluvoxamine,2,70,0.02857142857142857
+Papilloedema,fluvoxamine,1,61,0.01639344262295082
+Paraesthesia,fluvoxamine,2,1119,0.0017873100983020554
+Paralysis,fluvoxamine,1,126,0.007936507936507936
+Paranoia,fluvoxamine,2,289,0.006920415224913495
+Parkinson's disease,fluvoxamine,2,552,0.0036231884057971015
+Parkinsonism,fluvoxamine,1,669,0.0014947683109118087
+Parvovirus infection,fluvoxamine,1,4,0.25
+Pelvic pain,fluvoxamine,1,59,0.01694915254237288
+Pericardial effusion,fluvoxamine,1,206,0.0048543689320388345
+Pericarditis,fluvoxamine,1,156,0.00641025641025641
+Periorbital oedema,fluvoxamine,7,64,0.109375
+Peripheral ischaemia,fluvoxamine,2,40,0.05
+Peripheral swelling,fluvoxamine,3,1303,0.0023023791250959325
+Peritonitis,fluvoxamine,1,59,0.01694915254237288
+Peritonsillar abscess,fluvoxamine,1,14,0.07142857142857142
+Persecutory delusion,fluvoxamine,1,50,0.02
+Personality change,fluvoxamine,2,74,0.02702702702702703
+Petit mal epilepsy,fluvoxamine,1,96,0.010416666666666666
+Phobia,fluvoxamine,1,7,0.14285714285714285
+Photophobia,fluvoxamine,1,117,0.008547008547008548
+Photopsia,fluvoxamine,2,70,0.02857142857142857
+Plasma cell myeloma,fluvoxamine,1,583,0.0017152658662092624
+Platelet count decreased,fluvoxamine,3,683,0.004392386530014641
+Pleural effusion,fluvoxamine,2,361,0.00554016620498615
+Pleural mesothelioma malignant,fluvoxamine,1,2,0.5
+Pneumonia,fluvoxamine,12,4909,0.002444489712772459
+Pneumonia aspiration,fluvoxamine,2,585,0.003418803418803419
+Pneumonitis,fluvoxamine,3,362,0.008287292817679558
+Poisoning,fluvoxamine,2,315,0.006349206349206349
+Poisoning deliberate,fluvoxamine,5,640,0.0078125
+Pollakiuria,fluvoxamine,1,382,0.002617801047120419
+Polymenorrhoea,fluvoxamine,1,18,0.05555555555555555
+Polymyalgia rheumatica,fluvoxamine,1,28,0.03571428571428571
+Poor quality product administered,fluvoxamine,1,70,0.014285714285714285
+Poor quality sleep,fluvoxamine,3,276,0.010869565217391304
+Post lumbar puncture syndrome,fluvoxamine,1,29,0.034482758620689655
+Post-injection delirium sedation syndrome,fluvoxamine,1,12,0.08333333333333333
+Posterior reversible encephalopathy syndrome,fluvoxamine,4,187,0.0213903743315508
+Postmenopausal haemorrhage,fluvoxamine,1,85,0.011764705882352941
+Postmortem blood drug level increased,fluvoxamine,2,41,0.04878048780487805
+Potentiating drug interaction,fluvoxamine,2,136,0.014705882352941176
+Pouchitis,fluvoxamine,1,7,0.14285714285714285
+Pre-existing condition improved,fluvoxamine,9,978,0.009202453987730062
+Pregnancy,fluvoxamine,3,210,0.014285714285714285
+Prerenal failure,fluvoxamine,1,9,0.1111111111111111
+Prescribed overdose,fluvoxamine,2,604,0.0033112582781456954
+Prescribed underdose,fluvoxamine,1,224,0.004464285714285714
+Presyncope,fluvoxamine,1,248,0.004032258064516129
+Priapism,fluvoxamine,4,558,0.007168458781362007
+Procedural pain,fluvoxamine,1,131,0.007633587786259542
+Product administration interrupted,fluvoxamine,1,606,0.0016501650165016502
+Product appearance confusion,fluvoxamine,1,22,0.045454545454545456
+Product availability issue,fluvoxamine,3,253,0.011857707509881422
+Product dispensing error,fluvoxamine,4,310,0.012903225806451613
+Product dose omission,fluvoxamine,3,1203,0.0024937655860349127
+Product dose omission in error,fluvoxamine,1,350,0.002857142857142857
+Product dose omission issue,fluvoxamine,8,3685,0.002170963364993216
+Product formulation issue,fluvoxamine,1,40,0.025
+Product name confusion,fluvoxamine,1,19,0.05263157894736842
+Product odour abnormal,fluvoxamine,1,217,0.004608294930875576
+Product packaging issue,fluvoxamine,1,21,0.047619047619047616
+Product preparation error,fluvoxamine,1,105,0.009523809523809525
+Product prescribing issue,fluvoxamine,5,120,0.041666666666666664
+Product quality issue,fluvoxamine,1,336,0.002976190476190476
+Product substitution issue,fluvoxamine,4,594,0.006734006734006734
+Product taste abnormal,fluvoxamine,3,88,0.03409090909090909
+Product use in unapproved indication,fluvoxamine,23,3366,0.006833036244800951
+Product use issue,fluvoxamine,10,1363,0.007336757153338224
+Progressive multifocal leukoencephalopathy,fluvoxamine,1,162,0.006172839506172839
+Prostate cancer,fluvoxamine,1,187,0.0053475935828877
+Prostatomegaly,fluvoxamine,2,32,0.0625
+Pruritus,fluvoxamine,10,3036,0.0032938076416337285
+Pseudomonal bacteraemia,fluvoxamine,1,8,0.125
+Psoriasis,fluvoxamine,9,2000,0.0045
+Psoriatic arthropathy,fluvoxamine,5,805,0.006211180124223602
+Psychiatric decompensation,fluvoxamine,3,180,0.016666666666666666
+Psychiatric symptom,fluvoxamine,1,73,0.0136986301369863
+Psychomotor hyperactivity,fluvoxamine,4,220,0.01818181818181818
+Psychomotor skills impaired,fluvoxamine,9,87,0.10344827586206896
+Psychotic behaviour,fluvoxamine,1,8,0.125
+Psychotic disorder,fluvoxamine,5,821,0.0060901339829476245
+Pulmonary cavitation,fluvoxamine,3,9,0.3333333333333333
+Pulmonary embolism,fluvoxamine,27,1570,0.017197452229299363
+Pulmonary oedema,fluvoxamine,12,286,0.04195804195804196
+Pulmonary thrombosis,fluvoxamine,1,171,0.005847953216374269
+Pulmonary toxicity,fluvoxamine,1,40,0.025
+Pyrexia,fluvoxamine,5,1580,0.0031645569620253164
+Rash,fluvoxamine,10,3577,0.0027956388034665923
+Rash erythematous,fluvoxamine,1,287,0.003484320557491289
+Rash macular,fluvoxamine,1,253,0.003952569169960474
+Rash maculo-papular,fluvoxamine,1,200,0.005
+Rash pruritic,fluvoxamine,3,555,0.005405405405405406
+Raynaud's phenomenon,fluvoxamine,1,94,0.010638297872340425
+Reaction to excipient,fluvoxamine,1,21,0.047619047619047616
+Rectal haemorrhage,fluvoxamine,2,462,0.004329004329004329
+Remission not achieved,fluvoxamine,1,10,0.1
+Renal abscess,fluvoxamine,1,4,0.25
+Renal failure,fluvoxamine,5,1170,0.004273504273504274
+Renal impairment,fluvoxamine,8,615,0.013008130081300813
+Renal injury,fluvoxamine,3,147,0.02040816326530612
+Respiratory arrest,fluvoxamine,2,152,0.013157894736842105
+Respiratory depression,fluvoxamine,2,626,0.003194888178913738
+Respiratory failure,fluvoxamine,1,456,0.0021929824561403508
+Respiratory fatigue,fluvoxamine,6,6,1.0
+Restless legs syndrome,fluvoxamine,2,620,0.0032258064516129032
+Restlessness,fluvoxamine,2,412,0.0048543689320388345
+Retching,fluvoxamine,1,141,0.0070921985815602835
+Retinal pigmentation,fluvoxamine,3,103,0.02912621359223301
+Retinal vein occlusion,fluvoxamine,1,52,0.019230769230769232
+Reversible cerebral vasoconstriction syndrome,fluvoxamine,1,501,0.001996007984031936
+Rhabdomyolysis,fluvoxamine,16,561,0.0285204991087344
+Rheumatoid arthritis,fluvoxamine,1,957,0.0010449320794148381
+Rhinorrhoea,fluvoxamine,1,295,0.003389830508474576
+Root canal infection,fluvoxamine,1,12,0.08333333333333333
+Rubber sensitivity,fluvoxamine,1,23,0.043478260869565216
+SARS-CoV-2 test positive,fluvoxamine,2,282,0.0070921985815602835
+Salivary hypersecretion,fluvoxamine,4,112,0.03571428571428571
+Schizoaffective disorder,fluvoxamine,2,27,0.07407407407407407
+Schizophrenia,fluvoxamine,18,242,0.0743801652892562
+Sciatica,fluvoxamine,2,118,0.01694915254237288
+Scleroderma,fluvoxamine,2,15,0.13333333333333333
+Secondary progressive multiple sclerosis,fluvoxamine,2,15,0.13333333333333333
+Sedation,fluvoxamine,13,1427,0.009110021023125438
+Sedation complication,fluvoxamine,1,324,0.0030864197530864196
+Seizure,fluvoxamine,9,2931,0.0030706243602865915
+Sepsis,fluvoxamine,1,901,0.0011098779134295228
+Septic shock,fluvoxamine,1,191,0.005235602094240838
+Serotonin syndrome,fluvoxamine,16,3465,0.004617604617604618
+Sexual dysfunction,fluvoxamine,10,430,0.023255813953488372
+Shock,fluvoxamine,1,98,0.01020408163265306
+Shock haemorrhagic,fluvoxamine,1,78,0.01282051282051282
+Shoulder arthroplasty,fluvoxamine,2,47,0.0425531914893617
+Sinus arrhythmia,fluvoxamine,1,11,0.09090909090909091
+Sinus bradycardia,fluvoxamine,1,132,0.007575757575757576
+Sinus operation,fluvoxamine,1,60,0.016666666666666666
+Sinusitis,fluvoxamine,5,1885,0.002652519893899204
+Sinusitis bacterial,fluvoxamine,1,15,0.06666666666666667
+Skin cancer,fluvoxamine,1,239,0.0041841004184100415
+Skin discolouration,fluvoxamine,1,205,0.004878048780487805
+Skin exfoliation,fluvoxamine,4,282,0.014184397163120567
+Skin infection,fluvoxamine,1,109,0.009174311926605505
+Skin reaction,fluvoxamine,4,85,0.047058823529411764
+Sleep apnoea syndrome,fluvoxamine,7,1070,0.0065420560747663555
+Sleep disorder,fluvoxamine,1,770,0.0012987012987012987
+Sleep paralysis,fluvoxamine,1,54,0.018518518518518517
+Sleep-related eating disorder,fluvoxamine,1,86,0.011627906976744186
+Small intestinal obstruction,fluvoxamine,1,219,0.0045662100456621
+Sneezing,fluvoxamine,1,63,0.015873015873015872
+Snoring,fluvoxamine,1,60,0.016666666666666666
+Social problem,fluvoxamine,1,12,0.08333333333333333
+Somnolence,fluvoxamine,19,2728,0.006964809384164223
+Sopor,fluvoxamine,13,761,0.017082785808147174
+Speech disorder,fluvoxamine,2,352,0.005681818181818182
+Spinal compression fracture,fluvoxamine,2,65,0.03076923076923077
+Spinal decompression,fluvoxamine,1,9,0.1111111111111111
+Spinal operation,fluvoxamine,2,326,0.006134969325153374
+Spinal osteoarthritis,fluvoxamine,1,54,0.018518518518518517
+Status epilepticus,fluvoxamine,1,243,0.00411522633744856
+Stoma site abscess,fluvoxamine,1,10,0.1
+Stress,fluvoxamine,2,534,0.003745318352059925
+Stress cardiomyopathy,fluvoxamine,1,196,0.00510204081632653
+Substance abuse,fluvoxamine,2,340,0.0058823529411764705
+Sudden death,fluvoxamine,2,355,0.005633802816901409
+Sudden hearing loss,fluvoxamine,1,25,0.04
+Suicidal ideation,fluvoxamine,16,3174,0.005040957781978576
+Suicide attempt,fluvoxamine,20,2118,0.009442870632672332
+Sunburn,fluvoxamine,2,46,0.043478260869565216
+Surgery,fluvoxamine,7,1457,0.004804392587508579
+Suspected suicide,fluvoxamine,4,1377,0.002904865649963689
+Swelling,fluvoxamine,4,399,0.010025062656641603
+Swelling face,fluvoxamine,2,525,0.0038095238095238095
+Swollen tongue,fluvoxamine,3,633,0.004739336492890996
+Syncope,fluvoxamine,6,1048,0.0057251908396946565
+Systemic candida,fluvoxamine,1,12,0.08333333333333333
+Systemic lupus erythematosus,fluvoxamine,1,236,0.00423728813559322
+Tachycardia,fluvoxamine,5,693,0.007215007215007215
+Tardive dyskinesia,fluvoxamine,11,678,0.016224188790560472
+Taste disorder,fluvoxamine,2,202,0.009900990099009901
+Tendon pain,fluvoxamine,1,33,0.030303030303030304
+Terminal insomnia,fluvoxamine,2,47,0.0425531914893617
+Therapeutic product effect decreased,fluvoxamine,4,587,0.0068143100511073255
+Therapeutic product effect incomplete,fluvoxamine,7,1193,0.00586756077116513
+Therapeutic product effect variable,fluvoxamine,1,85,0.011764705882352941
+Therapeutic reaction time decreased,fluvoxamine,1,75,0.013333333333333334
+Therapeutic response decreased,fluvoxamine,6,454,0.013215859030837005
+Therapeutic response shortened,fluvoxamine,3,276,0.010869565217391304
+Therapeutic response unexpected,fluvoxamine,2,411,0.004866180048661801
+Therapy cessation,fluvoxamine,4,372,0.010752688172043012
+Therapy change,fluvoxamine,4,77,0.05194805194805195
+Therapy interrupted,fluvoxamine,3,665,0.004511278195488722
+Therapy non-responder,fluvoxamine,11,1063,0.010348071495766699
+Therapy partial responder,fluvoxamine,2,148,0.013513513513513514
+Thrombosis,fluvoxamine,1,825,0.0012121212121212121
+Tinnitus,fluvoxamine,4,718,0.005571030640668524
+Tongue disorder,fluvoxamine,1,52,0.019230769230769232
+Tonic clonic movements,fluvoxamine,2,37,0.05405405405405406
+Tooth disorder,fluvoxamine,4,283,0.014134275618374558
+Tooth infection,fluvoxamine,1,171,0.005847953216374269
+Toxic encephalopathy,fluvoxamine,7,80,0.0875
+Toxicity to various agents,fluvoxamine,33,6972,0.004733218588640275
+Transaminases increased,fluvoxamine,1,199,0.005025125628140704
+Transient ischaemic attack,fluvoxamine,2,367,0.005449591280653951
+Treatment failure,fluvoxamine,4,1390,0.0028776978417266188
+Treatment noncompliance,fluvoxamine,2,465,0.004301075268817204
+Tremor,fluvoxamine,12,1680,0.007142857142857143
+Tricuspid valve incompetence,fluvoxamine,1,35,0.02857142857142857
+Troponin increased,fluvoxamine,4,66,0.06060606060606061
+Ulcer haemorrhage,fluvoxamine,1,66,0.015151515151515152
+Unevaluable event,fluvoxamine,7,706,0.009915014164305949
+Upper limb fracture,fluvoxamine,1,177,0.005649717514124294
+Upper respiratory tract infection,fluvoxamine,3,642,0.004672897196261682
+Urinary hesitation,fluvoxamine,2,235,0.00851063829787234
+Urinary incontinence,fluvoxamine,1,347,0.002881844380403458
+Urinary incontinence surgery,fluvoxamine,1,1,1.0
+Urinary retention,fluvoxamine,2,805,0.002484472049689441
+Urinary tract infection,fluvoxamine,4,2282,0.0017528483786152498
+Urticaria,fluvoxamine,3,1208,0.0024834437086092716
+Uterine prolapse,fluvoxamine,1,11,0.09090909090909091
+Vaginal haemorrhage,fluvoxamine,2,319,0.006269592476489028
+Varicella,fluvoxamine,1,12,0.08333333333333333
+Vasculitic rash,fluvoxamine,1,44,0.022727272727272728
+Vasoplegia syndrome,fluvoxamine,1,36,0.027777777777777776
+Venous thrombosis,fluvoxamine,1,43,0.023255813953488372
+Ventricular arrhythmia,fluvoxamine,1,56,0.017857142857142856
+Ventricular extrasystoles,fluvoxamine,1,116,0.008620689655172414
+Vertigo,fluvoxamine,2,484,0.004132231404958678
+Viral infection,fluvoxamine,1,227,0.004405286343612335
+Vision blurred,fluvoxamine,4,852,0.004694835680751174
+Visual impairment,fluvoxamine,1,588,0.0017006802721088435
+Vitreous floaters,fluvoxamine,1,54,0.018518518518518517
+Vomiting,fluvoxamine,22,2145,0.010256410256410256
+Weight decreased,fluvoxamine,7,1437,0.0048712595685455815
+Weight increased,fluvoxamine,21,2518,0.008339952343129467
+White blood cell count decreased,fluvoxamine,1,721,0.0013869625520110957
+White blood cell count increased,fluvoxamine,3,127,0.023622047244094488
+Withdrawal syndrome,fluvoxamine,3,889,0.003374578177727784
+Wound infection staphylococcal,fluvoxamine,2,13,0.15384615384615385
+Wrist fracture,fluvoxamine,1,144,0.006944444444444444
+Wrong technique in product usage process,fluvoxamine,3,758,0.00395778364116095
+Xanthopsia,fluvoxamine,2,5,0.4
+Xerophthalmia,fluvoxamine,1,14,0.07142857142857142

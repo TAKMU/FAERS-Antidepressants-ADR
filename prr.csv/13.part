@@ -1,0 +1,742 @@
+pt,prod_ai,no_reactions,total,prr
+5'nucleotidase increased,mianserin,9,9,1.0
+Abasia,mianserin,3,1659,0.0018083182640144665
+Abdominal discomfort,mianserin,3,14497,0.0002069393667655377
+Abdominal distension,mianserin,21,7202,0.002915856706470425
+Abdominal hernia,mianserin,3,550,0.005454545454545455
+Abdominal pain,mianserin,82,16090,0.00509633312616532
+Abdominal pain lower,mianserin,7,1175,0.005957446808510639
+Abdominal pain upper,mianserin,28,12523,0.0022358859698155395
+Abdominal wall haematoma,mianserin,1,140,0.007142857142857143
+Abnormal behaviour,mianserin,20,6284,0.003182686187141948
+Abnormal dreams,mianserin,56,4505,0.012430632630410655
+Abnormal sensation in eye,mianserin,1,184,0.005434782608695652
+Abortion spontaneous,mianserin,3,2003,0.0014977533699450823
+Accidental exposure to product,mianserin,2,1296,0.0015432098765432098
+Accidental overdose,mianserin,4,2453,0.0016306563391765185
+Accommodation disorder,mianserin,3,207,0.014492753623188406
+Acinetobacter infection,mianserin,17,33,0.5151515151515151
+Acquired haemophilia,mianserin,18,66,0.2727272727272727
+Activities of daily living impaired,mianserin,1,1625,0.0006153846153846154
+Acute coronary syndrome,mianserin,15,442,0.033936651583710405
+Acute generalised exanthematous pustulosis,mianserin,3,373,0.00804289544235925
+Acute graft versus host disease,mianserin,1,16,0.0625
+Acute graft versus host disease in skin,mianserin,1,18,0.05555555555555555
+Acute hepatic failure,mianserin,3,610,0.004918032786885246
+Acute kidney injury,mianserin,191,23399,0.008162741997521261
+Acute myeloid leukaemia,mianserin,5,286,0.017482517482517484
+Acute myocardial infarction,mianserin,4,1205,0.0033195020746887966
+Acute polyneuropathy,mianserin,1,19,0.05263157894736842
+Acute psychosis,mianserin,1,424,0.0023584905660377358
+Acute pulmonary oedema,mianserin,16,390,0.041025641025641026
+Acute respiratory distress syndrome,mianserin,11,922,0.01193058568329718
+Acute respiratory failure,mianserin,28,1222,0.022913256955810146
+Adenocarcinoma of colon,mianserin,2,88,0.022727272727272728
+Adjustment disorder with depressed mood,mianserin,1,222,0.0045045045045045045
+Adrenal insufficiency,mianserin,3,777,0.003861003861003861
+Adrenomegaly,mianserin,3,21,0.14285714285714285
+Adverse drug reaction,mianserin,9,4524,0.001989389920424403
+Adverse event,mianserin,5,3941,0.001268713524486171
+Affect lability,mianserin,1,6072,0.00016469038208168644
+Affective disorder,mianserin,1,1853,0.0005396654074473826
+Age-related macular degeneration,mianserin,1,169,0.005917159763313609
+Ageusia,mianserin,1,1179,0.0008481764206955047
+Aggression,mianserin,34,6601,0.005150734737161036
+Agitation,mianserin,37,12595,0.002937673680031759
+Agitation neonatal,mianserin,1,459,0.002178649237472767
+Agranulocytosis,mianserin,100,1009,0.09910802775024777
+Akathisia,mianserin,4,3096,0.0012919896640826874
+Akinesia,mianserin,2,318,0.006289308176100629
+Alanine aminotransferase increased,mianserin,14,2960,0.00472972972972973
+Alcohol abuse,mianserin,1,504,0.001984126984126984
+Alcohol interaction,mianserin,8,408,0.0196078431372549
+Alcoholism,mianserin,1,560,0.0017857142857142857
+Allergy test positive,mianserin,2,13,0.15384615384615385
+Alopecia,mianserin,7,13201,0.0005302628588743277
+Alopecia areata,mianserin,4,103,0.038834951456310676
+Altered state of consciousness,mianserin,73,2218,0.032912533814247066
+Alveolitis,mianserin,2,41,0.04878048780487805
+Amaurosis fugax,mianserin,3,53,0.05660377358490566
+Amenorrhoea,mianserin,2,610,0.003278688524590164
+Amnesia,mianserin,12,5868,0.002044989775051125
+Amputation,mianserin,2,23,0.08695652173913043
+Amyloid related imaging abnormality-oedema/effusion,mianserin,1,52,0.019230769230769232
+Anaemia,mianserin,89,8359,0.010647206603660725
+Anaemia macrocytic,mianserin,1,86,0.011627906976744186
+Anal fistula,mianserin,1,136,0.007352941176470588
+Anal haemorrhage,mianserin,1,108,0.009259259259259259
+Anaphylactic reaction,mianserin,1,2181,0.0004585052728106373
+Anaphylactic shock,mianserin,7,664,0.010542168674698794
+Anger,mianserin,1,3376,0.0002962085308056872
+Angina pectoris,mianserin,2,1254,0.001594896331738437
+Angiodysplasia,mianserin,1,9,0.1111111111111111
+Angioedema,mianserin,3,1702,0.0017626321974148062
+Ankle fracture,mianserin,1,1678,0.0005959475566150178
+Ankylosing spondylitis,mianserin,1,875,0.001142857142857143
+Anosognosia,mianserin,2,22,0.09090909090909091
+Anticoagulant therapy,mianserin,2,7,0.2857142857142857
+Antipsychotic drug level above therapeutic,mianserin,9,247,0.03643724696356275
+Anuria,mianserin,2,182,0.01098901098901099
+Anxiety,mianserin,28,30085,0.000930696360312448
+Aortic aneurysm rupture,mianserin,1,12,0.08333333333333333
+Aortic stenosis,mianserin,2,131,0.015267175572519083
+Aortic thrombosis,mianserin,1,30,0.03333333333333333
+Aortic valve replacement,mianserin,1,40,0.025
+Apathy,mianserin,4,1606,0.0024906600249066002
+Aphasia,mianserin,3,1874,0.0016008537886872999
+Aphthous ulcer,mianserin,2,481,0.004158004158004158
+Aplasia,mianserin,2,31,0.06451612903225806
+Aplastic anaemia,mianserin,4,119,0.03361344537815126
+Appetite disorder,mianserin,12,441,0.027210884353741496
+Apraxia,mianserin,5,118,0.0423728813559322
+Areflexia,mianserin,38,187,0.20320855614973263
+Arrhythmia,mianserin,15,2306,0.006504770164787511
+Arrhythmia supraventricular,mianserin,1,39,0.02564102564102564
+Arterial disorder,mianserin,3,48,0.0625
+Arthralgia,mianserin,14,19575,0.0007151979565772669
+Arthritis,mianserin,3,3709,0.0008088433540037746
+Arthritis bacterial,mianserin,1,116,0.008620689655172414
+Arthrodesis,mianserin,1,21,0.047619047619047616
+Ascites,mianserin,2,464,0.004310344827586207
+Aspergillus infection,mianserin,2,78,0.02564102564102564
+Asphyxia,mianserin,8,657,0.0121765601217656
+Aspiration,mianserin,9,901,0.009988901220865706
+Aspiration bronchial,mianserin,6,8,0.75
+Asthenia,mianserin,31,15885,0.0019515265974189486
+Asthma,mianserin,2,6690,0.00029895366218236175
+Ataxia,mianserin,2,606,0.0033003300330033004
+Atrial fibrillation,mianserin,15,3425,0.004379562043795621
+Atrioventricular block,mianserin,3,315,0.009523809523809525
+Atrioventricular block complete,mianserin,5,283,0.0176678445229682
+Atrioventricular block first degree,mianserin,1,341,0.002932551319648094
+Atypical mycobacterial pneumonia,mianserin,1,3,0.3333333333333333
+Aura,mianserin,2,85,0.023529411764705882
+Autism spectrum disorder,mianserin,8,254,0.031496062992125984
+Autoimmune haemolytic anaemia,mianserin,11,153,0.0718954248366013
+Autoimmune hepatitis,mianserin,3,252,0.011904761904761904
+Autoimmune lung disease,mianserin,1,2,0.5
+B-cell type acute leukaemia,mianserin,1,2,0.5
+Back pain,mianserin,16,8125,0.001969230769230769
+Bacterial test positive,mianserin,5,88,0.056818181818181816
+Balance disorder,mianserin,14,7162,0.001954761239877129
+Basal cell carcinoma,mianserin,1,619,0.0016155088852988692
+Basilar artery occlusion,mianserin,6,30,0.2
+Behaviour disorder,mianserin,17,309,0.05501618122977346
+Benign prostatic hyperplasia,mianserin,1,200,0.005
+Benign soft tissue neoplasm,mianserin,7,7,1.0
+Bezoar,mianserin,2,178,0.011235955056179775
+Bipolar I disorder,mianserin,1,263,0.0038022813688212928
+Bladder dilatation,mianserin,1,101,0.009900990099009901
+Bladder discomfort,mianserin,1,56,0.017857142857142856
+Bladder pain,mianserin,2,141,0.014184397163120567
+Blindness unilateral,mianserin,2,419,0.00477326968973747
+Blister,mianserin,3,1764,0.0017006802721088435
+Blood alkaline phosphatase increased,mianserin,23,336,0.06845238095238096
+Blood bilirubin increased,mianserin,2,482,0.004149377593360996
+Blood calcium increased,mianserin,1,173,0.005780346820809248
+Blood chloride decreased,mianserin,2,42,0.047619047619047616
+Blood creatine increased,mianserin,2,105,0.01904761904761905
+Blood creatine phosphokinase decreased,mianserin,1,9,0.1111111111111111
+Blood creatine phosphokinase increased,mianserin,25,1404,0.017806267806267807
+Blood creatinine increased,mianserin,6,1595,0.003761755485893417
+Blood glucose abnormal,mianserin,23,462,0.049783549783549784
+Blood glucose decreased,mianserin,2,923,0.0021668472372697724
+Blood glucose fluctuation,mianserin,34,299,0.11371237458193979
+Blood glucose increased,mianserin,13,2803,0.00463788797716732
+Blood lactic acid,mianserin,9,18,0.5
+Blood parathyroid hormone decreased,mianserin,6,24,0.25
+Blood potassium decreased,mianserin,4,916,0.004366812227074236
+Blood pressure decreased,mianserin,2,1841,0.0010863661053775121
+Blood pressure increased,mianserin,2,6102,0.00032776138970829236
+Blood pressure systolic decreased,mianserin,2,96,0.020833333333333332
+Blood prolactin increased,mianserin,1,483,0.002070393374741201
+Blood thyroid stimulating hormone decreased,mianserin,1,90,0.011111111111111112
+Blood thyroid stimulating hormone increased,mianserin,4,198,0.020202020202020204
+Body temperature increased,mianserin,1,665,0.0015037593984962407
+Bone marrow failure,mianserin,3,302,0.009933774834437087
+Bradycardia,mianserin,67,3517,0.019050326983224338
+Bradyphrenia,mianserin,1,920,0.0010869565217391304
+Bradypnoea,mianserin,20,267,0.0749063670411985
+Brain compression,mianserin,1,5,0.2
+Brain death,mianserin,30,205,0.14634146341463414
+Brain stem haemorrhage,mianserin,1,40,0.025
+Breast cancer,mianserin,1,1699,0.0005885815185403178
+Breast cancer metastatic,mianserin,1,190,0.005263157894736842
+Breast mass,mianserin,1,184,0.005434782608695652
+Bronchiolitis,mianserin,1,48,0.020833333333333332
+Bronchitis,mianserin,9,3621,0.0024855012427506215
+Bronchopulmonary aspergillosis,mianserin,1,103,0.009708737864077669
+Bulimia nervosa,mianserin,2,43,0.046511627906976744
+Bundle branch block right,mianserin,3,237,0.012658227848101266
+Burning sensation,mianserin,2,2609,0.0007665772326561902
+C-reactive protein increased,mianserin,8,516,0.015503875968992248
+COVID-19,mianserin,15,5340,0.0028089887640449437
+COVID-19 pneumonia,mianserin,1,424,0.0023584905660377358
+Calcium deficiency,mianserin,1,13,0.07692307692307693
+Camptocormia,mianserin,41,105,0.3904761904761905
+Candida infection,mianserin,2,589,0.003395585738539898
+Cardiac ablation,mianserin,1,49,0.02040816326530612
+Cardiac arrest,mianserin,11,4297,0.002559925529439144
+Cardiac failure,mianserin,26,1781,0.014598540145985401
+Cardiac failure acute,mianserin,1,163,0.006134969325153374
+Cardiac hypertrophy,mianserin,4,48,0.08333333333333333
+Cardio-respiratory arrest,mianserin,34,4099,0.008294706025859966
+Cardiogenic shock,mianserin,16,567,0.02821869488536155
+Cardiomegaly,mianserin,1,229,0.004366812227074236
+Cardiomyopathy,mianserin,4,272,0.014705882352941176
+Carpal tunnel syndrome,mianserin,1,619,0.0016155088852988692
+Catatonia,mianserin,4,583,0.00686106346483705
+Cell death,mianserin,3,110,0.02727272727272727
+Cellulitis,mianserin,9,1773,0.005076142131979695
+Central nervous system lymphoma,mianserin,1,29,0.034482758620689655
+Cephalhaematoma,mianserin,1,4,0.25
+Cerebellar haemorrhage,mianserin,1,64,0.015625
+Cerebellar syndrome,mianserin,5,134,0.03731343283582089
+Cerebral artery thrombosis,mianserin,7,24,0.2916666666666667
+Cerebral disorder,mianserin,4,450,0.008888888888888889
+Cerebral haematoma,mianserin,14,289,0.04844290657439446
+Cerebral haemorrhage,mianserin,36,1339,0.0268857356235997
+Cerebral infarction,mianserin,3,387,0.007751937984496124
+Cerebral ischaemia,mianserin,1,77,0.012987012987012988
+Cerebral venous thrombosis,mianserin,3,105,0.02857142857142857
+Cerebrovascular accident,mianserin,23,3539,0.0064990110200621645
+Chest discomfort,mianserin,2,2503,0.0007990411506192569
+Chest pain,mianserin,3,4011,0.0007479431563201197
+Chills,mianserin,1,2640,0.0003787878787878788
+Choking,mianserin,2,576,0.003472222222222222
+Cholangitis,mianserin,17,101,0.16831683168316833
+Cholecystectomy,mianserin,1,363,0.0027548209366391185
+Cholecystitis,mianserin,3,235,0.01276595744680851
+Cholestasis,mianserin,66,1091,0.06049495875343722
+Cholestatic liver injury,mianserin,4,103,0.038834951456310676
+Chondritis,mianserin,5,18,0.2777777777777778
+Chorea,mianserin,1,155,0.0064516129032258064
+Chronic kidney disease,mianserin,1,10392,9.622786759045419e-05
+Chronic lymphocytic leukaemia,mianserin,1,97,0.010309278350515464
+Circadian rhythm sleep disorder,mianserin,2,36,0.05555555555555555
+Circulatory collapse,mianserin,2,801,0.0024968789013732834
+Clonic convulsion,mianserin,1,55,0.01818181818181818
+Clonus,mianserin,1,360,0.002777777777777778
+Clostridium difficile colitis,mianserin,8,422,0.018957345971563982
+Clostridium difficile infection,mianserin,2,907,0.002205071664829107
+Coating in mouth,mianserin,1,14,0.07142857142857142
+Cognitive disorder,mianserin,17,2731,0.006224826071036251
+Colitis,mianserin,3,1183,0.00253592561284869
+Colitis ischaemic,mianserin,4,402,0.009950248756218905
+Colitis microscopic,mianserin,8,1063,0.007525870178739417
+Collagen disorder,mianserin,1,9,0.1111111111111111
+Colonic pseudo-obstruction,mianserin,1,22,0.045454545454545456
+Coma,mianserin,92,6481,0.014195340225273877
+Communication disorder,mianserin,3,121,0.024793388429752067
+Compartment syndrome,mianserin,2,118,0.01694915254237288
+Completed suicide,mianserin,24,18279,0.0013129821106187428
+Condition aggravated,mianserin,50,12103,0.004131207138725936
+Confusional state,mianserin,79,8039,0.009827092922005225
+Conjunctival hyperaemia,mianserin,1,41,0.024390243902439025
+Conjunctivitis,mianserin,1,550,0.0018181818181818182
+Consciousness fluctuating,mianserin,1,45,0.022222222222222223
+Constipation,mianserin,18,7743,0.002324680356450988
+Contraindicated product administered,mianserin,5,1672,0.0029904306220095694
+Contusion,mianserin,4,2928,0.001366120218579235
+Convulsive threshold lowered,mianserin,1,74,0.013513513513513514
+Cough,mianserin,18,5339,0.003371417868514703
+Craniocerebral injury,mianserin,4,155,0.025806451612903226
+Cutaneous lupus erythematosus,mianserin,2,76,0.02631578947368421
+Cutaneous lymphoma,mianserin,14,18,0.7777777777777778
+Cutaneous vasculitis,mianserin,3,81,0.037037037037037035
+Cystitis haemorrhagic,mianserin,3,43,0.06976744186046512
+Cytokine release syndrome,mianserin,1,225,0.0044444444444444444
+Cytomegalovirus infection,mianserin,4,92,0.043478260869565216
+Cytopenia,mianserin,2,154,0.012987012987012988
+Death,mianserin,60,17866,0.0033583342662039627
+Decreased appetite,mianserin,10,4648,0.0021514629948364886
+Deep vein thrombosis,mianserin,20,2225,0.008988764044943821
+Dehydration,mianserin,7,3088,0.0022668393782383418
+Delayed recovery from anaesthesia,mianserin,1,23,0.043478260869565216
+Delirium,mianserin,8,2051,0.0039005363237445147
+Delusion,mianserin,3,927,0.003236245954692557
+"Delusional disorder, unspecified type",mianserin,1,24,0.041666666666666664
+Dementia,mianserin,2,789,0.0025348542458808617
+Dental prosthesis user,mianserin,3,7,0.42857142857142855
+Depressed level of consciousness,mianserin,14,3196,0.004380475594493116
+Depressed mood,mianserin,2,2480,0.0008064516129032258
+Depression,mianserin,38,14880,0.002553763440860215
+Depressive symptom,mianserin,2,467,0.004282655246252677
+Dermatitis,mianserin,1,412,0.0024271844660194173
+Dermatitis bullous,mianserin,8,273,0.029304029304029304
+Dermatitis exfoliative,mianserin,8,77,0.1038961038961039
+Dermatitis exfoliative generalised,mianserin,16,125,0.128
+Dermatitis psoriasiform,mianserin,1,29,0.034482758620689655
+Dermo-hypodermitis,mianserin,2,13,0.15384615384615385
+Device issue,mianserin,1,1272,0.0007861635220125787
+Device related infection,mianserin,1,290,0.0034482758620689655
+Diabetes mellitus,mianserin,22,1660,0.01325301204819277
+Diabetes mellitus inadequate control,mianserin,7,229,0.03056768558951965
+Diabetic ketoacidosis,mianserin,5,696,0.007183908045977011
+Diarrhoea,mianserin,26,13927,0.001866877288719753
+Diastolic hypotension,mianserin,1,8,0.125
+Diffuse large B-cell lymphoma,mianserin,1,63,0.015873015873015872
+Diplopia,mianserin,2,734,0.0027247956403269754
+Discomfort,mianserin,3,990,0.0030303030303030303
+Disease progression,mianserin,6,1795,0.003342618384401114
+Disease recurrence,mianserin,3,1389,0.0021598272138228943
+Disorientation,mianserin,12,1227,0.009779951100244499
+Dissociation,mianserin,1,431,0.002320185614849188
+Dissociative disorder,mianserin,2,106,0.018867924528301886
+Disturbance in attention,mianserin,32,1671,0.019150209455415918
+Dizziness,mianserin,15,14470,0.0010366275051831375
+Dopamine dysregulation syndrome,mianserin,9,40,0.225
+Drop attacks,mianserin,2,60,0.03333333333333333
+Drug abuse,mianserin,49,8901,0.005504999438265363
+Drug administered to patient of inappropriate age,mianserin,1,158,0.006329113924050633
+Drug administration error,mianserin,1,588,0.0017006802721088435
+Drug cross-reactivity,mianserin,1,3,0.3333333333333333
+Drug dependence,mianserin,8,2254,0.00354924578527063
+Drug dose titration not performed,mianserin,2,74,0.02702702702702703
+Drug effect incomplete,mianserin,2,1805,0.00110803324099723
+Drug effective for unapproved indication,mianserin,1,348,0.0028735632183908046
+Drug eruption,mianserin,2,444,0.0045045045045045045
+Drug hypersensitivity,mianserin,3,13219,0.00022694606248581587
+Drug ineffective,mianserin,79,39294,0.002010485061332519
+Drug ineffective for unapproved indication,mianserin,1,2737,0.00036536353671903543
+Drug interaction,mianserin,65,13502,0.004814101614575618
+Drug reaction with eosinophilia and systemic symptoms,mianserin,83,1295,0.06409266409266409
+Drug resistance,mianserin,2,353,0.0056657223796034
+Drug tolerance,mianserin,1,195,0.005128205128205128
+Drug use disorder,mianserin,1,329,0.00303951367781155
+Drug withdrawal syndrome,mianserin,3,3060,0.000980392156862745
+Drug-device interaction,mianserin,10,24,0.4166666666666667
+Drug-induced liver injury,mianserin,2,1537,0.0013012361743656475
+Dry eye,mianserin,1,836,0.0011961722488038277
+Dry mouth,mianserin,5,1921,0.0026028110359187923
+Duodenal ulcer,mianserin,1,139,0.007194244604316547
+Duodenitis,mianserin,1,32,0.03125
+Dysaesthesia,mianserin,3,39,0.07692307692307693
+Dysarthria,mianserin,7,936,0.007478632478632479
+Dysbiosis,mianserin,1,1,1.0
+Dysgeusia,mianserin,1,1143,0.0008748906386701663
+Dyskinesia,mianserin,6,1759,0.0034110289937464467
+Dysphagia,mianserin,7,1637,0.004276114844227245
+Dysphonia,mianserin,2,1010,0.0019801980198019802
+Dyspnoea,mianserin,15,7178,0.0020897185845639454
+Dysstasia,mianserin,1,306,0.0032679738562091504
+Dysuria,mianserin,14,825,0.01696969696969697
+Eating disorder,mianserin,1,274,0.0036496350364963502
+Ecchymosis,mianserin,1,104,0.009615384615384616
+Eczema,mianserin,4,670,0.005970149253731343
+Electrocardiogram QT prolonged,mianserin,14,2734,0.005120702267739576
+Electrocardiogram T wave inversion,mianserin,1,20,0.05
+Embolic stroke,mianserin,2,32,0.0625
+Encephalitis autoimmune,mianserin,2,48,0.041666666666666664
+Encephalopathy,mianserin,9,794,0.011335012594458438
+Eosinophilia,mianserin,14,328,0.042682926829268296
+Eosinophilic pneumonia,mianserin,8,86,0.09302325581395349
+Epilepsy,mianserin,7,1126,0.006216696269982238
+Epistaxis,mianserin,3,1213,0.00247320692497939
+Erysipelas,mianserin,1,132,0.007575757575757576
+Erythema,mianserin,29,2008,0.01444223107569721
+Erythema annulare,mianserin,2,10,0.2
+Erythrodermic psoriasis,mianserin,1,17,0.058823529411764705
+Escherichia sepsis,mianserin,1,33,0.030303030303030304
+Escherichia urinary tract infection,mianserin,1,129,0.007751937984496124
+Exposed bone in jaw,mianserin,3,35,0.08571428571428572
+Exposure during pregnancy,mianserin,1,3152,0.00031725888324873094
+Exposure via transplant,mianserin,9,18,0.5
+Extrapyramidal disorder,mianserin,21,657,0.0319634703196347
+Extravasation,mianserin,2,23,0.08695652173913043
+Extremity necrosis,mianserin,2,24,0.08333333333333333
+Eyelid oedema,mianserin,5,100,0.05
+Faecal incontinence,mianserin,1,29,0.034482758620689655
+Faecaloma,mianserin,1,163,0.006134969325153374
+Fall,mianserin,130,11531,0.011273957158962795
+Fatigue,mianserin,13,12154,0.0010696067138390654
+Fear,mianserin,1,230,0.004347826086956522
+Febrile bone marrow aplasia,mianserin,2,71,0.028169014084507043
+Febrile neutropenia,mianserin,17,1110,0.015315315315315315
+Femoral neck fracture,mianserin,3,102,0.029411764705882353
+Femur fracture,mianserin,1,340,0.0029411764705882353
+Fibrin D dimer increased,mianserin,1,40,0.025
+Fixed eruption,mianserin,5,24,0.20833333333333334
+Foetal alcohol syndrome,mianserin,1,8,0.125
+Foetal death,mianserin,2,429,0.004662004662004662
+Foetal exposure during pregnancy,mianserin,3,4277,0.0007014262333411269
+Folate deficiency,mianserin,7,36,0.19444444444444445
+Food allergy,mianserin,46,262,0.17557251908396945
+Foot fracture,mianserin,1,446,0.002242152466367713
+Fracture,mianserin,1,272,0.003676470588235294
+Fracture displacement,mianserin,1,4,0.25
+Freezing phenomenon,mianserin,1,48,0.020833333333333332
+Frontotemporal dementia,mianserin,1,11,0.09090909090909091
+Fungal infection,mianserin,1,471,0.0021231422505307855
+Gamma-glutamyltransferase increased,mianserin,2,185,0.010810810810810811
+Gastric haemorrhage,mianserin,1,128,0.0078125
+Gastric ulcer,mianserin,1,328,0.003048780487804878
+Gastric ulcer haemorrhage,mianserin,2,88,0.022727272727272728
+Gastric varices haemorrhage,mianserin,2,13,0.15384615384615385
+Gastrointestinal candidiasis,mianserin,1,1,1.0
+Gastrointestinal haemorrhage,mianserin,5,2522,0.0019825535289452814
+Gastrointestinal mucosal disorder,mianserin,1,5,0.2
+Gene mutation,mianserin,1,7,0.14285714285714285
+General physical condition abnormal,mianserin,1,59,0.01694915254237288
+General physical health deterioration,mianserin,9,1238,0.007269789983844911
+Generalised tonic-clonic seizure,mianserin,7,1060,0.006603773584905661
+Genital prolapse,mianserin,4,4,1.0
+Gingival bleeding,mianserin,1,167,0.005988023952095809
+Glomerulonephritis,mianserin,2,35,0.05714285714285714
+Glomerulonephritis membranous,mianserin,2,8,0.25
+Granulocytopenia,mianserin,2,114,0.017543859649122806
+Haematoma,mianserin,4,385,0.01038961038961039
+Haematotoxicity,mianserin,3,13,0.23076923076923078
+Haematuria,mianserin,7,452,0.015486725663716814
+Haemodialysis complication,mianserin,1,1,1.0
+Haemolytic anaemia,mianserin,4,104,0.038461538461538464
+Haemorrhagic diathesis,mianserin,2,60,0.03333333333333333
+Haemorrhagic necrotic pancreatitis,mianserin,1,1,1.0
+Haemorrhagic stroke,mianserin,1,265,0.0037735849056603774
+Hallucination,mianserin,6,2187,0.0027434842249657062
+"Hallucination, auditory",mianserin,1,680,0.0014705882352941176
+"Hallucination, visual",mianserin,17,821,0.020706455542021926
+"Hallucinations, mixed",mianserin,2,470,0.00425531914893617
+Headache,mianserin,2,9335,0.00021424745581146223
+Heart disease congenital,mianserin,1,174,0.005747126436781609
+Heart rate decreased,mianserin,9,357,0.025210084033613446
+Hemiparesis,mianserin,1,174,0.005747126436781609
+Henoch-Schonlein purpura,mianserin,1,16,0.0625
+Hepatic cirrhosis,mianserin,23,291,0.07903780068728522
+Hepatic cytolysis,mianserin,31,409,0.07579462102689487
+Hepatic encephalopathy,mianserin,4,96,0.041666666666666664
+Hepatic enzyme increased,mianserin,4,1240,0.0032258064516129032
+Hepatic failure,mianserin,4,309,0.012944983818770227
+Hepatic function abnormal,mianserin,7,535,0.013084112149532711
+Hepatic steatosis,mianserin,2,276,0.007246376811594203
+Hepatitis,mianserin,7,465,0.015053763440860216
+Hepatitis acute,mianserin,3,197,0.015228426395939087
+Hepatitis cholestatic,mianserin,10,193,0.05181347150259067
+Hepatitis fulminant,mianserin,1,43,0.023255813953488372
+Hepatocellular carcinoma,mianserin,5,61,0.08196721311475409
+Hepatocellular injury,mianserin,35,686,0.05102040816326531
+Hepatotoxicity,mianserin,2,358,0.00558659217877095
+Herpes zoster,mianserin,2,1094,0.0018281535648994515
+Hiccups,mianserin,1,151,0.006622516556291391
+Hip surgery,mianserin,2,133,0.015037593984962405
+Histiocytosis haematophagic,mianserin,1,14,0.07142857142857142
+Hospitalisation,mianserin,2,3411,0.0005863383172090296
+Hydronephrosis,mianserin,1,52,0.019230769230769232
+Hyperglycaemia,mianserin,6,488,0.012295081967213115
+Hyperhidrosis,mianserin,5,2295,0.002178649237472767
+Hyperkalaemia,mianserin,6,390,0.015384615384615385
+Hyperlactacidaemia,mianserin,4,48,0.08333333333333333
+Hypernatraemia,mianserin,8,71,0.11267605633802817
+Hyperosmolar hyperglycaemic state,mianserin,3,18,0.16666666666666666
+Hypersensitivity vasculitis,mianserin,9,84,0.10714285714285714
+Hypertension,mianserin,23,3093,0.007436146136437116
+Hypertensive crisis,mianserin,1,244,0.004098360655737705
+Hyperthermia,mianserin,3,208,0.014423076923076924
+Hyperthyroidism,mianserin,1,203,0.0049261083743842365
+Hypertriglyceridaemia,mianserin,1,137,0.0072992700729927005
+Hypoaesthesia,mianserin,2,1667,0.0011997600479904018
+Hypochloraemia,mianserin,1,36,0.027777777777777776
+Hypogammaglobulinaemia,mianserin,1,81,0.012345679012345678
+Hypoglycaemia,mianserin,6,985,0.006091370558375634
+Hypoglycaemic coma,mianserin,5,56,0.08928571428571429
+Hypokalaemia,mianserin,11,935,0.011764705882352941
+Hypokinesia,mianserin,1,182,0.005494505494505495
+Hypomania,mianserin,2,302,0.006622516556291391
+Hyponatraemia,mianserin,94,3180,0.029559748427672956
+Hyponatraemic seizure,mianserin,1,19,0.05263157894736842
+Hypophysitis,mianserin,2,20,0.1
+Hypotension,mianserin,29,2910,0.009965635738831614
+Hypothermia,mianserin,4,231,0.017316017316017316
+Hypoventilation,mianserin,1,56,0.017857142857142856
+Idiopathic intracranial hypertension,mianserin,8,76,0.10526315789473684
+Ileus,mianserin,3,147,0.02040816326530612
+Ileus paralytic,mianserin,2,90,0.022222222222222223
+Immune system disorder,mianserin,1,124,0.008064516129032258
+Immune thrombocytopenia,mianserin,2,455,0.004395604395604396
+Immunosuppression,mianserin,1,59,0.01694915254237288
+Impaired gastric emptying,mianserin,2,246,0.008130081300813009
+Impaired work ability,mianserin,3,188,0.015957446808510637
+Inappropriate antidiuretic hormone secretion,mianserin,3,780,0.0038461538461538464
+Incorrect dose administered,mianserin,2,1601,0.0012492192379762648
+Incorrect product administration duration,mianserin,9,166,0.05421686746987952
+Incorrect route of drug administration,mianserin,1,137,0.0072992700729927005
+Incorrect route of product administration,mianserin,1,480,0.0020833333333333333
+Infected neoplasm,mianserin,2,2,1.0
+Infectious colitis,mianserin,2,19,0.10526315789473684
+Inflammation,mianserin,1,303,0.0033003300330033004
+Infusion related reaction,mianserin,1,527,0.0018975332068311196
+Infusion site erythema,mianserin,1,166,0.006024096385542169
+Infusion site extravasation,mianserin,1,186,0.005376344086021506
+Injection site erythema,mianserin,3,998,0.003006012024048096
+Injection site infection,mianserin,1,26,0.038461538461538464
+Insomnia,mianserin,1,3870,0.00025839793281653745
+Intentional overdose,mianserin,4,4185,0.0009557945041816009
+Intentional product misuse,mianserin,12,2138,0.005612722170252572
+Intentional product use issue,mianserin,6,2102,0.0028544243577545195
+Intentional self-injury,mianserin,2,921,0.002171552660152009
+International normalised ratio increased,mianserin,1,286,0.0034965034965034965
+Interstitial lung disease,mianserin,22,976,0.022540983606557378
+Intervertebral discitis,mianserin,1,23,0.043478260869565216
+Intestinal obstruction,mianserin,9,651,0.013824884792626729
+Intestinal perforation,mianserin,1,105,0.009523809523809525
+Intra-abdominal haematoma,mianserin,3,26,0.11538461538461539
+Intracranial haematoma,mianserin,1,16,0.0625
+Iron deficiency anaemia,mianserin,2,116,0.017241379310344827
+Ischaemic stroke,mianserin,36,376,0.09574468085106383
+Jaundice,mianserin,1,157,0.006369426751592357
+Joint injection,mianserin,1,1,1.0
+Joint injury,mianserin,1,239,0.0041841004184100415
+Jugular vein thrombosis,mianserin,1,21,0.047619047619047616
+Labelled drug-drug interaction medication error,mianserin,4,245,0.0163265306122449
+Lactic acidosis,mianserin,9,300,0.03
+Language disorder,mianserin,3,27,0.1111111111111111
+Laryngospasm,mianserin,1,27,0.037037037037037035
+Leukocytosis,mianserin,1,124,0.008064516129032258
+Leukopenia,mianserin,22,733,0.030013642564802184
+Levator syndrome,mianserin,4,8,0.5
+Libido increased,mianserin,6,138,0.043478260869565216
+Lichenoid keratosis,mianserin,5,55,0.09090909090909091
+Lip oedema,mianserin,1,30,0.03333333333333333
+Lip swelling,mianserin,1,493,0.002028397565922921
+Lipoatrophy,mianserin,1,6,0.16666666666666666
+Liver disorder,mianserin,4,497,0.008048289738430584
+Liver function test abnormal,mianserin,1,436,0.0022935779816513763
+Liver injury,mianserin,9,331,0.027190332326283987
+Loss of consciousness,mianserin,8,1674,0.0047789725209080045
+Lung abscess,mianserin,1,17,0.058823529411764705
+Lung disorder,mianserin,8,498,0.01606425702811245
+Lung infection,mianserin,4,191,0.020942408376963352
+Lung neoplasm malignant,mianserin,2,394,0.005076142131979695
+Lymphadenopathy,mianserin,3,253,0.011857707509881422
+Lymphangiosis carcinomatosa,mianserin,1,7,0.14285714285714285
+Lymphopenia,mianserin,1,222,0.0045045045045045045
+Macular oedema,mianserin,5,65,0.07692307692307693
+Major depression,mianserin,2,512,0.00390625
+Malaise,mianserin,5,4500,0.0011111111111111111
+Malignant ascites,mianserin,1,5,0.2
+Malignant neoplasm progression,mianserin,3,639,0.004694835680751174
+Malocclusion,mianserin,2,20,0.1
+Medical device site discharge,mianserin,2,3,0.6666666666666666
+Medication error,mianserin,1,841,0.0011890606420927466
+Melaena,mianserin,4,211,0.018957345971563982
+Meningitis,mianserin,2,82,0.024390243902439025
+Mental disorder,mianserin,1,640,0.0015625
+Mental impairment,mianserin,1,271,0.0036900369003690036
+Metabolic acidosis,mianserin,1,336,0.002976190476190476
+Metabolic encephalopathy,mianserin,3,89,0.033707865168539325
+Migraine,mianserin,1,2083,0.00048007681228996637
+Mixed liver injury,mianserin,5,172,0.029069767441860465
+Motor dysfunction,mianserin,2,87,0.022988505747126436
+Movement disorder,mianserin,1,278,0.0035971223021582736
+Mucocutaneous ulceration,mianserin,1,1,1.0
+Mucous membrane disorder,mianserin,1,5,0.2
+Multi-organ disorder,mianserin,1,3,0.3333333333333333
+Multiple sclerosis,mianserin,2,758,0.002638522427440633
+Muscular weakness,mianserin,1,715,0.0013986013986013986
+Musculoskeletal stiffness,mianserin,4,730,0.005479452054794521
+Myalgia,mianserin,4,967,0.004136504653567736
+Myelodysplastic syndrome,mianserin,2,117,0.017094017094017096
+Myelosuppression,mianserin,1,24,0.041666666666666664
+Myocardial infarction,mianserin,3,1488,0.0020161290322580645
+Myocardial ischaemia,mianserin,1,48,0.020833333333333332
+Myocarditis,mianserin,3,145,0.020689655172413793
+Nausea,mianserin,14,7027,0.001992315355059058
+Neoplasm malignant,mianserin,2,522,0.0038314176245210726
+Nephritis,mianserin,1,26,0.038461538461538464
+Nerve compression,mianserin,1,108,0.009259259259259259
+Neuroleptic malignant syndrome,mianserin,13,876,0.014840182648401826
+Neurological decompensation,mianserin,1,24,0.041666666666666664
+Neuropathy peripheral,mianserin,12,1167,0.010282776349614395
+Neutropenia,mianserin,34,1557,0.021836865767501604
+Neutrophil count decreased,mianserin,4,424,0.009433962264150943
+Night sweats,mianserin,6,458,0.013100436681222707
+Nightmare,mianserin,1,1096,0.0009124087591240876
+Nikolsky's sign,mianserin,2,19,0.10526315789473684
+No adverse event,mianserin,1,1892,0.0005285412262156448
+Non-small cell lung cancer,mianserin,1,24,0.041666666666666664
+Obliterative bronchiolitis,mianserin,1,7,0.14285714285714285
+Oedema,mianserin,2,373,0.005361930294906166
+Oedema peripheral,mianserin,3,886,0.003386004514672686
+Oesophageal achalasia,mianserin,1,21,0.047619047619047616
+Oesophageal candidiasis,mianserin,4,40,0.1
+Oesophageal spasm,mianserin,1,65,0.015384615384615385
+Off label use,mianserin,16,10509,0.0015225045199352936
+Oral herpes,mianserin,3,223,0.013452914798206279
+Organising pneumonia,mianserin,8,102,0.0784313725490196
+Oropharyngeal pain,mianserin,2,565,0.0035398230088495575
+Orthostatic hypotension,mianserin,8,820,0.00975609756097561
+Osteitis,mianserin,8,31,0.25806451612903225
+Osteonecrosis,mianserin,4,192,0.020833333333333332
+Osteonecrosis of jaw,mianserin,2,260,0.007692307692307693
+Overdose,mianserin,15,4348,0.0034498620055197792
+Oxygen saturation decreased,mianserin,1,368,0.002717391304347826
+Pain,mianserin,13,4732,0.0027472527472527475
+Pain in extremity,mianserin,3,1731,0.0017331022530329288
+Painful erection,mianserin,1,21,0.047619047619047616
+Pallor,mianserin,1,54,0.018518518518518517
+Palpitations,mianserin,1,846,0.001182033096926714
+Pancreatic carcinoma metastatic,mianserin,1,56,0.017857142857142856
+Pancreatitis,mianserin,1,824,0.0012135922330097086
+Pancreatitis acute,mianserin,11,638,0.017241379310344827
+Pancytopenia,mianserin,32,625,0.0512
+Panic reaction,mianserin,1,70,0.014285714285714285
+Papilloma viral infection,mianserin,1,28,0.03571428571428571
+Paraesthesia,mianserin,6,1119,0.005361930294906166
+Paralysis,mianserin,1,126,0.007936507936507936
+Parasomnia,mianserin,2,64,0.03125
+Parkinson's disease,mianserin,1,552,0.0018115942028985507
+Parkinsonism,mianserin,9,669,0.013452914798206279
+Partial seizures,mianserin,4,73,0.0547945205479452
+Pemphigoid,mianserin,5,250,0.02
+Penile pain,mianserin,1,13,0.07692307692307693
+Periorbital oedema,mianserin,5,64,0.078125
+Peripheral ischaemia,mianserin,1,40,0.025
+Peripheral sensory neuropathy,mianserin,1,40,0.025
+Peripheral swelling,mianserin,2,1303,0.0015349194167306216
+Phlebitis,mianserin,2,55,0.03636363636363636
+Platelet count decreased,mianserin,8,683,0.01171303074670571
+Pleurothotonus,mianserin,14,155,0.09032258064516129
+Pneumocystis jirovecii pneumonia,mianserin,1,72,0.013888888888888888
+Pneumonia,mianserin,9,4909,0.001833367284579344
+Pneumonia aspiration,mianserin,5,585,0.008547008547008548
+Pneumonitis,mianserin,2,362,0.0055248618784530384
+Poisoning,mianserin,10,315,0.031746031746031744
+Poisoning deliberate,mianserin,13,640,0.0203125
+Pollakiuria,mianserin,19,382,0.049738219895287955
+Polyneuropathy,mianserin,2,161,0.012422360248447204
+Poor feeding infant,mianserin,3,27,0.1111111111111111
+Post procedural infection,mianserin,1,90,0.011111111111111112
+Post-injection delirium sedation syndrome,mianserin,1,12,0.08333333333333333
+Posterior reversible encephalopathy syndrome,mianserin,1,187,0.0053475935828877
+Potentiating drug interaction,mianserin,2,136,0.014705882352941176
+Prescribed overdose,mianserin,1,604,0.0016556291390728477
+Prescription drug used without a prescription,mianserin,4,117,0.03418803418803419
+Presyncope,mianserin,1,248,0.004032258064516129
+Proctalgia,mianserin,2,40,0.05
+Product administration error,mianserin,2,208,0.009615384615384616
+Product monitoring error,mianserin,1,43,0.023255813953488372
+Product prescribing error,mianserin,1,318,0.0031446540880503146
+Product use in unapproved indication,mianserin,4,3366,0.0011883541295306002
+Product use issue,mianserin,4,1363,0.00293470286133529
+Productive cough,mianserin,1,331,0.0030211480362537764
+Progressive multifocal leukoencephalopathy,mianserin,2,162,0.012345679012345678
+Prostate cancer,mianserin,1,187,0.0053475935828877
+Prostatitis,mianserin,3,31,0.0967741935483871
+Pruritus,mianserin,3,3036,0.0009881422924901185
+Pseudomembranous colitis,mianserin,4,5,0.8
+Pseudomonal sepsis,mianserin,1,8,0.125
+Pseudomonas infection,mianserin,3,53,0.05660377358490566
+Psychiatric symptom,mianserin,3,73,0.0410958904109589
+Psychomotor retardation,mianserin,1,114,0.008771929824561403
+Psychomotor skills impaired,mianserin,4,87,0.04597701149425287
+Psychotic disorder,mianserin,2,821,0.00243605359317905
+Psychotic symptom,mianserin,1,41,0.024390243902439025
+Pulmonary embolism,mianserin,39,1570,0.024840764331210193
+Purpura,mianserin,4,157,0.025477707006369428
+Pyrexia,mianserin,5,1580,0.0031645569620253164
+Rash,mianserin,1,3577,0.0002795638803466592
+Rash macular,mianserin,5,253,0.019762845849802372
+Rash maculo-papular,mianserin,17,200,0.085
+Rash papular,mianserin,3,101,0.0297029702970297
+Rash pustular,mianserin,1,29,0.034482758620689655
+Rectal cancer,mianserin,2,40,0.05
+Rectal haemorrhage,mianserin,4,462,0.008658008658008658
+Reduced facial expression,mianserin,2,23,0.08695652173913043
+Regurgitation,mianserin,1,15,0.06666666666666667
+Renal disorder,mianserin,1,327,0.0030581039755351682
+Renal failure,mianserin,3,1170,0.002564102564102564
+Renal impairment,mianserin,2,615,0.0032520325203252032
+Renal injury,mianserin,1,147,0.006802721088435374
+Renal tubular acidosis,mianserin,2,18,0.1111111111111111
+Respiratory acidosis,mianserin,1,57,0.017543859649122806
+Respiratory distress,mianserin,12,130,0.09230769230769231
+Respiratory failure,mianserin,4,456,0.008771929824561403
+Respiratory tract infection,mianserin,1,374,0.00267379679144385
+Restless legs syndrome,mianserin,4,620,0.0064516129032258064
+Restlessness,mianserin,3,412,0.007281553398058253
+Rhabdomyolysis,mianserin,5,561,0.008912655971479501
+Salivary hypersecretion,mianserin,3,112,0.026785714285714284
+Schizoaffective disorder,mianserin,1,27,0.037037037037037035
+Sedation,mianserin,9,1427,0.006306937631394534
+Sedation complication,mianserin,8,324,0.024691358024691357
+Seizure,mianserin,12,2931,0.0040941658137154556
+Sensory disturbance,mianserin,1,90,0.011111111111111112
+Sepsis,mianserin,3,901,0.003329633740288568
+Serotonin syndrome,mianserin,2,3465,0.0005772005772005772
+Sexual dysfunction,mianserin,2,430,0.004651162790697674
+Sickle cell anaemia with crisis,mianserin,1,111,0.009009009009009009
+Single umbilical artery,mianserin,3,8,0.375
+Sinus bradycardia,mianserin,3,132,0.022727272727272728
+Sinus tachycardia,mianserin,4,132,0.030303030303030304
+Skin exfoliation,mianserin,2,282,0.0070921985815602835
+Skin necrosis,mianserin,1,29,0.034482758620689655
+Sleep disorder,mianserin,2,770,0.0025974025974025974
+Somnolence,mianserin,21,2728,0.0076979472140762464
+Sopor,mianserin,3,761,0.003942181340341655
+Spasmodic dysphonia,mianserin,5,40,0.125
+Spinal compression fracture,mianserin,2,65,0.03076923076923077
+Spinal deformity,mianserin,1,9,0.1111111111111111
+Squamous cell carcinoma,mianserin,25,193,0.12953367875647667
+Squamous cell carcinoma of the cervix,mianserin,1,3,0.3333333333333333
+Status epilepticus,mianserin,2,243,0.00823045267489712
+Status migrainosus,mianserin,1,16,0.0625
+Steroid diabetes,mianserin,1,9,0.1111111111111111
+Stevens-Johnson syndrome,mianserin,3,313,0.009584664536741214
+Stupor,mianserin,1,31,0.03225806451612903
+Subdural haematoma,mianserin,1,353,0.0028328611898017
+Subileus,mianserin,1,20,0.05
+Sudden death,mianserin,14,355,0.03943661971830986
+Suicidal ideation,mianserin,5,3174,0.001575299306868305
+Suicide attempt,mianserin,10,2118,0.004721435316336166
+Surgery,mianserin,1,1457,0.0006863417982155113
+Syncope,mianserin,4,1048,0.003816793893129771
+Tachycardia,mianserin,1,693,0.001443001443001443
+Tardive dyskinesia,mianserin,2,678,0.0029498525073746312
+Therapeutic product effect incomplete,mianserin,4,1193,0.003352891869237217
+Therapeutic response decreased,mianserin,2,454,0.004405286343612335
+Therapy non-responder,mianserin,1,1063,0.0009407337723424271
+Therapy partial responder,mianserin,2,148,0.013513513513513514
+Thinking abnormal,mianserin,2,187,0.0106951871657754
+Thrombocytopenia,mianserin,9,996,0.009036144578313253
+Thrombophlebitis,mianserin,1,65,0.015384615384615385
+Thrombotic microangiopathy,mianserin,3,47,0.06382978723404255
+Thymus disorder,mianserin,3,6,0.5
+Tinnitus,mianserin,2,718,0.002785515320334262
+Tongue neoplasm malignant stage unspecified,mianserin,1,12,0.08333333333333333
+Tonsillitis,mianserin,3,62,0.04838709677419355
+Tooth loss,mianserin,1,77,0.012987012987012988
+Torticollis,mianserin,1,148,0.006756756756756757
+Toxic epidermal necrolysis,mianserin,8,749,0.010680907877169559
+Toxic skin eruption,mianserin,9,168,0.05357142857142857
+Toxicity to various agents,mianserin,61,6972,0.008749282845668388
+Transitional cell carcinoma,mianserin,1,24,0.041666666666666664
+Transplant dysfunction,mianserin,1,4,0.25
+Treatment noncompliance,mianserin,1,465,0.002150537634408602
+Troponin increased,mianserin,1,66,0.015151515151515152
+Tuberculosis,mianserin,1,81,0.012345679012345678
+Tubulointerstitial nephritis,mianserin,3,187,0.016042780748663103
+Type 2 diabetes mellitus,mianserin,2,364,0.005494505494505495
+Type I hypersensitivity,mianserin,1,16,0.0625
+Type IV hypersensitivity reaction,mianserin,1,26,0.038461538461538464
+Urinary incontinence,mianserin,1,347,0.002881844380403458
+Urinary retention,mianserin,1,805,0.0012422360248447205
+Urinary tract infection,mianserin,2,2282,0.0008764241893076249
+Urosepsis,mianserin,1,104,0.009615384615384616
+Urticaria,mianserin,3,1208,0.0024834437086092716
+Vaccination failure,mianserin,1,13,0.07692307692307693
+Vascular device infection,mianserin,1,87,0.011494252873563218
+Vasculitis necrotising,mianserin,1,12,0.08333333333333333
+Venoocclusive liver disease,mianserin,1,17,0.058823529411764705
+Venous thrombosis limb,mianserin,1,18,0.05555555555555555
+Ventricular fibrillation,mianserin,1,63,0.015873015873015872
+Vertebral artery occlusion,mianserin,4,8,0.5
+Vertigo,mianserin,3,484,0.006198347107438017
+Vertigo positional,mianserin,1,16,0.0625
+Visual acuity reduced,mianserin,1,123,0.008130081300813009
+Vitamin B12 deficiency,mianserin,3,29,0.10344827586206896
+Vocal cord paralysis,mianserin,1,12,0.08333333333333333
+Vomiting,mianserin,3,2145,0.0013986013986013986
+Weight decreased,mianserin,1,1437,0.0006958942240779402
+Weight increased,mianserin,2,2518,0.0007942811755361397
+Withdrawal syndrome,mianserin,4,889,0.0044994375703037125
+Wrong patient received product,mianserin,5,57,0.08771929824561403

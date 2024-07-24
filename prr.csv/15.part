@@ -1,0 +1,281 @@
+pt,prod_ai,no_reactions,total,prr
+Abdominal discomfort,nefazodone,18,14497,0.0012416362005932262
+Abdominal distension,nefazodone,3,7202,0.00041655095806720355
+Abdominal pain,nefazodone,9,16090,0.0005593536357986327
+Abdominal pain upper,nefazodone,4,12523,0.0003194122814022199
+Abdominal symptom,nefazodone,3,43,0.06976744186046512
+Abnormal behaviour,nefazodone,1,6284,0.00015913430935709738
+Abnormal dreams,nefazodone,3,4505,0.0006659267480577136
+Accident,nefazodone,3,802,0.003740648379052369
+Accidental exposure to product,nefazodone,1,1296,0.0007716049382716049
+Accidental overdose,nefazodone,1,2453,0.00040766408479412964
+Acne,nefazodone,2,2209,0.0009053870529651426
+Activities of daily living impaired,nefazodone,1,1625,0.0006153846153846154
+Acute kidney injury,nefazodone,18,23399,0.0007692636437454592
+Acute myocardial infarction,nefazodone,1,1205,0.0008298755186721991
+Adrenal insufficiency,nefazodone,7,777,0.009009009009009009
+Adrenal suppression,nefazodone,6,12,0.5
+Adverse drug reaction,nefazodone,2,4524,0.0004420866489832007
+Adverse event,nefazodone,12,3941,0.0030449124587668104
+Adverse reaction,nefazodone,2,533,0.00375234521575985
+Affect lability,nefazodone,1,6072,0.00016469038208168644
+Aggression,nefazodone,1,6601,0.0001514921981517952
+Agitation,nefazodone,13,12595,0.0010321556173084557
+Agoraphobia,nefazodone,4,375,0.010666666666666666
+Akathisia,nefazodone,4,3096,0.0012919896640826874
+Alcohol abuse,nefazodone,1,504,0.001984126984126984
+Alcohol use,nefazodone,1,257,0.0038910505836575876
+Alcoholism,nefazodone,2,560,0.0035714285714285713
+Alopecia,nefazodone,6,13201,0.0004545110218922809
+Amnesia,nefazodone,4,5868,0.0006816632583503749
+Anaemia,nefazodone,4,8359,0.0004785261394903697
+Anaphylactic shock,nefazodone,3,664,0.004518072289156626
+Anger,nefazodone,1,3376,0.0002962085308056872
+Anhedonia,nefazodone,4,2717,0.001472211998527788
+Animal bite,nefazodone,1,208,0.004807692307692308
+Ankle operation,nefazodone,3,180,0.016666666666666666
+Anorgasmia,nefazodone,2,881,0.0022701475595913734
+Anxiety,nefazodone,25,30085,0.0008309788931361143
+Aortic valve disease,nefazodone,2,69,0.028985507246376812
+Apathy,nefazodone,4,1606,0.0024906600249066002
+Apnoea,nefazodone,2,596,0.003355704697986577
+Apparent death,nefazodone,1,219,0.0045662100456621
+Application site burn,nefazodone,1,186,0.005376344086021506
+Application site discolouration,nefazodone,2,117,0.017094017094017096
+Application site dryness,nefazodone,1,39,0.02564102564102564
+Arrhythmia,nefazodone,1,2306,0.0004336513443191674
+Arteriosclerosis coronary artery,nefazodone,6,585,0.010256410256410256
+Arthralgia,nefazodone,15,19575,0.0007662835249042146
+Arthritis,nefazodone,2,3709,0.0005392289026691831
+Asthenia,nefazodone,8,15885,0.0005036197670758578
+Asthma,nefazodone,5,6690,0.0007473841554559044
+Ataxia,nefazodone,1,606,0.0016501650165016502
+Atrial fibrillation,nefazodone,2,3425,0.0005839416058394161
+Back disorder,nefazodone,2,1055,0.0018957345971563982
+Back pain,nefazodone,4,8125,0.0004923076923076923
+Balance disorder,nefazodone,2,7162,0.00027925160569673273
+Bedridden,nefazodone,2,586,0.0034129692832764505
+Bipolar disorder,nefazodone,1,1272,0.0007861635220125787
+Blood calcium increased,nefazodone,1,173,0.005780346820809248
+Blood cholesterol increased,nefazodone,4,1843,0.002170374389582203
+Blood creatine,nefazodone,1,3,0.3333333333333333
+Blood creatinine,nefazodone,1,4,0.25
+Blood creatinine increased,nefazodone,1,1595,0.0006269592476489029
+Blood glucose decreased,nefazodone,2,923,0.0021668472372697724
+Blood glucose increased,nefazodone,1,2803,0.00035676061362825543
+Blood oestrogen abnormal,nefazodone,1,10,0.1
+Blood potassium decreased,nefazodone,5,916,0.0054585152838427945
+Blood pressure abnormal,nefazodone,2,771,0.0025940337224383916
+Blood pressure increased,nefazodone,4,6102,0.0006555227794165847
+Blood prolactin increased,nefazodone,3,483,0.006211180124223602
+Body height decreased,nefazodone,2,633,0.00315955766192733
+Bone pain,nefazodone,1,848,0.0011792452830188679
+Bradycardia,nefazodone,1,3517,0.0002843332385555871
+Brain injury,nefazodone,2,609,0.003284072249589491
+Bronchitis,nefazodone,5,3621,0.0013808340237503453
+Burning sensation,nefazodone,2,2609,0.0007665772326561902
+COVID-19,nefazodone,1,5340,0.00018726591760299626
+Candida infection,nefazodone,1,589,0.001697792869269949
+Cardiac arrest,nefazodone,1,4297,0.00023272050267628578
+Cardiac disorder,nefazodone,1,1766,0.0005662514156285391
+Cardiac failure,nefazodone,2,1781,0.0011229646266142617
+Cardiac failure congestive,nefazodone,1,1435,0.0006968641114982578
+Cardiometabolic syndrome,nefazodone,2,14,0.14285714285714285
+Cardioversion,nefazodone,3,21,0.14285714285714285
+Cartilage injury,nefazodone,3,95,0.031578947368421054
+Catheter removal,nefazodone,1,7,0.14285714285714285
+Cellulitis,nefazodone,1,1773,0.0005640157924421884
+Cerebrovascular accident,nefazodone,1,3539,0.00028256569652444194
+Chest discomfort,nefazodone,1,2503,0.00039952057530962844
+Chest pain,nefazodone,1,4011,0.0002493143854400399
+Cheyne-Stokes respiration,nefazodone,1,10,0.1
+Chills,nefazodone,18,2640,0.006818181818181818
+Choking sensation,nefazodone,1,141,0.0070921985815602835
+Chronic kidney disease,nefazodone,20,10392,0.001924557351809084
+Chronic obstructive pulmonary disease,nefazodone,1,1524,0.0006561679790026247
+Clavicle fracture,nefazodone,1,204,0.004901960784313725
+Clumsiness,nefazodone,1,151,0.006622516556291391
+Coeliac disease,nefazodone,1,555,0.0018018018018018018
+Cognitive disorder,nefazodone,1,2731,0.0003661662394727206
+Colitis,nefazodone,1,1183,0.0008453085376162299
+Completed suicide,nefazodone,1,18279,5.470758794244762e-05
+Condition aggravated,nefazodone,2,12103,0.00016524828554903743
+Conduction disorder,nefazodone,2,41,0.04878048780487805
+Confusional state,nefazodone,4,8039,0.0004975743251648215
+Constipation,nefazodone,9,7743,0.001162340178225494
+Contraindicated product prescribed,nefazodone,1,46,0.021739130434782608
+Cornea verticillata,nefazodone,2,13,0.15384615384615385
+Coronary artery bypass,nefazodone,1,40,0.025
+Cough,nefazodone,1,5339,0.00018730099269526128
+Cystitis,nefazodone,1,1096,0.0009124087591240876
+Deafness neurosensory,nefazodone,1,105,0.009523809523809525
+Death,nefazodone,4,17866,0.00022388895108026418
+Decreased appetite,nefazodone,2,4648,0.0004302925989672978
+Decreased interest,nefazodone,1,278,0.0035971223021582736
+Dehydration,nefazodone,1,3088,0.0003238341968911917
+Dementia,nefazodone,1,789,0.0012674271229404308
+Depressed level of consciousness,nefazodone,2,3196,0.0006257822277847309
+Depression,nefazodone,18,14880,0.0012096774193548388
+Device issue,nefazodone,3,1272,0.0023584905660377358
+Diabetes mellitus,nefazodone,4,1660,0.0024096385542168677
+Diarrhoea,nefazodone,10,13927,0.0007180297264306742
+Disease progression,nefazodone,1,1795,0.0005571030640668524
+Disease recurrence,nefazodone,1,1389,0.0007199424046076314
+Disorientation,nefazodone,1,1227,0.0008149959250203749
+Disturbance in attention,nefazodone,2,1671,0.0011968880909634949
+Diverticulitis,nefazodone,1,736,0.001358695652173913
+Dizziness,nefazodone,24,14470,0.00165860400829302
+Drug abuse,nefazodone,1,8901,0.00011234692731153803
+Drug dependence,nefazodone,5,2254,0.0022182786157941437
+Drug dose omission,nefazodone,8,4784,0.0016722408026755853
+Drug dose titration not performed,nefazodone,1,74,0.013513513513513514
+Drug effect decreased,nefazodone,4,1363,0.00293470286133529
+Drug effect incomplete,nefazodone,1,1805,0.000554016620498615
+Drug effect less than expected,nefazodone,2,168,0.011904761904761904
+Drug hypersensitivity,nefazodone,67,13219,0.005068462062183221
+Drug ineffective,nefazodone,38,39294,0.0009670687636789332
+Drug ineffective for unapproved indication,nefazodone,4,2737,0.0014614541468761417
+Drug interaction,nefazodone,9,13502,0.0006665679158643164
+Drug level increased,nefazodone,1,472,0.00211864406779661
+Drug tolerance,nefazodone,1,195,0.005128205128205128
+Drug withdrawal syndrome,nefazodone,3,3060,0.000980392156862745
+Dry skin,nefazodone,1,1072,0.0009328358208955224
+Dysgeusia,nefazodone,1,1143,0.0008748906386701663
+Dyspnoea,nefazodone,1,7178,0.00013931457230426304
+Dyspnoea exertional,nefazodone,2,436,0.0045871559633027525
+ECG signs of myocardial ischaemia,nefazodone,1,1,1.0
+Eating disorder,nefazodone,1,274,0.0036496350364963502
+Ejection fraction decreased,nefazodone,1,115,0.008695652173913044
+Electrocardiogram ST segment depression,nefazodone,2,13,0.15384615384615385
+Electrocardiogram abnormal,nefazodone,1,148,0.006756756756756757
+Emotional disorder,nefazodone,2,586,0.0034129692832764505
+Emotional distress,nefazodone,2,767,0.002607561929595828
+Endocrine disorder,nefazodone,1,12,0.08333333333333333
+Erectile dysfunction,nefazodone,2,908,0.0022026431718061676
+Erythema,nefazodone,1,2008,0.00049800796812749
+Essential hypertension,nefazodone,1,36,0.027777777777777776
+Expired product administered,nefazodone,2,446,0.004484304932735426
+Extra dose administered,nefazodone,4,453,0.008830022075055188
+Eye contusion,nefazodone,1,41,0.024390243902439025
+Eye operation,nefazodone,1,62,0.016129032258064516
+Fall,nefazodone,2,11531,0.0001734454947532738
+Fatigue,nefazodone,7,12154,0.0005759420766825737
+Fear,nefazodone,6,230,0.02608695652173913
+Feeling abnormal,nefazodone,5,4445,0.0011248593925759281
+Flushing,nefazodone,1,1098,0.0009107468123861566
+Foetal exposure during pregnancy,nefazodone,1,4277,0.00023380874444704232
+Food craving,nefazodone,1,142,0.007042253521126761
+Formication,nefazodone,4,172,0.023255813953488372
+Gait disturbance,nefazodone,1,2248,0.00044483985765124553
+Gastrooesophageal reflux disease,nefazodone,1,1480,0.0006756756756756757
+Generalised oedema,nefazodone,3,128,0.0234375
+Gynaecomastia,nefazodone,1,437,0.002288329519450801
+Haemorrhagic stroke,nefazodone,2,265,0.007547169811320755
+"Hallucination, auditory",nefazodone,1,680,0.0014705882352941176
+Headache,nefazodone,11,9335,0.0011783610069630423
+Hepatic enzyme increased,nefazodone,2,1240,0.0016129032258064516
+Herpes zoster,nefazodone,1,1094,0.0009140767824497258
+Hospitalisation,nefazodone,1,3411,0.0002931691586045148
+Hypercholesterolaemia,nefazodone,2,74,0.02702702702702703
+Hypersensitivity,nefazodone,6,3106,0.0019317450096587251
+Hypertension,nefazodone,1,3093,0.00032331070158422246
+Hypertensive heart disease,nefazodone,1,25,0.04
+Hypoaesthesia,nefazodone,5,1667,0.002999400119976005
+Hypogammaglobulinaemia,nefazodone,1,81,0.012345679012345678
+Hypomania,nefazodone,1,302,0.0033112582781456954
+Illness,nefazodone,9,1457,0.0061770761839396015
+Inability to afford medication,nefazodone,2,194,0.010309278350515464
+Inappropriate schedule of drug administration,nefazodone,1,826,0.0012106537530266344
+Inappropriate schedule of product administration,nefazodone,8,1683,0.004753416518122401
+Incorrect dose administered,nefazodone,3,1601,0.0018738288569643974
+Influenza like illness,nefazodone,2,981,0.0020387359836901123
+Infusion related reaction,nefazodone,1,527,0.0018975332068311196
+Infusion site pruritus,nefazodone,1,89,0.011235955056179775
+Injection site haemorrhage,nefazodone,1,326,0.003067484662576687
+Insomnia,nefazodone,7,3870,0.0018087855297157622
+Intentional overdose,nefazodone,4,4185,0.0009557945041816009
+Intentional product misuse,nefazodone,3,2138,0.001403180542563143
+Intentional self-injury,nefazodone,2,921,0.002171552660152009
+Intestinal pseudo-obstruction,nefazodone,2,59,0.03389830508474576
+Joint injury,nefazodone,1,239,0.0041841004184100415
+Liver disorder,nefazodone,1,497,0.002012072434607646
+Loss of consciousness,nefazodone,1,1674,0.0005973715651135006
+Lung cancer metastatic,nefazodone,1,76,0.013157894736842105
+Malaise,nefazodone,4,4500,0.0008888888888888889
+Memory impairment,nefazodone,1,1777,0.0005627462014631402
+Middle insomnia,nefazodone,2,343,0.0058309037900874635
+Multiple allergies,nefazodone,1,144,0.006944444444444444
+Multiple sclerosis,nefazodone,1,758,0.0013192612137203166
+Multiple sclerosis relapse,nefazodone,1,1334,0.0007496251874062968
+Muscle twitching,nefazodone,1,426,0.002347417840375587
+Musculoskeletal stiffness,nefazodone,1,730,0.0013698630136986301
+Myocardial infarction,nefazodone,1,1488,0.0006720430107526882
+Myocardial ischaemia,nefazodone,1,48,0.020833333333333332
+Nausea,nefazodone,8,7027,0.0011384659171766046
+Neoplasm malignant,nefazodone,1,522,0.0019157088122605363
+Neoplasm progression,nefazodone,1,328,0.003048780487804878
+Nervousness,nefazodone,1,336,0.002976190476190476
+No adverse event,nefazodone,3,1892,0.0015856236786469344
+Nocturia,nefazodone,1,135,0.007407407407407408
+Obstructive sleep apnoea syndrome,nefazodone,1,126,0.007936507936507936
+Oesophageal candidiasis,nefazodone,1,40,0.025
+Off label use,nefazodone,1,10509,9.515653249595585e-05
+Onychomadesis,nefazodone,1,14,0.07142857142857142
+Oral surgery,nefazodone,1,46,0.021739130434782608
+Osteoporosis,nefazodone,1,344,0.0029069767441860465
+Pain,nefazodone,1,4732,0.00021132713440405747
+Panic attack,nefazodone,1,504,0.001984126984126984
+Peripheral swelling,nefazodone,1,1303,0.0007674597083653108
+Pneumonia bacterial,nefazodone,1,79,0.012658227848101266
+Premature delivery,nefazodone,1,125,0.008
+Product adhesion issue,nefazodone,1,187,0.0053475935828877
+Product availability issue,nefazodone,14,253,0.05533596837944664
+Product dose omission,nefazodone,1,1203,0.0008312551953449709
+Product dose omission issue,nefazodone,2,3685,0.000542740841248304
+Product supply issue,nefazodone,1,43,0.023255813953488372
+Product use issue,nefazodone,1,1363,0.0007336757153338225
+Prostate infection,nefazodone,2,20,0.1
+Pruritus,nefazodone,1,3036,0.00032938076416337287
+Pruritus generalised,nefazodone,2,215,0.009302325581395349
+Psoriasis,nefazodone,2,2000,0.001
+Recalled product,nefazodone,1,13,0.07692307692307693
+Renal failure,nefazodone,4,1170,0.003418803418803419
+Renal impairment,nefazodone,1,615,0.0016260162601626016
+Road traffic accident,nefazodone,3,458,0.006550218340611353
+Salivary hypersecretion,nefazodone,6,112,0.05357142857142857
+Secondary adrenocortical insufficiency,nefazodone,1,15,0.06666666666666667
+Sensitivity to weather change,nefazodone,1,36,0.027777777777777776
+Sexual dysfunction,nefazodone,2,430,0.004651162790697674
+Sinusitis,nefazodone,2,1885,0.0010610079575596816
+Sleep disorder,nefazodone,3,770,0.003896103896103896
+Sluggishness,nefazodone,1,61,0.01639344262295082
+Small intestinal obstruction,nefazodone,1,219,0.0045662100456621
+Somnolence,nefazodone,4,2728,0.001466275659824047
+Substance abuse,nefazodone,2,340,0.0058823529411764705
+Suicidal behaviour,nefazodone,1,169,0.005917159763313609
+Suicidal ideation,nefazodone,1,3174,0.000315059861373661
+Suicide attempt,nefazodone,1,2118,0.00047214353163361664
+Surgery,nefazodone,1,1457,0.0006863417982155113
+Synovial cyst,nefazodone,1,38,0.02631578947368421
+Tachycardia,nefazodone,2,693,0.002886002886002886
+Tardive dyskinesia,nefazodone,1,678,0.0014749262536873156
+Temporomandibular joint syndrome,nefazodone,1,43,0.023255813953488372
+Tenosynovitis,nefazodone,1,7,0.14285714285714285
+Therapeutic product effect delayed,nefazodone,1,48,0.020833333333333332
+Therapeutic product effect variable,nefazodone,1,85,0.011764705882352941
+Therapeutic reaction time decreased,nefazodone,1,75,0.013333333333333334
+Therapy interrupted,nefazodone,1,665,0.0015037593984962407
+Therapy partial responder,nefazodone,1,148,0.006756756756756757
+Tooth infection,nefazodone,1,171,0.005847953216374269
+Toxicity to various agents,nefazodone,3,6972,0.0004302925989672978
+Treatment failure,nefazodone,2,1390,0.0014388489208633094
+Tremor,nefazodone,1,1680,0.0005952380952380953
+Urinary tract infection,nefazodone,2,2282,0.0008764241893076249
+Urticaria,nefazodone,1,1208,0.0008278145695364238
+Vision blurred,nefazodone,1,852,0.0011737089201877935
+Visual impairment,nefazodone,2,588,0.003401360544217687
+Vomiting,nefazodone,1,2145,0.0004662004662004662
+Weight decreased,nefazodone,4,1437,0.0027835768963117608
+Weight increased,nefazodone,1,2518,0.0003971405877680699
+Withdrawal hypertension,nefazodone,1,11,0.09090909090909091
+Withdrawal syndrome,nefazodone,11,889,0.012373453318335208

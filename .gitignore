@@ -1,7 +1,8 @@
 drugs/
 cluster_ADR.csv
 cluster_label.csv
-smiles.csv
 summary.csv
 ppr.csv
 .env
+data/
+img/

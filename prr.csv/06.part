@@ -1,0 +1,1603 @@
+pt,prod_ai,no_reactions,total,prr
+Abasia,doxepin,15,1659,0.009041591320072333
+Abdominal abscess,doxepin,3,237,0.012658227848101266
+Abdominal adhesions,doxepin,3,299,0.010033444816053512
+Abdominal discomfort,doxepin,180,14497,0.012416362005932262
+Abdominal distension,doxepin,84,7202,0.0116634268258817
+Abdominal hernia,doxepin,3,550,0.005454545454545455
+Abdominal mass,doxepin,3,105,0.02857142857142857
+Abdominal neoplasm,doxepin,1,32,0.03125
+Abdominal operation,doxepin,2,71,0.028169014084507043
+Abdominal pain,doxepin,177,16090,0.011000621504039776
+Abdominal pain lower,doxepin,8,1175,0.006808510638297872
+Abdominal pain upper,doxepin,157,12523,0.012536932045037131
+Abdominal symptom,doxepin,3,43,0.06976744186046512
+Abnormal behaviour,doxepin,59,6284,0.009388924252068746
+Abnormal dreams,doxepin,29,4505,0.006437291897891232
+Abnormal faeces,doxepin,3,429,0.006993006993006993
+Abnormal loss of weight,doxepin,4,662,0.006042296072507553
+Abnormal sensation in eye,doxepin,2,184,0.010869565217391304
+Abnormal sleep-related event,doxepin,4,323,0.01238390092879257
+Abnormal weight gain,doxepin,4,906,0.004415011037527594
+Abortion induced,doxepin,1,283,0.0035335689045936395
+Abortion spontaneous,doxepin,8,2003,0.00399400898652022
+Abscess,doxepin,17,802,0.02119700748129676
+Abscess limb,doxepin,6,316,0.0189873417721519
+Abscess neck,doxepin,7,52,0.1346153846153846
+Abscess oral,doxepin,1,91,0.01098901098901099
+Abulia,doxepin,1,452,0.0022123893805309734
+Acarodermatitis,doxepin,1,113,0.008849557522123894
+Accident,doxepin,17,802,0.02119700748129676
+Accidental death,doxepin,7,388,0.01804123711340206
+Accidental exposure to product,doxepin,13,1296,0.010030864197530864
+Accidental overdose,doxepin,45,2453,0.018344883815735832
+Accidental poisoning,doxepin,2,152,0.013157894736842105
+Accidental underdose,doxepin,1,87,0.011494252873563218
+Acetabulum fracture,doxepin,1,111,0.009009009009009009
+Achromotrichia acquired,doxepin,1,3,0.3333333333333333
+Acidosis,doxepin,19,573,0.03315881326352531
+Acne,doxepin,27,2209,0.012222725215029425
+Acne cystic,doxepin,2,127,0.015748031496062992
+Acquired corneal dystrophy,doxepin,1,5,0.2
+Acquired gene mutation,doxepin,1,17,0.058823529411764705
+Acrochordon,doxepin,2,117,0.017094017094017096
+Acrochordon excision,doxepin,2,2,1.0
+Actinic elastosis,doxepin,6,15,0.4
+Actinic keratosis,doxepin,4,144,0.027777777777777776
+Activated partial thromboplastin time prolonged,doxepin,9,214,0.04205607476635514
+Activities of daily living impaired,doxepin,9,1625,0.005538461538461538
+Acute chest syndrome,doxepin,2,9,0.2222222222222222
+Acute coronary syndrome,doxepin,7,442,0.01583710407239819
+Acute generalised exanthematous pustulosis,doxepin,2,373,0.005361930294906166
+Acute hepatic failure,doxepin,24,610,0.03934426229508197
+Acute kidney injury,doxepin,415,23399,0.01773580067524253
+Acute lung injury,doxepin,11,77,0.14285714285714285
+Acute myeloid leukaemia,doxepin,6,286,0.02097902097902098
+Acute myocardial infarction,doxepin,7,1205,0.005809128630705394
+Acute prerenal failure,doxepin,1,44,0.022727272727272728
+Acute psychosis,doxepin,1,424,0.0023584905660377358
+Acute respiratory distress syndrome,doxepin,13,922,0.014099783080260303
+Acute respiratory failure,doxepin,39,1222,0.031914893617021274
+Adenocarcinoma gastric,doxepin,5,102,0.049019607843137254
+Adenocarcinoma of colon,doxepin,1,88,0.011363636363636364
+Adenocarcinoma pancreas,doxepin,1,62,0.016129032258064516
+Adenoidal disorder,doxepin,2,11,0.18181818181818182
+Adhesion,doxepin,1,69,0.014492753623188406
+Adjustment disorder,doxepin,1,243,0.00411522633744856
+Adjustment disorder with depressed mood,doxepin,4,222,0.018018018018018018
+Administration site dryness,doxepin,1,2,0.5
+Administration site scar,doxepin,1,5,0.2
+Adnexa uteri mass,doxepin,6,25,0.24
+Adrenal disorder,doxepin,3,96,0.03125
+Adrenal insufficiency,doxepin,4,777,0.005148005148005148
+Adverse drug reaction,doxepin,22,4524,0.004862953138815208
+Adverse event,doxepin,40,3941,0.010149708195889368
+Adverse event following immunisation,doxepin,2,28,0.07142857142857142
+Adverse food reaction,doxepin,1,29,0.034482758620689655
+Adverse reaction,doxepin,6,533,0.01125703564727955
+Affect lability,doxepin,2,6072,0.00032938076416337287
+Affective disorder,doxepin,102,1853,0.05504587155963303
+Age-related macular degeneration,doxepin,3,169,0.01775147928994083
+Ageusia,doxepin,10,1179,0.008481764206955046
+Aggression,doxepin,44,6601,0.006665656718678988
+Agitation,doxepin,33,12595,0.0026200873362445414
+Agranulocytosis,doxepin,2,1009,0.0019821605550049554
+Akathisia,doxepin,7,3096,0.0022609819121447027
+Akinesia,doxepin,7,318,0.0220125786163522
+Alanine aminotransferase abnormal,doxepin,1,300,0.0033333333333333335
+Alanine aminotransferase decreased,doxepin,1,74,0.013513513513513514
+Alanine aminotransferase increased,doxepin,5,2960,0.0016891891891891893
+Albumin globulin ratio decreased,doxepin,1,17,0.058823529411764705
+Albuminuria,doxepin,13,31,0.41935483870967744
+Alcohol abuse,doxepin,7,504,0.013888888888888888
+Alcohol detoxification,doxepin,2,5,0.4
+Alcohol poisoning,doxepin,1,347,0.002881844380403458
+Alcohol use,doxepin,8,257,0.0311284046692607
+Alcohol withdrawal syndrome,doxepin,1,112,0.008928571428571428
+Alcoholic seizure,doxepin,1,10,0.1
+Alcoholism,doxepin,8,560,0.014285714285714285
+Allergic cough,doxepin,1,65,0.015384615384615385
+Allergic oedema,doxepin,4,78,0.05128205128205128
+Allergic reaction to excipient,doxepin,1,101,0.009900990099009901
+Allergy to animal,doxepin,5,121,0.04132231404958678
+Allergy to plants,doxepin,5,45,0.1111111111111111
+Alopecia,doxepin,126,13201,0.009544731459737898
+Alopecia totalis,doxepin,1,10,0.1
+Altered state of consciousness,doxepin,6,2218,0.002705139765554554
+Altered visual depth perception,doxepin,1,80,0.0125
+Amenorrhoea,doxepin,2,610,0.003278688524590164
+Amino acid level decreased,doxepin,2,42,0.047619047619047616
+Ammonia abnormal,doxepin,1,25,0.04
+Ammonia increased,doxepin,2,214,0.009345794392523364
+Amnesia,doxepin,63,5868,0.010736196319018405
+Amnestic disorder,doxepin,3,50,0.06
+Amylase decreased,doxepin,1,2,0.5
+Anaemia,doxepin,72,8359,0.008613470510826653
+Anaesthetic complication,doxepin,1,79,0.012658227848101266
+Anal fistula,doxepin,17,136,0.125
+Anal haemorrhage,doxepin,2,108,0.018518518518518517
+Anal incontinence,doxepin,9,770,0.011688311688311689
+Anal pruritus,doxepin,1,45,0.022222222222222223
+Analgesic drug level below therapeutic,doxepin,1,3,0.3333333333333333
+Anaphylactic reaction,doxepin,73,2181,0.033470884915176524
+Anaphylactic shock,doxepin,7,664,0.010542168674698794
+Androgens decreased,doxepin,1,6,0.16666666666666666
+Aneurysm,doxepin,4,234,0.017094017094017096
+Anger,doxepin,20,3376,0.005924170616113744
+Angina pectoris,doxepin,37,1254,0.029505582137161084
+Angioedema,doxepin,47,1702,0.027614571092831962
+Angiopathy,doxepin,3,148,0.02027027027027027
+Angiotensin converting enzyme increased,doxepin,2,5,0.4
+Angular cheilitis,doxepin,1,45,0.022222222222222223
+Anhedonia,doxepin,52,2717,0.019138755980861243
+Animal bite,doxepin,1,208,0.004807692307692308
+Animal scratch,doxepin,1,89,0.011235955056179775
+Anion gap increased,doxepin,1,66,0.015151515151515152
+Ankle fracture,doxepin,19,1678,0.01132300357568534
+Ankyloglossia congenital,doxepin,1,55,0.01818181818181818
+Ankylosing spondylitis,doxepin,5,875,0.005714285714285714
+Anorectal discomfort,doxepin,5,74,0.06756756756756757
+Anterograde amnesia,doxepin,2,82,0.024390243902439025
+Anti-neutrophil cytoplasmic antibody positive vasculitis,doxepin,2,71,0.028169014084507043
+Anti-thyroid antibody positive,doxepin,5,35,0.14285714285714285
+Antibiotic therapy,doxepin,3,60,0.05
+Anticholinergic syndrome,doxepin,9,674,0.013353115727002967
+Anticoagulation drug level above therapeutic,doxepin,1,69,0.014492753623188406
+Antidepressant drug level above therapeutic,doxepin,1,93,0.010752688172043012
+Antidepressant drug level decreased,doxepin,2,13,0.15384615384615385
+Antidepressant drug level increased,doxepin,4,110,0.03636363636363636
+Antinuclear antibody positive,doxepin,1,131,0.007633587786259542
+Antiphospholipid syndrome,doxepin,1,73,0.0136986301369863
+Antipsychotic drug level above therapeutic,doxepin,5,247,0.020242914979757085
+Antisocial behaviour,doxepin,1,124,0.008064516129032258
+Anxiety,doxepin,313,30085,0.010403855742064151
+Anxiety disorder,doxepin,3,595,0.005042016806722689
+Aortic aneurysm,doxepin,14,315,0.044444444444444446
+Aortic arteriosclerosis,doxepin,4,136,0.029411764705882353
+Aortic disorder,doxepin,1,27,0.037037037037037035
+Aortic valve stenosis,doxepin,2,109,0.01834862385321101
+Aortogram abnormal,doxepin,1,1,1.0
+Apathy,doxepin,13,1606,0.00809464508094645
+Aphasia,doxepin,7,1874,0.003735325506937033
+Aphonia,doxepin,9,696,0.01293103448275862
+Aphthous ulcer,doxepin,2,481,0.004158004158004158
+Apnoea,doxepin,8,596,0.013422818791946308
+Apnoea test abnormal,doxepin,1,5,0.2
+Apparent death,doxepin,1,219,0.0045662100456621
+Appendicectomy,doxepin,2,184,0.010869565217391304
+Appendicitis,doxepin,3,340,0.008823529411764706
+Appendix disorder,doxepin,1,47,0.02127659574468085
+Appetite disorder,doxepin,2,441,0.0045351473922902496
+Application site burn,doxepin,2,186,0.010752688172043012
+Application site discolouration,doxepin,3,117,0.02564102564102564
+Application site erosion,doxepin,1,38,0.02631578947368421
+Application site erythema,doxepin,4,492,0.008130081300813009
+Application site exfoliation,doxepin,1,23,0.043478260869565216
+Application site irritation,doxepin,1,80,0.0125
+Application site odour,doxepin,1,2,0.5
+Application site pain,doxepin,8,209,0.03827751196172249
+Application site reaction,doxepin,1,36,0.027777777777777776
+Aptyalism,doxepin,2,95,0.021052631578947368
+Arachnoiditis,doxepin,2,29,0.06896551724137931
+Arrhythmia,doxepin,38,2306,0.01647875108412836
+Arterial occlusive disease,doxepin,2,286,0.006993006993006993
+Arteriosclerosis,doxepin,6,395,0.015189873417721518
+Arteriosclerosis coronary artery,doxepin,1,585,0.0017094017094017094
+Arteriospasm coronary,doxepin,1,91,0.01098901098901099
+Arteriovenous fistula,doxepin,1,11,0.09090909090909091
+Arteriovenous fistula occlusion,doxepin,1,3,0.3333333333333333
+Arteriovenous fistula thrombosis,doxepin,1,6,0.16666666666666666
+Arthralgia,doxepin,203,19575,0.01037037037037037
+Arthritis,doxepin,52,3709,0.01401995146939876
+Arthritis infective,doxepin,4,186,0.021505376344086023
+Arthropathy,doxepin,33,2120,0.015566037735849057
+Arthropod bite,doxepin,7,341,0.020527859237536656
+Arthroscopy,doxepin,1,28,0.03571428571428571
+Ascites,doxepin,4,464,0.008620689655172414
+Aspartate aminotransferase decreased,doxepin,1,21,0.047619047619047616
+Aspartate aminotransferase increased,doxepin,15,380,0.039473684210526314
+Aspergilloma,doxepin,1,5,0.2
+Aspergillus infection,doxepin,1,78,0.01282051282051282
+Aspiration,doxepin,6,901,0.006659267480577136
+Asthenia,doxepin,185,15885,0.01164620711362921
+Asthenopia,doxepin,3,221,0.013574660633484163
+Asthma,doxepin,108,6690,0.016143497757847534
+Ataxia,doxepin,14,606,0.0231023102310231
+Atelectasis,doxepin,4,238,0.01680672268907563
+Atonic urinary bladder,doxepin,1,6,0.16666666666666666
+Atrial fibrillation,doxepin,31,3425,0.009051094890510949
+Atrial tachycardia,doxepin,1,63,0.015873015873015872
+Atrial thrombosis,doxepin,2,20,0.1
+Atrioventricular block,doxepin,1,315,0.0031746031746031746
+Atrioventricular block first degree,doxepin,3,341,0.008797653958944282
+Attention deficit hyperactivity disorder,doxepin,2,104,0.019230769230769232
+Attention deficit/hyperactivity disorder,doxepin,3,390,0.007692307692307693
+Atypical femur fracture,doxepin,1,90,0.011111111111111112
+Atypical mycobacterial infection,doxepin,1,5,0.2
+Atypical pneumonia,doxepin,2,169,0.011834319526627219
+Auditory disorder,doxepin,1,49,0.02040816326530612
+Autism spectrum disorder,doxepin,1,254,0.003937007874015748
+Autoimmune disorder,doxepin,1,351,0.002849002849002849
+Autoimmune hepatitis,doxepin,3,252,0.011904761904761904
+Autoimmune thyroiditis,doxepin,5,237,0.02109704641350211
+Autonomic nervous system imbalance,doxepin,30,376,0.0797872340425532
+Autonomic neuropathy,doxepin,4,66,0.06060606060606061
+Azotaemia,doxepin,3,50,0.06
+B-lymphocyte count increased,doxepin,4,16,0.25
+Back disorder,doxepin,25,1055,0.023696682464454975
+Back injury,doxepin,9,648,0.013888888888888888
+Back pain,doxepin,95,8125,0.011692307692307693
+Bacteraemia,doxepin,6,318,0.018867924528301886
+Bacterial infection,doxepin,14,488,0.028688524590163935
+Bacterial test,doxepin,1,9,0.1111111111111111
+Bacterial test positive,doxepin,2,88,0.022727272727272728
+Balance disorder,doxepin,70,7162,0.009773806199385646
+Balanoposthitis,doxepin,1,17,0.058823529411764705
+Barrett's oesophagus,doxepin,7,129,0.05426356589147287
+Basal cell carcinoma,doxepin,4,619,0.006462035541195477
+Basophil count increased,doxepin,1,23,0.043478260869565216
+Bedridden,doxepin,6,586,0.010238907849829351
+Bell's palsy,doxepin,1,33,0.030303030303030304
+Benign breast neoplasm,doxepin,1,32,0.03125
+Benign prostatic hyperplasia,doxepin,4,200,0.02
+Bickerstaff's encephalitis,doxepin,1,3,0.3333333333333333
+Bile duct obstruction,doxepin,2,94,0.02127659574468085
+Biliary tract disorder,doxepin,1,21,0.047619047619047616
+Biliary tract infection,doxepin,1,8,0.125
+Binge eating,doxepin,1,149,0.006711409395973154
+Biopsy bone marrow abnormal,doxepin,1,7,0.14285714285714285
+Biopsy pharynx,doxepin,1,1,1.0
+Bipolar I disorder,doxepin,1,263,0.0038022813688212928
+Bipolar II disorder,doxepin,1,122,0.00819672131147541
+Bipolar disorder,doxepin,4,1272,0.0031446540880503146
+Bladder cancer,doxepin,25,253,0.09881422924901186
+Bladder cancer recurrent,doxepin,1,18,0.05555555555555555
+Bladder cyst,doxepin,4,13,0.3076923076923077
+Bladder dilatation,doxepin,8,101,0.07920792079207921
+Bladder discomfort,doxepin,1,56,0.017857142857142856
+Bladder disorder,doxepin,10,512,0.01953125
+Bladder dysfunction,doxepin,1,27,0.037037037037037035
+Bladder mass,doxepin,2,13,0.15384615384615385
+Bladder operation,doxepin,1,56,0.017857142857142856
+Bladder pain,doxepin,1,141,0.0070921985815602835
+Bladder spasm,doxepin,8,97,0.08247422680412371
+Blastocystis infection,doxepin,1,3,0.3333333333333333
+Blepharitis,doxepin,2,72,0.027777777777777776
+Blepharospasm,doxepin,1,314,0.0031847133757961785
+Blindness,doxepin,7,974,0.007186858316221766
+Blindness transient,doxepin,1,205,0.004878048780487805
+Blindness unilateral,doxepin,7,419,0.016706443914081145
+Blister,doxepin,35,1764,0.01984126984126984
+Blister rupture,doxepin,2,9,0.2222222222222222
+Blood albumin decreased,doxepin,1,85,0.011764705882352941
+Blood alkaline phosphatase increased,doxepin,8,336,0.023809523809523808
+Blood bilirubin increased,doxepin,3,482,0.006224066390041493
+Blood calcium decreased,doxepin,4,682,0.005865102639296188
+Blood calcium increased,doxepin,1,173,0.005780346820809248
+Blood cholesterol decreased,doxepin,3,38,0.07894736842105263
+Blood cholesterol increased,doxepin,23,1843,0.012479652740097666
+Blood citric acid decreased,doxepin,2,6,0.3333333333333333
+Blood count abnormal,doxepin,3,649,0.004622496147919877
+Blood creatine phosphokinase increased,doxepin,3,1404,0.002136752136752137
+Blood creatinine decreased,doxepin,1,67,0.014925373134328358
+Blood creatinine increased,doxepin,25,1595,0.01567398119122257
+Blood disorder,doxepin,4,224,0.017857142857142856
+Blood electrolytes decreased,doxepin,1,36,0.027777777777777776
+Blood ethanol increased,doxepin,5,18,0.2777777777777778
+Blood glucose abnormal,doxepin,7,462,0.015151515151515152
+Blood glucose decreased,doxepin,5,923,0.005417118093174431
+Blood glucose fluctuation,doxepin,1,299,0.0033444816053511705
+Blood glucose increased,doxepin,28,2803,0.009989297181591153
+Blood immunoglobulin A decreased,doxepin,1,17,0.058823529411764705
+Blood immunoglobulin E increased,doxepin,1,50,0.02
+Blood immunoglobulin G decreased,doxepin,2,55,0.03636363636363636
+Blood immunoglobulin G increased,doxepin,3,47,0.06382978723404255
+Blood iron decreased,doxepin,1,384,0.0026041666666666665
+Blood iron increased,doxepin,1,25,0.04
+Blood lactate dehydrogenase abnormal,doxepin,1,4,0.25
+Blood loss anaemia,doxepin,2,157,0.012738853503184714
+Blood magnesium abnormal,doxepin,1,11,0.09090909090909091
+Blood magnesium decreased,doxepin,2,379,0.005277044854881266
+Blood mercury abnormal,doxepin,2,4,0.5
+Blood phosphorus decreased,doxepin,1,68,0.014705882352941176
+Blood phosphorus increased,doxepin,2,24,0.08333333333333333
+Blood potassium abnormal,doxepin,1,72,0.013888888888888888
+Blood potassium decreased,doxepin,4,916,0.004366812227074236
+Blood potassium increased,doxepin,4,437,0.009153318077803204
+Blood pressure abnormal,doxepin,6,771,0.007782101167315175
+Blood pressure decreased,doxepin,23,1841,0.012493210211841391
+Blood pressure diastolic decreased,doxepin,3,300,0.01
+Blood pressure fluctuation,doxepin,9,1371,0.006564551422319475
+Blood pressure inadequately controlled,doxepin,1,79,0.012658227848101266
+Blood pressure increased,doxepin,107,6102,0.017535234349393643
+Blood pressure systolic increased,doxepin,37,515,0.07184466019417475
+Blood sodium decreased,doxepin,3,568,0.00528169014084507
+Blood test abnormal,doxepin,34,335,0.10149253731343283
+Blood testosterone decreased,doxepin,1,227,0.004405286343612335
+Blood thyroid stimulating hormone,doxepin,1,3,0.3333333333333333
+Blood thyroid stimulating hormone decreased,doxepin,1,90,0.011111111111111112
+Blood triglycerides decreased,doxepin,1,4,0.25
+Blood triglycerides increased,doxepin,4,291,0.013745704467353952
+Blood uric acid increased,doxepin,2,88,0.022727272727272728
+Blood urine present,doxepin,6,496,0.012096774193548387
+Body height decreased,doxepin,3,633,0.004739336492890996
+Body mass index increased,doxepin,3,75,0.04
+Body temperature decreased,doxepin,4,196,0.02040816326530612
+Body temperature fluctuation,doxepin,2,73,0.0273972602739726
+Body temperature increased,doxepin,12,665,0.01804511278195489
+Body tinea,doxepin,1,90,0.011111111111111112
+Bone demineralisation,doxepin,1,25,0.04
+Bone density abnormal,doxepin,9,49,0.1836734693877551
+Bone density decreased,doxepin,3,257,0.011673151750972763
+Bone disorder,doxepin,3,336,0.008928571428571428
+Bone erosion,doxepin,1,40,0.025
+Bone marrow disorder,doxepin,1,49,0.02040816326530612
+Bone marrow failure,doxepin,1,302,0.0033112582781456954
+Bone neoplasm,doxepin,1,28,0.03571428571428571
+Bone pain,doxepin,6,848,0.007075471698113208
+Borderline personality disorder,doxepin,1,101,0.009900990099009901
+Bowel movement irregularity,doxepin,6,183,0.03278688524590164
+Bradycardia,doxepin,45,3517,0.01279499573500142
+Bradyphrenia,doxepin,3,920,0.003260869565217391
+Brain contusion,doxepin,2,49,0.04081632653061224
+Brain death,doxepin,4,205,0.01951219512195122
+Brain hypoxia,doxepin,1,51,0.0196078431372549
+Brain injury,doxepin,10,609,0.016420361247947456
+Brain natriuretic peptide increased,doxepin,4,28,0.14285714285714285
+Brain neoplasm,doxepin,2,248,0.008064516129032258
+Brain oedema,doxepin,50,393,0.1272264631043257
+Brain stem stroke,doxepin,2,22,0.09090909090909091
+Breast abscess,doxepin,1,51,0.0196078431372549
+Breast cancer,doxepin,27,1699,0.015891701000588582
+Breast cancer female,doxepin,1,243,0.00411522633744856
+Breast cancer metastatic,doxepin,3,190,0.015789473684210527
+Breast cancer recurrent,doxepin,2,56,0.03571428571428571
+Breast cancer stage III,doxepin,1,40,0.025
+Breast discomfort,doxepin,1,46,0.021739130434782608
+Breast disorder,doxepin,2,131,0.015267175572519083
+Breast enlargement,doxepin,2,134,0.014925373134328358
+Breast pain,doxepin,2,330,0.006060606060606061
+Breast swelling,doxepin,1,45,0.022222222222222223
+Bronchial hyperreactivity,doxepin,10,63,0.15873015873015872
+Bronchiectasis,doxepin,3,308,0.00974025974025974
+Bronchitis,doxepin,54,3621,0.014913007456503728
+Bronchitis chronic,doxepin,3,105,0.02857142857142857
+Bronchospasm,doxepin,7,328,0.021341463414634148
+Brugada syndrome,doxepin,23,204,0.11274509803921569
+Bruxism,doxepin,3,955,0.0031413612565445027
+Bundle branch block left,doxepin,7,224,0.03125
+Bundle branch block right,doxepin,7,237,0.029535864978902954
+Burkitt's lymphoma,doxepin,2,4,0.5
+Burn oral cavity,doxepin,1,27,0.037037037037037035
+Burning sensation,doxepin,51,2609,0.019547719432732848
+Burns second degree,doxepin,1,31,0.03225806451612903
+Bursitis,doxepin,4,488,0.00819672131147541
+Buttock injury,doxepin,3,18,0.16666666666666666
+C-reactive protein abnormal,doxepin,4,83,0.04819277108433735
+C-reactive protein increased,doxepin,3,516,0.005813953488372093
+COVID-19,doxepin,46,5340,0.008614232209737827
+COVID-19 immunisation,doxepin,1,22,0.045454545454545456
+COVID-19 pneumonia,doxepin,2,424,0.0047169811320754715
+Caesarean section,doxepin,3,383,0.007832898172323759
+Calciphylaxis,doxepin,1,15,0.06666666666666667
+Calcium ionised increased,doxepin,1,2,0.5
+Cancer surgery,doxepin,1,28,0.03571428571428571
+Candida infection,doxepin,6,589,0.010186757215619695
+Candida sepsis,doxepin,1,8,0.125
+Carbuncle,doxepin,1,5,0.2
+Cardiac aneurysm,doxepin,11,39,0.28205128205128205
+Cardiac arrest,doxepin,110,4297,0.025599255294391436
+Cardiac discomfort,doxepin,3,74,0.04054054054054054
+Cardiac disorder,doxepin,22,1766,0.01245753114382786
+Cardiac dysfunction,doxepin,5,64,0.078125
+Cardiac failure,doxepin,36,1781,0.02021336327905671
+Cardiac failure acute,doxepin,4,163,0.024539877300613498
+Cardiac failure congestive,doxepin,8,1435,0.005574912891986063
+Cardiac flutter,doxepin,6,202,0.0297029702970297
+Cardiac hypertrophy,doxepin,2,48,0.041666666666666664
+Cardiac infection,doxepin,1,18,0.05555555555555555
+Cardiac pacemaker adjustment,doxepin,1,2,0.5
+Cardiac pacemaker replacement,doxepin,1,19,0.05263157894736842
+Cardiac valve disease,doxepin,2,115,0.017391304347826087
+Cardio-respiratory arrest,doxepin,146,4099,0.03561844352281044
+Cardiogenic shock,doxepin,7,567,0.012345679012345678
+Cardiomegaly,doxepin,4,229,0.017467248908296942
+Cardiomyopathy,doxepin,3,272,0.011029411764705883
+Cardiotoxicity,doxepin,2,205,0.00975609756097561
+Cardiovascular disorder,doxepin,1,272,0.003676470588235294
+Cardiovascular symptom,doxepin,1,31,0.03225806451612903
+Carotid artery occlusion,doxepin,1,51,0.0196078431372549
+Carpal tunnel syndrome,doxepin,4,619,0.006462035541195477
+Cataplexy,doxepin,6,616,0.00974025974025974
+Cataract,doxepin,30,1677,0.017889087656529516
+Cataract operation,doxepin,2,111,0.018018018018018018
+Cataract traumatic,doxepin,2,2,1.0
+Catheter placement,doxepin,3,44,0.06818181818181818
+Catheter site swelling,doxepin,1,17,0.058823529411764705
+Catheterisation cardiac,doxepin,1,80,0.0125
+Cellulitis,doxepin,23,1773,0.012972363226170333
+Cellulitis gangrenous,doxepin,2,5,0.4
+Central nervous system lesion,doxepin,9,524,0.01717557251908397
+Central pain syndrome,doxepin,1,12,0.08333333333333333
+Central venous catheterisation,doxepin,1,67,0.014925373134328358
+Cerebral disorder,doxepin,4,450,0.008888888888888889
+Cerebral haemorrhage,doxepin,10,1339,0.0074682598954443615
+Cerebral infarction,doxepin,2,387,0.00516795865633075
+Cerebral thrombosis,doxepin,1,52,0.019230769230769232
+Cerebral vasoconstriction,doxepin,1,36,0.027777777777777776
+Cerebrovascular accident,doxepin,40,3539,0.011302627860977677
+Cerumen impaction,doxepin,1,10,0.1
+Cervical dysplasia,doxepin,1,45,0.022222222222222223
+Cervical incompetence,doxepin,6,66,0.09090909090909091
+Cervical vertebral fracture,doxepin,2,179,0.0111731843575419
+Cervix carcinoma stage 0,doxepin,1,17,0.058823529411764705
+Change in seizure presentation,doxepin,2,58,0.034482758620689655
+Cheilitis,doxepin,1,135,0.007407407407407408
+Chemical injury,doxepin,1,13,0.07692307692307693
+Chemotherapy,doxepin,3,56,0.05357142857142857
+Chest discomfort,doxepin,12,2503,0.004794246903715541
+Chest pain,doxepin,44,4011,0.010969832959361756
+Child-Pugh-Turcotte score increased,doxepin,1,3,0.3333333333333333
+Chills,doxepin,22,2640,0.008333333333333333
+Choanal atresia,doxepin,1,7,0.14285714285714285
+Choking,doxepin,6,576,0.010416666666666666
+Cholangitis sclerosing,doxepin,3,44,0.06818181818181818
+Cholecystectomy,doxepin,9,363,0.024793388429752067
+Cholecystitis,doxepin,2,235,0.00851063829787234
+Cholecystitis infective,doxepin,6,62,0.0967741935483871
+Cholelithiasis,doxepin,7,688,0.010174418604651164
+Cholestasis,doxepin,2,1091,0.0018331805682859762
+Cholinergic syndrome,doxepin,1,33,0.030303030303030304
+Chorea,doxepin,1,155,0.0064516129032258064
+Chromaturia,doxepin,3,457,0.006564551422319475
+Chromophobe renal cell carcinoma,doxepin,2,2,1.0
+Chronic gastritis,doxepin,5,86,0.05813953488372093
+Chronic kidney disease,doxepin,325,10392,0.03127405696689761
+Chronic lymphocytic leukaemia,doxepin,1,97,0.010309278350515464
+Chronic myeloid leukaemia,doxepin,1,59,0.01694915254237288
+Chronic obstructive pulmonary disease,doxepin,9,1524,0.005905511811023622
+Chronic sinusitis,doxepin,5,144,0.034722222222222224
+Chronic spontaneous urticaria,doxepin,19,54,0.35185185185185186
+Circadian rhythm sleep disorder,doxepin,2,36,0.05555555555555555
+Circulatory collapse,doxepin,10,801,0.012484394506866416
+Circumstance or information capable of leading to medication error,doxepin,3,322,0.009316770186335404
+Clavicle fracture,doxepin,2,204,0.00980392156862745
+Clonus,doxepin,1,360,0.002777777777777778
+Clostridium difficile colitis,doxepin,1,422,0.002369668246445498
+Clostridium difficile infection,doxepin,5,907,0.005512679162072767
+Coagulation time shortened,doxepin,1,7,0.14285714285714285
+Coagulopathy,doxepin,3,306,0.00980392156862745
+Coeliac disease,doxepin,5,555,0.009009009009009009
+Cognitive disorder,doxepin,11,2731,0.004027828634199927
+Cold sweat,doxepin,1,610,0.001639344262295082
+Colectomy,doxepin,3,81,0.037037037037037035
+Colitis,doxepin,9,1183,0.0076077768385460695
+Colitis ischaemic,doxepin,1,402,0.0024875621890547263
+Colitis microscopic,doxepin,3,1063,0.0028222013170272815
+Colitis ulcerative,doxepin,7,961,0.007284079084287201
+Colon cancer,doxepin,3,243,0.012345679012345678
+Colon neoplasm,doxepin,1,17,0.058823529411764705
+Colon operation,doxepin,1,40,0.025
+Colonoscopy,doxepin,1,72,0.013888888888888888
+Colostomy closure,doxepin,1,5,0.2
+Coma,doxepin,40,6481,0.006171887054466903
+Completed suicide,doxepin,483,18279,0.026423764976202198
+Complex partial seizures,doxepin,2,36,0.05555555555555555
+Complex regional pain syndrome,doxepin,2,109,0.01834862385321101
+Complication associated with device,doxepin,1,265,0.0037735849056603774
+Complication of device insertion,doxepin,1,349,0.0028653295128939827
+Complications of transplanted kidney,doxepin,1,12,0.08333333333333333
+Compulsive hoarding,doxepin,1,26,0.038461538461538464
+Compulsive lip biting,doxepin,1,6,0.16666666666666666
+Compulsive sexual behaviour,doxepin,2,72,0.027777777777777776
+Compulsive shopping,doxepin,2,150,0.013333333333333334
+Concomitant disease aggravated,doxepin,1,119,0.008403361344537815
+Concussion,doxepin,9,507,0.01775147928994083
+Condition aggravated,doxepin,120,12103,0.009914897132942246
+Conduction disorder,doxepin,1,41,0.024390243902439025
+Confusional arousal,doxepin,1,23,0.043478260869565216
+Confusional state,doxepin,46,8039,0.005722104739395447
+Congenital diaphragmatic hernia,doxepin,1,35,0.02857142857142857
+Congenital hydronephrosis,doxepin,7,97,0.07216494845360824
+Congestive cardiomyopathy,doxepin,1,114,0.008771929824561403
+Conjunctival hyperaemia,doxepin,3,41,0.07317073170731707
+Conjunctivitis,doxepin,18,550,0.03272727272727273
+Connective tissue disorder,doxepin,2,25,0.08
+Constipation,doxepin,89,7743,0.011494252873563218
+Contraindicated drug administered,doxepin,1,80,0.0125
+Contraindicated product administered,doxepin,13,1672,0.00777511961722488
+Contraindication to medical treatment,doxepin,1,20,0.05
+Contusion,doxepin,42,2928,0.014344262295081968
+Convulsion,doxepin,1,128,0.0078125
+Coordination abnormal,doxepin,2,287,0.006968641114982578
+Cor pulmonale,doxepin,1,6,0.16666666666666666
+Corneal abrasion,doxepin,3,38,0.07894736842105263
+Corneal oedema,doxepin,1,30,0.03333333333333333
+Coronary artery bypass,doxepin,1,40,0.025
+Coronary artery disease,doxepin,5,225,0.022222222222222223
+Coronary artery occlusion,doxepin,1,206,0.0048543689320388345
+Coronary artery restenosis,doxepin,1,2,0.5
+Cough,doxepin,49,5339,0.009177748642067803
+Craniocerebral injury,doxepin,2,155,0.012903225806451613
+Creutzfeldt-Jakob disease,doxepin,3,27,0.1111111111111111
+Crohn's disease,doxepin,11,1856,0.005926724137931034
+Crying,doxepin,9,2514,0.003579952267303103
+Cryopyrin associated periodic syndrome,doxepin,1,4,0.25
+Cubital tunnel syndrome,doxepin,1,9,0.1111111111111111
+Cutaneous T-cell lymphoma,doxepin,4,21,0.19047619047619047
+Cyst,doxepin,1,265,0.0037735849056603774
+Cystic fibrosis,doxepin,1,236,0.00423728813559322
+Cystitis,doxepin,9,1096,0.008211678832116789
+Cystitis interstitial,doxepin,1,92,0.010869565217391304
+Cystitis noninfective,doxepin,2,19,0.10526315789473684
+Cytokine release syndrome,doxepin,3,225,0.013333333333333334
+Cytopenia,doxepin,1,154,0.006493506493506494
+Cytotoxic cardiomyopathy,doxepin,2,6,0.3333333333333333
+Dandruff,doxepin,1,24,0.041666666666666664
+Daydreaming,doxepin,1,47,0.02127659574468085
+Deafness,doxepin,10,549,0.018214936247723135
+Death,doxepin,240,17866,0.01343333706481585
+Decreased activity,doxepin,2,238,0.008403361344537815
+Decreased appetite,doxepin,51,4648,0.010972461273666093
+Decreased immune responsiveness,doxepin,2,137,0.014598540145985401
+Decreased interest,doxepin,3,278,0.01079136690647482
+Decubitus ulcer,doxepin,9,248,0.036290322580645164
+Deep vein thrombosis,doxepin,34,2225,0.015280898876404495
+Defaecation urgency,doxepin,1,94,0.010638297872340425
+Dehydration,doxepin,38,3088,0.012305699481865285
+Delayed recovery from anaesthesia,doxepin,1,23,0.043478260869565216
+Delirium,doxepin,14,2051,0.006825938566552901
+Delusion,doxepin,4,927,0.004314994606256742
+Dementia,doxepin,5,789,0.0063371356147021544
+Dementia Alzheimer's type,doxepin,1,200,0.005
+Dental care,doxepin,3,68,0.04411764705882353
+Dental caries,doxepin,6,324,0.018518518518518517
+Dental discomfort,doxepin,1,20,0.05
+Dental implantation,doxepin,1,31,0.03225806451612903
+Dental operation,doxepin,2,38,0.05263157894736842
+Dependence,doxepin,1,213,0.004694835680751174
+Depersonalisation,doxepin,3,18,0.16666666666666666
+Depressed level of consciousness,doxepin,221,3196,0.06914893617021277
+Depressed mood,doxepin,11,2480,0.004435483870967742
+Depression,doxepin,94,14880,0.006317204301075269
+Depression suicidal,doxepin,1,299,0.0033444816053511705
+Dermal cyst,doxepin,4,46,0.08695652173913043
+Dermatitis,doxepin,26,412,0.06310679611650485
+Dermatitis acneiform,doxepin,1,65,0.015384615384615385
+Dermatitis allergic,doxepin,9,537,0.01675977653631285
+Dermatitis atopic,doxepin,75,1208,0.062086092715231786
+Dermatitis contact,doxepin,3,236,0.012711864406779662
+Device breakage,doxepin,5,308,0.016233766233766232
+Device defective,doxepin,2,104,0.019230769230769232
+Device delivery system issue,doxepin,1,94,0.010638297872340425
+Device difficult to use,doxepin,3,206,0.014563106796116505
+Device dislocation,doxepin,1,1241,0.0008058017727639
+Device expulsion,doxepin,1,866,0.0011547344110854503
+Device issue,doxepin,24,1272,0.018867924528301886
+Device malfunction,doxepin,7,898,0.0077951002227171495
+Device misuse,doxepin,1,5,0.2
+Device occlusion,doxepin,1,140,0.007142857142857143
+Device related infection,doxepin,2,290,0.006896551724137931
+Device use confusion,doxepin,1,2,0.5
+Device use error,doxepin,2,111,0.018018018018018018
+Device use issue,doxepin,2,101,0.019801980198019802
+Diabetes mellitus,doxepin,9,1660,0.005421686746987952
+Diabetic dermopathy,doxepin,1,2,0.5
+Dialysis,doxepin,5,127,0.03937007874015748
+Diaphragmatic hernia,doxepin,1,8,0.125
+Diarrhoea,doxepin,132,13927,0.0094779923888849
+Diarrhoea haemorrhagic,doxepin,1,113,0.008849557522123894
+Diffuse cutaneous mastocytosis,doxepin,1,2,0.5
+Diffuse large B-cell lymphoma,doxepin,1,63,0.015873015873015872
+Diplopia,doxepin,2,734,0.0027247956403269754
+Disability,doxepin,16,462,0.03463203463203463
+Discharge,doxepin,1,20,0.05
+Discomfort,doxepin,29,990,0.029292929292929294
+Disease prodromal stage,doxepin,2,2,1.0
+Disease progression,doxepin,9,1795,0.005013927576601671
+Disease recurrence,doxepin,4,1389,0.0028797696184305254
+Disorientation,doxepin,4,1227,0.0032599837000814994
+Disseminated tuberculosis,doxepin,1,5,0.2
+Dissociation,doxepin,4,431,0.009280742459396751
+Disturbance in attention,doxepin,16,1671,0.009575104727707959
+Diverticulitis,doxepin,6,736,0.008152173913043478
+Diverticulitis oesophageal,doxepin,1,1,1.0
+Diverticulum,doxepin,1,69,0.014492753623188406
+Diverticulum intestinal,doxepin,4,45,0.08888888888888889
+Diverticulum intestinal haemorrhagic,doxepin,4,73,0.0547945205479452
+Dizziness,doxepin,145,14470,0.010020732550103663
+Dizziness postural,doxepin,6,236,0.025423728813559324
+Drooling,doxepin,6,239,0.02510460251046025
+Drug abuse,doxepin,138,8901,0.015503875968992248
+Drug administered at inappropriate site,doxepin,1,110,0.00909090909090909
+Drug administered to patient of inappropriate age,doxepin,1,158,0.006329113924050633
+Drug administration error,doxepin,5,588,0.008503401360544218
+Drug dependence,doxepin,28,2254,0.012422360248447204
+Drug dispensing error,doxepin,3,503,0.005964214711729622
+Drug diversion,doxepin,4,118,0.03389830508474576
+Drug dose omission,doxepin,43,4784,0.00898829431438127
+Drug dose titration not performed,doxepin,1,74,0.013513513513513514
+Drug effect decreased,doxepin,10,1363,0.007336757153338224
+Drug effect delayed,doxepin,1,99,0.010101010101010102
+Drug effect incomplete,doxepin,16,1805,0.00886426592797784
+Drug effect increased,doxepin,1,63,0.015873015873015872
+Drug effect less than expected,doxepin,2,168,0.011904761904761904
+Drug effective for unapproved indication,doxepin,5,348,0.014367816091954023
+Drug eruption,doxepin,2,444,0.0045045045045045045
+Drug hypersensitivity,doxepin,206,13219,0.015583629624026023
+Drug ineffective,doxepin,590,39294,0.015015015015015015
+Drug ineffective for unapproved indication,doxepin,68,2737,0.024844720496894408
+Drug interaction,doxepin,225,13502,0.01666419789660791
+Drug intolerance,doxepin,14,2251,0.006219458018658374
+Drug level below therapeutic,doxepin,1,40,0.025
+Drug level increased,doxepin,4,472,0.00847457627118644
+Drug prescribing error,doxepin,2,435,0.004597701149425287
+Drug reaction with eosinophilia and systemic symptoms,doxepin,4,1295,0.003088803088803089
+Drug resistance,doxepin,3,353,0.0084985835694051
+Drug screen false positive,doxepin,1,373,0.002680965147453083
+Drug screen negative,doxepin,2,78,0.02564102564102564
+Drug screen positive,doxepin,5,567,0.008818342151675485
+Drug titration error,doxepin,2,332,0.006024096385542169
+Drug tolerance,doxepin,2,195,0.010256410256410256
+Drug use disorder,doxepin,3,329,0.00911854103343465
+Drug withdrawal convulsions,doxepin,1,53,0.018867924528301886
+Drug withdrawal syndrome,doxepin,14,3060,0.004575163398692811
+Drug withdrawal syndrome neonatal,doxepin,23,997,0.023069207622868605
+Drug-genetic interaction,doxepin,7,93,0.07526881720430108
+Drug-induced liver injury,doxepin,10,1537,0.006506180871828237
+Dry age-related macular degeneration,doxepin,2,151,0.013245033112582781
+Dry eye,doxepin,11,836,0.013157894736842105
+Dry mouth,doxepin,23,1921,0.011972930765226444
+Dry skin,doxepin,15,1072,0.013992537313432836
+Dry throat,doxepin,3,86,0.03488372093023256
+Duodenal ulcer,doxepin,2,139,0.014388489208633094
+Dysarthria,doxepin,10,936,0.010683760683760684
+Dysfunctional uterine bleeding,doxepin,1,16,0.0625
+Dysgeusia,doxepin,12,1143,0.010498687664041995
+Dyskinesia,doxepin,7,1759,0.003979533826037522
+Dysmenorrhoea,doxepin,1,158,0.006329113924050633
+Dyspepsia,doxepin,17,1412,0.012039660056657223
+Dysphagia,doxepin,24,1637,0.014660965180207697
+Dysphemia,doxepin,2,260,0.007692307692307693
+Dysphonia,doxepin,6,1010,0.005940594059405941
+Dyspnoea,doxepin,102,7178,0.014210086375034828
+Dyspnoea exertional,doxepin,3,436,0.006880733944954129
+Dysstasia,doxepin,2,306,0.006535947712418301
+Dystonia,doxepin,2,798,0.002506265664160401
+Dysuria,doxepin,4,825,0.0048484848484848485
+Ear disorder,doxepin,3,68,0.04411764705882353
+Ear infection,doxepin,5,707,0.007072135785007072
+Ear infection fungal,doxepin,1,5,0.2
+Ear pain,doxepin,3,252,0.011904761904761904
+Ear pruritus,doxepin,2,43,0.046511627906976744
+Ectopic pregnancy,doxepin,1,40,0.025
+Eczema,doxepin,13,670,0.019402985074626865
+Ejection fraction abnormal,doxepin,1,14,0.07142857142857142
+Ejection fraction decreased,doxepin,1,115,0.008695652173913044
+Electrocardiogram QRS complex prolonged,doxepin,11,205,0.05365853658536585
+Electrocardiogram QT prolonged,doxepin,11,2734,0.004023408924652524
+Electrocardiogram T wave inversion,doxepin,1,20,0.05
+Electrolyte imbalance,doxepin,2,107,0.018691588785046728
+Embolism,doxepin,5,112,0.044642857142857144
+Emergency care,doxepin,1,37,0.02702702702702703
+Emotional disorder,doxepin,2,586,0.0034129692832764505
+Emotional distress,doxepin,7,767,0.009126466753585397
+Emphysema,doxepin,5,90,0.05555555555555555
+Encephalopathy,doxepin,6,794,0.007556675062972292
+End stage renal disease,doxepin,7,306,0.02287581699346405
+Endocarditis bacterial,doxepin,1,5,0.2
+Endocrine ophthalmopathy,doxepin,1,11,0.09090909090909091
+Endodontic procedure,doxepin,2,45,0.044444444444444446
+Endometrial cancer,doxepin,1,40,0.025
+Endometrial hyperplasia,doxepin,1,18,0.05555555555555555
+Endometrial neoplasm,doxepin,1,1,1.0
+Endometriosis,doxepin,6,181,0.03314917127071823
+Endophthalmitis,doxepin,1,33,0.030303030303030304
+Endotracheal intubation,doxepin,1,28,0.03571428571428571
+Enteritis infectious,doxepin,1,23,0.043478260869565216
+Enterocolitis,doxepin,3,90,0.03333333333333333
+Enzyme activity decreased,doxepin,3,6,0.5
+Eosinophil count increased,doxepin,1,72,0.013888888888888888
+Eosinophilia,doxepin,2,328,0.006097560975609756
+Epidermolysis bullosa,doxepin,1,2,0.5
+Epididymitis,doxepin,1,10,0.1
+Epilepsy,doxepin,7,1126,0.006216696269982238
+Epileptic encephalopathy,doxepin,1,6,0.16666666666666666
+Epistaxis,doxepin,9,1213,0.00741962077493817
+Epstein-Barr virus infection,doxepin,1,41,0.024390243902439025
+Erectile dysfunction,doxepin,6,908,0.006607929515418502
+Erection increased,doxepin,1,45,0.022222222222222223
+Erysipelas,doxepin,2,132,0.015151515151515152
+Erythema,doxepin,18,2008,0.008964143426294821
+Erythema multiforme,doxepin,1,209,0.004784688995215311
+Essential hypertension,doxepin,2,36,0.05555555555555555
+Essential tremor,doxepin,1,75,0.013333333333333334
+Excessive granulation tissue,doxepin,1,14,0.07142857142857142
+Exfoliative rash,doxepin,1,35,0.02857142857142857
+Exostosis of jaw,doxepin,1,11,0.09090909090909091
+Expired product administered,doxepin,10,446,0.02242152466367713
+Exposure during breast feeding,doxepin,5,267,0.018726591760299626
+Exposure during pregnancy,doxepin,20,3152,0.006345177664974619
+Exposure to toxic agent,doxepin,3,215,0.013953488372093023
+Exposure via breast milk,doxepin,4,383,0.010443864229765013
+Extra dose administered,doxepin,4,453,0.008830022075055188
+Eye discharge,doxepin,4,104,0.038461538461538464
+Eye disorder,doxepin,8,414,0.01932367149758454
+Eye haemorrhage,doxepin,1,125,0.008
+Eye infection,doxepin,2,184,0.010869565217391304
+Eye infection bacterial,doxepin,1,10,0.1
+Eye irritation,doxepin,9,445,0.020224719101123594
+Eye oedema,doxepin,1,11,0.09090909090909091
+Eye pain,doxepin,16,942,0.016985138004246284
+Eye pruritus,doxepin,8,223,0.03587443946188341
+Eye swelling,doxepin,4,388,0.010309278350515464
+Eyelid function disorder,doxepin,2,9,0.2222222222222222
+Eyelid margin crusting,doxepin,1,19,0.05263157894736842
+Eyelid oedema,doxepin,1,100,0.01
+Eyelid ptosis,doxepin,2,109,0.01834862385321101
+Face injury,doxepin,1,55,0.01818181818181818
+Face oedema,doxepin,4,198,0.020202020202020204
+Facial bones fracture,doxepin,3,126,0.023809523809523808
+Facial pain,doxepin,3,112,0.026785714285714284
+Faeces hard,doxepin,2,35,0.05714285714285714
+Fall,doxepin,94,11531,0.008151938253403868
+Fanconi syndrome acquired,doxepin,1,24,0.041666666666666664
+Fatigue,doxepin,103,12154,0.00847457627118644
+Fear,doxepin,2,230,0.008695652173913044
+Febrile neutropenia,doxepin,6,1110,0.005405405405405406
+Feeding disorder,doxepin,1,183,0.00546448087431694
+Feeding disorder neonatal,doxepin,6,48,0.125
+Feeding intolerance,doxepin,2,7,0.2857142857142857
+Feeling abnormal,doxepin,36,4445,0.008098987626546681
+Feeling cold,doxepin,3,228,0.013157894736842105
+Feeling drunk,doxepin,3,166,0.018072289156626505
+Feeling hot,doxepin,1,654,0.0015290519877675841
+Feeling jittery,doxepin,3,457,0.006564551422319475
+Female sterilisation,doxepin,1,10,0.1
+Femur fracture,doxepin,1,340,0.0029411764705882353
+Fibrocystic breast disease,doxepin,1,10,0.1
+Fibromyalgia,doxepin,3,773,0.0038809831824062097
+Fistula,doxepin,1,119,0.008403361344537815
+Flatulence,doxepin,6,363,0.01652892561983471
+Fluid imbalance,doxepin,3,16,0.1875
+Fluid retention,doxepin,7,662,0.010574018126888218
+Flushing,doxepin,9,1098,0.00819672131147541
+Foetal arrhythmia,doxepin,1,11,0.09090909090909091
+Foetal exposure during pregnancy,doxepin,27,4277,0.006312836100070143
+Foetal heart rate abnormal,doxepin,1,8,0.125
+Foetal monitoring abnormal,doxepin,3,17,0.17647058823529413
+Folliculitis,doxepin,3,68,0.04411764705882353
+Food allergy,doxepin,1,262,0.003816793893129771
+Food craving,doxepin,2,142,0.014084507042253521
+Food interaction,doxepin,1,59,0.01694915254237288
+Food poisoning,doxepin,1,123,0.008130081300813009
+Foot deformity,doxepin,1,217,0.004608294930875576
+Foot fracture,doxepin,5,446,0.011210762331838564
+Foot operation,doxepin,3,200,0.015
+Foreign body,doxepin,1,64,0.015625
+Foreign body in respiratory tract,doxepin,1,31,0.03225806451612903
+Fournier's gangrene,doxepin,1,138,0.007246376811594203
+Fracture,doxepin,5,272,0.01838235294117647
+Frequent bowel movements,doxepin,3,156,0.019230769230769232
+Frustration tolerance decreased,doxepin,1,90,0.011111111111111112
+Full blood count abnormal,doxepin,1,408,0.0024509803921568627
+Full blood count decreased,doxepin,4,490,0.00816326530612245
+Fungal infection,doxepin,10,471,0.021231422505307854
+Gait disturbance,doxepin,32,2248,0.014234875444839857
+Gait inability,doxepin,2,389,0.005141388174807198
+Gait spastic,doxepin,6,9,0.6666666666666666
+Gallbladder cancer,doxepin,3,5,0.6
+Gallbladder disorder,doxepin,4,298,0.013422818791946308
+Gallbladder operation,doxepin,3,105,0.02857142857142857
+Gamma-glutamyltransferase abnormal,doxepin,1,2,0.5
+Gamma-glutamyltransferase increased,doxepin,1,185,0.005405405405405406
+Gastrectomy,doxepin,1,47,0.02127659574468085
+Gastric banding reversal,doxepin,1,9,0.1111111111111111
+Gastric bypass,doxepin,1,119,0.008403361344537815
+Gastric cancer stage II,doxepin,1,1,1.0
+Gastric disorder,doxepin,6,496,0.012096774193548387
+Gastric perforation,doxepin,1,28,0.03571428571428571
+Gastritis,doxepin,4,355,0.011267605633802818
+Gastritis fungal,doxepin,2,2,1.0
+Gastroenteritis,doxepin,1,212,0.0047169811320754715
+Gastroenteritis viral,doxepin,2,395,0.005063291139240506
+Gastrointestinal angiodysplasia haemorrhagic,doxepin,3,27,0.1111111111111111
+Gastrointestinal disorder,doxepin,10,925,0.010810810810810811
+Gastrointestinal disorder postoperative,doxepin,1,5,0.2
+Gastrointestinal haemorrhage,doxepin,24,2522,0.00951625693893735
+Gastrointestinal infection,doxepin,3,138,0.021739130434782608
+Gastrointestinal obstruction,doxepin,1,42,0.023809523809523808
+Gastrointestinal polyp haemorrhage,doxepin,1,21,0.047619047619047616
+Gastrointestinal procedural complication,doxepin,1,17,0.058823529411764705
+Gastrointestinal stoma complication,doxepin,1,30,0.03333333333333333
+Gastrointestinal surgery,doxepin,1,20,0.05
+Gastrointestinal vascular malformation haemorrhagic,doxepin,2,22,0.09090909090909091
+Gastrooesophageal reflux disease,doxepin,13,1480,0.008783783783783784
+Gastrostomy tube site complication,doxepin,1,6,0.16666666666666666
+Gender reassignment therapy,doxepin,1,2,0.5
+General physical condition abnormal,doxepin,1,59,0.01694915254237288
+General physical health deterioration,doxepin,7,1238,0.005654281098546042
+Generalised tonic-clonic seizure,doxepin,9,1060,0.008490566037735849
+Genital infection fungal,doxepin,3,14,0.21428571428571427
+Gestational hypertension,doxepin,1,55,0.01818181818181818
+Gingival disorder,doxepin,1,43,0.023255813953488372
+Gingival pain,doxepin,1,69,0.014492753623188406
+Glaucoma,doxepin,1,347,0.002881844380403458
+Glomerular filtration rate decreased,doxepin,1,91,0.01098901098901099
+Glossitis,doxepin,4,49,0.08163265306122448
+Glossodynia,doxepin,2,261,0.007662835249042145
+Glucose tolerance impaired,doxepin,1,137,0.0072992700729927005
+Glycosylated haemoglobin increased,doxepin,1,157,0.006369426751592357
+Goitre,doxepin,2,88,0.022727272727272728
+Gout,doxepin,3,218,0.013761467889908258
+Graft versus host disease,doxepin,1,65,0.015384615384615385
+Granulomatosis with polyangiitis,doxepin,2,10,0.2
+Grip strength decreased,doxepin,1,44,0.022727272727272728
+Groin abscess,doxepin,1,26,0.038461538461538464
+Groin pain,doxepin,3,82,0.036585365853658534
+Gynaecomastia,doxepin,1,437,0.002288329519450801
+H1N1 influenza,doxepin,3,24,0.125
+Haematemesis,doxepin,1,417,0.002398081534772182
+Haematochezia,doxepin,4,511,0.007827788649706457
+Haematocrit decreased,doxepin,2,164,0.012195121951219513
+Haematuria,doxepin,7,452,0.015486725663716814
+Haemoglobin abnormal,doxepin,3,81,0.037037037037037035
+Haemoglobin decreased,doxepin,9,698,0.012893982808022923
+Haemolysis,doxepin,1,31,0.03225806451612903
+Haemolytic anaemia,doxepin,1,104,0.009615384615384616
+Haemorrhage,doxepin,14,776,0.01804123711340206
+Haemorrhage intracranial,doxepin,2,321,0.006230529595015576
+Haemorrhagic anaemia,doxepin,1,146,0.00684931506849315
+Haemorrhagic stroke,doxepin,3,265,0.011320754716981131
+Haemorrhoidal haemorrhage,doxepin,3,59,0.05084745762711865
+Hair texture abnormal,doxepin,1,82,0.012195121951219513
+Hallucination,doxepin,24,2187,0.010973936899862825
+"Hallucination, auditory",doxepin,3,680,0.004411764705882353
+"Hallucination, visual",doxepin,3,821,0.0036540803897685747
+Hangover,doxepin,4,130,0.03076923076923077
+Hashimoto's encephalopathy,doxepin,1,5,0.2
+Head discomfort,doxepin,1,268,0.0037313432835820895
+Head injury,doxepin,5,293,0.017064846416382253
+Headache,doxepin,99,9335,0.01060524906266738
+Heart rate abnormal,doxepin,1,56,0.017857142857142856
+Heart rate increased,doxepin,16,1002,0.015968063872255488
+Heart rate irregular,doxepin,1,205,0.004878048780487805
+Heavy menstrual bleeding,doxepin,1,115,0.008695652173913044
+Hemiplegic migraine,doxepin,1,9,0.1111111111111111
+Hepatic cirrhosis,doxepin,2,291,0.006872852233676976
+Hepatic enzyme increased,doxepin,16,1240,0.012903225806451613
+Hepatic failure,doxepin,2,309,0.006472491909385114
+Hepatic function abnormal,doxepin,2,535,0.003738317757009346
+Hepatic haemorrhage,doxepin,1,5,0.2
+Hepatic infection,doxepin,1,11,0.09090909090909091
+Hepatic necrosis,doxepin,1,29,0.034482758620689655
+Hepatic steatosis,doxepin,3,276,0.010869565217391304
+Hepatitis,doxepin,6,465,0.012903225806451613
+Hepatitis B,doxepin,1,34,0.029411764705882353
+Hepatitis C,doxepin,2,104,0.019230769230769232
+Hepatosplenomegaly,doxepin,1,3,0.3333333333333333
+Hepatotoxicity,doxepin,1,358,0.002793296089385475
+Hereditary angioedema,doxepin,7,446,0.01569506726457399
+Hernia,doxepin,4,312,0.01282051282051282
+Herpes ophthalmic,doxepin,1,25,0.04
+Herpes zoster,doxepin,10,1094,0.009140767824497258
+Herpes zoster disseminated,doxepin,1,10,0.1
+Hiatus hernia,doxepin,1,133,0.007518796992481203
+Hiccups,doxepin,1,151,0.006622516556291391
+Hidradenitis,doxepin,2,103,0.019417475728155338
+High frequency ablation,doxepin,1,9,0.1111111111111111
+Hip arthroplasty,doxepin,4,288,0.013888888888888888
+Hip surgery,doxepin,3,133,0.022556390977443608
+Hodgkin's disease,doxepin,1,49,0.02040816326530612
+Hordeolum,doxepin,1,51,0.0196078431372549
+Hormone level abnormal,doxepin,3,41,0.07317073170731707
+Hospice care,doxepin,3,543,0.0055248618784530384
+Hospitalisation,doxepin,36,3411,0.010554089709762533
+Hostility,doxepin,1,26,0.038461538461538464
+Hot flush,doxepin,6,868,0.0069124423963133645
+Hunger,doxepin,4,297,0.013468013468013467
+Huntington's disease,doxepin,1,18,0.05555555555555555
+Hydronephrosis,doxepin,1,52,0.019230769230769232
+Hyperactive pharyngeal reflex,doxepin,1,5,0.2
+Hyperacusis,doxepin,2,40,0.05
+Hyperaesthesia,doxepin,1,90,0.011111111111111112
+Hyperchlorhydria,doxepin,1,20,0.05
+Hypercholesterolaemia,doxepin,2,74,0.02702702702702703
+Hyperglycaemia,doxepin,4,488,0.00819672131147541
+Hyperhidrosis,doxepin,25,2295,0.010893246187363835
+Hyperkalaemia,doxepin,7,390,0.017948717948717947
+Hyperkinesia,doxepin,1,41,0.024390243902439025
+Hyperlipidaemia,doxepin,1,68,0.014705882352941176
+Hypernatraemia,doxepin,1,71,0.014084507042253521
+Hyperparathyroidism secondary,doxepin,3,50,0.06
+Hypersensitivity,doxepin,36,3106,0.01159047005795235
+Hypersomnia,doxepin,4,458,0.008733624454148471
+Hypertension,doxepin,39,3093,0.012609117361784675
+Hypertonic bladder,doxepin,9,66,0.13636363636363635
+Hypoacusis,doxepin,1,484,0.002066115702479339
+Hypoaesthesia,doxepin,20,1667,0.01199760047990402
+Hypoaesthesia oral,doxepin,3,204,0.014705882352941176
+Hypoalbuminaemia,doxepin,2,33,0.06060606060606061
+Hypocalcaemia,doxepin,3,194,0.015463917525773196
+Hypoglycaemia,doxepin,7,985,0.007106598984771574
+Hypokalaemia,doxepin,3,935,0.0032085561497326204
+Hypokinesia,doxepin,1,182,0.005494505494505495
+Hypomagnesaemia,doxepin,4,197,0.02030456852791878
+Hyponatraemia,doxepin,22,3180,0.006918238993710692
+Hypophosphataemia,doxepin,4,101,0.039603960396039604
+Hyporesponsive to stimuli,doxepin,1,21,0.047619047619047616
+Hypotension,doxepin,14,2910,0.004810996563573883
+Hypothalamo-pituitary disorder,doxepin,1,15,0.06666666666666667
+Hypothermia,doxepin,45,231,0.19480519480519481
+Hypothyroidism,doxepin,4,624,0.00641025641025641
+Hypotonia,doxepin,2,140,0.014285714285714285
+Hypotonia neonatal,doxepin,1,98,0.01020408163265306
+Hypoventilation,doxepin,1,56,0.017857142857142856
+Hypoxia,doxepin,7,424,0.01650943396226415
+Hysterectomy,doxepin,4,272,0.014705882352941176
+Idiopathic angioedema,doxepin,4,6,0.6666666666666666
+Idiopathic pulmonary fibrosis,doxepin,1,30,0.03333333333333333
+Idiopathic urticaria,doxepin,1,10,0.1
+Idiosyncratic drug reaction,doxepin,1,10,0.1
+Ileostomy closure,doxepin,1,5,0.2
+Ileus,doxepin,1,147,0.006802721088435374
+Ill-defined disorder,doxepin,7,464,0.015086206896551725
+Illness,doxepin,22,1457,0.015099519560741249
+Immobile,doxepin,1,33,0.030303030303030304
+Immune system disorder,doxepin,1,124,0.008064516129032258
+Immune thrombocytopenic purpura,doxepin,1,113,0.008849557522123894
+Immune-mediated enterocolitis,doxepin,1,39,0.02564102564102564
+Immunodeficiency,doxepin,1,161,0.006211180124223602
+Immunodeficiency common variable,doxepin,1,18,0.05555555555555555
+Impaired driving ability,doxepin,2,94,0.02127659574468085
+Impaired gastric emptying,doxepin,4,246,0.016260162601626018
+Impaired healing,doxepin,3,245,0.012244897959183673
+Impaired quality of life,doxepin,4,399,0.010025062656641603
+Impaired work ability,doxepin,2,188,0.010638297872340425
+Implant site pain,doxepin,1,31,0.03225806451612903
+Inability to afford medication,doxepin,4,194,0.020618556701030927
+Inadequate analgesia,doxepin,3,70,0.04285714285714286
+Inappropriate antidiuretic hormone secretion,doxepin,1,780,0.001282051282051282
+Inappropriate schedule of drug administration,doxepin,7,826,0.00847457627118644
+Inappropriate schedule of product administration,doxepin,35,1683,0.020796197266785502
+Incontinence,doxepin,1,158,0.006329113924050633
+Incorrect dose administered,doxepin,16,1601,0.009993753903810118
+Incorrect drug administration duration,doxepin,2,116,0.017241379310344827
+Incorrect route of drug administration,doxepin,3,137,0.021897810218978103
+Incorrect route of product administration,doxepin,5,480,0.010416666666666666
+Increased appetite,doxepin,5,361,0.013850415512465374
+Induced abortion failed,doxepin,1,1,1.0
+Induced labour,doxepin,2,9,0.2222222222222222
+Infected skin ulcer,doxepin,1,40,0.025
+Infection,doxepin,22,1847,0.011911207363291824
+Infectious mononucleosis,doxepin,1,52,0.019230769230769232
+Infectious pleural effusion,doxepin,2,17,0.11764705882352941
+Infective pulmonary exacerbation of cystic fibrosis,doxepin,3,372,0.008064516129032258
+Inflammation,doxepin,7,303,0.0231023102310231
+Influenza,doxepin,19,1753,0.010838562464346835
+Influenza like illness,doxepin,14,981,0.014271151885830785
+Infusion site bruising,doxepin,2,105,0.01904761904761905
+Infusion site extravasation,doxepin,3,186,0.016129032258064516
+Infusion site haemorrhage,doxepin,1,66,0.015151515151515152
+Infusion site infection,doxepin,2,29,0.06896551724137931
+Infusion site pain,doxepin,2,191,0.010471204188481676
+Infusion site rash,doxepin,1,25,0.04
+Infusion site warmth,doxepin,1,9,0.1111111111111111
+Ingrowing nail,doxepin,3,37,0.08108108108108109
+Initial insomnia,doxepin,6,251,0.02390438247011952
+Injection site abscess,doxepin,1,59,0.01694915254237288
+Injection site bruising,doxepin,12,752,0.015957446808510637
+Injection site cellulitis,doxepin,1,23,0.043478260869565216
+Injection site erythema,doxepin,13,998,0.013026052104208416
+Injection site haemorrhage,doxepin,4,326,0.012269938650306749
+Injection site induration,doxepin,2,97,0.020618556701030927
+Injection site irritation,doxepin,1,53,0.018867924528301886
+Injection site mass,doxepin,9,297,0.030303030303030304
+Injection site nodule,doxepin,2,67,0.029850746268656716
+Injection site oedema,doxepin,1,11,0.09090909090909091
+Injection site pain,doxepin,25,1724,0.014501160092807424
+Injection site pruritus,doxepin,3,273,0.01098901098901099
+Injection site rash,doxepin,1,164,0.006097560975609756
+Injection site reaction,doxepin,8,487,0.01642710472279261
+Injection site swelling,doxepin,3,226,0.01327433628318584
+Injection site urticaria,doxepin,1,95,0.010526315789473684
+Injury,doxepin,2,253,0.007905138339920948
+Insomnia,doxepin,64,3870,0.016537467700258397
+Instillation site irritation,doxepin,1,3,0.3333333333333333
+Insurance issue,doxepin,3,206,0.014563106796116505
+Intellectual disability,doxepin,1,32,0.03125
+Intentional dose omission,doxepin,4,378,0.010582010582010581
+Intentional overdose,doxepin,13,4185,0.003106332138590203
+Intentional product misuse,doxepin,32,2138,0.014967259120673527
+Intentional product use issue,doxepin,32,2102,0.015223596574690771
+Intentional self-injury,doxepin,1,921,0.0010857763300760044
+Intercepted product dispensing error,doxepin,1,17,0.058823529411764705
+Internal haemorrhage,doxepin,2,202,0.009900990099009901
+International normalised ratio decreased,doxepin,1,36,0.027777777777777776
+International normalised ratio increased,doxepin,1,286,0.0034965034965034965
+Intervertebral disc degeneration,doxepin,3,129,0.023255813953488372
+Intervertebral disc disorder,doxepin,1,56,0.017857142857142856
+Intervertebral disc protrusion,doxepin,2,395,0.005063291139240506
+Intestinal angioedema,doxepin,2,11,0.18181818181818182
+Intestinal ischaemia,doxepin,2,72,0.027777777777777776
+Intestinal obstruction,doxepin,1,651,0.0015360983102918587
+Intestinal perforation,doxepin,1,105,0.009523809523809525
+Intracranial aneurysm,doxepin,2,87,0.022988505747126436
+Intracranial pressure increased,doxepin,9,134,0.06716417910447761
+Intraductal proliferative breast lesion,doxepin,2,83,0.024096385542168676
+Intussusception,doxepin,1,10,0.1
+Invasive ductal breast carcinoma,doxepin,2,166,0.012048192771084338
+Iritis,doxepin,1,29,0.034482758620689655
+Iron deficiency,doxepin,1,47,0.02127659574468085
+Irritability,doxepin,1,601,0.0016638935108153079
+Irritable bowel syndrome,doxepin,1,237,0.004219409282700422
+Ischaemic stroke,doxepin,2,376,0.005319148936170213
+Jaundice,doxepin,2,157,0.012738853503184714
+Joint dislocation,doxepin,3,131,0.022900763358778626
+Joint injury,doxepin,13,239,0.05439330543933055
+Joint space narrowing,doxepin,1,2,0.5
+Joint swelling,doxepin,8,879,0.009101251422070534
+Jugular vein thrombosis,doxepin,1,21,0.047619047619047616
+Kaposi's sarcoma,doxepin,1,3,0.3333333333333333
+Keratitis bacterial,doxepin,1,2,0.5
+Keratoacanthoma,doxepin,1,11,0.09090909090909091
+Kidney infection,doxepin,4,416,0.009615384615384616
+Knee arthroplasty,doxepin,7,453,0.01545253863134658
+Knee deformity,doxepin,1,8,0.125
+Knee operation,doxepin,4,268,0.014925373134328358
+Labelled drug-drug interaction medication error,doxepin,1,245,0.004081632653061225
+Laboratory test abnormal,doxepin,3,432,0.006944444444444444
+Lacrimation increased,doxepin,1,171,0.005847953216374269
+Lacunar infarction,doxepin,1,21,0.047619047619047616
+Language disorder,doxepin,1,27,0.037037037037037035
+Laryngeal cancer,doxepin,1,11,0.09090909090909091
+Laryngitis,doxepin,1,189,0.005291005291005291
+Lethargy,doxepin,9,435,0.020689655172413793
+Leukaemia,doxepin,1,116,0.008620689655172414
+Leukaemia recurrent,doxepin,1,8,0.125
+Leukopenia,doxepin,1,733,0.001364256480218281
+Libido decreased,doxepin,1,197,0.005076142131979695
+Ligament sprain,doxepin,1,127,0.007874015748031496
+Limb discomfort,doxepin,2,310,0.0064516129032258064
+Limb injury,doxepin,1,327,0.0030581039755351682
+Limb operation,doxepin,4,100,0.04
+Lip infection,doxepin,1,5,0.2
+Lip swelling,doxepin,5,493,0.010141987829614604
+Live birth,doxepin,1,92,0.010869565217391304
+Liver disorder,doxepin,2,497,0.004024144869215292
+Liver function test abnormal,doxepin,5,436,0.011467889908256881
+Liver function test increased,doxepin,2,360,0.005555555555555556
+Local reaction,doxepin,1,9,0.1111111111111111
+Localised infection,doxepin,8,377,0.021220159151193633
+Long QT syndrome,doxepin,2,203,0.009852216748768473
+Loss of consciousness,doxepin,17,1674,0.01015531660692951
+Loss of personal independence in daily activities,doxepin,3,855,0.0035087719298245615
+Lower gastrointestinal haemorrhage,doxepin,3,298,0.010067114093959731
+Lower limb fracture,doxepin,1,261,0.0038314176245210726
+Lower respiratory tract infection,doxepin,3,609,0.0049261083743842365
+Lumbar vertebral fracture,doxepin,1,62,0.016129032258064516
+Lumbosacral radiculopathy,doxepin,1,6,0.16666666666666666
+Lung disorder,doxepin,2,498,0.004016064257028112
+Lung infection,doxepin,2,191,0.010471204188481676
+Lung neoplasm malignant,doxepin,2,394,0.005076142131979695
+Lyme disease,doxepin,1,95,0.010526315789473684
+Lymphadenectomy,doxepin,1,16,0.0625
+Lymphadenopathy,doxepin,3,253,0.011857707509881422
+Lymphocyte count decreased,doxepin,1,182,0.005494505494505495
+Lymphocytosis,doxepin,1,10,0.1
+Lymphoma,doxepin,1,101,0.009900990099009901
+Macular degeneration,doxepin,3,191,0.015706806282722512
+Macule,doxepin,1,28,0.03571428571428571
+Maculopathy,doxepin,5,469,0.010660980810234541
+Major depression,doxepin,10,512,0.01953125
+Malabsorption,doxepin,2,80,0.025
+Malaise,doxepin,60,4500,0.013333333333333334
+Male genital atrophy,doxepin,2,8,0.25
+Malignant melanoma,doxepin,1,294,0.003401360544217687
+Malignant neoplasm progression,doxepin,9,639,0.014084507042253521
+Mania,doxepin,1,818,0.0012224938875305623
+Mast cell activation syndrome,doxepin,1,36,0.027777777777777776
+Mastectomy,doxepin,1,26,0.038461538461538464
+Mastication disorder,doxepin,2,14,0.14285714285714285
+Maternal exposure during pregnancy,doxepin,9,2214,0.0040650406504065045
+Mechanical urticaria,doxepin,1,8,0.125
+Mechanical ventilation,doxepin,1,5,0.2
+Medication error,doxepin,12,841,0.014268727705112961
+Medication residue present,doxepin,1,130,0.007692307692307693
+Megacolon,doxepin,2,24,0.08333333333333333
+Melaena,doxepin,1,211,0.004739336492890996
+Memory impairment,doxepin,20,1777,0.011254924029262802
+Meningitis aseptic,doxepin,1,57,0.017543859649122806
+Meniscus injury,doxepin,2,125,0.016
+Menstrual disorder,doxepin,2,97,0.020618556701030927
+Mental disorder,doxepin,9,640,0.0140625
+Mental fatigue,doxepin,1,14,0.07142857142857142
+Mental status changes,doxepin,6,404,0.01485148514851485
+Metabolic acidosis,doxepin,2,336,0.005952380952380952
+Metabolic encephalopathy,doxepin,1,89,0.011235955056179775
+Metastases to central nervous system,doxepin,1,49,0.02040816326530612
+Methaemoglobinaemia,doxepin,2,20,0.1
+Microcephaly,doxepin,4,22,0.18181818181818182
+Micturition urgency,doxepin,4,170,0.023529411764705882
+Middle insomnia,doxepin,6,343,0.01749271137026239
+Migraine,doxepin,19,2083,0.009121459433509362
+Mite allergy,doxepin,2,46,0.043478260869565216
+Moaning,doxepin,1,7,0.14285714285714285
+Mobility decreased,doxepin,4,879,0.004550625711035267
+Monoparesis,doxepin,6,15,0.4
+Mood altered,doxepin,1,269,0.0037174721189591076
+Motor dysfunction,doxepin,2,87,0.022988505747126436
+Mouth ulceration,doxepin,1,287,0.003484320557491289
+Movement disorder,doxepin,5,278,0.017985611510791366
+Multiple allergies,doxepin,2,144,0.013888888888888888
+Multiple fractures,doxepin,1,62,0.016129032258064516
+Multiple sclerosis,doxepin,4,758,0.005277044854881266
+Multiple sclerosis relapse,doxepin,23,1334,0.017241379310344827
+Muscle atrophy,doxepin,1,49,0.02040816326530612
+Muscle injury,doxepin,1,11,0.09090909090909091
+Muscle mass,doxepin,1,5,0.2
+Muscle rupture,doxepin,2,71,0.028169014084507043
+Muscle spasms,doxepin,13,1744,0.007454128440366973
+Muscle spasticity,doxepin,8,164,0.04878048780487805
+Muscle tightness,doxepin,2,168,0.011904761904761904
+Muscle twitching,doxepin,2,426,0.004694835680751174
+Muscular weakness,doxepin,8,715,0.011188811188811189
+Musculoskeletal chest pain,doxepin,1,98,0.01020408163265306
+Musculoskeletal discomfort,doxepin,2,116,0.017241379310344827
+Musculoskeletal disorder,doxepin,1,160,0.00625
+Musculoskeletal pain,doxepin,2,215,0.009302325581395349
+Musculoskeletal stiffness,doxepin,7,730,0.009589041095890411
+Myalgia,doxepin,10,967,0.010341261633919338
+Myasthenia gravis crisis,doxepin,1,5,0.2
+Mycobacterial infection,doxepin,2,8,0.25
+Mycobacterium tuberculosis complex test positive,doxepin,3,32,0.09375
+Mycosis fungoides,doxepin,1,6,0.16666666666666666
+Mycotic allergy,doxepin,1,21,0.047619047619047616
+Myelodysplastic syndrome,doxepin,1,117,0.008547008547008548
+Myocardial infarction,doxepin,12,1488,0.008064516129032258
+Myocardial ischaemia,doxepin,1,48,0.020833333333333332
+Myoclonus,doxepin,2,480,0.004166666666666667
+Narcolepsy,doxepin,1,88,0.011363636363636364
+Nasal congestion,doxepin,14,452,0.030973451327433628
+Nasal discharge discolouration,doxepin,1,11,0.09090909090909091
+Nasal discomfort,doxepin,1,50,0.02
+Nasopharyngitis,doxepin,26,2101,0.012375059495478343
+Nausea,doxepin,70,7027,0.00996157677529529
+Neck mass,doxepin,1,21,0.047619047619047616
+Neck pain,doxepin,2,386,0.0051813471502590676
+Necrotising fasciitis,doxepin,1,59,0.01694915254237288
+Needle fatigue,doxepin,7,9,0.7777777777777778
+Needle issue,doxepin,4,152,0.02631578947368421
+Neoplasm,doxepin,1,91,0.01098901098901099
+Neoplasm malignant,doxepin,9,522,0.017241379310344827
+Neoplasm progression,doxepin,4,328,0.012195121951219513
+Nephrogenic anaemia,doxepin,7,116,0.0603448275862069
+Nephrolithiasis,doxepin,16,1345,0.011895910780669145
+Nephrotic syndrome,doxepin,2,25,0.08
+Nerve compression,doxepin,2,108,0.018518518518518517
+Nerve injury,doxepin,1,88,0.011363636363636364
+Nervous system disorder,doxepin,3,137,0.021897810218978103
+Nervousness,doxepin,3,336,0.008928571428571428
+Neuralgia,doxepin,1,303,0.0033003300330033004
+Neurodermatitis,doxepin,2,26,0.07692307692307693
+Neuroendocrine carcinoma of the skin,doxepin,1,12,0.08333333333333333
+Neuroendocrine tumour,doxepin,1,23,0.043478260869565216
+Neuroleptic malignant syndrome,doxepin,1,876,0.001141552511415525
+Neuroma,doxepin,1,4,0.25
+Neuropathy peripheral,doxepin,11,1167,0.009425878320479864
+Neurotoxicity,doxepin,4,125,0.032
+Neutropenia,doxepin,10,1557,0.006422607578676943
+Neutrophil count decreased,doxepin,1,424,0.0023584905660377358
+Nicotine dependence,doxepin,1,137,0.0072992700729927005
+Night sweats,doxepin,1,458,0.002183406113537118
+Nightmare,doxepin,6,1096,0.005474452554744526
+No adverse event,doxepin,24,1892,0.012684989429175475
+No therapeutic response,doxepin,3,57,0.05263157894736842
+Nocturia,doxepin,4,135,0.02962962962962963
+Nodular regenerative hyperplasia,doxepin,1,1,1.0
+Non-high-density lipoprotein cholesterol increased,doxepin,2,8,0.25
+Norovirus infection,doxepin,1,10,0.1
+Obesity,doxepin,2,317,0.006309148264984227
+Obsessive-compulsive disorder,doxepin,1,192,0.005208333333333333
+Obstructive airways disorder,doxepin,1,152,0.006578947368421052
+Ocular discomfort,doxepin,2,137,0.014598540145985401
+Ocular hyperaemia,doxepin,3,184,0.016304347826086956
+Oedema,doxepin,4,373,0.010723860589812333
+Oedema peripheral,doxepin,10,886,0.011286681715575621
+Oesophageal candidiasis,doxepin,1,40,0.025
+Oesophageal spasm,doxepin,1,65,0.015384615384615385
+Oesophageal ulcer haemorrhage,doxepin,1,6,0.16666666666666666
+Off label use,doxepin,137,10509,0.01303644495194595
+Onycholysis,doxepin,1,20,0.05
+Onychomycosis,doxepin,1,43,0.023255813953488372
+Oophorectomy,doxepin,1,15,0.06666666666666667
+Optic neuritis,doxepin,1,80,0.0125
+Oral candidiasis,doxepin,3,150,0.02
+Oral discomfort,doxepin,2,119,0.01680672268907563
+Oral disorder,doxepin,3,86,0.03488372093023256
+Oral dysaesthesia,doxepin,1,2,0.5
+Oral herpes,doxepin,5,223,0.02242152466367713
+Oral infection,doxepin,1,61,0.01639344262295082
+Oral mucosal blistering,doxepin,1,107,0.009345794392523364
+Oral mucosal erythema,doxepin,1,17,0.058823529411764705
+Oral surgery,doxepin,1,46,0.021739130434782608
+Oropharyngeal pain,doxepin,4,565,0.007079646017699115
+Orthostatic hypotension,doxepin,2,820,0.0024390243902439024
+Osteoarthritis,doxepin,2,496,0.004032258064516129
+Osteonecrosis,doxepin,1,192,0.005208333333333333
+Osteopenia,doxepin,3,193,0.015544041450777202
+Osteoporosis,doxepin,6,344,0.01744186046511628
+Overdose,doxepin,33,4348,0.007589696412143515
+Oxygen saturation decreased,doxepin,4,368,0.010869565217391304
+Pain,doxepin,72,4732,0.015215553677092139
+Pain in extremity,doxepin,28,1731,0.016175621028307337
+Pain of skin,doxepin,1,74,0.013513513513513514
+Palpitations,doxepin,6,846,0.0070921985815602835
+Pancreatic carcinoma,doxepin,2,189,0.010582010582010581
+Pancreatic neoplasm,doxepin,1,16,0.0625
+Pancreatitis,doxepin,4,824,0.0048543689320388345
+Pancytopenia,doxepin,6,625,0.0096
+Panic attack,doxepin,1,504,0.001984126984126984
+Panic reaction,doxepin,1,70,0.014285714285714285
+Papilloedema,doxepin,3,61,0.04918032786885246
+Papule,doxepin,1,40,0.025
+Paraesthesia,doxepin,11,1119,0.009830205540661306
+Paraganglion neoplasm,doxepin,1,3,0.3333333333333333
+Paranoia,doxepin,1,289,0.0034602076124567475
+Paraplegia,doxepin,1,24,0.041666666666666664
+Parkinson's disease,doxepin,4,552,0.007246376811594203
+Parotid gland enlargement,doxepin,1,4,0.25
+Pelvic prolapse,doxepin,1,6,0.16666666666666666
+Pemphigoid,doxepin,3,250,0.012
+Pemphigus,doxepin,2,16,0.125
+Penis disorder,doxepin,1,21,0.047619047619047616
+Pericardial effusion,doxepin,1,206,0.0048543689320388345
+Pericarditis,doxepin,1,156,0.00641025641025641
+Perineal abscess,doxepin,1,16,0.0625
+Peripheral swelling,doxepin,14,1303,0.010744435917114352
+Peripheral vascular disorder,doxepin,1,21,0.047619047619047616
+Personality change,doxepin,1,74,0.013513513513513514
+Pharyngeal abscess,doxepin,1,9,0.1111111111111111
+Pharyngeal oedema,doxepin,1,110,0.00909090909090909
+Pharyngeal swelling,doxepin,1,152,0.006578947368421052
+Pharyngitis streptococcal,doxepin,1,154,0.006493506493506494
+Phlebitis,doxepin,1,55,0.01818181818181818
+Photophobia,doxepin,1,117,0.008547008547008548
+Physical examination abnormal,doxepin,1,2,0.5
+Pigmentation disorder,doxepin,1,46,0.021739130434782608
+Plantar erythema,doxepin,2,3,0.6666666666666666
+Plantar fasciitis,doxepin,1,26,0.038461538461538464
+Plasma cell myeloma,doxepin,5,583,0.008576329331046312
+Plastic surgery,doxepin,1,6,0.16666666666666666
+Platelet count abnormal,doxepin,1,33,0.030303030303030304
+Platelet count decreased,doxepin,3,683,0.004392386530014641
+Platelet count increased,doxepin,2,59,0.03389830508474576
+Pleural adhesion,doxepin,1,1,1.0
+Pleural effusion,doxepin,3,361,0.008310249307479225
+Pneumonia,doxepin,62,4909,0.012629863515991036
+Pneumonia legionella,doxepin,2,39,0.05128205128205128
+Pneumonia viral,doxepin,2,55,0.03636363636363636
+Pneumonitis,doxepin,4,362,0.011049723756906077
+Poisoning,doxepin,4,315,0.012698412698412698
+Poisoning deliberate,doxepin,3,640,0.0046875
+Pollakiuria,doxepin,12,382,0.031413612565445025
+Polycythaemia vera,doxepin,1,17,0.058823529411764705
+Polyneuropathy,doxepin,3,161,0.018633540372670808
+Poor feeding infant,doxepin,1,27,0.037037037037037035
+Poor quality sleep,doxepin,5,276,0.018115942028985508
+Poor sucking reflex,doxepin,1,51,0.0196078431372549
+Poor venous access,doxepin,1,110,0.00909090909090909
+Porphyria non-acute,doxepin,1,7,0.14285714285714285
+Post procedural complication,doxepin,2,80,0.025
+Post procedural haemorrhage,doxepin,1,63,0.015873015873015872
+Post procedural infection,doxepin,1,90,0.011111111111111112
+Post-traumatic stress disorder,doxepin,3,110,0.02727272727272727
+Postprandial hypoglycaemia,doxepin,7,12,0.5833333333333334
+Postural orthostatic tachycardia syndrome,doxepin,1,85,0.011764705882352941
+Potentiating drug interaction,doxepin,6,136,0.04411764705882353
+Pre-eclampsia,doxepin,1,94,0.010638297872340425
+Pre-existing condition improved,doxepin,14,978,0.014314928425357873
+Premature delivery,doxepin,1,125,0.008
+Presbyacusis,doxepin,1,12,0.08333333333333333
+Prescribed overdose,doxepin,8,604,0.013245033112582781
+Prescribed underdose,doxepin,2,224,0.008928571428571428
+Prescription drug used without a prescription,doxepin,2,117,0.017094017094017096
+Procedural pain,doxepin,1,131,0.007633587786259542
+Proctalgia,doxepin,1,40,0.025
+Product adhesion issue,doxepin,1,187,0.0053475935828877
+Product administered at inappropriate site,doxepin,2,51,0.0392156862745098
+Product administered to patient of inappropriate age,doxepin,2,49,0.04081632653061224
+Product administration error,doxepin,2,208,0.009615384615384616
+Product administration interrupted,doxepin,9,606,0.01485148514851485
+Product availability issue,doxepin,4,253,0.015810276679841896
+Product colour issue,doxepin,1,38,0.02631578947368421
+Product container issue,doxepin,1,29,0.034482758620689655
+Product dispensing error,doxepin,7,310,0.02258064516129032
+Product dose omission,doxepin,14,1203,0.011637572734829594
+Product dose omission issue,doxepin,47,3685,0.012754409769335142
+Product leakage,doxepin,1,15,0.06666666666666667
+Product odour abnormal,doxepin,2,217,0.009216589861751152
+Product packaging quantity issue,doxepin,1,32,0.03125
+Product physical issue,doxepin,4,177,0.022598870056497175
+Product preparation error,doxepin,2,105,0.01904761904761905
+Product prescribing error,doxepin,2,318,0.006289308176100629
+Product quality issue,doxepin,4,336,0.011904761904761904
+Product storage error,doxepin,5,239,0.02092050209205021
+Product substitution issue,doxepin,3,594,0.005050505050505051
+Product use in unapproved indication,doxepin,53,3366,0.01574569221628045
+Product use issue,doxepin,15,1363,0.011005135730007337
+Productive cough,doxepin,4,331,0.012084592145015106
+Prostatic operation,doxepin,1,7,0.14285714285714285
+Prostatic specific antigen increased,doxepin,1,74,0.013513513513513514
+Protein urine present,doxepin,1,24,0.041666666666666664
+Proteinuria,doxepin,2,55,0.03636363636363636
+Pruritus,doxepin,92,3036,0.030303030303030304
+Pruritus generalised,doxepin,1,215,0.004651162790697674
+Pseudomonas infection,doxepin,1,53,0.018867924528301886
+Psoriasis,doxepin,32,2000,0.016
+Psoriatic arthropathy,doxepin,8,805,0.009937888198757764
+Psychiatric symptom,doxepin,1,73,0.0136986301369863
+Psychomotor hyperactivity,doxepin,1,220,0.004545454545454545
+Psychotic disorder,doxepin,11,821,0.013398294762484775
+Psychotic symptom,doxepin,3,41,0.07317073170731707
+Pudendal canal syndrome,doxepin,1,2,0.5
+Pulmonary congestion,doxepin,3,102,0.029411764705882353
+Pulmonary embolism,doxepin,14,1570,0.008917197452229299
+Pulmonary fibrosis,doxepin,1,162,0.006172839506172839
+Pulmonary hypertension,doxepin,2,115,0.017391304347826087
+Pulmonary mass,doxepin,1,122,0.00819672131147541
+Pulmonary oedema,doxepin,7,286,0.024475524475524476
+Pulmonary toxicity,doxepin,1,40,0.025
+Pulpitis dental,doxepin,1,11,0.09090909090909091
+Pyelonephritis,doxepin,2,139,0.014388489208633094
+Pyoderma gangrenosum,doxepin,1,21,0.047619047619047616
+Pyrexia,doxepin,15,1580,0.00949367088607595
+Quality of life decreased,doxepin,1,109,0.009174311926605505
+Radiation injury,doxepin,1,3,0.3333333333333333
+Radius fracture,doxepin,1,16,0.0625
+Rapid eye movement sleep behaviour disorder,doxepin,1,54,0.018518518518518517
+Rash,doxepin,62,3577,0.017332960581492873
+Rash erythematous,doxepin,1,287,0.003484320557491289
+Rash generalised,doxepin,1,223,0.004484304932735426
+Rash macular,doxepin,8,253,0.03162055335968379
+Rash papular,doxepin,2,101,0.019801980198019802
+Rash pruritic,doxepin,23,555,0.04144144144144144
+Rebound acid hypersecretion,doxepin,3,119,0.025210084033613446
+Rectal haemorrhage,doxepin,3,462,0.006493506493506494
+Reduced facial expression,doxepin,2,23,0.08695652173913043
+Rehabilitation therapy,doxepin,2,92,0.021739130434782608
+Relapsing-remitting multiple sclerosis,doxepin,10,21,0.47619047619047616
+Renal cell carcinoma,doxepin,2,27,0.07407407407407407
+Renal disorder,doxepin,2,327,0.0061162079510703364
+Renal failure,doxepin,22,1170,0.018803418803418803
+Renal impairment,doxepin,4,615,0.0065040650406504065
+Renal injury,doxepin,4,147,0.027210884353741496
+Renal pain,doxepin,1,70,0.014285714285714285
+Renal tubular injury,doxepin,1,8,0.125
+Respiration abnormal,doxepin,2,60,0.03333333333333333
+Respiratory depression,doxepin,159,626,0.2539936102236422
+Respiratory disorder,doxepin,3,203,0.014778325123152709
+Respiratory failure,doxepin,4,456,0.008771929824561403
+Respiratory symptom,doxepin,1,21,0.047619047619047616
+Respiratory syncytial virus infection,doxepin,1,82,0.012195121951219513
+Respiratory tract infection,doxepin,1,374,0.00267379679144385
+Respiratory tract oedema,doxepin,1,3,0.3333333333333333
+Restless legs syndrome,doxepin,6,620,0.00967741935483871
+Restlessness,doxepin,5,412,0.012135922330097087
+Retinal vein occlusion,doxepin,1,52,0.019230769230769232
+Retinopathy,doxepin,1,35,0.02857142857142857
+Rhabdomyolysis,doxepin,2,561,0.0035650623885918
+Rheumatoid arthritis,doxepin,5,957,0.00522466039707419
+Rhinitis,doxepin,2,57,0.03508771929824561
+Rhinorrhoea,doxepin,4,295,0.013559322033898305
+Rib fracture,doxepin,4,195,0.020512820512820513
+Road traffic accident,doxepin,3,458,0.006550218340611353
+Rotator cuff repair,doxepin,1,39,0.02564102564102564
+Rotator cuff syndrome,doxepin,2,136,0.014705882352941176
+Rubber sensitivity,doxepin,1,23,0.043478260869565216
+Ruptured cerebral aneurysm,doxepin,1,8,0.125
+Salmonellosis,doxepin,1,12,0.08333333333333333
+Salpingectomy,doxepin,1,6,0.16666666666666666
+Scab,doxepin,1,28,0.03571428571428571
+Scar,doxepin,2,65,0.03076923076923077
+Scar pain,doxepin,2,2,1.0
+Schizophrenia,doxepin,2,242,0.008264462809917356
+Sciatica,doxepin,4,118,0.03389830508474576
+Scratch,doxepin,2,35,0.05714285714285714
+Seasonal allergy,doxepin,1,281,0.0035587188612099642
+Seborrhoeic dermatitis,doxepin,1,25,0.04
+Secretion discharge,doxepin,3,59,0.05084745762711865
+Sedation,doxepin,4,1427,0.002803083391730904
+Sedation complication,doxepin,10,324,0.030864197530864196
+Seizure,doxepin,30,2931,0.01023541453428864
+Self esteem decreased,doxepin,1,7,0.14285714285714285
+Sensitivity to weather change,doxepin,7,36,0.19444444444444445
+Sensory disturbance,doxepin,1,90,0.011111111111111112
+Sepsis,doxepin,8,901,0.008879023307436182
+Septic endocarditis,doxepin,1,2,0.5
+Septic shock,doxepin,1,191,0.005235602094240838
+Serotonin syndrome,doxepin,4,3465,0.0011544011544011544
+Serum sickness-like reaction,doxepin,1,22,0.045454545454545456
+Shoulder fracture,doxepin,1,13,0.07692307692307693
+Shoulder operation,doxepin,2,111,0.018018018018018018
+Sickle cell anaemia with crisis,doxepin,2,111,0.018018018018018018
+Sinus bradycardia,doxepin,1,132,0.007575757575757576
+Sinus congestion,doxepin,1,70,0.014285714285714285
+Sinus disorder,doxepin,1,176,0.005681818181818182
+Sinus operation,doxepin,3,60,0.05
+Sinusitis,doxepin,33,1885,0.01750663129973475
+Skeletal injury,doxepin,1,13,0.07692307692307693
+Skin abrasion,doxepin,1,24,0.041666666666666664
+Skin burning sensation,doxepin,5,157,0.03184713375796178
+Skin cancer,doxepin,6,239,0.02510460251046025
+Skin discolouration,doxepin,3,205,0.014634146341463415
+Skin disorder,doxepin,5,138,0.036231884057971016
+Skin exfoliation,doxepin,1,282,0.0035460992907801418
+Skin fissures,doxepin,5,69,0.07246376811594203
+Skin haemorrhage,doxepin,1,44,0.022727272727272728
+Skin hyperpigmentation,doxepin,1,25,0.04
+Skin irritation,doxepin,3,74,0.04054054054054054
+Skin laceration,doxepin,1,132,0.007575757575757576
+Skin lesion,doxepin,2,146,0.0136986301369863
+Skin necrosis,doxepin,1,29,0.034482758620689655
+Skin plaque,doxepin,2,30,0.06666666666666667
+Skin reaction,doxepin,1,85,0.011764705882352941
+Skin ulcer,doxepin,1,156,0.00641025641025641
+Skin warm,doxepin,1,20,0.05
+Skin wrinkling,doxepin,2,13,0.15384615384615385
+Sleep apnoea syndrome,doxepin,16,1070,0.014953271028037384
+Sleep disorder,doxepin,21,770,0.02727272727272727
+Sleep disorder due to a general medical condition,doxepin,1,148,0.006756756756756757
+Sleep terror,doxepin,3,130,0.023076923076923078
+Sleep-related eating disorder,doxepin,7,86,0.08139534883720931
+Small for dates baby,doxepin,3,173,0.017341040462427744
+Sneezing,doxepin,2,63,0.031746031746031744
+Social avoidant behaviour,doxepin,1,28,0.03571428571428571
+Soliloquy,doxepin,1,8,0.125
+Somnambulism,doxepin,5,140,0.03571428571428571
+Somnolence,doxepin,27,2728,0.009897360703812317
+Somnolence neonatal,doxepin,1,2,0.5
+Speech disorder,doxepin,2,352,0.005681818181818182
+Spina bifida,doxepin,1,7,0.14285714285714285
+Spinal operation,doxepin,2,326,0.006134969325153374
+Spinal osteoarthritis,doxepin,2,54,0.037037037037037035
+Squamous cell carcinoma,doxepin,1,193,0.0051813471502590676
+Squamous cell carcinoma of skin,doxepin,3,116,0.02586206896551724
+Staphylococcal infection,doxepin,4,313,0.012779552715654952
+Staphylococcal sepsis,doxepin,1,33,0.030303030303030304
+Stevens-Johnson syndrome,doxepin,3,313,0.009584664536741214
+Stoma site haemorrhage,doxepin,3,22,0.13636363636363635
+Stomach mass,doxepin,7,11,0.6363636363636364
+Stomatitis,doxepin,4,335,0.011940298507462687
+Strabismus,doxepin,1,12,0.08333333333333333
+Streptococcal bacteraemia,doxepin,3,11,0.2727272727272727
+Streptococcal sepsis,doxepin,2,19,0.10526315789473684
+Stress,doxepin,8,534,0.0149812734082397
+Subarachnoid haemorrhage,doxepin,1,195,0.005128205128205128
+Subcutaneous abscess,doxepin,1,26,0.038461538461538464
+Subdural haematoma,doxepin,1,353,0.0028328611898017
+Subdural haemorrhage,doxepin,3,32,0.09375
+Substance abuse,doxepin,1,340,0.0029411764705882353
+Substance use,doxepin,5,47,0.10638297872340426
+Sudden hearing loss,doxepin,1,25,0.04
+Suicidal behaviour,doxepin,1,169,0.005917159763313609
+Suicidal ideation,doxepin,23,3174,0.007246376811594203
+Suicide attempt,doxepin,17,2118,0.008026440037771483
+Sunburn,doxepin,1,46,0.021739130434782608
+Supraventricular extrasystoles,doxepin,1,16,0.0625
+Surgery,doxepin,19,1457,0.013040494166094716
+Suspected suicide,doxepin,20,1377,0.014524328249818447
+Swelling,doxepin,9,399,0.022556390977443608
+Swelling face,doxepin,3,525,0.005714285714285714
+Swollen tongue,doxepin,2,633,0.00315955766192733
+Symptom recurrence,doxepin,2,104,0.019230769230769232
+Syncope,doxepin,14,1048,0.013358778625954198
+Tachycardia,doxepin,4,693,0.005772005772005772
+Tachypnoea,doxepin,1,70,0.014285714285714285
+Tardive dyskinesia,doxepin,7,678,0.01032448377581121
+Temporal arteritis,doxepin,1,21,0.047619047619047616
+Tenderness,doxepin,1,66,0.015151515151515152
+Tendon rupture,doxepin,1,140,0.007142857142857143
+Tendon sheath incision,doxepin,1,4,0.25
+Tension headache,doxepin,1,42,0.023809523809523808
+Therapeutic product effect decreased,doxepin,6,587,0.010221465076660987
+Therapeutic product effect delayed,doxepin,2,48,0.041666666666666664
+Therapeutic product effect incomplete,doxepin,14,1193,0.01173512154233026
+Therapeutic reaction time decreased,doxepin,1,75,0.013333333333333334
+Therapeutic response decreased,doxepin,10,454,0.022026431718061675
+Therapeutic response shortened,doxepin,9,276,0.03260869565217391
+Therapeutic response unexpected,doxepin,4,411,0.009732360097323601
+Therapy cessation,doxepin,6,372,0.016129032258064516
+Therapy change,doxepin,3,77,0.03896103896103896
+Therapy interrupted,doxepin,11,665,0.016541353383458645
+Therapy non-responder,doxepin,14,1063,0.01317027281279398
+Therapy partial responder,doxepin,10,148,0.06756756756756757
+Thermal burn,doxepin,3,161,0.018633540372670808
+Thinking abnormal,doxepin,4,187,0.0213903743315508
+Thirst,doxepin,1,125,0.008
+Throat cancer,doxepin,1,29,0.034482758620689655
+Throat tightness,doxepin,4,172,0.023255813953488372
+Thrombocytopenia,doxepin,6,996,0.006024096385542169
+Thrombosis,doxepin,4,825,0.0048484848484848485
+Thyroid cancer,doxepin,2,89,0.02247191011235955
+Thyroid disorder,doxepin,1,96,0.010416666666666666
+Thyroidectomy,doxepin,3,13,0.23076923076923078
+Tinnitus,doxepin,14,718,0.019498607242339833
+Tongue discolouration,doxepin,6,33,0.18181818181818182
+Tongue haemorrhage,doxepin,1,4,0.25
+Tooth abscess,doxepin,2,124,0.016129032258064516
+Tooth disorder,doxepin,2,283,0.007067137809187279
+Tooth extraction,doxepin,2,84,0.023809523809523808
+Tooth fracture,doxepin,1,86,0.011627906976744186
+Tooth infection,doxepin,1,171,0.005847953216374269
+Toothache,doxepin,1,95,0.010526315789473684
+Toxic epidermal necrolysis,doxepin,8,749,0.010680907877169559
+Toxicity to various agents,doxepin,302,6972,0.04331612162937464
+Tracheostomy,doxepin,1,13,0.07692307692307693
+Transient ischaemic attack,doxepin,2,367,0.005449591280653951
+Treatment failure,doxepin,33,1390,0.023741007194244605
+Treatment noncompliance,doxepin,5,465,0.010752688172043012
+Tremor,doxepin,7,1680,0.004166666666666667
+Trigeminal neuralgia,doxepin,1,66,0.015151515151515152
+Trigger finger,doxepin,1,61,0.01639344262295082
+Troponin T increased,doxepin,1,23,0.043478260869565216
+Tubulointerstitial nephritis,doxepin,6,187,0.03208556149732621
+Tumour excision,doxepin,1,10,0.1
+Tumour marker increased,doxepin,1,20,0.05
+Type 2 diabetes mellitus,doxepin,3,364,0.008241758241758242
+Ulcer,doxepin,1,72,0.013888888888888888
+Ulcer haemorrhage,doxepin,1,66,0.015151515151515152
+Umbilical hernia,doxepin,15,57,0.2631578947368421
+Underdose,doxepin,8,400,0.02
+Unevaluable event,doxepin,12,706,0.0169971671388102
+Unintentional use for unapproved indication,doxepin,1,6,0.16666666666666666
+Upper gastrointestinal haemorrhage,doxepin,1,519,0.0019267822736030828
+Upper limb fracture,doxepin,2,177,0.011299435028248588
+Upper respiratory tract infection,doxepin,4,642,0.006230529595015576
+Urinary incontinence,doxepin,3,347,0.008645533141210375
+Urinary retention,doxepin,6,805,0.007453416149068323
+Urinary tract infection,doxepin,23,2282,0.010078878177037686
+Urine flow decreased,doxepin,1,14,0.07142857142857142
+Urosepsis,doxepin,2,104,0.019230769230769232
+Urticaria,doxepin,56,1208,0.046357615894039736
+Urticaria chronic,doxepin,4,9,0.4444444444444444
+Urticaria physical,doxepin,1,1,1.0
+Uterine disorder,doxepin,1,52,0.019230769230769232
+Uterine neoplasm,doxepin,2,2,1.0
+Vaginal discharge,doxepin,2,55,0.03636363636363636
+Vaginal haemorrhage,doxepin,1,319,0.003134796238244514
+Vascular access site complication,doxepin,1,16,0.0625
+Vascular device infection,doxepin,1,87,0.011494252873563218
+Vascular graft occlusion,doxepin,1,1,1.0
+Vein disorder,doxepin,1,28,0.03571428571428571
+Ventricular tachycardia,doxepin,1,130,0.007692307692307693
+Vertigo,doxepin,1,484,0.002066115702479339
+Vestibulitis,doxepin,1,1,1.0
+Viral infection,doxepin,6,227,0.02643171806167401
+Visceral congestion,doxepin,1,4,0.25
+Vision blurred,doxepin,11,852,0.012910798122065728
+Visual impairment,doxepin,2,588,0.003401360544217687
+Vitamin B12 decreased,doxepin,1,29,0.034482758620689655
+Vitreoretinal traction syndrome,doxepin,1,2,0.5
+Vitreous detachment,doxepin,1,42,0.023809523809523808
+Vitreous floaters,doxepin,3,54,0.05555555555555555
+Vomiting,doxepin,17,2145,0.007925407925407926
+Vulval abscess,doxepin,1,12,0.08333333333333333
+Vulval cancer,doxepin,1,7,0.14285714285714285
+Walking aid user,doxepin,1,23,0.043478260869565216
+Weight abnormal,doxepin,1,12,0.08333333333333333
+Weight decrease neonatal,doxepin,1,1,1.0
+Weight decreased,doxepin,21,1437,0.014613778705636743
+Weight fluctuation,doxepin,2,102,0.0196078431372549
+Weight increased,doxepin,34,2518,0.013502779984114376
+White blood cell count decreased,doxepin,12,721,0.016643550624133148
+White blood cell count increased,doxepin,2,127,0.015748031496062992
+Withdrawal syndrome,doxepin,3,889,0.003374578177727784
+Wound,doxepin,2,186,0.010752688172043012
+Wound complication,doxepin,1,67,0.014925373134328358
+Wound dehiscence,doxepin,1,19,0.05263157894736842
+Wound haemorrhage,doxepin,1,18,0.05555555555555555
+Wrist fracture,doxepin,1,144,0.006944444444444444
+Wrist surgery,doxepin,1,21,0.047619047619047616
+Wrong product administered,doxepin,2,79,0.02531645569620253
+Wrong technique in product usage process,doxepin,9,758,0.011873350923482849

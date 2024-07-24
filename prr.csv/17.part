@@ -1,0 +1,3375 @@
+pt,prod_ai,no_reactions,total,prr
+5q minus syndrome,paroxetine,1,6,0.16666666666666666
+ABO haemolytic disease of newborn,paroxetine,4,4,1.0
+Abasia,paroxetine,116,1659,0.0699216395418927
+Abdominal abscess,paroxetine,15,237,0.06329113924050633
+Abdominal adhesions,paroxetine,5,299,0.016722408026755852
+Abdominal discomfort,paroxetine,604,14497,0.04166379250879492
+Abdominal distension,paroxetine,389,7202,0.05401277422938073
+Abdominal hernia,paroxetine,40,550,0.07272727272727272
+Abdominal hernia obstructive,paroxetine,1,14,0.07142857142857142
+Abdominal infection,paroxetine,1,144,0.006944444444444444
+Abdominal injury,paroxetine,3,24,0.125
+Abdominal lymphadenopathy,paroxetine,3,45,0.06666666666666667
+Abdominal mass,paroxetine,4,105,0.0380952380952381
+Abdominal operation,paroxetine,3,71,0.04225352112676056
+Abdominal pain,paroxetine,814,16090,0.05059042883778744
+Abdominal pain lower,paroxetine,41,1175,0.03489361702127659
+Abdominal pain upper,paroxetine,611,12523,0.04879022598418909
+Abdominal rigidity,paroxetine,1,96,0.010416666666666666
+Abdominal symptom,paroxetine,4,43,0.09302325581395349
+Abdominal tenderness,paroxetine,6,143,0.04195804195804196
+Abdominal wall anomaly,paroxetine,17,28,0.6071428571428571
+Abdominal wall cyst,paroxetine,2,4,0.5
+Abdominal wall haematoma,paroxetine,17,140,0.12142857142857143
+Abdominal wall infection,paroxetine,1,8,0.125
+Abdominal wall operation,paroxetine,1,5,0.2
+Abdominoplasty,paroxetine,1,51,0.0196078431372549
+Abnormal behaviour,paroxetine,597,6284,0.09500318268618714
+Abnormal clotting factor,paroxetine,1,6,0.16666666666666666
+Abnormal dreams,paroxetine,669,4505,0.14850166481687013
+Abnormal faeces,paroxetine,27,429,0.06293706293706294
+Abnormal loss of weight,paroxetine,16,662,0.02416918429003021
+Abnormal palmar/plantar creases,paroxetine,1,18,0.05555555555555555
+Abnormal sensation in eye,paroxetine,11,184,0.059782608695652176
+Abnormal sleep-related event,paroxetine,5,323,0.015479876160990712
+Abnormal weight gain,paroxetine,33,906,0.03642384105960265
+Abnormal withdrawal bleeding,paroxetine,1,12,0.08333333333333333
+Abortion,paroxetine,6,92,0.06521739130434782
+Abortion early,paroxetine,3,4,0.75
+Abortion induced,paroxetine,36,283,0.127208480565371
+Abortion missed,paroxetine,2,61,0.03278688524590164
+Abortion of ectopic pregnancy,paroxetine,8,8,1.0
+Abortion spontaneous,paroxetine,86,2003,0.042935596605092365
+Abortion threatened,paroxetine,2,14,0.14285714285714285
+Abscess,paroxetine,41,802,0.05112219451371571
+Abscess intestinal,paroxetine,2,77,0.025974025974025976
+Abscess jaw,paroxetine,3,40,0.075
+Abscess limb,paroxetine,11,316,0.03481012658227848
+Abscess neck,paroxetine,8,52,0.15384615384615385
+Abscess oral,paroxetine,3,91,0.03296703296703297
+Abscess rupture,paroxetine,1,18,0.05555555555555555
+Abulia,paroxetine,33,452,0.07300884955752213
+Acarodermatitis,paroxetine,3,113,0.02654867256637168
+Accelerated hypertension,paroxetine,1,32,0.03125
+Accessory auricle,paroxetine,8,13,0.6153846153846154
+Accident,paroxetine,19,802,0.02369077306733167
+Accident at work,paroxetine,2,127,0.015748031496062992
+Accidental death,paroxetine,26,388,0.06701030927835051
+Accidental exposure to product,paroxetine,67,1296,0.05169753086419753
+Accidental exposure to product by child,paroxetine,6,109,0.05504587155963303
+Accidental overdose,paroxetine,129,2453,0.052588666938442725
+Accidental poisoning,paroxetine,29,152,0.19078947368421054
+Accidental underdose,paroxetine,1,87,0.011494252873563218
+Accommodation disorder,paroxetine,41,207,0.19806763285024154
+Acid peptic disease,paroxetine,3,7,0.42857142857142855
+Acidosis,paroxetine,32,573,0.055846422338568937
+Acinetobacter infection,paroxetine,1,33,0.030303030303030304
+Acne,paroxetine,162,2209,0.07333635129017656
+Acne cystic,paroxetine,3,127,0.023622047244094488
+Acne pustular,paroxetine,2,16,0.125
+Acquired cardiac septal defect,paroxetine,1,5,0.2
+Acquired oesophageal web,paroxetine,3,27,0.1111111111111111
+Acquired phimosis,paroxetine,1,2,0.5
+Acquired tracheo-oesophageal fistula,paroxetine,1,1,1.0
+Acral overgrowth,paroxetine,2,2,1.0
+Acral peeling skin syndrome,paroxetine,1,1,1.0
+Acrochordon,paroxetine,12,117,0.10256410256410256
+Actinic keratosis,paroxetine,3,144,0.020833333333333332
+Activated partial thromboplastin time prolonged,paroxetine,8,214,0.037383177570093455
+Activated partial thromboplastin time ratio increased,paroxetine,1,3,0.3333333333333333
+Activation syndrome,paroxetine,8,149,0.053691275167785234
+Activities of daily living impaired,paroxetine,94,1625,0.057846153846153846
+Acute coronary syndrome,paroxetine,27,442,0.06108597285067873
+Acute febrile neutrophilic dermatosis,paroxetine,3,102,0.029411764705882353
+Acute generalised exanthematous pustulosis,paroxetine,65,373,0.1742627345844504
+Acute graft versus host disease,paroxetine,4,16,0.25
+Acute hepatic failure,paroxetine,33,610,0.054098360655737705
+Acute hepatitis C,paroxetine,2,13,0.15384615384615385
+Acute kidney injury,paroxetine,1399,23399,0.05978887986666097
+Acute left ventricular failure,paroxetine,5,69,0.07246376811594203
+Acute leukaemia,paroxetine,1,37,0.02702702702702703
+Acute lymphocytic leukaemia,paroxetine,9,71,0.1267605633802817
+Acute lymphocytic leukaemia recurrent,paroxetine,3,18,0.16666666666666666
+Acute motor axonal neuropathy,paroxetine,3,30,0.1
+Acute myeloid leukaemia,paroxetine,42,286,0.14685314685314685
+Acute myeloid leukaemia recurrent,paroxetine,1,15,0.06666666666666667
+Acute myocardial infarction,paroxetine,46,1205,0.038174273858921165
+Acute on chronic liver failure,paroxetine,1,7,0.14285714285714285
+Acute phosphate nephropathy,paroxetine,1,7,0.14285714285714285
+Acute prerenal failure,paroxetine,6,44,0.13636363636363635
+Acute psychosis,paroxetine,7,424,0.01650943396226415
+Acute pulmonary histoplasmosis,paroxetine,1,6,0.16666666666666666
+Acute pulmonary oedema,paroxetine,84,390,0.2153846153846154
+Acute respiratory distress syndrome,paroxetine,31,922,0.033622559652928416
+Acute respiratory failure,paroxetine,90,1222,0.07364975450081833
+Acute sinusitis,paroxetine,13,168,0.07738095238095238
+Acute stress disorder,paroxetine,2,45,0.044444444444444446
+Addison's disease,paroxetine,1,109,0.009174311926605505
+Adenocarcinoma,paroxetine,2,59,0.03389830508474576
+Adenocarcinoma gastric,paroxetine,10,102,0.09803921568627451
+Adenocarcinoma metastatic,paroxetine,1,3,0.3333333333333333
+Adenocarcinoma of colon,paroxetine,4,88,0.045454545454545456
+Adenocarcinoma pancreas,paroxetine,7,62,0.11290322580645161
+Adenoidal disorder,paroxetine,5,11,0.45454545454545453
+Adenoidal hypertrophy,paroxetine,14,20,0.7
+Adenoma benign,paroxetine,1,38,0.02631578947368421
+Adenomatous polyposis coli,paroxetine,6,12,0.5
+Adenomyosis,paroxetine,3,38,0.07894736842105263
+Adenotonsillectomy,paroxetine,1,11,0.09090909090909091
+Adhesion,paroxetine,9,69,0.13043478260869565
+Adjustment disorder,paroxetine,62,243,0.2551440329218107
+Administration related reaction,paroxetine,16,40,0.4
+Administration site bruise,paroxetine,1,37,0.02702702702702703
+Administration site discomfort,paroxetine,1,6,0.16666666666666666
+Administration site extravasation,paroxetine,1,43,0.023255813953488372
+Administration site haemorrhage,paroxetine,1,4,0.25
+Administration site reaction,paroxetine,1,18,0.05555555555555555
+Administration site scar,paroxetine,1,5,0.2
+Administration site swelling,paroxetine,1,36,0.027777777777777776
+Adrenal adenoma,paroxetine,4,64,0.0625
+Adrenal disorder,paroxetine,5,96,0.052083333333333336
+Adrenal gland cancer,paroxetine,2,20,0.1
+Adrenal insufficiency,paroxetine,31,777,0.039897039897039896
+Adrenogenital syndrome,paroxetine,2,2,1.0
+Adrenomegaly,paroxetine,4,21,0.19047619047619047
+Adverse drug reaction,paroxetine,272,4524,0.060123784261715295
+Adverse event,paroxetine,283,3941,0.07180918548591728
+Adverse event following immunisation,paroxetine,3,28,0.10714285714285714
+Adverse food reaction,paroxetine,3,29,0.10344827586206896
+Adverse reaction,paroxetine,29,533,0.054409005628517824
+Aeromonas infection,paroxetine,8,18,0.4444444444444444
+Affect lability,paroxetine,79,6072,0.013010540184453228
+Affective disorder,paroxetine,121,1853,0.0652995143011333
+Age-related macular degeneration,paroxetine,9,169,0.05325443786982249
+Ageusia,paroxetine,95,1179,0.08057675996607294
+Aggression,paroxetine,998,6601,0.1511892137554916
+Agitated depression,paroxetine,2,88,0.022727272727272728
+Agitation,paroxetine,1265,12595,0.10043668122270742
+Agitation neonatal,paroxetine,26,459,0.05664488017429194
+Agnosia,paroxetine,5,8,0.625
+Agonal rhythm,paroxetine,2,2,1.0
+Agoraphobia,paroxetine,87,375,0.232
+Agranulocytosis,paroxetine,57,1009,0.05649157581764123
+Agraphia,paroxetine,2,30,0.06666666666666667
+Air embolism,paroxetine,2,14,0.14285714285714285
+Akathisia,paroxetine,133,3096,0.042958656330749356
+Akinesia,paroxetine,15,318,0.04716981132075472
+Alanine aminotransferase abnormal,paroxetine,14,300,0.04666666666666667
+Alanine aminotransferase increased,paroxetine,202,2960,0.06824324324324324
+Albuminuria,paroxetine,2,31,0.06451612903225806
+Alcohol abuse,paroxetine,43,504,0.08531746031746032
+Alcohol interaction,paroxetine,37,408,0.09068627450980392
+Alcohol intolerance,paroxetine,3,46,0.06521739130434782
+Alcohol poisoning,paroxetine,12,347,0.0345821325648415
+Alcohol use,paroxetine,13,257,0.05058365758754864
+Alcohol withdrawal syndrome,paroxetine,2,112,0.017857142857142856
+Alcoholic,paroxetine,2,31,0.06451612903225806
+Alcoholic liver disease,paroxetine,1,27,0.037037037037037035
+Alcoholic pancreatitis,paroxetine,2,15,0.13333333333333333
+Alcoholism,paroxetine,26,560,0.04642857142857143
+Aldolase increased,paroxetine,1,6,0.16666666666666666
+Allergic cough,paroxetine,3,65,0.046153846153846156
+Allergic reaction to excipient,paroxetine,4,101,0.039603960396039604
+Allergic transfusion reaction,paroxetine,1,1,1.0
+Allergy test positive,paroxetine,3,13,0.23076923076923078
+Allergy to animal,paroxetine,4,121,0.03305785123966942
+Allergy to chemicals,paroxetine,2,50,0.04
+Allodynia,paroxetine,4,266,0.015037593984962405
+Alloimmunisation,paroxetine,2,5,0.4
+Alopecia,paroxetine,461,13201,0.034921596848723584
+Alopecia areata,paroxetine,4,103,0.038834951456310676
+Alpha-1 anti-trypsin deficiency,paroxetine,2,15,0.13333333333333333
+Altered state of consciousness,paroxetine,257,2218,0.11587015329125339
+Altered visual depth perception,paroxetine,1,80,0.0125
+Alveolar osteitis,paroxetine,1,27,0.037037037037037035
+Alveolitis,paroxetine,4,41,0.0975609756097561
+Alveolitis allergic,paroxetine,3,60,0.05
+Amblyopia,paroxetine,3,18,0.16666666666666666
+Amenorrhoea,paroxetine,55,610,0.09016393442622951
+Amino acid level decreased,paroxetine,1,42,0.023809523809523808
+Ammonia abnormal,paroxetine,3,25,0.12
+Ammonia increased,paroxetine,13,214,0.06074766355140187
+Amnesia,paroxetine,418,5868,0.07123381049761418
+Amnestic disorder,paroxetine,2,50,0.04
+Amniotic cavity infection,paroxetine,14,83,0.1686746987951807
+Amputation,paroxetine,1,23,0.043478260869565216
+Amylase abnormal,paroxetine,1,3,0.3333333333333333
+Amylase increased,paroxetine,33,227,0.14537444933920704
+Amyloid related imaging abnormality-oedema/effusion,paroxetine,3,52,0.057692307692307696
+Amyloidosis,paroxetine,4,68,0.058823529411764705
+Amyloidosis senile,paroxetine,2,2,1.0
+Amyotrophic lateral sclerosis,paroxetine,10,113,0.08849557522123894
+Anaemia,paroxetine,576,8359,0.06890776408661323
+Anaemia macrocytic,paroxetine,1,86,0.011627906976744186
+Anaemia neonatal,paroxetine,11,40,0.275
+Anaemia of chronic disease,paroxetine,2,47,0.0425531914893617
+Anaemia of malignant disease,paroxetine,2,42,0.047619047619047616
+Anaemia postoperative,paroxetine,1,22,0.045454545454545456
+Anaemia vitamin B12 deficiency,paroxetine,3,17,0.17647058823529413
+Anaesthetic complication,paroxetine,3,79,0.0379746835443038
+Anaesthetic complication pulmonary,paroxetine,1,1,1.0
+Anal abscess,paroxetine,5,169,0.029585798816568046
+Anal atresia,paroxetine,9,66,0.13636363636363635
+Anal cancer,paroxetine,2,27,0.07407407407407407
+Anal fissure,paroxetine,12,269,0.04460966542750929
+Anal fistula,paroxetine,8,136,0.058823529411764705
+Anal fistula excision,paroxetine,2,2,1.0
+Anal haemorrhage,paroxetine,2,108,0.018518518518518517
+Anal incontinence,paroxetine,26,770,0.033766233766233764
+Anal infection,paroxetine,1,8,0.125
+Anal pruritus,paroxetine,2,45,0.044444444444444446
+Anal stenosis,paroxetine,6,33,0.18181818181818182
+Anal ulcer,paroxetine,1,9,0.1111111111111111
+Analgesic drug level above therapeutic,paroxetine,1,261,0.0038314176245210726
+Analgesic drug level increased,paroxetine,1,93,0.010752688172043012
+Anaphylactic reaction,paroxetine,69,2181,0.03163686382393398
+Anaphylactic shock,paroxetine,52,664,0.0783132530120482
+Anaphylactoid shock,paroxetine,1,3,0.3333333333333333
+Anastomotic ulcer haemorrhage,paroxetine,3,13,0.23076923076923078
+Androgen deficiency,paroxetine,4,33,0.12121212121212122
+Androgens decreased,paroxetine,1,6,0.16666666666666666
+Anencephaly,paroxetine,27,109,0.24770642201834864
+Aneurysm,paroxetine,14,234,0.05982905982905983
+Aneurysm repair,paroxetine,1,4,0.25
+Aneurysm ruptured,paroxetine,1,34,0.029411764705882353
+Anger,paroxetine,458,3376,0.13566350710900474
+Angina bullosa haemorrhagica,paroxetine,2,33,0.06060606060606061
+Angina pectoris,paroxetine,45,1254,0.03588516746411483
+Angina unstable,paroxetine,12,135,0.08888888888888889
+Angioedema,paroxetine,107,1702,0.06286721504112809
+Angiopathy,paroxetine,9,148,0.060810810810810814
+Angioplasty,paroxetine,1,43,0.023255813953488372
+Angiosarcoma,paroxetine,1,10,0.1
+Angle closure glaucoma,paroxetine,20,263,0.07604562737642585
+Angular cheilitis,paroxetine,5,45,0.1111111111111111
+Anhedonia,paroxetine,126,2717,0.04637467795362532
+Animal bite,paroxetine,6,208,0.028846153846153848
+Anion gap increased,paroxetine,8,66,0.12121212121212122
+Anisocoria,paroxetine,1,15,0.06666666666666667
+Anisocytosis,paroxetine,1,7,0.14285714285714285
+Ankle fracture,paroxetine,61,1678,0.03635280095351609
+Ankle operation,paroxetine,7,180,0.03888888888888889
+Ankyloglossia congenital,paroxetine,10,55,0.18181818181818182
+Ankylosing spondylitis,paroxetine,17,875,0.019428571428571427
+Anogenital warts,paroxetine,16,88,0.18181818181818182
+Anomalous pulmonary venous connection,paroxetine,53,100,0.53
+Anomaly of external ear congenital,paroxetine,3,30,0.1
+Anorchism,paroxetine,1,1,1.0
+Anorectal discomfort,paroxetine,5,74,0.06756756756756757
+Anorectal disorder,paroxetine,6,58,0.10344827586206896
+Anorectal infection,paroxetine,1,17,0.058823529411764705
+Anorectal stenosis,paroxetine,1,3,0.3333333333333333
+Anorectal swelling,paroxetine,1,7,0.14285714285714285
+Anorgasmia,paroxetine,42,881,0.04767309875141884
+Anosmia,paroxetine,30,207,0.14492753623188406
+Anoxia,paroxetine,1,17,0.058823529411764705
+Anterior chamber inflammation,paroxetine,3,6,0.5
+Anterograde amnesia,paroxetine,6,82,0.07317073170731707
+Anti A antibody positive,paroxetine,1,1,1.0
+Anti factor X activity increased,paroxetine,1,3,0.3333333333333333
+Anti-GAD antibody positive,paroxetine,1,2,0.5
+Anti-myelin-associated glycoprotein antibodies positive,paroxetine,2,2,1.0
+Anti-thyroid antibody positive,paroxetine,1,35,0.02857142857142857
+Antibiotic level above therapeutic,paroxetine,1,13,0.07692307692307693
+Antibiotic therapy,paroxetine,1,60,0.016666666666666666
+Antibody test positive,paroxetine,1,26,0.038461538461538464
+Anticholinergic syndrome,paroxetine,108,674,0.16023738872403562
+Anticoagulation drug level above therapeutic,paroxetine,4,69,0.057971014492753624
+Anticoagulation drug level below therapeutic,paroxetine,1,19,0.05263157894736842
+Anticoagulation drug level increased,paroxetine,1,12,0.08333333333333333
+Anticonvulsant drug level abnormal,paroxetine,2,4,0.5
+Anticonvulsant drug level increased,paroxetine,3,32,0.09375
+Antidepressant discontinuation syndrome,paroxetine,7,43,0.16279069767441862
+Antidepressant drug level above therapeutic,paroxetine,11,93,0.11827956989247312
+Antidepressant drug level below therapeutic,paroxetine,1,25,0.04
+Antidepressant drug level increased,paroxetine,1,110,0.00909090909090909
+Antineutrophil cytoplasmic antibody positive,paroxetine,2,23,0.08695652173913043
+Antinuclear antibody increased,paroxetine,1,51,0.0196078431372549
+Antinuclear antibody positive,paroxetine,3,131,0.022900763358778626
+Antiphospholipid antibodies,paroxetine,7,55,0.12727272727272726
+Antiphospholipid antibodies positive,paroxetine,3,15,0.2
+Antiphospholipid syndrome,paroxetine,3,73,0.0410958904109589
+Antipsychotic drug level above therapeutic,paroxetine,46,247,0.1862348178137652
+Antipsychotic drug level below therapeutic,paroxetine,3,81,0.037037037037037035
+Antipsychotic drug level decreased,paroxetine,2,69,0.028985507246376812
+Antipsychotic drug level increased,paroxetine,38,446,0.08520179372197309
+Antisocial behaviour,paroxetine,6,124,0.04838709677419355
+Antithrombin III decreased,paroxetine,2,6,0.3333333333333333
+Anuria,paroxetine,7,182,0.038461538461538464
+Anxiety,paroxetine,1646,30085,0.05471165032408177
+Anxiety disorder,paroxetine,19,595,0.031932773109243695
+Anxiety disorder due to a general medical condition,paroxetine,5,11,0.45454545454545453
+Aorta hypoplasia,paroxetine,6,104,0.057692307692307696
+Aortic aneurysm,paroxetine,3,315,0.009523809523809525
+Aortic arteriosclerosis,paroxetine,3,136,0.022058823529411766
+Aortic bypass,paroxetine,3,5,0.6
+Aortic calcification,paroxetine,1,9,0.1111111111111111
+Aortic dilatation,paroxetine,9,59,0.15254237288135594
+Aortic disorder,paroxetine,4,27,0.14814814814814814
+Aortic dissection,paroxetine,6,77,0.07792207792207792
+Aortic occlusion,paroxetine,8,16,0.5
+Aortic stenosis,paroxetine,29,131,0.22137404580152673
+Aortic valve atresia,paroxetine,1,26,0.038461538461538464
+Aortic valve calcification,paroxetine,2,18,0.1111111111111111
+Aortic valve disease,paroxetine,13,69,0.18840579710144928
+Aortic valve incompetence,paroxetine,55,223,0.24663677130044842
+Aortic valve replacement,paroxetine,1,40,0.025
+Aortic valve sclerosis,paroxetine,1,32,0.03125
+Aortic valve stenosis,paroxetine,11,109,0.10091743119266056
+Aortic valve thickening,paroxetine,4,6,0.6666666666666666
+Apallic syndrome,paroxetine,4,141,0.028368794326241134
+Apathy,paroxetine,51,1606,0.031755915317559155
+Apert's syndrome,paroxetine,3,4,0.75
+Apgar score low,paroxetine,8,167,0.04790419161676647
+Aphagia,paroxetine,1,37,0.02702702702702703
+Aphasia,paroxetine,170,1874,0.09071504802561366
+Aphonia,paroxetine,20,696,0.028735632183908046
+Aphthous ulcer,paroxetine,26,481,0.05405405405405406
+Aplasia,paroxetine,2,31,0.06451612903225806
+Aplasia pure red cell,paroxetine,5,24,0.20833333333333334
+Aplastic anaemia,paroxetine,5,119,0.04201680672268908
+Apnoea,paroxetine,53,596,0.08892617449664429
+Apnoea neonatal,paroxetine,10,38,0.2631578947368421
+Apnoeic attack,paroxetine,7,43,0.16279069767441862
+Apparent death,paroxetine,9,219,0.0410958904109589
+Apparent life threatening event,paroxetine,7,21,0.3333333333333333
+Appendicectomy,paroxetine,10,184,0.05434782608695652
+Appendicitis,paroxetine,14,340,0.041176470588235294
+Appendicitis perforated,paroxetine,5,129,0.03875968992248062
+Appendix cancer,paroxetine,1,2,0.5
+Appendix disorder,paroxetine,2,47,0.0425531914893617
+Appetite disorder,paroxetine,10,441,0.022675736961451247
+Application site acne,paroxetine,1,7,0.14285714285714285
+Application site bruise,paroxetine,1,20,0.05
+Application site burn,paroxetine,1,186,0.005376344086021506
+Application site dermatitis,paroxetine,1,3,0.3333333333333333
+Application site discharge,paroxetine,3,39,0.07692307692307693
+Application site discolouration,paroxetine,1,117,0.008547008547008548
+Application site discomfort,paroxetine,1,24,0.041666666666666664
+Application site dryness,paroxetine,2,39,0.05128205128205128
+Application site erosion,paroxetine,1,38,0.02631578947368421
+Application site erythema,paroxetine,23,492,0.046747967479674794
+Application site haemorrhage,paroxetine,3,31,0.0967741935483871
+Application site hypersensitivity,paroxetine,2,22,0.09090909090909091
+Application site irritation,paroxetine,1,80,0.0125
+Application site pain,paroxetine,11,209,0.05263157894736842
+Application site pruritus,paroxetine,6,138,0.043478260869565216
+Application site rash,paroxetine,3,106,0.02830188679245283
+Application site vesicles,paroxetine,1,36,0.027777777777777776
+Apraxia,paroxetine,20,118,0.1694915254237288
+Aptyalism,paroxetine,2,95,0.021052631578947368
+Arachnoid cyst,paroxetine,3,43,0.06976744186046512
+Arachnoiditis,paroxetine,1,29,0.034482758620689655
+Areflexia,paroxetine,3,187,0.016042780748663103
+Arnold-Chiari malformation,paroxetine,59,156,0.3782051282051282
+Arrested labour,paroxetine,1,38,0.02631578947368421
+Arrhythmia,paroxetine,106,2306,0.04596704249783174
+Arrhythmia neonatal,paroxetine,3,8,0.375
+Arterial disorder,paroxetine,3,48,0.0625
+Arterial injury,paroxetine,6,37,0.16216216216216217
+Arterial occlusive disease,paroxetine,15,286,0.05244755244755245
+Arterial stenosis,paroxetine,10,46,0.21739130434782608
+Arteriosclerosis,paroxetine,14,395,0.035443037974683546
+Arteriosclerosis coronary artery,paroxetine,8,585,0.013675213675213675
+Arteriospasm coronary,paroxetine,7,91,0.07692307692307693
+Arteriovenous malformation,paroxetine,11,54,0.2037037037037037
+Arteritis,paroxetine,3,14,0.21428571428571427
+Arthralgia,paroxetine,966,19575,0.04934865900383142
+Arthritis,paroxetine,163,3709,0.04394715556753842
+Arthritis bacterial,paroxetine,3,116,0.02586206896551724
+Arthritis infective,paroxetine,7,186,0.03763440860215054
+Arthritis reactive,paroxetine,2,14,0.14285714285714285
+Arthropathy,paroxetine,105,2120,0.049528301886792456
+Arthropod bite,paroxetine,5,341,0.01466275659824047
+Arthroscopy,paroxetine,1,28,0.03571428571428571
+Articular calcification,paroxetine,1,5,0.2
+Artificial crown procedure,paroxetine,1,18,0.05555555555555555
+Asbestosis,paroxetine,2,6,0.3333333333333333
+Ascites,paroxetine,23,464,0.04956896551724138
+Asocial behaviour,paroxetine,1,21,0.047619047619047616
+Aspartate aminotransferase,paroxetine,1,4,0.25
+Aspartate aminotransferase decreased,paroxetine,1,21,0.047619047619047616
+Aspartate aminotransferase increased,paroxetine,39,380,0.10263157894736842
+Asperger's disorder,paroxetine,9,19,0.47368421052631576
+Aspergillus infection,paroxetine,1,78,0.01282051282051282
+Asphyxia,paroxetine,65,657,0.0989345509893455
+Aspiration,paroxetine,41,901,0.04550499445061043
+Aspiration joint,paroxetine,1,4,0.25
+Aspiration pleural cavity,paroxetine,3,27,0.1111111111111111
+Asterixis,paroxetine,3,59,0.05084745762711865
+Asthenia,paroxetine,915,15885,0.05760151085930123
+Asthenopia,paroxetine,13,221,0.058823529411764705
+Asthma,paroxetine,297,6690,0.04439461883408072
+Astigmatism,paroxetine,1,74,0.013513513513513514
+Ataxia,paroxetine,44,606,0.07260726072607261
+Atelectasis,paroxetine,14,238,0.058823529411764705
+Atelectasis neonatal,paroxetine,1,7,0.14285714285714285
+Athetosis,paroxetine,1,4,0.25
+Atrial fibrillation,paroxetine,172,3425,0.05021897810218978
+Atrial flutter,paroxetine,23,244,0.0942622950819672
+Atrial septal defect,paroxetine,426,1778,0.23959505061867267
+Atrial tachycardia,paroxetine,5,63,0.07936507936507936
+Atrioventricular block,paroxetine,26,315,0.08253968253968254
+Atrioventricular block complete,paroxetine,10,283,0.0353356890459364
+Atrioventricular block first degree,paroxetine,10,341,0.02932551319648094
+Atrioventricular block second degree,paroxetine,21,161,0.13043478260869565
+Atrioventricular septal defect,paroxetine,7,36,0.19444444444444445
+Atrophic vulvovaginitis,paroxetine,1,13,0.07692307692307693
+Atrophy,paroxetine,5,40,0.125
+Attention deficit hyperactivity disorder,paroxetine,6,104,0.057692307692307696
+Attention deficit/hyperactivity disorder,paroxetine,105,390,0.2692307692307692
+Atypical femur fracture,paroxetine,7,90,0.07777777777777778
+Atypical pneumonia,paroxetine,4,169,0.023668639053254437
+Auditory disorder,paroxetine,2,49,0.04081632653061224
+Aura,paroxetine,7,85,0.08235294117647059
+Auricular haematoma,paroxetine,3,4,0.75
+Autism,paroxetine,56,96,0.5833333333333334
+Autism spectrum disorder,paroxetine,21,254,0.08267716535433071
+Autoimmune colitis,paroxetine,1,23,0.043478260869565216
+Autoimmune disorder,paroxetine,11,351,0.03133903133903134
+Autoimmune haemolytic anaemia,paroxetine,6,153,0.0392156862745098
+Autoimmune hepatitis,paroxetine,7,252,0.027777777777777776
+Autoimmune hypothyroidism,paroxetine,1,3,0.3333333333333333
+Autoimmune nephritis,paroxetine,4,29,0.13793103448275862
+Autoimmune pancreatitis,paroxetine,2,15,0.13333333333333333
+Autoimmune thyroiditis,paroxetine,5,237,0.02109704641350211
+Automatism,paroxetine,1,18,0.05555555555555555
+Autonomic nervous system imbalance,paroxetine,6,376,0.015957446808510637
+Autonomic neuropathy,paroxetine,2,66,0.030303030303030304
+Autophobia,paroxetine,1,36,0.027777777777777776
+Autoscopy,paroxetine,1,140,0.007142857142857143
+Aversion,paroxetine,2,7,0.2857142857142857
+Avian influenza,paroxetine,1,1,1.0
+Axillary pain,paroxetine,1,27,0.037037037037037035
+Axillary vein thrombosis,paroxetine,2,8,0.25
+Axonal neuropathy,paroxetine,3,223,0.013452914798206279
+Azotaemia,paroxetine,8,50,0.16
+B-cell lymphoma,paroxetine,6,81,0.07407407407407407
+B-lymphocyte count decreased,paroxetine,1,44,0.022727272727272728
+BK virus infection,paroxetine,2,14,0.14285714285714285
+Back disorder,paroxetine,30,1055,0.02843601895734597
+Back injury,paroxetine,29,648,0.044753086419753084
+Back pain,paroxetine,313,8125,0.038523076923076924
+Bacteraemia,paroxetine,21,318,0.0660377358490566
+Bacterial disease carrier,paroxetine,3,15,0.2
+Bacterial infection,paroxetine,15,488,0.030737704918032786
+Bacterial sepsis,paroxetine,4,91,0.04395604395604396
+Bacterial test positive,paroxetine,9,88,0.10227272727272728
+Bacterial vaginosis,paroxetine,5,95,0.05263157894736842
+Balance disorder,paroxetine,292,7162,0.04077073443172298
+Ballismus,paroxetine,1,14,0.07142857142857142
+Band sensation,paroxetine,3,88,0.03409090909090909
+Bankruptcy,paroxetine,6,127,0.047244094488188976
+Barium swallow,paroxetine,2,2,1.0
+Barrett's oesophagus,paroxetine,3,129,0.023255813953488372
+Basal cell carcinoma,paroxetine,31,619,0.050080775444264945
+Basal ganglia haemorrhage,paroxetine,1,58,0.017241379310344827
+Basedow's disease,paroxetine,5,104,0.04807692307692308
+Baseline foetal heart rate variability disorder,paroxetine,1,1,1.0
+Basilar artery occlusion,paroxetine,3,30,0.1
+Basilar migraine,paroxetine,2,21,0.09523809523809523
+Basophil count increased,paroxetine,2,23,0.08695652173913043
+Bedridden,paroxetine,31,586,0.052901023890784986
+Behaviour disorder,paroxetine,17,309,0.05501618122977346
+Behcet's syndrome,paroxetine,3,58,0.05172413793103448
+Bell's palsy,paroxetine,2,33,0.06060606060606061
+Benign intracranial hypertension,paroxetine,3,56,0.05357142857142857
+Benign lung neoplasm,paroxetine,1,16,0.0625
+Benign neoplasm,paroxetine,1,46,0.021739130434782608
+Benign neoplasm of skin,paroxetine,2,27,0.07407407407407407
+Benign neoplasm of thyroid gland,paroxetine,2,68,0.029411764705882353
+Benign pancreatic neoplasm,paroxetine,5,13,0.38461538461538464
+Benign prostatic hyperplasia,paroxetine,15,200,0.075
+Benign small intestinal neoplasm,paroxetine,1,3,0.3333333333333333
+Benign vaginal neoplasm,paroxetine,1,2,0.5
+Benzodiazepine drug level increased,paroxetine,4,19,0.21052631578947367
+Beta haemolytic streptococcal infection,paroxetine,3,20,0.15
+Bicuspid aortic valve,paroxetine,23,44,0.5227272727272727
+Bicuspid pulmonary valve,paroxetine,3,6,0.5
+Bicytopenia,paroxetine,4,58,0.06896551724137931
+Bifascicular block,paroxetine,6,27,0.2222222222222222
+Bile duct obstruction,paroxetine,1,94,0.010638297872340425
+Bile duct stone,paroxetine,26,89,0.29213483146067415
+Biliary anastomosis complication,paroxetine,1,1,1.0
+Biliary colic,paroxetine,3,91,0.03296703296703297
+Biliary dilatation,paroxetine,1,39,0.02564102564102564
+Biliary dyskinesia,paroxetine,1,21,0.047619047619047616
+Biliary neoplasm,paroxetine,1,1,1.0
+Biliary tract disorder,paroxetine,1,21,0.047619047619047616
+Binge eating,paroxetine,2,149,0.013422818791946308
+Binocular eye movement disorder,paroxetine,1,8,0.125
+Biopsy bone,paroxetine,1,1,1.0
+Biopsy kidney,paroxetine,1,8,0.125
+Biopsy skin,paroxetine,1,2,0.5
+Bipolar I disorder,paroxetine,3,263,0.011406844106463879
+Bipolar II disorder,paroxetine,4,122,0.03278688524590164
+Bipolar disorder,paroxetine,45,1272,0.03537735849056604
+Birth trauma,paroxetine,3,5,0.6
+Bite,paroxetine,1,28,0.03571428571428571
+Bladder cancer,paroxetine,8,253,0.03162055335968379
+Bladder catheterisation,paroxetine,2,41,0.04878048780487805
+Bladder dilatation,paroxetine,14,101,0.13861386138613863
+Bladder discomfort,paroxetine,5,56,0.08928571428571429
+Bladder disorder,paroxetine,26,512,0.05078125
+Bladder dysfunction,paroxetine,1,27,0.037037037037037035
+Bladder irritation,paroxetine,1,29,0.034482758620689655
+Bladder neoplasm,paroxetine,3,32,0.09375
+Bladder operation,paroxetine,3,56,0.05357142857142857
+Bladder pain,paroxetine,3,141,0.02127659574468085
+Bladder prolapse,paroxetine,2,64,0.03125
+Bladder repair,paroxetine,2,13,0.15384615384615385
+Bladder spasm,paroxetine,5,97,0.05154639175257732
+Blast cell count increased,paroxetine,1,9,0.1111111111111111
+Blast crisis in myelogenous leukaemia,paroxetine,1,5,0.2
+Bleeding time prolonged,paroxetine,3,96,0.03125
+Bleeding varicose vein,paroxetine,4,14,0.2857142857142857
+Blepharal pigmentation,paroxetine,1,19,0.05263157894736842
+Blepharitis,paroxetine,5,72,0.06944444444444445
+Blepharospasm,paroxetine,40,314,0.12738853503184713
+Blindness,paroxetine,45,974,0.04620123203285421
+Blindness congenital,paroxetine,2,7,0.2857142857142857
+Blindness transient,paroxetine,13,205,0.06341463414634146
+Blindness unilateral,paroxetine,29,419,0.06921241050119331
+Blister,paroxetine,69,1764,0.0391156462585034
+Blood albumin decreased,paroxetine,2,85,0.023529411764705882
+Blood aldosterone abnormal,paroxetine,5,5,1.0
+Blood aldosterone decreased,paroxetine,1,1,1.0
+Blood alkaline phosphatase abnormal,paroxetine,2,14,0.14285714285714285
+Blood alkaline phosphatase increased,paroxetine,17,336,0.050595238095238096
+Blood antidiuretic hormone abnormal,paroxetine,1,2,0.5
+Blood beta-D-glucan increased,paroxetine,3,3,1.0
+Blood bicarbonate decreased,paroxetine,68,114,0.5964912280701754
+Blood bilirubin decreased,paroxetine,3,15,0.2
+Blood bilirubin increased,paroxetine,6,482,0.012448132780082987
+Blood blister,paroxetine,2,82,0.024390243902439025
+Blood caffeine increased,paroxetine,1,4,0.25
+Blood calcium decreased,paroxetine,5,682,0.007331378299120235
+Blood calcium increased,paroxetine,2,173,0.011560693641618497
+Blood catecholamines increased,paroxetine,7,22,0.3181818181818182
+Blood chloride decreased,paroxetine,1,42,0.023809523809523808
+Blood cholesterol,paroxetine,6,23,0.2608695652173913
+Blood cholesterol abnormal,paroxetine,13,244,0.05327868852459016
+Blood cholesterol decreased,paroxetine,2,38,0.05263157894736842
+Blood cholesterol increased,paroxetine,91,1843,0.049376017362995114
+Blood cortisol increased,paroxetine,1,8,0.125
+Blood count abnormal,paroxetine,32,649,0.04930662557781202
+Blood creatine abnormal,paroxetine,1,6,0.16666666666666666
+Blood creatine increased,paroxetine,2,105,0.01904761904761905
+Blood creatine phosphokinase decreased,paroxetine,1,9,0.1111111111111111
+Blood creatine phosphokinase increased,paroxetine,110,1404,0.07834757834757834
+Blood creatinine abnormal,paroxetine,6,77,0.07792207792207792
+Blood creatinine decreased,paroxetine,2,67,0.029850746268656716
+Blood creatinine increased,paroxetine,75,1595,0.047021943573667714
+Blood culture negative,paroxetine,2,5,0.4
+Blood disorder,paroxetine,9,224,0.04017857142857143
+Blood electrolytes abnormal,paroxetine,1,36,0.027777777777777776
+Blood electrolytes decreased,paroxetine,3,36,0.08333333333333333
+Blood folate decreased,paroxetine,1,42,0.023809523809523808
+Blood folate increased,paroxetine,2,6,0.3333333333333333
+Blood glucose abnormal,paroxetine,22,462,0.047619047619047616
+Blood glucose decreased,paroxetine,32,923,0.03466955579631636
+Blood glucose fluctuation,paroxetine,6,299,0.020066889632107024
+Blood glucose increased,paroxetine,133,2803,0.04744916161255797
+Blood immunoglobulin A decreased,paroxetine,4,17,0.23529411764705882
+Blood immunoglobulin G decreased,paroxetine,10,55,0.18181818181818182
+Blood immunoglobulin G increased,paroxetine,3,47,0.06382978723404255
+Blood insulin increased,paroxetine,3,11,0.2727272727272727
+Blood iron abnormal,paroxetine,2,39,0.05128205128205128
+Blood iron decreased,paroxetine,11,384,0.028645833333333332
+Blood iron increased,paroxetine,1,25,0.04
+Blood lactate dehydrogenase increased,paroxetine,20,87,0.22988505747126436
+Blood lactic acid increased,paroxetine,28,382,0.07329842931937172
+Blood loss anaemia,paroxetine,24,157,0.15286624203821655
+Blood magnesium decreased,paroxetine,6,379,0.0158311345646438
+Blood oestrogen abnormal,paroxetine,2,10,0.2
+Blood osmolarity decreased,paroxetine,5,30,0.16666666666666666
+Blood parathyroid hormone decreased,paroxetine,4,24,0.16666666666666666
+Blood parathyroid hormone increased,paroxetine,4,31,0.12903225806451613
+Blood phosphorus decreased,paroxetine,4,68,0.058823529411764705
+Blood phosphorus increased,paroxetine,1,24,0.041666666666666664
+Blood potassium decreased,paroxetine,34,916,0.03711790393013101
+Blood potassium increased,paroxetine,48,437,0.10983981693363844
+Blood pressure abnormal,paroxetine,35,771,0.04539559014267185
+Blood pressure decreased,paroxetine,87,1841,0.047256925583921784
+Blood pressure diastolic abnormal,paroxetine,3,150,0.02
+Blood pressure diastolic decreased,paroxetine,9,300,0.03
+Blood pressure diastolic increased,paroxetine,5,164,0.03048780487804878
+Blood pressure fluctuation,paroxetine,34,1371,0.024799416484318017
+Blood pressure inadequately controlled,paroxetine,3,79,0.0379746835443038
+Blood pressure increased,paroxetine,243,6102,0.03982300884955752
+Blood pressure systolic abnormal,paroxetine,2,63,0.031746031746031744
+Blood pressure systolic decreased,paroxetine,3,96,0.03125
+Blood pressure systolic increased,paroxetine,8,515,0.015533980582524271
+Blood product transfusion dependent,paroxetine,1,6,0.16666666666666666
+Blood prolactin increased,paroxetine,28,483,0.057971014492753624
+Blood sodium abnormal,paroxetine,1,31,0.03225806451612903
+Blood sodium decreased,paroxetine,13,568,0.022887323943661973
+Blood sodium increased,paroxetine,2,49,0.04081632653061224
+Blood test abnormal,paroxetine,9,335,0.026865671641791045
+Blood testosterone decreased,paroxetine,5,227,0.022026431718061675
+Blood testosterone increased,paroxetine,3,47,0.06382978723404255
+Blood thyroid stimulating hormone abnormal,paroxetine,1,28,0.03571428571428571
+Blood thyroid stimulating hormone decreased,paroxetine,3,90,0.03333333333333333
+Blood thyroid stimulating hormone increased,paroxetine,10,198,0.050505050505050504
+Blood thyroid stimulating hormone normal,paroxetine,3,7,0.42857142857142855
+Blood triglycerides increased,paroxetine,15,291,0.05154639175257732
+Blood urea increased,paroxetine,2,56,0.03571428571428571
+Blood uric acid increased,paroxetine,15,88,0.17045454545454544
+Blood urine,paroxetine,3,12,0.25
+Blood urine present,paroxetine,18,496,0.036290322580645164
+Bloody discharge,paroxetine,3,21,0.14285714285714285
+Blunted affect,paroxetine,4,96,0.041666666666666664
+Body dysmorphic disorder,paroxetine,2,9,0.2222222222222222
+Body height decreased,paroxetine,23,633,0.036334913112164295
+Body mass index decreased,paroxetine,4,25,0.16
+Body mass index increased,paroxetine,4,75,0.05333333333333334
+Body temperature abnormal,paroxetine,3,82,0.036585365853658534
+Body temperature decreased,paroxetine,9,196,0.04591836734693878
+Body temperature fluctuation,paroxetine,7,73,0.0958904109589041
+Body temperature increased,paroxetine,40,665,0.06015037593984962
+Body tinea,paroxetine,1,90,0.011111111111111112
+Bone cancer,paroxetine,13,82,0.15853658536585366
+Bone contusion,paroxetine,1,47,0.02127659574468085
+Bone cyst,paroxetine,2,28,0.07142857142857142
+Bone density abnormal,paroxetine,3,49,0.061224489795918366
+Bone density decreased,paroxetine,13,257,0.05058365758754864
+Bone disorder,paroxetine,18,336,0.05357142857142857
+Bone graft,paroxetine,1,28,0.03571428571428571
+Bone lesion,paroxetine,7,71,0.09859154929577464
+Bone lesion excision,paroxetine,2,10,0.2
+Bone loss,paroxetine,7,109,0.06422018348623854
+Bone marrow disorder,paroxetine,4,49,0.08163265306122448
+Bone marrow failure,paroxetine,30,302,0.09933774834437085
+Bone pain,paroxetine,43,848,0.05070754716981132
+Borderline personality disorder,paroxetine,1,101,0.009900990099009901
+Bowel movement irregularity,paroxetine,13,183,0.07103825136612021
+Brachial artery entrapment syndrome,paroxetine,2,2,1.0
+Brachycephaly,paroxetine,1,6,0.16666666666666666
+Brachydactyly,paroxetine,4,12,0.3333333333333333
+Bradyarrhythmia,paroxetine,1,68,0.014705882352941176
+Bradycardia,paroxetine,258,3517,0.07335797554734148
+Bradycardia foetal,paroxetine,7,34,0.20588235294117646
+Bradycardia neonatal,paroxetine,7,152,0.046052631578947366
+Bradykinesia,paroxetine,64,485,0.13195876288659794
+Bradyphrenia,paroxetine,139,920,0.15108695652173912
+Bradypnoea,paroxetine,9,267,0.033707865168539325
+Brain compression,paroxetine,1,5,0.2
+Brain contusion,paroxetine,4,49,0.08163265306122448
+Brain death,paroxetine,9,205,0.04390243902439024
+Brain fog,paroxetine,1,103,0.009708737864077669
+Brain herniation,paroxetine,28,75,0.37333333333333335
+Brain hypoxia,paroxetine,1,51,0.0196078431372549
+Brain injury,paroxetine,51,609,0.08374384236453201
+Brain malformation,paroxetine,1,32,0.03125
+Brain midline shift,paroxetine,1,25,0.04
+Brain natriuretic peptide increased,paroxetine,2,28,0.07142857142857142
+Brain neoplasm,paroxetine,14,248,0.056451612903225805
+Brain neoplasm malignant,paroxetine,1,51,0.0196078431372549
+Brain oedema,paroxetine,23,393,0.058524173027989825
+Brain operation,paroxetine,2,66,0.030303030303030304
+Brain scan abnormal,paroxetine,1,9,0.1111111111111111
+Brain stem haemorrhage,paroxetine,2,40,0.05
+Brain stem stroke,paroxetine,1,22,0.045454545454545456
+Brain stem syndrome,paroxetine,1,31,0.03225806451612903
+Breakthrough pain,paroxetine,1,134,0.007462686567164179
+Breast abscess,paroxetine,4,51,0.0784313725490196
+Breast atrophy,paroxetine,2,7,0.2857142857142857
+Breast calcifications,paroxetine,1,21,0.047619047619047616
+Breast cancer,paroxetine,70,1699,0.04120070629782225
+Breast cancer female,paroxetine,11,243,0.04526748971193416
+Breast cancer male,paroxetine,1,2,0.5
+Breast cancer metastatic,paroxetine,9,190,0.04736842105263158
+Breast cancer recurrent,paroxetine,6,56,0.10714285714285714
+Breast cancer stage I,paroxetine,1,39,0.02564102564102564
+Breast cancer stage II,paroxetine,2,43,0.046511627906976744
+Breast cancer stage IV,paroxetine,2,25,0.08
+Breast conserving surgery,paroxetine,1,30,0.03333333333333333
+Breast cyst,paroxetine,1,71,0.014084507042253521
+Breast discharge,paroxetine,5,72,0.06944444444444445
+Breast discomfort,paroxetine,1,46,0.021739130434782608
+Breast disorder,paroxetine,1,131,0.007633587786259542
+Breast enlargement,paroxetine,5,134,0.03731343283582089
+Breast haematoma,paroxetine,1,9,0.1111111111111111
+Breast mass,paroxetine,3,184,0.016304347826086956
+Breast neoplasm,paroxetine,2,18,0.1111111111111111
+Breast pain,paroxetine,16,330,0.048484848484848485
+Breast prosthesis removal,paroxetine,2,2,1.0
+Breast reconstruction,paroxetine,1,12,0.08333333333333333
+Breast swelling,paroxetine,3,45,0.06666666666666667
+Breast tenderness,paroxetine,7,113,0.061946902654867256
+Breath alcohol test positive,paroxetine,1,5,0.2
+Breath odour,paroxetine,2,146,0.0136986301369863
+Breath sounds abnormal,paroxetine,33,120,0.275
+Breech presentation,paroxetine,4,148,0.02702702702702703
+Bronchial disorder,paroxetine,5,47,0.10638297872340426
+Bronchial fistula,paroxetine,1,1,1.0
+Bronchial haemorrhage,paroxetine,2,13,0.15384615384615385
+Bronchial hyperreactivity,paroxetine,3,63,0.047619047619047616
+Bronchial injury,paroxetine,1,2,0.5
+Bronchial neoplasm,paroxetine,1,4,0.25
+Bronchiectasis,paroxetine,27,308,0.08766233766233766
+Bronchiolitis,paroxetine,4,48,0.08333333333333333
+Bronchitis,paroxetine,150,3621,0.041425020712510356
+Bronchitis bacterial,paroxetine,2,30,0.06666666666666667
+Bronchitis chronic,paroxetine,3,105,0.02857142857142857
+Bronchitis viral,paroxetine,4,29,0.13793103448275862
+Bronchogenic cyst,paroxetine,24,24,1.0
+Bronchopneumonia,paroxetine,1,20,0.05
+Bronchopulmonary aspergillosis,paroxetine,2,103,0.019417475728155338
+Bronchospasm,paroxetine,27,328,0.08231707317073171
+Brugada syndrome,paroxetine,22,204,0.10784313725490197
+Bruxism,paroxetine,24,955,0.025130890052356022
+Bulimia nervosa,paroxetine,4,43,0.09302325581395349
+Bundle branch block,paroxetine,26,58,0.4482758620689655
+Bundle branch block left,paroxetine,16,224,0.07142857142857142
+Bundle branch block right,paroxetine,9,237,0.0379746835443038
+Bunion operation,paroxetine,3,21,0.14285714285714285
+Burn oesophageal,paroxetine,2,36,0.05555555555555555
+Burning sensation,paroxetine,158,2609,0.06055960137983902
+Burns second degree,paroxetine,4,31,0.12903225806451613
+Bursitis,paroxetine,6,488,0.012295081967213115
+Bursitis infective,paroxetine,2,13,0.15384615384615385
+Buttock injury,paroxetine,1,18,0.05555555555555555
+C-reactive protein increased,paroxetine,24,516,0.046511627906976744
+CD4 lymphocytes decreased,paroxetine,1,29,0.034482758620689655
+CHA2DS2-VASc annual stroke risk high,paroxetine,1,1,1.0
+COVID-19,paroxetine,132,5340,0.024719101123595506
+COVID-19 immunisation,paroxetine,1,22,0.045454545454545456
+COVID-19 pneumonia,paroxetine,25,424,0.0589622641509434
+CREST syndrome,paroxetine,2,12,0.16666666666666666
+CSF immunoglobulin increased,paroxetine,1,2,0.5
+CSF pressure decreased,paroxetine,1,2,0.5
+CYP2C19 polymorphism,paroxetine,1,10,0.1
+Caesarean section,paroxetine,18,383,0.04699738903394256
+Calciphylaxis,paroxetine,1,15,0.06666666666666667
+Calcium metabolism disorder,paroxetine,1,3,0.3333333333333333
+Calculus urinary,paroxetine,15,48,0.3125
+Camptocormia,paroxetine,8,105,0.0761904761904762
+Campylobacter colitis,paroxetine,5,7,0.7142857142857143
+Campylobacter gastroenteritis,paroxetine,3,13,0.23076923076923078
+Cancer pain,paroxetine,3,77,0.03896103896103896
+Cancer surgery,paroxetine,2,28,0.07142857142857142
+Candida infection,paroxetine,16,589,0.027164685908319185
+Candida sepsis,paroxetine,1,8,0.125
+Capillary leak syndrome,paroxetine,1,45,0.022222222222222223
+Carbon dioxide,paroxetine,1,2,0.5
+Carbon dioxide increased,paroxetine,2,42,0.047619047619047616
+Carbon monoxide poisoning,paroxetine,5,17,0.29411764705882354
+Carbuncle,paroxetine,1,5,0.2
+Carcinoid tumour of the gastrointestinal tract,paroxetine,2,4,0.5
+Carcinoid tumour of the stomach,paroxetine,2,8,0.25
+Cardiac ablation,paroxetine,1,49,0.02040816326530612
+Cardiac arrest,paroxetine,156,4297,0.036304398417500584
+Cardiac discomfort,paroxetine,7,74,0.0945945945945946
+Cardiac disorder,paroxetine,88,1766,0.04983012457531144
+Cardiac dysfunction,paroxetine,2,64,0.03125
+Cardiac failure,paroxetine,90,1781,0.05053340819764177
+Cardiac failure acute,paroxetine,5,163,0.03067484662576687
+Cardiac failure chronic,paroxetine,7,74,0.0945945945945946
+Cardiac failure congestive,paroxetine,98,1435,0.06829268292682927
+Cardiac fibrillation,paroxetine,1,23,0.043478260869565216
+Cardiac flutter,paroxetine,9,202,0.04455445544554455
+Cardiac infection,paroxetine,2,18,0.1111111111111111
+Cardiac murmur,paroxetine,128,332,0.3855421686746988
+Cardiac operation,paroxetine,13,181,0.0718232044198895
+Cardiac pacemaker insertion,paroxetine,7,109,0.06422018348623854
+Cardiac pacemaker replacement,paroxetine,2,19,0.10526315789473684
+Cardiac septal defect,paroxetine,18,50,0.36
+Cardiac septal hypertrophy,paroxetine,1,2,0.5
+Cardiac stress test abnormal,paroxetine,2,18,0.1111111111111111
+Cardiac tamponade,paroxetine,4,70,0.05714285714285714
+Cardiac valve disease,paroxetine,7,115,0.06086956521739131
+Cardiac valve rupture,paroxetine,1,2,0.5
+Cardiac ventricular disorder,paroxetine,2,5,0.4
+Cardiac ventricular thrombosis,paroxetine,1,12,0.08333333333333333
+Cardio-respiratory arrest,paroxetine,200,4099,0.04879238838741157
+Cardioactive drug level decreased,paroxetine,2,6,0.3333333333333333
+Cardioactive drug level increased,paroxetine,3,9,0.3333333333333333
+Cardiogenic shock,paroxetine,29,567,0.05114638447971781
+Cardiomegaly,paroxetine,18,229,0.07860262008733625
+Cardiomyopathy,paroxetine,6,272,0.022058823529411766
+Cardiopulmonary failure,paroxetine,38,89,0.42696629213483145
+Cardiotoxicity,paroxetine,9,205,0.04390243902439024
+Cardiovascular disorder,paroxetine,15,272,0.05514705882352941
+Cardiovascular insufficiency,paroxetine,1,63,0.015873015873015872
+Cardiovascular symptom,paroxetine,2,31,0.06451612903225806
+Cardioversion,paroxetine,2,21,0.09523809523809523
+Carotid artery aneurysm,paroxetine,2,24,0.08333333333333333
+Carotid artery disease,paroxetine,2,30,0.06666666666666667
+Carotid artery occlusion,paroxetine,1,51,0.0196078431372549
+Carotid artery stenosis,paroxetine,1,44,0.022727272727272728
+Carotid endarterectomy,paroxetine,1,7,0.14285714285714285
+Carotid sinus syndrome,paroxetine,13,26,0.5
+Carpal tunnel decompression,paroxetine,1,47,0.02127659574468085
+Carpal tunnel syndrome,paroxetine,9,619,0.014539579967689823
+Cartilage atrophy,paroxetine,2,53,0.03773584905660377
+Cartilage injury,paroxetine,1,95,0.010526315789473684
+Cataplexy,paroxetine,19,616,0.030844155844155844
+Cataract,paroxetine,80,1677,0.04770423375074538
+Cataract congenital,paroxetine,2,18,0.1111111111111111
+Cataract operation,paroxetine,4,111,0.036036036036036036
+Cataract operation complication,paroxetine,1,7,0.14285714285714285
+Catarrh,paroxetine,1,10,0.1
+Catatonia,paroxetine,31,583,0.05317324185248713
+Catheter placement,paroxetine,3,44,0.06818181818181818
+Catheter removal,paroxetine,1,7,0.14285714285714285
+Catheter site bruise,paroxetine,2,5,0.4
+Catheter site discharge,paroxetine,2,40,0.05
+Catheter site fibrosis,paroxetine,1,1,1.0
+Catheter site infection,paroxetine,1,55,0.01818181818181818
+Catheter site injury,paroxetine,3,6,0.5
+Catheter site swelling,paroxetine,1,17,0.058823529411764705
+Catheter site thrombosis,paroxetine,1,4,0.25
+Catheterisation cardiac,paroxetine,4,80,0.05
+Cauda equina syndrome,paroxetine,1,13,0.07692307692307693
+Caudal regression syndrome,paroxetine,10,10,1.0
+Cell death,paroxetine,10,110,0.09090909090909091
+Cellulitis,paroxetine,73,1773,0.04117315284827975
+Central nervous system haemorrhage,paroxetine,2,10,0.2
+Central nervous system infection,paroxetine,1,22,0.045454545454545456
+Central nervous system lesion,paroxetine,27,524,0.05152671755725191
+Central nervous system lymphoma,paroxetine,2,29,0.06896551724137931
+Central nervous system stimulation,paroxetine,1,11,0.09090909090909091
+Central nervous system vasculitis,paroxetine,7,12,0.5833333333333334
+Central nervous system viral infection,paroxetine,1,2,0.5
+Central obesity,paroxetine,2,17,0.11764705882352941
+Central sleep apnoea syndrome,paroxetine,2,16,0.125
+Cerebellar ataxia,paroxetine,6,39,0.15384615384615385
+Cerebellar atrophy,paroxetine,1,35,0.02857142857142857
+Cerebellar cognitive affective syndrome,paroxetine,1,1,1.0
+Cerebellar haematoma,paroxetine,7,40,0.175
+Cerebellar haemorrhage,paroxetine,1,64,0.015625
+Cerebellar hypoplasia,paroxetine,1,5,0.2
+Cerebellar infarction,paroxetine,3,33,0.09090909090909091
+Cerebral artery stenosis,paroxetine,1,22,0.045454545454545456
+Cerebral artery thrombosis,paroxetine,4,24,0.16666666666666666
+Cerebral atrophy,paroxetine,2,81,0.024691358024691357
+Cerebral atrophy congenital,paroxetine,4,4,1.0
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,paroxetine,1,3,0.3333333333333333
+Cerebral congestion,paroxetine,2,5,0.4
+Cerebral disorder,paroxetine,35,450,0.07777777777777778
+Cerebral haemangioma,paroxetine,3,4,0.75
+Cerebral haematoma,paroxetine,49,289,0.1695501730103806
+Cerebral haemorrhage,paroxetine,125,1339,0.09335324869305452
+Cerebral infarction,paroxetine,33,387,0.08527131782945736
+Cerebral ischaemia,paroxetine,3,77,0.03896103896103896
+Cerebral microhaemorrhage,paroxetine,15,26,0.5769230769230769
+Cerebral palsy,paroxetine,9,30,0.3
+Cerebral thrombosis,paroxetine,2,52,0.038461538461538464
+Cerebral ventricle dilatation,paroxetine,6,51,0.11764705882352941
+Cerebrospinal fluid leakage,paroxetine,2,72,0.027777777777777776
+Cerebrovascular accident,paroxetine,184,3539,0.051992088160497316
+Cerebrovascular disorder,paroxetine,2,37,0.05405405405405406
+Cerebrovascular stenosis,paroxetine,5,7,0.7142857142857143
+Cervical cord compression,paroxetine,4,19,0.21052631578947367
+Cervical dysplasia,paroxetine,1,45,0.022222222222222223
+Cervical incompetence,paroxetine,1,66,0.015151515151515152
+Cervical myelopathy,paroxetine,2,7,0.2857142857142857
+Cervical radiculopathy,paroxetine,4,48,0.08333333333333333
+Cervical spinal stenosis,paroxetine,3,98,0.030612244897959183
+Cervical vertebral fracture,paroxetine,9,179,0.05027932960893855
+Cervix carcinoma,paroxetine,6,122,0.04918032786885246
+Cervix carcinoma recurrent,paroxetine,1,5,0.2
+Change of bowel habit,paroxetine,1,28,0.03571428571428571
+Chapped lips,paroxetine,9,82,0.10975609756097561
+Cheilitis,paroxetine,3,135,0.022222222222222223
+Chemical burn,paroxetine,2,33,0.06060606060606061
+Chemical burns of eye,paroxetine,1,4,0.25
+Chemical poisoning,paroxetine,2,18,0.1111111111111111
+Chemical submission,paroxetine,8,10,0.8
+Chemokine increased,paroxetine,1,1,1.0
+Chemotherapy,paroxetine,2,56,0.03571428571428571
+Chest X-ray abnormal,paroxetine,4,43,0.09302325581395349
+Chest discomfort,paroxetine,86,2503,0.03435876947662805
+Chest injury,paroxetine,8,65,0.12307692307692308
+Chest pain,paroxetine,191,4011,0.047619047619047616
+Chest wall abscess,paroxetine,1,2,0.5
+Chest wall haematoma,paroxetine,2,23,0.08695652173913043
+Chills,paroxetine,133,2640,0.05037878787878788
+Chlamydial infection,paroxetine,10,23,0.43478260869565216
+Chloasma,paroxetine,2,25,0.08
+Choanal atresia,paroxetine,5,7,0.7142857142857143
+Choking,paroxetine,49,576,0.08506944444444445
+Choking sensation,paroxetine,14,141,0.09929078014184398
+Cholangiocarcinoma,paroxetine,1,51,0.0196078431372549
+Cholangitis,paroxetine,14,101,0.13861386138613863
+Cholecystectomy,paroxetine,16,363,0.0440771349862259
+Cholecystitis,paroxetine,17,235,0.07234042553191489
+Cholecystitis acute,paroxetine,6,151,0.039735099337748346
+Cholecystitis chronic,paroxetine,1,35,0.02857142857142857
+Cholecystitis infective,paroxetine,6,62,0.0967741935483871
+Cholelithiasis,paroxetine,27,688,0.03924418604651163
+Cholelithiasis obstructive,paroxetine,1,3,0.3333333333333333
+Cholestasis,paroxetine,130,1091,0.11915673693858846
+Cholestatic liver injury,paroxetine,4,103,0.038834951456310676
+Chondropathy,paroxetine,4,69,0.057971014492753624
+Chordee,paroxetine,1,13,0.07692307692307693
+Chorea,paroxetine,22,155,0.14193548387096774
+Chorioretinopathy,paroxetine,3,31,0.0967741935483871
+Choroidal haemorrhage,paroxetine,2,5,0.4
+Choroidal neovascularisation,paroxetine,1,11,0.09090909090909091
+Chromatopsia,paroxetine,1,14,0.07142857142857142
+Chromaturia,paroxetine,11,457,0.024070021881838075
+Chronic cutaneous lupus erythematosus,paroxetine,2,6,0.3333333333333333
+Chronic fatigue syndrome,paroxetine,3,76,0.039473684210526314
+Chronic gastritis,paroxetine,7,86,0.08139534883720931
+Chronic hepatitis B,paroxetine,2,4,0.5
+Chronic hepatitis C,paroxetine,1,17,0.058823529411764705
+Chronic inflammatory demyelinating polyradiculoneuropathy,paroxetine,4,39,0.10256410256410256
+Chronic kidney disease,paroxetine,509,10392,0.048979984603541186
+Chronic kidney disease-mineral and bone disorder,paroxetine,2,48,0.041666666666666664
+Chronic lymphocytic leukaemia,paroxetine,6,97,0.061855670103092786
+Chronic myeloid leukaemia,paroxetine,3,59,0.05084745762711865
+Chronic myeloid leukaemia (in remission),paroxetine,1,2,0.5
+Chronic obstructive pulmonary disease,paroxetine,79,1524,0.05183727034120735
+Chronic sinusitis,paroxetine,2,144,0.013888888888888888
+Chronic spontaneous urticaria,paroxetine,8,54,0.14814814814814814
+Circadian rhythm sleep disorder,paroxetine,2,36,0.05555555555555555
+Circulatory collapse,paroxetine,17,801,0.02122347066167291
+Circumstance or information capable of leading to device use error,paroxetine,4,10,0.4
+Circumstance or information capable of leading to medication error,paroxetine,23,322,0.07142857142857142
+Clavicle fracture,paroxetine,14,204,0.06862745098039216
+Clear cell renal cell carcinoma,paroxetine,1,112,0.008928571428571428
+Cleft lip,paroxetine,28,130,0.2153846153846154
+Cleft lip and palate,paroxetine,48,169,0.28402366863905326
+Cleft palate,paroxetine,73,183,0.3989071038251366
+Clinodactyly,paroxetine,6,18,0.3333333333333333
+Clinomania,paroxetine,2,2,1.0
+Cloacal exstrophy,paroxetine,1,1,1.0
+Clonal evolution,paroxetine,1,1,1.0
+Clonus,paroxetine,24,360,0.06666666666666667
+Clostridium difficile colitis,paroxetine,23,422,0.054502369668246446
+Clostridium difficile infection,paroxetine,40,907,0.044101433296582136
+Clostridium test positive,paroxetine,1,92,0.010869565217391304
+Cluster headache,paroxetine,1,97,0.010309278350515464
+Coagulation disorder neonatal,paroxetine,2,3,0.6666666666666666
+Coagulation factor V level decreased,paroxetine,7,7,1.0
+Coagulation test abnormal,paroxetine,2,15,0.13333333333333333
+Coagulation time,paroxetine,1,1,1.0
+Coagulation time prolonged,paroxetine,1,14,0.07142857142857142
+Coagulopathy,paroxetine,29,306,0.09477124183006536
+Coarctation of the aorta,paroxetine,23,71,0.323943661971831
+Coating in mouth,paroxetine,1,14,0.07142857142857142
+Coccidioidomycosis,paroxetine,4,22,0.18181818181818182
+Cochlea implant,paroxetine,1,6,0.16666666666666666
+Coeliac artery compression syndrome,paroxetine,3,11,0.2727272727272727
+Coeliac disease,paroxetine,15,555,0.02702702702702703
+Cognitive disorder,paroxetine,120,2731,0.04393994873672647
+Cogwheel rigidity,paroxetine,55,205,0.2682926829268293
+Cold sweat,paroxetine,19,610,0.03114754098360656
+Cold type haemolytic anaemia,paroxetine,10,10,1.0
+Colectomy,paroxetine,2,81,0.024691358024691357
+Colitis,paroxetine,76,1183,0.06424344885883347
+Colitis ischaemic,paroxetine,20,402,0.04975124378109453
+Colitis microscopic,paroxetine,48,1063,0.045155221072436504
+Colitis ulcerative,paroxetine,37,961,0.03850156087408949
+Collagen disorder,paroxetine,4,9,0.4444444444444444
+Coloboma,paroxetine,1,11,0.09090909090909091
+Colon cancer,paroxetine,20,243,0.0823045267489712
+Colon cancer stage I,paroxetine,1,2,0.5
+Colon cancer stage II,paroxetine,2,8,0.25
+Colon cancer stage III,paroxetine,1,15,0.06666666666666667
+Colon cancer stage IV,paroxetine,2,10,0.2
+Colon neoplasm,paroxetine,1,17,0.058823529411764705
+Colonic pseudo-obstruction,paroxetine,1,22,0.045454545454545456
+Colonoscopy,paroxetine,4,72,0.05555555555555555
+Colorectal adenocarcinoma,paroxetine,2,9,0.2222222222222222
+Colorectal cancer metastatic,paroxetine,1,26,0.038461538461538464
+Colostomy,paroxetine,1,58,0.017241379310344827
+Colour blindness,paroxetine,1,10,0.1
+Coma,paroxetine,346,6481,0.053386823021138716
+Coma scale,paroxetine,9,18,0.5
+Coma scale abnormal,paroxetine,15,343,0.043731778425655975
+Comminuted fracture,paroxetine,1,8,0.125
+Communication disorder,paroxetine,11,121,0.09090909090909091
+Compartment syndrome,paroxetine,13,118,0.11016949152542373
+Completed suicide,paroxetine,739,18279,0.04042890748946879
+Complex partial seizures,paroxetine,3,36,0.08333333333333333
+Complication associated with device,paroxetine,5,265,0.018867924528301886
+Complication of device insertion,paroxetine,7,349,0.02005730659025788
+Complication of device removal,paroxetine,11,137,0.08029197080291971
+Compression fracture,paroxetine,3,77,0.03896103896103896
+Compulsive hoarding,paroxetine,2,26,0.07692307692307693
+Compulsive sexual behaviour,paroxetine,7,72,0.09722222222222222
+Compulsive shopping,paroxetine,6,150,0.04
+Computerised tomogram abnormal,paroxetine,1,21,0.047619047619047616
+Computerised tomogram thorax abnormal,paroxetine,1,20,0.05
+Concomitant disease aggravated,paroxetine,15,119,0.12605042016806722
+Concussion,paroxetine,18,507,0.03550295857988166
+Condition aggravated,paroxetine,576,12103,0.04759150623812278
+Conduct disorder,paroxetine,2,23,0.08695652173913043
+Conduction disorder,paroxetine,4,41,0.0975609756097561
+Confusional arousal,paroxetine,1,23,0.043478260869565216
+Confusional state,paroxetine,607,8039,0.07550690384376166
+Congenital acrochordon,paroxetine,4,5,0.8
+Congenital anomaly,paroxetine,95,685,0.1386861313868613
+Congenital anomaly in offspring,paroxetine,1,10,0.1
+Congenital aortic anomaly,paroxetine,5,13,0.38461538461538464
+Congenital aortic stenosis,paroxetine,1,5,0.2
+Congenital aortic valve stenosis,paroxetine,5,15,0.3333333333333333
+Congenital bowing of long bones,paroxetine,1,1,1.0
+Congenital brain damage,paroxetine,3,7,0.42857142857142855
+Congenital cardiovascular anomaly,paroxetine,6,51,0.11764705882352941
+Congenital central nervous system anomaly,paroxetine,11,49,0.22448979591836735
+Congenital choroid plexus cyst,paroxetine,3,24,0.125
+Congenital cleft hand,paroxetine,2,21,0.09523809523809523
+Congenital condyloma,paroxetine,1,1,1.0
+Congenital diaphragmatic hernia,paroxetine,16,35,0.45714285714285713
+Congenital elevation of scapula,paroxetine,1,1,1.0
+Congenital floppy infant,paroxetine,1,1,1.0
+Congenital foot malformation,paroxetine,5,22,0.22727272727272727
+Congenital gastric anomaly,paroxetine,1,6,0.16666666666666666
+Congenital genital malformation,paroxetine,1,1,1.0
+Congenital genitourinary abnormality,paroxetine,1,1,1.0
+Congenital great vessel anomaly,paroxetine,1,1,1.0
+Congenital hand malformation,paroxetine,1,51,0.0196078431372549
+Congenital heart valve disorder,paroxetine,11,22,0.5
+Congenital hydrocephalus,paroxetine,71,97,0.7319587628865979
+Congenital hydronephrosis,paroxetine,16,97,0.16494845360824742
+Congenital inguinal hernia,paroxetine,11,54,0.2037037037037037
+Congenital megacolon,paroxetine,3,15,0.2
+Congenital mitral valve incompetence,paroxetine,2,5,0.4
+Congenital multiplex arthrogryposis,paroxetine,3,11,0.2727272727272727
+Congenital musculoskeletal anomaly,paroxetine,3,47,0.06382978723404255
+Congenital neuropathy,paroxetine,1,1,1.0
+Congenital optic nerve anomaly,paroxetine,1,1,1.0
+Congenital pseudarthrosis,paroxetine,2,4,0.5
+Congenital pulmonary hypertension,paroxetine,2,21,0.09523809523809523
+Congenital renal disorder,paroxetine,2,3,0.6666666666666666
+Congenital skin dimples,paroxetine,6,59,0.1016949152542373
+Congenital spinal cord anomaly,paroxetine,1,3,0.3333333333333333
+Congenital thyroid disorder,paroxetine,2,2,1.0
+Congenital tracheomalacia,paroxetine,1,1,1.0
+Congenital tricuspid valve atresia,paroxetine,1,4,0.25
+Congenital tricuspid valve incompetence,paroxetine,1,4,0.25
+Congenital umbilical hernia,paroxetine,1,3,0.3333333333333333
+Congestive cardiomyopathy,paroxetine,3,114,0.02631578947368421
+Conjunctival bleb,paroxetine,2,4,0.5
+Conjunctival disorder,paroxetine,1,4,0.25
+Conjunctival haemorrhage,paroxetine,7,77,0.09090909090909091
+Conjunctival hyperaemia,paroxetine,1,41,0.024390243902439025
+Conjunctival oedema,paroxetine,1,7,0.14285714285714285
+Conjunctival pallor,paroxetine,1,1,1.0
+Conjunctivitis,paroxetine,22,550,0.04
+Conjunctivitis allergic,paroxetine,1,20,0.05
+Conjunctivitis bacterial,paroxetine,1,1,1.0
+Constipation,paroxetine,278,7743,0.03590339661629859
+Contraindicated product administered,paroxetine,10,1672,0.005980861244019139
+Contraindicated product prescribed,paroxetine,3,46,0.06521739130434782
+Contraindication to medical treatment,paroxetine,1,20,0.05
+Contrast media allergy,paroxetine,1,19,0.05263157894736842
+Contusion,paroxetine,149,2928,0.050887978142076504
+Conversion disorder,paroxetine,2,93,0.021505376344086023
+Convulsion,paroxetine,10,128,0.078125
+Convulsion neonatal,paroxetine,2,42,0.047619047619047616
+Convulsive threshold lowered,paroxetine,1,74,0.013513513513513514
+Coordination abnormal,paroxetine,7,287,0.024390243902439025
+Cor pulmonale chronic,paroxetine,4,4,1.0
+Cor triatriatum,paroxetine,1,2,0.5
+Cornea verticillata,paroxetine,3,13,0.23076923076923078
+Corneal abrasion,paroxetine,2,38,0.05263157894736842
+Corneal deposits,paroxetine,1,28,0.03571428571428571
+Corneal disorder,paroxetine,3,26,0.11538461538461539
+Corneal dystrophy,paroxetine,1,17,0.058823529411764705
+Corneal infection,paroxetine,1,2,0.5
+Corneal oedema,paroxetine,5,30,0.16666666666666666
+Corneal opacity,paroxetine,1,3,0.3333333333333333
+Corneal operation,paroxetine,1,3,0.3333333333333333
+Coronary artery bypass,paroxetine,1,40,0.025
+Coronary artery disease,paroxetine,13,225,0.057777777777777775
+Coronary artery occlusion,paroxetine,8,206,0.038834951456310676
+Coronary artery stenosis,paroxetine,1,15,0.06666666666666667
+Coronary vein stenosis,paroxetine,1,2,0.5
+Coronavirus infection,paroxetine,5,171,0.029239766081871343
+Coronavirus test positive,paroxetine,2,21,0.09523809523809523
+Costochondritis,paroxetine,2,32,0.0625
+Cough,paroxetine,198,5339,0.03708559655366173
+Cranial nerve disorder,paroxetine,2,9,0.2222222222222222
+Craniocerebral injury,paroxetine,11,155,0.07096774193548387
+Craniofacial deformity,paroxetine,14,15,0.9333333333333333
+Craniofacial fracture,paroxetine,2,8,0.25
+Craniosynostosis,paroxetine,36,156,0.23076923076923078
+Craniotomy,paroxetine,3,10,0.3
+Creatinine renal clearance decreased,paroxetine,12,849,0.014134275618374558
+Creatinine renal clearance increased,paroxetine,1,71,0.014084507042253521
+Creutzfeldt-Jakob disease,paroxetine,12,27,0.4444444444444444
+Critical illness,paroxetine,2,9,0.2222222222222222
+Crohn's disease,paroxetine,60,1856,0.032327586206896554
+Crush injury,paroxetine,1,2,0.5
+Crush syndrome,paroxetine,1,4,0.25
+Crying,paroxetine,86,2514,0.03420843277645187
+Cryptococcosis,paroxetine,1,10,0.1
+Cryptorchism,paroxetine,12,49,0.24489795918367346
+Crystal nephropathy,paroxetine,1,11,0.09090909090909091
+Cushing's syndrome,paroxetine,3,78,0.038461538461538464
+Cutaneous lupus erythematosus,paroxetine,6,76,0.07894736842105263
+Cutaneous sarcoidosis,paroxetine,2,17,0.11764705882352941
+Cutaneous vasculitis,paroxetine,8,81,0.09876543209876543
+Cyanopsia,paroxetine,2,6,0.3333333333333333
+Cyanosis,paroxetine,34,243,0.13991769547325103
+Cyanosis neonatal,paroxetine,3,32,0.09375
+Cyclothymic disorder,paroxetine,17,35,0.4857142857142857
+Cyst,paroxetine,16,265,0.06037735849056604
+Cystic fibrosis,paroxetine,4,236,0.01694915254237288
+Cystitis,paroxetine,43,1096,0.03923357664233577
+Cystitis escherichia,paroxetine,1,5,0.2
+Cystitis haemorrhagic,paroxetine,2,43,0.046511627906976744
+Cystitis interstitial,paroxetine,5,92,0.05434782608695652
+Cystoid macular oedema,paroxetine,1,18,0.05555555555555555
+Cystoscopy abnormal,paroxetine,1,1,1.0
+Cytogenetic abnormality,paroxetine,2,16,0.125
+Cytogenetic analysis abnormal,paroxetine,1,5,0.2
+Cytokine release syndrome,paroxetine,19,225,0.08444444444444445
+Cytomegalovirus enterocolitis,paroxetine,2,2,1.0
+Cytomegalovirus infection,paroxetine,2,92,0.021739130434782608
+Cytomegalovirus infection reactivation,paroxetine,3,11,0.2727272727272727
+Cytomegalovirus test positive,paroxetine,2,18,0.1111111111111111
+Cytopenia,paroxetine,6,154,0.03896103896103896
+Dacryostenosis acquired,paroxetine,1,33,0.030303030303030304
+Dactylitis,paroxetine,1,23,0.043478260869565216
+Dandruff,paroxetine,1,24,0.041666666666666664
+Dark circles under eyes,paroxetine,2,35,0.05714285714285714
+Daydreaming,paroxetine,2,47,0.0425531914893617
+Deafness,paroxetine,26,549,0.04735883424408015
+Deafness bilateral,paroxetine,3,52,0.057692307692307696
+Deafness neurosensory,paroxetine,1,105,0.009523809523809525
+Deafness transitory,paroxetine,10,30,0.3333333333333333
+Deafness unilateral,paroxetine,5,176,0.028409090909090908
+Death,paroxetine,895,17866,0.05009515280420911
+Decreased activity,paroxetine,14,238,0.058823529411764705
+Decreased appetite,paroxetine,234,4648,0.050344234079173836
+Decreased immune responsiveness,paroxetine,5,137,0.0364963503649635
+Decreased interest,paroxetine,8,278,0.02877697841726619
+Decubitus ulcer,paroxetine,15,248,0.06048387096774194
+Deep brain stimulation,paroxetine,4,58,0.06896551724137931
+Deep vein thrombosis,paroxetine,107,2225,0.04808988764044944
+Defaecation urgency,paroxetine,4,94,0.0425531914893617
+Deficiency anaemia,paroxetine,2,3,0.6666666666666666
+Dehydration,paroxetine,187,3088,0.06055699481865285
+Delayed recovery from anaesthesia,paroxetine,1,23,0.043478260869565216
+Delayed sleep phase,paroxetine,1,4,0.25
+Delirium,paroxetine,127,2051,0.061921014139444175
+Delirium tremens,paroxetine,1,19,0.05263157894736842
+Delivery,paroxetine,1,27,0.037037037037037035
+Delusion,paroxetine,48,927,0.05177993527508091
+Delusion of grandeur,paroxetine,1,17,0.058823529411764705
+Dementia,paroxetine,41,789,0.051964512040557666
+Dementia Alzheimer's type,paroxetine,8,200,0.04
+Dementia with Lewy bodies,paroxetine,3,75,0.04
+Dengue fever,paroxetine,1,43,0.023255813953488372
+Dental care,paroxetine,1,68,0.014705882352941176
+Dental caries,paroxetine,10,324,0.030864197530864196
+Dental discomfort,paroxetine,1,20,0.05
+Dental dysaesthesia,paroxetine,1,1,1.0
+Dental operation,paroxetine,1,38,0.02631578947368421
+Dental plaque,paroxetine,1,1,1.0
+Dental pulp disorder,paroxetine,1,1,1.0
+Dependence,paroxetine,17,213,0.07981220657276995
+Depersonalisation/derealisation disorder,paroxetine,43,180,0.2388888888888889
+Deprescribing error,paroxetine,2,8,0.25
+Depressed level of consciousness,paroxetine,138,3196,0.043178973717146435
+Depressed mood,paroxetine,88,2480,0.035483870967741936
+Depression,paroxetine,473,14880,0.03178763440860215
+Depression suicidal,paroxetine,6,299,0.020066889632107024
+Depressive symptom,paroxetine,21,467,0.044967880085653104
+Derealisation,paroxetine,12,89,0.1348314606741573
+Dermal cyst,paroxetine,2,46,0.043478260869565216
+Dermatitis,paroxetine,23,412,0.055825242718446605
+Dermatitis acneiform,paroxetine,2,65,0.03076923076923077
+Dermatitis allergic,paroxetine,14,537,0.0260707635009311
+Dermatitis atopic,paroxetine,28,1208,0.023178807947019868
+Dermatitis bullous,paroxetine,11,273,0.040293040293040296
+Dermatitis contact,paroxetine,12,236,0.05084745762711865
+Dermatitis exfoliative,paroxetine,6,77,0.07792207792207792
+Dermatitis exfoliative generalised,paroxetine,22,125,0.176
+Dermatitis infected,paroxetine,1,12,0.08333333333333333
+Dermatosis,paroxetine,4,9,0.4444444444444444
+Dermo-hypodermitis,paroxetine,9,13,0.6923076923076923
+Developmental delay,paroxetine,29,105,0.2761904761904762
+Device adhesion issue,paroxetine,2,27,0.07407407407407407
+Device alarm issue,paroxetine,1,42,0.023809523809523808
+Device breakage,paroxetine,9,308,0.02922077922077922
+Device colour issue,paroxetine,1,8,0.125
+Device damage,paroxetine,1,11,0.09090909090909091
+Device defective,paroxetine,5,104,0.04807692307692308
+Device delivery system issue,paroxetine,1,94,0.010638297872340425
+Device difficult to use,paroxetine,10,206,0.04854368932038835
+Device dislocation,paroxetine,23,1241,0.018533440773569703
+Device expulsion,paroxetine,14,866,0.016166281755196306
+Device failure,paroxetine,6,148,0.04054054054054054
+Device issue,paroxetine,45,1272,0.03537735849056604
+Device kink,paroxetine,1,42,0.023809523809523808
+Device leakage,paroxetine,8,250,0.032
+Device loosening,paroxetine,1,6,0.16666666666666666
+Device malfunction,paroxetine,20,898,0.022271714922048998
+Device misuse,paroxetine,1,5,0.2
+Device occlusion,paroxetine,4,140,0.02857142857142857
+Device operational issue,paroxetine,1,12,0.08333333333333333
+Device placement issue,paroxetine,2,49,0.04081632653061224
+Device related bacteraemia,paroxetine,1,13,0.07692307692307693
+Device related infection,paroxetine,9,290,0.03103448275862069
+Device use error,paroxetine,7,111,0.06306306306306306
+Device use issue,paroxetine,6,101,0.0594059405940594
+Diabetes insipidus,paroxetine,10,74,0.13513513513513514
+Diabetes mellitus,paroxetine,103,1660,0.06204819277108434
+Diabetes mellitus inadequate control,paroxetine,9,229,0.039301310043668124
+Diabetic coma,paroxetine,3,23,0.13043478260869565
+Diabetic complication,paroxetine,4,18,0.2222222222222222
+Diabetic foot,paroxetine,1,47,0.02127659574468085
+Diabetic hyperosmolar coma,paroxetine,2,8,0.25
+Diabetic ketoacidosis,paroxetine,37,696,0.05316091954022988
+Diabetic ketoacidotic hyperglycaemic coma,paroxetine,1,6,0.16666666666666666
+Diabetic metabolic decompensation,paroxetine,1,20,0.05
+Diabetic neuropathy,paroxetine,9,130,0.06923076923076923
+Diabetic retinopathy,paroxetine,1,10,0.1
+Dialysis,paroxetine,17,127,0.13385826771653545
+Diarrhoea,paroxetine,631,13927,0.04530767573777554
+Diarrhoea haemorrhagic,paroxetine,5,113,0.04424778761061947
+Differentiation syndrome,paroxetine,2,13,0.15384615384615385
+Diffuse alopecia,paroxetine,2,28,0.07142857142857142
+Diffuse alveolar damage,paroxetine,7,18,0.3888888888888889
+Diffuse lamellar keratitis,paroxetine,1,1,1.0
+Diffuse large B-cell lymphoma,paroxetine,1,63,0.015873015873015872
+Diplegia,paroxetine,1,38,0.02631578947368421
+Diplopia,paroxetine,23,734,0.031335149863760216
+Disability,paroxetine,18,462,0.03896103896103896
+Disability assessment scale score increased,paroxetine,2,3,0.6666666666666666
+Discoloured vomit,paroxetine,2,39,0.05128205128205128
+Discomfort,paroxetine,32,990,0.03232323232323232
+Disease complication,paroxetine,1,63,0.015873015873015872
+Disease progression,paroxetine,107,1795,0.0596100278551532
+Disease recurrence,paroxetine,69,1389,0.04967602591792657
+Disorder of sex development,paroxetine,1,1,1.0
+Disorganised speech,paroxetine,1,68,0.014705882352941176
+Disorientation,paroxetine,85,1227,0.06927465362673187
+Disseminated intravascular coagulation,paroxetine,23,88,0.26136363636363635
+Dissociation,paroxetine,84,431,0.19489559164733178
+Dissociative disorder,paroxetine,9,106,0.08490566037735849
+Distal intestinal obstruction syndrome,paroxetine,3,23,0.13043478260869565
+Distractibility,paroxetine,4,55,0.07272727272727272
+Disturbance in attention,paroxetine,96,1671,0.05745062836624776
+Disturbance in sexual arousal,paroxetine,2,88,0.022727272727272728
+Disturbance in social behaviour,paroxetine,5,47,0.10638297872340426
+Diverticulitis,paroxetine,35,736,0.04755434782608696
+Diverticulitis intestinal haemorrhagic,paroxetine,4,8,0.5
+Diverticulum,paroxetine,5,69,0.07246376811594203
+Diverticulum intestinal,paroxetine,1,45,0.022222222222222223
+Diverticulum intestinal haemorrhagic,paroxetine,6,73,0.0821917808219178
+Dizziness,paroxetine,558,14470,0.038562543192812715
+Dizziness postural,paroxetine,16,236,0.06779661016949153
+Double outlet right ventricle,paroxetine,1,1,1.0
+Double ureter,paroxetine,2,2,1.0
+Drooling,paroxetine,9,239,0.03765690376569038
+Drop attacks,paroxetine,6,60,0.1
+Drowning,paroxetine,8,52,0.15384615384615385
+Drug abuse,paroxetine,788,8901,0.08852937872149197
+Drug abuser,paroxetine,11,33,0.3333333333333333
+Drug administered at inappropriate site,paroxetine,7,110,0.06363636363636363
+Drug administered to patient of inappropriate age,paroxetine,7,158,0.04430379746835443
+Drug administration error,paroxetine,56,588,0.09523809523809523
+Drug delivery system malfunction,paroxetine,2,52,0.038461538461538464
+Drug delivery system removal,paroxetine,1,4,0.25
+Drug dependence,paroxetine,210,2254,0.09316770186335403
+Drug detoxification,paroxetine,2,25,0.08
+Drug dispensed to wrong patient,paroxetine,2,69,0.028985507246376812
+Drug dispensing error,paroxetine,19,503,0.03777335984095427
+Drug diversion,paroxetine,7,118,0.059322033898305086
+Drug dose omission,paroxetine,275,4784,0.05748327759197325
+Drug dose omission by device,paroxetine,2,119,0.01680672268907563
+Drug dose titration not performed,paroxetine,2,74,0.02702702702702703
+Drug effect decreased,paroxetine,64,1363,0.04695524578136464
+Drug effect delayed,paroxetine,15,99,0.15151515151515152
+Drug effect faster than expected,paroxetine,1,4,0.25
+Drug effect incomplete,paroxetine,80,1805,0.0443213296398892
+Drug effect increased,paroxetine,6,63,0.09523809523809523
+Drug effect less than expected,paroxetine,4,168,0.023809523809523808
+Drug effect prolonged,paroxetine,1,17,0.058823529411764705
+Drug effect variable,paroxetine,2,61,0.03278688524590164
+Drug effective for unapproved indication,paroxetine,13,348,0.03735632183908046
+Drug eruption,paroxetine,45,444,0.10135135135135136
+Drug hypersensitivity,paroxetine,700,13219,0.05295408124669037
+Drug ineffective,paroxetine,1648,39294,0.041940245330075836
+Drug ineffective for unapproved indication,paroxetine,91,2737,0.03324808184143223
+Drug interaction,paroxetine,910,13502,0.06739742260405866
+Drug intolerance,paroxetine,68,2251,0.030208796090626388
+Drug level above therapeutic,paroxetine,6,90,0.06666666666666667
+Drug level below therapeutic,paroxetine,9,40,0.225
+Drug level changed,paroxetine,1,4,0.25
+Drug level decreased,paroxetine,10,140,0.07142857142857142
+Drug level fluctuating,paroxetine,2,4,0.5
+Drug level increased,paroxetine,23,472,0.048728813559322036
+Drug monitoring procedure incorrectly performed,paroxetine,1,12,0.08333333333333333
+Drug prescribing error,paroxetine,31,435,0.07126436781609195
+Drug reaction with eosinophilia and systemic symptoms,paroxetine,77,1295,0.05945945945945946
+Drug resistance,paroxetine,21,353,0.059490084985835696
+Drug screen,paroxetine,1,6,0.16666666666666666
+Drug screen false positive,paroxetine,11,373,0.029490616621983913
+Drug screen negative,paroxetine,6,78,0.07692307692307693
+Drug screen positive,paroxetine,20,567,0.03527336860670194
+Drug specific antibody,paroxetine,1,20,0.05
+Drug specific antibody present,paroxetine,3,24,0.125
+Drug titration error,paroxetine,3,332,0.009036144578313253
+Drug tolerance,paroxetine,11,195,0.05641025641025641
+Drug tolerance decreased,paroxetine,2,29,0.06896551724137931
+Drug use disorder,paroxetine,18,329,0.0547112462006079
+Drug withdrawal convulsions,paroxetine,2,53,0.03773584905660377
+Drug withdrawal headache,paroxetine,2,26,0.07692307692307693
+Drug withdrawal syndrome,paroxetine,123,3060,0.04019607843137255
+Drug withdrawal syndrome neonatal,paroxetine,48,997,0.048144433299899696
+Drug-disease interaction,paroxetine,8,25,0.32
+Drug-genetic interaction,paroxetine,12,93,0.12903225806451613
+Drug-induced liver injury,paroxetine,92,1537,0.05985686402081978
+Dry age-related macular degeneration,paroxetine,6,151,0.039735099337748346
+Dry eye,paroxetine,24,836,0.028708133971291867
+Dry mouth,paroxetine,76,1921,0.03956272774596564
+Dry skin,paroxetine,37,1072,0.03451492537313433
+Dry throat,paroxetine,5,86,0.05813953488372093
+Duodenal ulcer,paroxetine,4,139,0.02877697841726619
+Duodenal ulcer haemorrhage,paroxetine,2,53,0.03773584905660377
+Duodenitis,paroxetine,1,32,0.03125
+Duodenitis haemorrhagic,paroxetine,1,1,1.0
+Duplicate therapy error,paroxetine,1,12,0.08333333333333333
+Dysaesthesia,paroxetine,5,39,0.1282051282051282
+Dysarthria,paroxetine,45,936,0.04807692307692308
+Dyschromatopsia,paroxetine,1,10,0.1
+Dysfunctional uterine bleeding,paroxetine,2,16,0.125
+Dysgeusia,paroxetine,35,1143,0.03062117235345582
+Dysgraphia,paroxetine,9,176,0.05113636363636364
+Dyskinesia,paroxetine,91,1759,0.05173393973848778
+Dyskinesia oesophageal,paroxetine,1,3,0.3333333333333333
+Dyslalia,paroxetine,3,12,0.25
+Dyslipidaemia,paroxetine,2,84,0.023809523809523808
+Dysmenorrhoea,paroxetine,4,158,0.02531645569620253
+Dysmetria,paroxetine,2,5,0.4
+Dysmorphism,paroxetine,2,8,0.25
+Dyspepsia,paroxetine,61,1412,0.04320113314447592
+Dysphagia,paroxetine,72,1637,0.04398289554062309
+Dysphemia,paroxetine,3,260,0.011538461538461539
+Dysphonia,paroxetine,23,1010,0.02277227722772277
+Dysphoria,paroxetine,5,82,0.06097560975609756
+Dysplasia,paroxetine,2,10,0.2
+Dysplastic naevus,paroxetine,1,12,0.08333333333333333
+Dyspnoea,paroxetine,382,7178,0.05321816662022848
+Dyspnoea exertional,paroxetine,12,436,0.027522935779816515
+Dysstasia,paroxetine,22,306,0.0718954248366013
+Dysthymic disorder,paroxetine,2,5,0.4
+Dystonia,paroxetine,63,798,0.07894736842105263
+Dysuria,paroxetine,30,825,0.03636363636363636
+Ear congestion,paroxetine,1,26,0.038461538461538464
+Ear discomfort,paroxetine,4,164,0.024390243902439025
+Ear disorder,paroxetine,1,68,0.014705882352941176
+Ear infection,paroxetine,23,707,0.03253182461103253
+Ear operation,paroxetine,2,6,0.3333333333333333
+Ear pain,paroxetine,9,252,0.03571428571428571
+Ear pruritus,paroxetine,1,43,0.023255813953488372
+Ear swelling,paroxetine,1,40,0.025
+Eating disorder,paroxetine,5,274,0.01824817518248175
+Ecchymosis,paroxetine,6,104,0.057692307692307696
+Eclampsia,paroxetine,1,12,0.08333333333333333
+Economic problem,paroxetine,2,100,0.02
+Eczema,paroxetine,46,670,0.06865671641791045
+Educational problem,paroxetine,1,2,0.5
+Ehlers-Danlos syndrome,paroxetine,1,24,0.041666666666666664
+Ejaculation delayed,paroxetine,15,72,0.20833333333333334
+Ejaculation disorder,paroxetine,35,119,0.29411764705882354
+Ejaculation failure,paroxetine,5,74,0.06756756756756757
+Ejection fraction decreased,paroxetine,27,115,0.23478260869565218
+Electric shock,paroxetine,2,26,0.07692307692307693
+Electric shock sensation,paroxetine,13,147,0.08843537414965986
+Electrocardiogram PR prolongation,paroxetine,1,31,0.03225806451612903
+Electrocardiogram Q waves,paroxetine,1,1,1.0
+Electrocardiogram QRS complex prolonged,paroxetine,1,205,0.004878048780487805
+Electrocardiogram QT prolonged,paroxetine,131,2734,0.0479151426481346
+Electrocardiogram ST segment abnormal,paroxetine,1,3,0.3333333333333333
+Electrocardiogram ST segment elevation,paroxetine,1,60,0.016666666666666666
+Electrocardiogram T wave inversion,paroxetine,1,20,0.05
+Electrocardiogram abnormal,paroxetine,6,148,0.04054054054054054
+Electrocardiogram change,paroxetine,1,8,0.125
+Electrocardiogram repolarisation abnormality,paroxetine,2,17,0.11764705882352941
+Electroencephalogram abnormal,paroxetine,2,53,0.03773584905660377
+Electrolyte depletion,paroxetine,1,9,0.1111111111111111
+Electrolyte imbalance,paroxetine,2,107,0.018691588785046728
+Embedded device,paroxetine,2,65,0.03076923076923077
+Embolic stroke,paroxetine,1,32,0.03125
+Embolism,paroxetine,7,112,0.0625
+Embolism arterial,paroxetine,3,24,0.125
+Embolism venous,paroxetine,2,55,0.03636363636363636
+Emergency care,paroxetine,1,37,0.02702702702702703
+Emotional disorder,paroxetine,53,586,0.09044368600682594
+Emotional distress,paroxetine,38,767,0.04954367666232073
+Emotional poverty,paroxetine,7,106,0.0660377358490566
+Emphysema,paroxetine,4,90,0.044444444444444446
+Emphysematous cystitis,paroxetine,4,12,0.3333333333333333
+Empty sella syndrome,paroxetine,1,1,1.0
+Enanthema,paroxetine,2,7,0.2857142857142857
+Encephalitis,paroxetine,2,82,0.024390243902439025
+Encephalocele,paroxetine,2,3,0.6666666666666666
+Encephalopathy,paroxetine,71,794,0.08942065491183879
+Encopresis,paroxetine,1,1,1.0
+End stage renal disease,paroxetine,11,306,0.03594771241830065
+Endocarditis,paroxetine,2,38,0.05263157894736842
+Endocrine disorder,paroxetine,2,12,0.16666666666666666
+Endocrine ophthalmopathy,paroxetine,4,11,0.36363636363636365
+Endodontic procedure,paroxetine,5,45,0.1111111111111111
+Endometrial ablation,paroxetine,1,17,0.058823529411764705
+Endometrial cancer,paroxetine,3,40,0.075
+Endometriosis,paroxetine,3,181,0.016574585635359115
+Endophthalmitis,paroxetine,1,33,0.030303030303030304
+Endoscopy,paroxetine,1,21,0.047619047619047616
+Endovenous ablation,paroxetine,1,12,0.08333333333333333
+Energy increased,paroxetine,1,189,0.005291005291005291
+Enteritis,paroxetine,4,78,0.05128205128205128
+Enterobacter infection,paroxetine,1,2,0.5
+Enterobiasis,paroxetine,1,1,1.0
+Enterococcal infection,paroxetine,1,30,0.03333333333333333
+Enterococcus test positive,paroxetine,2,5,0.4
+Enterocolitis,paroxetine,9,90,0.1
+Enterocutaneous fistula,paroxetine,1,10,0.1
+Enterostomy,paroxetine,1,6,0.16666666666666666
+Enthesophyte,paroxetine,1,4,0.25
+Enuresis,paroxetine,9,278,0.03237410071942446
+Enzyme level abnormal,paroxetine,1,1,1.0
+Eosinophil count decreased,paroxetine,1,16,0.0625
+Eosinophil count increased,paroxetine,4,72,0.05555555555555555
+Eosinophilia,paroxetine,29,328,0.08841463414634146
+Eosinophilic pleural effusion,paroxetine,4,25,0.16
+Eosinophilic pneumonia,paroxetine,10,86,0.11627906976744186
+Epidural analgesia,paroxetine,1,3,0.3333333333333333
+Epigastric discomfort,paroxetine,3,61,0.04918032786885246
+Epiglottic mass,paroxetine,1,1,1.0
+Epilepsy,paroxetine,73,1126,0.06483126110124333
+Epistaxis,paroxetine,68,1213,0.05605935696619951
+Erectile dysfunction,paroxetine,76,908,0.08370044052863436
+Erection increased,paroxetine,2,45,0.044444444444444446
+Erosive duodenitis,paroxetine,2,5,0.4
+Eructation,paroxetine,4,126,0.031746031746031744
+Erysipelas,paroxetine,11,132,0.08333333333333333
+Erythema,paroxetine,103,2008,0.05129482071713148
+Erythema annulare,paroxetine,5,10,0.5
+Erythema infectiosum,paroxetine,1,3,0.3333333333333333
+Erythema multiforme,paroxetine,2,209,0.009569377990430622
+Erythema nodosum,paroxetine,1,43,0.023255813953488372
+Erythema of eyelid,paroxetine,1,49,0.02040816326530612
+Escherichia bacteraemia,paroxetine,2,25,0.08
+Escherichia infection,paroxetine,3,88,0.03409090909090909
+Escherichia urinary tract infection,paroxetine,6,129,0.046511627906976744
+Essential hypertension,paroxetine,3,36,0.08333333333333333
+Essential tremor,paroxetine,4,75,0.05333333333333334
+Euglycaemic diabetic ketoacidosis,paroxetine,4,124,0.03225806451612903
+Euphoric mood,paroxetine,22,315,0.06984126984126984
+Euthanasia,paroxetine,2,12,0.16666666666666666
+Excessive cerumen production,paroxetine,2,5,0.4
+Excessive eye blinking,paroxetine,6,21,0.2857142857142857
+Excessive granulation tissue,paroxetine,1,14,0.07142857142857142
+Excessive sexual fantasies,paroxetine,2,2,1.0
+Exercise tolerance decreased,paroxetine,2,26,0.07692307692307693
+Exhibitionism,paroxetine,6,6,1.0
+Exomphalos,paroxetine,8,29,0.27586206896551724
+Exophthalmos,paroxetine,1,33,0.030303030303030304
+Exostosis,paroxetine,15,202,0.07425742574257425
+Expanded disability status scale score increased,paroxetine,1,13,0.07692307692307693
+Expired product administered,paroxetine,24,446,0.053811659192825115
+Exposed bone in jaw,paroxetine,1,35,0.02857142857142857
+Exposure during breast feeding,paroxetine,8,267,0.0299625468164794
+Exposure during pregnancy,paroxetine,183,3152,0.05805837563451777
+Exposure to SARS-CoV-2,paroxetine,3,36,0.08333333333333333
+Exposure to toxic agent,paroxetine,9,215,0.04186046511627907
+Exposure via breast milk,paroxetine,7,383,0.018276762402088774
+Exposure via partner,paroxetine,2,8,0.25
+Extensive swelling of vaccinated limb,paroxetine,1,2,0.5
+Extra dose administered,paroxetine,12,453,0.026490066225165563
+Extradural haematoma,paroxetine,8,66,0.12121212121212122
+Extrapyramidal disorder,paroxetine,65,657,0.0989345509893455
+Extrasystoles,paroxetine,2,96,0.020833333333333332
+Extravasation blood,paroxetine,1,1,1.0
+Extremity contracture,paroxetine,1,8,0.125
+Eye allergy,paroxetine,1,33,0.030303030303030304
+Eye degenerative disorder,paroxetine,2,2,1.0
+Eye discharge,paroxetine,4,104,0.038461538461538464
+Eye disorder,paroxetine,11,414,0.026570048309178744
+Eye haematoma,paroxetine,6,17,0.35294117647058826
+Eye haemorrhage,paroxetine,8,125,0.064
+Eye infection,paroxetine,8,184,0.043478260869565216
+Eye inflammation,paroxetine,1,51,0.0196078431372549
+Eye irritation,paroxetine,13,445,0.029213483146067417
+Eye laser surgery,paroxetine,1,8,0.125
+Eye movement disorder,paroxetine,2,144,0.013888888888888888
+Eye operation,paroxetine,3,62,0.04838709677419355
+Eye operation complication,paroxetine,1,1,1.0
+Eye pain,paroxetine,71,942,0.07537154989384288
+Eye pruritus,paroxetine,14,223,0.06278026905829596
+Eye swelling,paroxetine,19,388,0.04896907216494845
+Eyelid cyst,paroxetine,1,6,0.16666666666666666
+Eyelid haematoma,paroxetine,2,2,1.0
+Eyelid margin crusting,paroxetine,4,19,0.21052631578947367
+Eyelid oedema,paroxetine,6,100,0.06
+Eyelid pain,paroxetine,1,31,0.03225806451612903
+Eyelid ptosis,paroxetine,3,109,0.027522935779816515
+Eyelid ptosis congenital,paroxetine,5,5,1.0
+Eyelid rash,paroxetine,1,14,0.07142857142857142
+Eyelid skin dryness,paroxetine,1,5,0.2
+Eyelids pruritus,paroxetine,1,8,0.125
+Face injury,paroxetine,1,55,0.01818181818181818
+Face oedema,paroxetine,3,198,0.015151515151515152
+Facial bones fracture,paroxetine,3,126,0.023809523809523808
+Facial nerve disorder,paroxetine,2,12,0.16666666666666666
+Facial pain,paroxetine,1,112,0.008928571428571428
+Facial paralysis,paroxetine,28,195,0.14358974358974358
+Facial paresis,paroxetine,2,43,0.046511627906976744
+Factor VII deficiency,paroxetine,1,1,1.0
+Faecal calprotectin increased,paroxetine,4,26,0.15384615384615385
+Faecal incontinence,paroxetine,4,29,0.13793103448275862
+Faecal vomiting,paroxetine,2,17,0.11764705882352941
+Faecaloma,paroxetine,7,163,0.04294478527607362
+Faeces discoloured,paroxetine,7,261,0.02681992337164751
+Faeces hard,paroxetine,2,35,0.05714285714285714
+Failure to thrive,paroxetine,5,97,0.05154639175257732
+Fall,paroxetine,598,11531,0.05186020293122886
+Fallopian tube cancer,paroxetine,1,3,0.3333333333333333
+Fallot's tetralogy,paroxetine,17,171,0.09941520467836257
+False negative investigation result,paroxetine,3,10,0.3
+False positive investigation result,paroxetine,2,132,0.015151515151515152
+Fatigue,paroxetine,549,12154,0.04517031429981899
+Fear,paroxetine,7,230,0.030434782608695653
+Fear of disease,paroxetine,1,17,0.058823529411764705
+Fear of injection,paroxetine,2,43,0.046511627906976744
+Febrile bone marrow aplasia,paroxetine,7,71,0.09859154929577464
+Febrile convulsion,paroxetine,4,7,0.5714285714285714
+Febrile infection,paroxetine,2,10,0.2
+Febrile neutropenia,paroxetine,74,1110,0.06666666666666667
+Feeding disorder,paroxetine,6,183,0.03278688524590164
+Feeding intolerance,paroxetine,2,7,0.2857142857142857
+Feeling abnormal,paroxetine,169,4445,0.03802024746906637
+Feeling cold,paroxetine,8,228,0.03508771929824561
+Feeling drunk,paroxetine,6,166,0.03614457831325301
+Feeling guilty,paroxetine,3,17,0.17647058823529413
+Feeling hot,paroxetine,28,654,0.04281345565749235
+Feeling jittery,paroxetine,26,457,0.05689277899343545
+Feeling of body temperature change,paroxetine,2,53,0.03773584905660377
+Feeling of despair,paroxetine,2,52,0.038461538461538464
+Feeling of relaxation,paroxetine,6,16,0.375
+Female genital tract fistula,paroxetine,2,34,0.058823529411764705
+Femoral anteversion,paroxetine,3,5,0.6
+Femoral artery occlusion,paroxetine,1,2,0.5
+Femoral hernia incarcerated,paroxetine,2,2,1.0
+Femoral neck fracture,paroxetine,8,102,0.0784313725490196
+Femur fracture,paroxetine,6,340,0.01764705882352941
+Fibrin D dimer increased,paroxetine,1,40,0.025
+Fibroma,paroxetine,1,4,0.25
+Fibromyalgia,paroxetine,18,773,0.02328589909443726
+Finger deformity,paroxetine,2,18,0.1111111111111111
+Fistula,paroxetine,7,119,0.058823529411764705
+Fixed eruption,paroxetine,3,24,0.125
+Flank pain,paroxetine,15,132,0.11363636363636363
+Flat affect,paroxetine,7,85,0.08235294117647059
+Flatulence,paroxetine,26,363,0.07162534435261708
+Floppy infant,paroxetine,2,16,0.125
+Fluid intake reduced,paroxetine,1,45,0.022222222222222223
+Fluid overload,paroxetine,4,106,0.03773584905660377
+Fluid replacement,paroxetine,1,20,0.05
+Fluid retention,paroxetine,22,662,0.03323262839879154
+Flushing,paroxetine,42,1098,0.03825136612021858
+Foetal death,paroxetine,9,429,0.02097902097902098
+Foetal exposure during pregnancy,paroxetine,781,4277,0.18260462941314004
+Foetal growth restriction,paroxetine,1,82,0.012195121951219513
+Foetal heart rate disorder,paroxetine,1,7,0.14285714285714285
+Foetal malpresentation,paroxetine,2,2,1.0
+Foetal movement disorder,paroxetine,3,5,0.6
+Folate deficiency,paroxetine,1,36,0.027777777777777776
+Folliculitis,paroxetine,3,68,0.04411764705882353
+Food allergy,paroxetine,2,262,0.007633587786259542
+Food aversion,paroxetine,1,14,0.07142857142857142
+Food craving,paroxetine,1,142,0.007042253521126761
+Food intolerance,paroxetine,1,36,0.027777777777777776
+Food poisoning,paroxetine,4,123,0.032520325203252036
+Foot deformity,paroxetine,13,217,0.059907834101382486
+Foot fracture,paroxetine,5,446,0.011210762331838564
+Foot operation,paroxetine,4,200,0.02
+Foreign body,paroxetine,2,64,0.03125
+Foreign body aspiration,paroxetine,1,13,0.07692307692307693
+Foreign body in throat,paroxetine,2,49,0.04081632653061224
+Foreign body sensation in eyes,paroxetine,1,32,0.03125
+Formication,paroxetine,5,172,0.029069767441860465
+Fournier's gangrene,paroxetine,1,138,0.007246376811594203
+Fracture,paroxetine,17,272,0.0625
+Fracture displacement,paroxetine,1,4,0.25
+Freezing phenomenon,paroxetine,4,48,0.08333333333333333
+Frequent bowel movements,paroxetine,7,156,0.04487179487179487
+Frontotemporal dementia,paroxetine,1,11,0.09090909090909091
+Frustration tolerance decreased,paroxetine,2,90,0.022222222222222223
+Full blood count abnormal,paroxetine,6,408,0.014705882352941176
+Full blood count decreased,paroxetine,34,490,0.06938775510204082
+Functional gastrointestinal disorder,paroxetine,5,55,0.09090909090909091
+Fungal infection,paroxetine,22,471,0.04670912951167728
+Fungal skin infection,paroxetine,3,62,0.04838709677419355
+Furuncle,paroxetine,9,100,0.09
+Gait disturbance,paroxetine,103,2248,0.04581850533807829
+Gait inability,paroxetine,24,389,0.061696658097686374
+Galactorrhoea,paroxetine,29,475,0.061052631578947365
+Gallbladder cancer stage IV,paroxetine,1,1,1.0
+Gallbladder disorder,paroxetine,12,298,0.040268456375838924
+Gallbladder enlargement,paroxetine,2,7,0.2857142857142857
+Gallbladder non-functioning,paroxetine,1,2,0.5
+Gallbladder operation,paroxetine,3,105,0.02857142857142857
+Gallbladder polyp,paroxetine,1,4,0.25
+Gambling disorder,paroxetine,4,264,0.015151515151515152
+Gamma-glutamyltransferase increased,paroxetine,7,185,0.03783783783783784
+Gastrectomy,paroxetine,4,47,0.0851063829787234
+Gastric banding reversal,paroxetine,1,9,0.1111111111111111
+Gastric bypass,paroxetine,4,119,0.03361344537815126
+Gastric cancer,paroxetine,4,88,0.045454545454545456
+Gastric dilatation,paroxetine,1,6,0.16666666666666666
+Gastric disorder,paroxetine,28,496,0.056451612903225805
+Gastric haemorrhage,paroxetine,12,128,0.09375
+Gastric infection,paroxetine,2,57,0.03508771929824561
+Gastric neoplasm,paroxetine,1,14,0.07142857142857142
+Gastric pH decreased,paroxetine,45,83,0.5421686746987951
+Gastric perforation,paroxetine,1,28,0.03571428571428571
+Gastric ulcer,paroxetine,21,328,0.06402439024390244
+Gastric ulcer haemorrhage,paroxetine,13,88,0.14772727272727273
+Gastric ulcer perforation,paroxetine,4,29,0.13793103448275862
+Gastritis,paroxetine,18,355,0.05070422535211268
+Gastritis erosive,paroxetine,1,34,0.029411764705882353
+Gastritis haemorrhagic,paroxetine,2,44,0.045454545454545456
+Gastroenteritis,paroxetine,8,212,0.03773584905660377
+Gastroenteritis Escherichia coli,paroxetine,1,12,0.08333333333333333
+Gastroenteritis clostridial,paroxetine,1,7,0.14285714285714285
+Gastroenteritis norovirus,paroxetine,1,21,0.047619047619047616
+Gastroenteritis radiation,paroxetine,1,2,0.5
+Gastroenteritis viral,paroxetine,18,395,0.04556962025316456
+Gastrointestinal angiodysplasia,paroxetine,1,4,0.25
+Gastrointestinal angiodysplasia haemorrhagic,paroxetine,8,27,0.2962962962962963
+Gastrointestinal arteriovenous malformation,paroxetine,1,4,0.25
+Gastrointestinal bacterial overgrowth,paroxetine,3,28,0.10714285714285714
+Gastrointestinal carcinoma,paroxetine,3,25,0.12
+Gastrointestinal disorder,paroxetine,32,925,0.034594594594594595
+Gastrointestinal erosion,paroxetine,1,4,0.25
+Gastrointestinal haemorrhage,paroxetine,193,2522,0.07652656621728787
+Gastrointestinal infection,paroxetine,1,138,0.007246376811594203
+Gastrointestinal inflammation,paroxetine,4,55,0.07272727272727272
+Gastrointestinal malformation,paroxetine,1,5,0.2
+Gastrointestinal motility disorder,paroxetine,1,60,0.016666666666666666
+Gastrointestinal necrosis,paroxetine,2,13,0.15384615384615385
+Gastrointestinal pain,paroxetine,3,95,0.031578947368421054
+Gastrointestinal polyp,paroxetine,2,7,0.2857142857142857
+Gastrointestinal polyp haemorrhage,paroxetine,3,21,0.14285714285714285
+Gastrointestinal stoma complication,paroxetine,1,30,0.03333333333333333
+Gastrointestinal surgery,paroxetine,1,20,0.05
+Gastrointestinal toxicity,paroxetine,3,16,0.1875
+Gastrointestinal ulcer haemorrhage,paroxetine,5,33,0.15151515151515152
+Gastrointestinal vascular malformation haemorrhagic,paroxetine,8,22,0.36363636363636365
+Gastrointestinal viral infection,paroxetine,1,21,0.047619047619047616
+Gastrooesophageal reflux disease,paroxetine,29,1480,0.019594594594594596
+Gastrostomy tube removal,paroxetine,1,2,0.5
+Gastrostomy tube site complication,paroxetine,1,6,0.16666666666666666
+Gaze palsy,paroxetine,4,30,0.13333333333333333
+General physical condition abnormal,paroxetine,10,59,0.1694915254237288
+General physical health deterioration,paroxetine,85,1238,0.06865912762520193
+General symptom,paroxetine,1,38,0.02631578947368421
+Generalised anxiety disorder,paroxetine,3,58,0.05172413793103448
+Generalised erythema,paroxetine,6,40,0.15
+Generalised oedema,paroxetine,3,128,0.0234375
+Generalised tonic-clonic seizure,paroxetine,43,1060,0.040566037735849055
+Genital anaesthesia,paroxetine,10,40,0.25
+Genital burning sensation,paroxetine,1,9,0.1111111111111111
+Genital discomfort,paroxetine,1,6,0.16666666666666666
+Genital erosion,paroxetine,2,3,0.6666666666666666
+Genital haemorrhage,paroxetine,1,26,0.038461538461538464
+Genital hypoaesthesia,paroxetine,2,42,0.047619047619047616
+Gestational diabetes,paroxetine,21,358,0.05865921787709497
+Gestational hypertension,paroxetine,3,55,0.05454545454545454
+Giant cell arteritis,paroxetine,1,10,0.1
+Gingival atrophy,paroxetine,1,1,1.0
+Gingival bleeding,paroxetine,23,167,0.1377245508982036
+Gingival discolouration,paroxetine,1,13,0.07692307692307693
+Gingival disorder,paroxetine,2,43,0.046511627906976744
+Gingival hypertrophy,paroxetine,1,19,0.05263157894736842
+Gingival pain,paroxetine,2,69,0.028985507246376812
+Gingival recession,paroxetine,1,23,0.043478260869565216
+Gingivitis,paroxetine,5,78,0.0641025641025641
+Gitelman's syndrome,paroxetine,1,1,1.0
+Glaucoma,paroxetine,12,347,0.0345821325648415
+Glomerular filtration rate decreased,paroxetine,2,91,0.02197802197802198
+Glomerulonephritis,paroxetine,8,35,0.22857142857142856
+Glossodynia,paroxetine,3,261,0.011494252873563218
+Glucose tolerance impaired,paroxetine,1,137,0.0072992700729927005
+Gluten sensitivity,paroxetine,1,49,0.02040816326530612
+Glycosuria,paroxetine,1,17,0.058823529411764705
+Glycosylated haemoglobin increased,paroxetine,8,157,0.050955414012738856
+Goitre,paroxetine,3,88,0.03409090909090909
+Gout,paroxetine,7,218,0.03211009174311927
+Graft versus host disease,paroxetine,1,65,0.015384615384615385
+Graft versus host disease in gastrointestinal tract,paroxetine,1,8,0.125
+Granulocytopenia,paroxetine,3,114,0.02631578947368421
+Granuloma,paroxetine,1,28,0.03571428571428571
+Granuloma annulare,paroxetine,4,16,0.25
+Grip strength decreased,paroxetine,5,44,0.11363636363636363
+Groin abscess,paroxetine,2,26,0.07692307692307693
+Growth hormone deficiency,paroxetine,1,92,0.010869565217391304
+Growth retardation,paroxetine,2,36,0.05555555555555555
+Guillain-Barre syndrome,paroxetine,6,80,0.075
+Gynaecomastia,paroxetine,35,437,0.08009153318077804
+H1N1 influenza,paroxetine,9,24,0.375
+Haemangioma,paroxetine,1,22,0.045454545454545456
+Haemangioma of liver,paroxetine,4,14,0.2857142857142857
+Haemarthrosis,paroxetine,10,89,0.11235955056179775
+Haematemesis,paroxetine,26,417,0.06235011990407674
+Haematochezia,paroxetine,33,511,0.06457925636007827
+Haematocrit decreased,paroxetine,9,164,0.054878048780487805
+Haematocrit increased,paroxetine,2,48,0.041666666666666664
+Haematoma,paroxetine,37,385,0.09610389610389611
+Haematoma muscle,paroxetine,5,47,0.10638297872340426
+Haematospermia,paroxetine,1,18,0.05555555555555555
+Haematuria,paroxetine,30,452,0.06637168141592921
+Haemodialysis,paroxetine,1,8,0.125
+Haemodynamic instability,paroxetine,1,87,0.011494252873563218
+Haemoglobin abnormal,paroxetine,4,81,0.04938271604938271
+Haemoglobin decreased,paroxetine,47,698,0.0673352435530086
+Haemoglobin increased,paroxetine,1,29,0.034482758620689655
+Haemolytic anaemia,paroxetine,7,104,0.0673076923076923
+Haemolytic uraemic syndrome,paroxetine,2,13,0.15384615384615385
+Haemophagocytic lymphohistiocytosis,paroxetine,7,64,0.109375
+Haemophilus test positive,paroxetine,1,1,1.0
+Haemoptysis,paroxetine,11,315,0.03492063492063492
+Haemorrhage,paroxetine,39,776,0.05025773195876289
+Haemorrhage in pregnancy,paroxetine,1,12,0.08333333333333333
+Haemorrhage intracranial,paroxetine,27,321,0.08411214953271028
+Haemorrhage subcutaneous,paroxetine,15,52,0.28846153846153844
+Haemorrhage urinary tract,paroxetine,1,29,0.034482758620689655
+Haemorrhagic anaemia,paroxetine,6,146,0.0410958904109589
+Haemorrhagic arteriovenous malformation,paroxetine,4,29,0.13793103448275862
+Haemorrhagic diathesis,paroxetine,5,60,0.08333333333333333
+Haemorrhagic stroke,paroxetine,28,265,0.10566037735849057
+Haemorrhoid operation,paroxetine,1,8,0.125
+Haemorrhoidal haemorrhage,paroxetine,1,59,0.01694915254237288
+Haemorrhoids,paroxetine,6,132,0.045454545454545456
+Haemothorax,paroxetine,1,48,0.020833333333333332
+Hair colour changes,paroxetine,7,93,0.07526881720430108
+Hair disorder,paroxetine,3,40,0.075
+Hair growth abnormal,paroxetine,2,62,0.03225806451612903
+Hair texture abnormal,paroxetine,1,82,0.012195121951219513
+Hallucination,paroxetine,92,2187,0.04206675811614083
+"Hallucination, auditory",paroxetine,55,680,0.08088235294117647
+"Hallucination, tactile",paroxetine,1,33,0.030303030303030304
+"Hallucination, visual",paroxetine,34,821,0.04141291108404385
+"Hallucinations, mixed",paroxetine,108,470,0.2297872340425532
+Hamartoma,paroxetine,5,5,1.0
+Hangover,paroxetine,3,130,0.023076923076923078
+Head and neck cancer stage IV,paroxetine,1,1,1.0
+Head deformity,paroxetine,2,3,0.6666666666666666
+Head discomfort,paroxetine,7,268,0.026119402985074626
+Head injury,paroxetine,14,293,0.04778156996587031
+Head titubation,paroxetine,4,29,0.13793103448275862
+Headache,paroxetine,403,9335,0.04317086234600964
+Hearing aid user,paroxetine,5,13,0.38461538461538464
+Hearing impaired,paroxetine,1,27,0.037037037037037035
+Heart disease congenital,paroxetine,4,174,0.022988505747126436
+Heart rate abnormal,paroxetine,1,56,0.017857142857142856
+Heart rate decreased,paroxetine,14,357,0.0392156862745098
+Heart rate increased,paroxetine,35,1002,0.03493013972055888
+Heart rate irregular,paroxetine,11,205,0.05365853658536585
+Heart sounds abnormal,paroxetine,1,5,0.2
+Heart valve incompetence,paroxetine,4,40,0.1
+Heart valve operation,paroxetine,2,6,0.3333333333333333
+Heart valve replacement,paroxetine,1,23,0.043478260869565216
+Heat illness,paroxetine,1,9,0.1111111111111111
+Heat stroke,paroxetine,11,113,0.09734513274336283
+Heavy menstrual bleeding,paroxetine,3,115,0.02608695652173913
+Helicobacter gastritis,paroxetine,2,10,0.2
+Helicobacter infection,paroxetine,5,61,0.08196721311475409
+Hemianaesthesia,paroxetine,1,11,0.09090909090909091
+Hemiparaesthesia,paroxetine,3,10,0.3
+Hemiparesis,paroxetine,7,174,0.040229885057471264
+Hepatic adenoma,paroxetine,1,18,0.05555555555555555
+Hepatic cancer,paroxetine,3,87,0.034482758620689655
+Hepatic cirrhosis,paroxetine,9,291,0.030927835051546393
+Hepatic cytolysis,paroxetine,32,409,0.07823960880195599
+Hepatic encephalopathy,paroxetine,11,96,0.11458333333333333
+Hepatic enzyme abnormal,paroxetine,1,89,0.011235955056179775
+Hepatic enzyme increased,paroxetine,41,1240,0.03306451612903226
+Hepatic failure,paroxetine,24,309,0.07766990291262135
+Hepatic function abnormal,paroxetine,39,535,0.07289719626168224
+Hepatic haemorrhage,paroxetine,1,5,0.2
+Hepatic lesion,paroxetine,5,27,0.18518518518518517
+Hepatic neoplasm,paroxetine,3,19,0.15789473684210525
+Hepatic pain,paroxetine,1,27,0.037037037037037035
+Hepatic steatosis,paroxetine,17,276,0.06159420289855073
+Hepatic vein thrombosis,paroxetine,1,9,0.1111111111111111
+Hepatitis,paroxetine,39,465,0.08387096774193549
+Hepatitis A,paroxetine,1,17,0.058823529411764705
+Hepatitis B,paroxetine,4,34,0.11764705882352941
+Hepatitis C,paroxetine,2,104,0.019230769230769232
+Hepatitis C antibody positive,paroxetine,1,2,0.5
+Hepatitis E,paroxetine,1,13,0.07692307692307693
+Hepatitis acute,paroxetine,12,197,0.06091370558375635
+Hepatitis alcoholic,paroxetine,2,3,0.6666666666666666
+Hepatitis cholestatic,paroxetine,6,193,0.031088082901554404
+Hepatitis fulminant,paroxetine,18,43,0.4186046511627907
+Hepatitis toxic,paroxetine,1,44,0.022727272727272728
+Hepatocellular carcinoma,paroxetine,9,61,0.14754098360655737
+Hepatocellular injury,paroxetine,123,686,0.1793002915451895
+Hepatomegaly,paroxetine,2,29,0.06896551724137931
+Hepatotoxicity,paroxetine,21,358,0.05865921787709497
+Herbal interaction,paroxetine,3,37,0.08108108108108109
+Hereditary angioedema,paroxetine,13,446,0.02914798206278027
+Hernia,paroxetine,6,312,0.019230769230769232
+Hernia repair,paroxetine,2,52,0.038461538461538464
+Herpes ophthalmic,paroxetine,1,25,0.04
+Herpes simplex,paroxetine,4,52,0.07692307692307693
+Herpes simplex reactivation,paroxetine,2,4,0.5
+Herpes virus infection,paroxetine,2,77,0.025974025974025976
+Herpes zoster,paroxetine,39,1094,0.0356489945155393
+Heterophoria,paroxetine,1,1,1.0
+Hiatus hernia,paroxetine,2,133,0.015037593984962405
+Hiccups,paroxetine,6,151,0.039735099337748346
+Hidradenitis,paroxetine,1,103,0.009708737864077669
+High risk sexual behaviour,paroxetine,4,8,0.5
+Hip arthroplasty,paroxetine,11,288,0.03819444444444445
+Hip deformity,paroxetine,1,3,0.3333333333333333
+Hip fracture,paroxetine,15,426,0.035211267605633804
+Hip surgery,paroxetine,8,133,0.06015037593984962
+Histamine intolerance,paroxetine,1,11,0.09090909090909091
+Homicidal ideation,paroxetine,4,167,0.023952095808383235
+Homicide,paroxetine,5,47,0.10638297872340426
+Hordeolum,paroxetine,1,51,0.0196078431372549
+Hormone level abnormal,paroxetine,2,41,0.04878048780487805
+Hospice care,paroxetine,26,543,0.04788213627992634
+Hospitalisation,paroxetine,171,3411,0.05013192612137203
+Hot flush,paroxetine,80,868,0.09216589861751152
+Housebound,paroxetine,4,11,0.36363636363636365
+Human anaplasmosis,paroxetine,1,2,0.5
+Humerus fracture,paroxetine,3,62,0.04838709677419355
+Hydrocele,paroxetine,1,8,0.125
+Hydrocephalus,paroxetine,3,53,0.05660377358490566
+Hydronephrosis,paroxetine,5,52,0.09615384615384616
+Hydrothorax,paroxetine,2,3,0.6666666666666666
+Hyper IgE syndrome,paroxetine,1,2,0.5
+Hyperacusis,paroxetine,1,40,0.025
+Hyperaesthesia,paroxetine,4,90,0.044444444444444446
+Hyperaesthesia teeth,paroxetine,1,13,0.07692307692307693
+Hyperaldosteronism,paroxetine,1,4,0.25
+Hyperammonaemia,paroxetine,10,81,0.12345679012345678
+Hyperammonaemic encephalopathy,paroxetine,5,57,0.08771929824561403
+Hyperamylasaemia,paroxetine,1,1,1.0
+Hyperarousal,paroxetine,1,4,0.25
+Hyperbilirubinaemia,paroxetine,3,65,0.046153846153846156
+Hyperbilirubinaemia neonatal,paroxetine,1,13,0.07692307692307693
+Hypercalcaemia,paroxetine,9,168,0.05357142857142857
+Hypercapnia,paroxetine,6,56,0.10714285714285714
+Hypercholesterolaemia,paroxetine,3,74,0.04054054054054054
+Hyperferritinaemia,paroxetine,1,1,1.0
+Hypergammaglobulinaemia benign monoclonal,paroxetine,1,13,0.07692307692307693
+Hyperglycaemia,paroxetine,17,488,0.03483606557377049
+Hyperglycaemic hyperosmolar nonketotic syndrome,paroxetine,3,22,0.13636363636363635
+Hyperhidrosis,paroxetine,81,2295,0.03529411764705882
+Hyperinsulinaemic hypoglycaemia,paroxetine,1,3,0.3333333333333333
+Hyperkalaemia,paroxetine,41,390,0.10512820512820513
+Hyperkeratosis,paroxetine,8,50,0.16
+Hyperlactacidaemia,paroxetine,6,48,0.125
+Hypernatraemia,paroxetine,6,71,0.08450704225352113
+Hyperparathyroidism,paroxetine,1,18,0.05555555555555555
+Hyperparathyroidism secondary,paroxetine,2,50,0.04
+Hyperphagia,paroxetine,1,76,0.013157894736842105
+Hyperphosphataemia,paroxetine,1,18,0.05555555555555555
+Hyperprolactinaemia,paroxetine,29,301,0.09634551495016612
+Hyperpyrexia,paroxetine,2,23,0.08695652173913043
+Hyperreflexia,paroxetine,5,85,0.058823529411764705
+Hypersensitivity,paroxetine,93,3106,0.02994204764971024
+Hypersensitivity pneumonitis,paroxetine,3,60,0.05
+Hypersensitivity vasculitis,paroxetine,2,84,0.023809523809523808
+Hypersexuality,paroxetine,5,115,0.043478260869565216
+Hypersomnia,paroxetine,17,458,0.03711790393013101
+Hypertension,paroxetine,152,3093,0.04914322664080181
+Hypertensive crisis,paroxetine,11,244,0.045081967213114756
+Hypertensive emergency,paroxetine,1,46,0.021739130434782608
+Hyperthermia,paroxetine,12,208,0.057692307692307696
+Hyperthyroidism,paroxetine,4,203,0.019704433497536946
+Hypertonia,paroxetine,2,58,0.034482758620689655
+Hypertransaminasaemia,paroxetine,4,63,0.06349206349206349
+Hypertrichosis,paroxetine,1,31,0.03225806451612903
+Hypertriglyceridaemia,paroxetine,15,137,0.10948905109489052
+Hyperuricaemia,paroxetine,4,27,0.14814814814814814
+Hyperventilation,paroxetine,1,72,0.013888888888888888
+Hypervolaemia,paroxetine,2,45,0.044444444444444446
+Hyphaema,paroxetine,3,8,0.375
+Hypnagogic hallucination,paroxetine,2,29,0.06896551724137931
+Hypoacusis,paroxetine,17,484,0.03512396694214876
+Hypoaesthesia,paroxetine,100,1667,0.059988002399520096
+Hypoaesthesia oral,paroxetine,20,204,0.09803921568627451
+Hypoalbuminaemia,paroxetine,8,33,0.24242424242424243
+Hypocalcaemia,paroxetine,6,194,0.030927835051546393
+Hypochloraemia,paroxetine,2,36,0.05555555555555555
+Hypochromic anaemia,paroxetine,1,17,0.058823529411764705
+Hypocoagulable state,paroxetine,6,10,0.6
+Hypogammaglobulinaemia,paroxetine,19,81,0.2345679012345679
+Hypogeusia,paroxetine,1,21,0.047619047619047616
+Hypoglycaemia,paroxetine,63,985,0.06395939086294417
+Hypoglycaemia neonatal,paroxetine,2,26,0.07692307692307693
+Hypoglycaemic coma,paroxetine,5,56,0.08928571428571429
+Hypokalaemia,paroxetine,86,935,0.09197860962566845
+Hypokinesia,paroxetine,9,182,0.04945054945054945
+Hypomagnesaemia,paroxetine,14,197,0.07106598984771574
+Hypomania,paroxetine,11,302,0.03642384105960265
+Hyponatraemia,paroxetine,254,3180,0.07987421383647798
+Hyponatraemic syndrome,paroxetine,11,39,0.28205128205128205
+Hypoosmolar state,paroxetine,1,9,0.1111111111111111
+Hypophagia,paroxetine,7,161,0.043478260869565216
+Hypophosphataemia,paroxetine,2,101,0.019801980198019802
+Hypophysitis,paroxetine,1,20,0.05
+Hypopnoea,paroxetine,7,49,0.14285714285714285
+Hyporesponsive to stimuli,paroxetine,3,21,0.14285714285714285
+Hypotension,paroxetine,156,2910,0.05360824742268041
+Hypothermia,paroxetine,3,231,0.012987012987012988
+Hypothyroidism,paroxetine,21,624,0.03365384615384615
+Hypotonia,paroxetine,13,140,0.09285714285714286
+Hypoventilation,paroxetine,2,56,0.03571428571428571
+Hypovolaemia,paroxetine,2,27,0.07407407407407407
+Hypovolaemic shock,paroxetine,4,68,0.058823529411764705
+Hypoxia,paroxetine,14,424,0.0330188679245283
+Hypoxic-ischaemic encephalopathy,paroxetine,1,30,0.03333333333333333
+Hysterectomy,paroxetine,6,272,0.022058823529411766
+Idiopathic intracranial hypertension,paroxetine,5,76,0.06578947368421052
+Idiopathic pulmonary fibrosis,paroxetine,3,30,0.1
+Ileal perforation,paroxetine,1,5,0.2
+Ileal stenosis,paroxetine,1,16,0.0625
+Ileal ulcer,paroxetine,2,2,1.0
+Ileostomy closure,paroxetine,1,5,0.2
+Ileus,paroxetine,4,147,0.027210884353741496
+Ileus paralytic,paroxetine,10,90,0.1111111111111111
+Ill-defined disorder,paroxetine,34,464,0.07327586206896551
+Illness,paroxetine,87,1457,0.05971173644474949
+Illness anxiety disorder,paroxetine,1,3,0.3333333333333333
+Immobile,paroxetine,2,33,0.06060606060606061
+Immune effector cell-associated neurotoxicity syndrome,paroxetine,2,30,0.06666666666666667
+Immune reconstitution inflammatory syndrome,paroxetine,10,212,0.04716981132075472
+Immune system disorder,paroxetine,2,124,0.016129032258064516
+Immune thrombocytopenia,paroxetine,5,455,0.01098901098901099
+Immune thrombocytopenic purpura,paroxetine,26,113,0.23008849557522124
+Immune-mediated enterocolitis,paroxetine,1,39,0.02564102564102564
+Immune-mediated hepatitis,paroxetine,3,30,0.1
+Immune-mediated myasthenia gravis,paroxetine,1,1,1.0
+Immune-mediated myocarditis,paroxetine,1,1,1.0
+Immune-mediated necrotising myopathy,paroxetine,4,12,0.3333333333333333
+Immune-mediated nephritis,paroxetine,2,8,0.25
+Immunodeficiency,paroxetine,4,161,0.024844720496894408
+Immunoglobulins abnormal,paroxetine,1,2,0.5
+Immunosuppressant drug level increased,paroxetine,1,10,0.1
+Impaired driving ability,paroxetine,4,94,0.0425531914893617
+Impaired gastric emptying,paroxetine,4,246,0.016260162601626018
+Impaired healing,paroxetine,17,245,0.06938775510204082
+Impaired quality of life,paroxetine,9,399,0.022556390977443608
+Impaired self-care,paroxetine,2,21,0.09523809523809523
+Impaired work ability,paroxetine,10,188,0.05319148936170213
+Implant site erythema,paroxetine,1,8,0.125
+Implant site haematoma,paroxetine,1,1,1.0
+Implant site pain,paroxetine,1,31,0.03225806451612903
+Implant site pruritus,paroxetine,2,11,0.18181818181818182
+Implant site reaction,paroxetine,1,3,0.3333333333333333
+Imprisonment,paroxetine,1,12,0.08333333333333333
+Impulse-control disorder,paroxetine,9,40,0.225
+Impulsive behaviour,paroxetine,14,94,0.14893617021276595
+Inappropriate affect,paroxetine,4,155,0.025806451612903226
+Inappropriate antidiuretic hormone secretion,paroxetine,48,780,0.06153846153846154
+Inappropriate schedule of drug administration,paroxetine,45,826,0.05447941888619855
+Inappropriate schedule of product administration,paroxetine,58,1683,0.0344622697563874
+Incarcerated umbilical hernia,paroxetine,1,2,0.5
+Incision site complication,paroxetine,2,4,0.5
+Incision site haemorrhage,paroxetine,2,12,0.16666666666666666
+Incision site infection,paroxetine,1,13,0.07692307692307693
+Incisional drainage,paroxetine,1,2,0.5
+Incoherent,paroxetine,3,51,0.058823529411764705
+Incontinence,paroxetine,5,158,0.03164556962025317
+Incorrect dose administered,paroxetine,74,1601,0.0462211118051218
+Incorrect dose administered by device,paroxetine,1,62,0.016129032258064516
+Incorrect drug administration duration,paroxetine,6,116,0.05172413793103448
+Incorrect drug administration rate,paroxetine,1,73,0.0136986301369863
+Incorrect product administration duration,paroxetine,3,166,0.018072289156626505
+Incorrect product storage,paroxetine,2,57,0.03508771929824561
+Incorrect route of drug administration,paroxetine,3,137,0.021897810218978103
+Incorrect route of product administration,paroxetine,3,480,0.00625
+Increased appetite,paroxetine,17,361,0.04709141274238227
+Increased bronchial secretion,paroxetine,1,39,0.02564102564102564
+Increased tendency to bruise,paroxetine,3,100,0.03
+Infantile apnoea,paroxetine,1,11,0.09090909090909091
+Infarction,paroxetine,3,52,0.057692307692307696
+Infected lymphocele,paroxetine,1,1,1.0
+Infected skin ulcer,paroxetine,2,40,0.05
+Infection,paroxetine,80,1847,0.04331348132106118
+Infection susceptibility increased,paroxetine,1,25,0.04
+Infectious colitis,paroxetine,2,19,0.10526315789473684
+Infectious disease carrier,paroxetine,1,1,1.0
+Infectious mononucleosis,paroxetine,1,52,0.019230769230769232
+Infective pulmonary exacerbation of cystic fibrosis,paroxetine,4,372,0.010752688172043012
+Inflammation,paroxetine,15,303,0.04950495049504951
+Inflammatory bowel disease,paroxetine,2,52,0.038461538461538464
+Inflammatory marker increased,paroxetine,1,28,0.03571428571428571
+Influenza,paroxetine,71,1753,0.040501996577296064
+Influenza like illness,paroxetine,57,981,0.0581039755351682
+Infusion related hypersensitivity reaction,paroxetine,1,7,0.14285714285714285
+Infusion related reaction,paroxetine,29,527,0.05502846299810247
+Infusion site cellulitis,paroxetine,2,9,0.2222222222222222
+Infusion site discharge,paroxetine,1,26,0.038461538461538464
+Infusion site erythema,paroxetine,8,166,0.04819277108433735
+Infusion site extravasation,paroxetine,11,186,0.05913978494623656
+Infusion site haemorrhage,paroxetine,4,66,0.06060606060606061
+Infusion site induration,paroxetine,1,14,0.07142857142857142
+Infusion site mass,paroxetine,2,22,0.09090909090909091
+Infusion site nodule,paroxetine,3,24,0.125
+Infusion site pain,paroxetine,6,191,0.031413612565445025
+Infusion site pruritus,paroxetine,4,89,0.0449438202247191
+Infusion site reaction,paroxetine,1,22,0.045454545454545456
+Infusion site scar,paroxetine,2,8,0.25
+Infusion site swelling,paroxetine,2,125,0.016
+Infusion site urticaria,paroxetine,1,16,0.0625
+Ingrowing nail,paroxetine,1,37,0.02702702702702703
+Ingrown hair,paroxetine,1,3,0.3333333333333333
+Inhibitory drug interaction,paroxetine,5,79,0.06329113924050633
+Initial insomnia,paroxetine,10,251,0.0398406374501992
+Injection related reaction,paroxetine,2,18,0.1111111111111111
+Injection site abscess,paroxetine,3,59,0.05084745762711865
+Injection site anaesthesia,paroxetine,2,2,1.0
+Injection site atrophy,paroxetine,1,14,0.07142857142857142
+Injection site bruising,paroxetine,38,752,0.05053191489361702
+Injection site cellulitis,paroxetine,1,23,0.043478260869565216
+Injection site discolouration,paroxetine,5,88,0.056818181818181816
+Injection site discomfort,paroxetine,2,59,0.03389830508474576
+Injection site erythema,paroxetine,37,998,0.03707414829659319
+Injection site extravasation,paroxetine,2,67,0.029850746268656716
+Injection site haematoma,paroxetine,4,35,0.11428571428571428
+Injection site haemorrhage,paroxetine,9,326,0.027607361963190184
+Injection site hypoaesthesia,paroxetine,3,6,0.5
+Injection site induration,paroxetine,2,97,0.020618556701030927
+Injection site inflammation,paroxetine,1,11,0.09090909090909091
+Injection site irritation,paroxetine,2,53,0.03773584905660377
+Injection site joint infection,paroxetine,1,1,1.0
+Injection site mass,paroxetine,8,297,0.026936026936026935
+Injection site necrosis,paroxetine,1,17,0.058823529411764705
+Injection site nodule,paroxetine,4,67,0.05970149253731343
+Injection site oedema,paroxetine,1,11,0.09090909090909091
+Injection site pain,paroxetine,58,1724,0.033642691415313224
+Injection site pruritus,paroxetine,13,273,0.047619047619047616
+Injection site rash,paroxetine,7,164,0.042682926829268296
+Injection site reaction,paroxetine,25,487,0.0513347022587269
+Injection site swelling,paroxetine,6,226,0.02654867256637168
+Injection site urticaria,paroxetine,2,95,0.021052631578947368
+Injury,paroxetine,7,253,0.02766798418972332
+Inner ear disorder,paroxetine,1,12,0.08333333333333333
+Insomnia,paroxetine,140,3870,0.03617571059431524
+Instillation site reaction,paroxetine,1,3,0.3333333333333333
+Insurance issue,paroxetine,7,206,0.03398058252427184
+Intellectual disability,paroxetine,2,32,0.0625
+Intensive care,paroxetine,2,28,0.07142857142857142
+Intention tremor,paroxetine,9,17,0.5294117647058824
+Intentional dose omission,paroxetine,9,378,0.023809523809523808
+Intentional overdose,paroxetine,139,4185,0.033213859020310633
+Intentional product misuse,paroxetine,98,2138,0.04583723105706267
+Intentional product use issue,paroxetine,58,2102,0.02759276879162702
+Intentional self-injury,paroxetine,66,921,0.07166123778501629
+Intentional underdose,paroxetine,5,67,0.07462686567164178
+Intercepted product dispensing error,paroxetine,1,17,0.058823529411764705
+Intercepted product preparation error,paroxetine,1,1,1.0
+Internal haemorrhage,paroxetine,10,202,0.04950495049504951
+International normalised ratio abnormal,paroxetine,5,36,0.1388888888888889
+International normalised ratio decreased,paroxetine,3,36,0.08333333333333333
+International normalised ratio fluctuation,paroxetine,1,28,0.03571428571428571
+International normalised ratio increased,paroxetine,22,286,0.07692307692307693
+Interstitial lung disease,paroxetine,167,976,0.1711065573770492
+Intervertebral disc degeneration,paroxetine,4,129,0.031007751937984496
+Intervertebral disc disorder,paroxetine,5,56,0.08928571428571429
+Intervertebral disc protrusion,paroxetine,10,395,0.02531645569620253
+Intervertebral discitis,paroxetine,3,23,0.13043478260869565
+Intestinal anastomosis,paroxetine,1,1,1.0
+Intestinal dilatation,paroxetine,2,5,0.4
+Intestinal haemorrhage,paroxetine,12,44,0.2727272727272727
+Intestinal infarction,paroxetine,1,7,0.14285714285714285
+Intestinal ischaemia,paroxetine,2,72,0.027777777777777776
+Intestinal obstruction,paroxetine,33,651,0.05069124423963134
+Intestinal perforation,paroxetine,6,105,0.05714285714285714
+Intestinal prolapse,paroxetine,1,12,0.08333333333333333
+Intestinal pseudo-obstruction,paroxetine,1,59,0.01694915254237288
+Intestinal resection,paroxetine,3,43,0.06976744186046512
+Intestinal stenosis,paroxetine,5,33,0.15151515151515152
+Intestinal ulcer,paroxetine,1,11,0.09090909090909091
+Intra-abdominal haematoma,paroxetine,8,26,0.3076923076923077
+Intra-abdominal haemorrhage,paroxetine,5,22,0.22727272727272727
+Intra-abdominal pressure increased,paroxetine,1,2,0.5
+Intracardiac thrombus,paroxetine,2,24,0.08333333333333333
+Intracranial aneurysm,paroxetine,6,87,0.06896551724137931
+Intracranial haematoma,paroxetine,2,16,0.125
+Intracranial mass,paroxetine,1,11,0.09090909090909091
+Intracranial meningioma malignant,paroxetine,1,6,0.16666666666666666
+Intracranial pressure increased,paroxetine,9,134,0.06716417910447761
+Intraductal papillary mucinous neoplasm,paroxetine,5,14,0.35714285714285715
+Intraductal proliferative breast lesion,paroxetine,4,83,0.04819277108433735
+Intraocular pressure increased,paroxetine,2,99,0.020202020202020204
+Intraventricular haemorrhage,paroxetine,1,16,0.0625
+Intraventricular haemorrhage neonatal,paroxetine,1,1,1.0
+Intussusception,paroxetine,1,10,0.1
+Invasive ductal breast carcinoma,paroxetine,21,166,0.12650602409638553
+Investigation,paroxetine,2,14,0.14285714285714285
+Iridocyclitis,paroxetine,5,26,0.19230769230769232
+Iron deficiency,paroxetine,3,47,0.06382978723404255
+Iron deficiency anaemia,paroxetine,6,116,0.05172413793103448
+Irritability,paroxetine,23,601,0.03826955074875208
+Irritable bowel syndrome,paroxetine,9,237,0.0379746835443038
+Ischaemia,paroxetine,4,26,0.15384615384615385
+Ischaemic cardiomyopathy,paroxetine,7,17,0.4117647058823529
+Ischaemic cerebral infarction,paroxetine,5,36,0.1388888888888889
+Ischaemic stroke,paroxetine,34,376,0.09042553191489362
+JC virus infection,paroxetine,2,17,0.11764705882352941
+JC virus test positive,paroxetine,1,28,0.03571428571428571
+Jaundice,paroxetine,9,157,0.05732484076433121
+Jaundice cholestatic,paroxetine,7,100,0.07
+Jaundice neonatal,paroxetine,1,30,0.03333333333333333
+Jaw fracture,paroxetine,1,35,0.02857142857142857
+Joint crepitation,paroxetine,2,15,0.13333333333333333
+Joint dislocation,paroxetine,11,131,0.08396946564885496
+Joint dislocation pathological,paroxetine,2,2,1.0
+Joint effusion,paroxetine,3,66,0.045454545454545456
+Joint injury,paroxetine,2,239,0.008368200836820083
+Joint range of motion decreased,paroxetine,1,65,0.015384615384615385
+Joint stiffness,paroxetine,8,174,0.04597701149425287
+Joint swelling,paroxetine,28,879,0.03185437997724687
+Joint warmth,paroxetine,1,6,0.16666666666666666
+Jugular vein distension,paroxetine,1,2,0.5
+Jugular vein thrombosis,paroxetine,1,21,0.047619047619047616
+Juvenile myoclonic epilepsy,paroxetine,1,9,0.1111111111111111
+KL-6 increased,paroxetine,1,1,1.0
+Kaposi's sarcoma,paroxetine,1,3,0.3333333333333333
+Keratitis,paroxetine,4,15,0.26666666666666666
+Ketoacidosis,paroxetine,2,55,0.03636363636363636
+Ketosis,paroxetine,1,10,0.1
+Kidney fibrosis,paroxetine,3,13,0.23076923076923078
+Kidney infection,paroxetine,11,416,0.026442307692307692
+Klebsiella test positive,paroxetine,2,6,0.3333333333333333
+Knee arthroplasty,paroxetine,14,453,0.03090507726269316
+Knee operation,paroxetine,11,268,0.041044776119402986
+Labelled drug-disease interaction medication error,paroxetine,1,10,0.1
+Labelled drug-drug interaction issue,paroxetine,19,79,0.24050632911392406
+Labelled drug-drug interaction medication error,paroxetine,5,245,0.02040816326530612
+Labelled drug-food interaction medication error,paroxetine,4,34,0.11764705882352941
+Laboratory test abnormal,paroxetine,13,432,0.03009259259259259
+Labyrinthitis,paroxetine,1,15,0.06666666666666667
+Laceration,paroxetine,4,40,0.1
+Lacrimation increased,paroxetine,11,171,0.06432748538011696
+Lactic acidosis,paroxetine,3,300,0.01
+Language disorder,paroxetine,1,27,0.037037037037037035
+Large cell lung cancer stage III,paroxetine,1,1,1.0
+Large intestinal haemorrhage,paroxetine,2,24,0.08333333333333333
+Large intestinal stenosis,paroxetine,1,13,0.07692307692307693
+Large intestine polyp,paroxetine,1,70,0.014285714285714285
+Laryngeal cancer,paroxetine,1,11,0.09090909090909091
+Laryngeal disorder,paroxetine,1,8,0.125
+Laryngeal nerve dysfunction,paroxetine,1,1,1.0
+Laryngeal oedema,paroxetine,1,32,0.03125
+Laryngeal tremor,paroxetine,2,2,1.0
+Laryngitis,paroxetine,5,189,0.026455026455026454
+Laryngospasm,paroxetine,1,27,0.037037037037037035
+Latent tuberculosis,paroxetine,2,30,0.06666666666666667
+Learning disability,paroxetine,1,6,0.16666666666666666
+Learning disorder,paroxetine,1,11,0.09090909090909091
+Left ventricular dysfunction,paroxetine,1,52,0.019230769230769232
+Left ventricular failure,paroxetine,3,30,0.1
+Leg amputation,paroxetine,3,36,0.08333333333333333
+Lethargy,paroxetine,16,435,0.0367816091954023
+Leukaemia,paroxetine,4,116,0.034482758620689655
+Leukocytosis,paroxetine,1,124,0.008064516129032258
+Leukopenia,paroxetine,60,733,0.08185538881309687
+Libido decreased,paroxetine,26,197,0.1319796954314721
+Libido disorder,paroxetine,5,47,0.10638297872340426
+Libido increased,paroxetine,5,138,0.036231884057971016
+Lichen planus,paroxetine,1,47,0.02127659574468085
+Lichenoid keratosis,paroxetine,3,55,0.05454545454545454
+Ligament sprain,paroxetine,7,127,0.05511811023622047
+Light chain analysis increased,paroxetine,1,18,0.05555555555555555
+Limb discomfort,paroxetine,8,310,0.025806451612903226
+Limb injury,paroxetine,39,327,0.11926605504587157
+Limb operation,paroxetine,1,100,0.01
+Linear IgA disease,paroxetine,1,21,0.047619047619047616
+Lip and/or oral cavity cancer,paroxetine,1,11,0.09090909090909091
+Lip blister,paroxetine,1,41,0.024390243902439025
+Lip disorder,paroxetine,2,29,0.06896551724137931
+Lip dry,paroxetine,3,25,0.12
+Lip exfoliation,paroxetine,3,17,0.17647058823529413
+Lip haemorrhage,paroxetine,1,4,0.25
+Lip pruritus,paroxetine,1,10,0.1
+Lip swelling,paroxetine,18,493,0.036511156186612576
+Lipase increased,paroxetine,4,77,0.05194805194805195
+Lipids abnormal,paroxetine,1,7,0.14285714285714285
+Lipids increased,paroxetine,8,26,0.3076923076923077
+Lipodystrophy acquired,paroxetine,1,15,0.06666666666666667
+Lipoma,paroxetine,3,56,0.05357142857142857
+Liposarcoma,paroxetine,2,4,0.5
+Listless,paroxetine,2,14,0.14285714285714285
+Live birth,paroxetine,3,92,0.03260869565217391
+Liver disorder,paroxetine,13,497,0.026156941649899398
+Liver function test abnormal,paroxetine,23,436,0.052752293577981654
+Liver function test increased,paroxetine,12,360,0.03333333333333333
+Liver injury,paroxetine,35,331,0.10574018126888217
+Living in residential institution,paroxetine,2,47,0.0425531914893617
+Local reaction,paroxetine,2,9,0.2222222222222222
+Local swelling,paroxetine,4,40,0.1
+Localised infection,paroxetine,24,377,0.0636604774535809
+Logorrhoea,paroxetine,2,78,0.02564102564102564
+Long QT syndrome,paroxetine,4,203,0.019704433497536946
+Loss of consciousness,paroxetine,93,1674,0.05555555555555555
+Loss of control of legs,paroxetine,1,15,0.06666666666666667
+Loss of employment,paroxetine,1,18,0.05555555555555555
+Loss of libido,paroxetine,13,195,0.06666666666666667
+Loss of personal independence in daily activities,paroxetine,13,855,0.0152046783625731
+Loss of therapeutic response,paroxetine,2,24,0.08333333333333333
+Low birth weight baby,paroxetine,14,78,0.1794871794871795
+Lower gastrointestinal haemorrhage,paroxetine,15,298,0.050335570469798654
+Lower limb fracture,paroxetine,10,261,0.038314176245210725
+Lower respiratory tract congestion,paroxetine,1,13,0.07692307692307693
+Lower respiratory tract infection,paroxetine,14,609,0.022988505747126436
+Lower urinary tract symptoms,paroxetine,1,12,0.08333333333333333
+Lumbar radiculopathy,paroxetine,1,20,0.05
+Lumbar spinal stenosis,paroxetine,1,48,0.020833333333333332
+Lumbar vertebral fracture,paroxetine,1,62,0.016129032258064516
+Lung adenocarcinoma,paroxetine,4,79,0.05063291139240506
+Lung adenocarcinoma stage II,paroxetine,1,1,1.0
+Lung adenocarcinoma stage IV,paroxetine,1,10,0.1
+Lung cancer metastatic,paroxetine,1,76,0.013157894736842105
+Lung carcinoma cell type unspecified recurrent,paroxetine,1,6,0.16666666666666666
+Lung carcinoma cell type unspecified stage IV,paroxetine,2,24,0.08333333333333333
+Lung disorder,paroxetine,39,498,0.0783132530120482
+Lung infection,paroxetine,8,191,0.041884816753926704
+Lung infiltration,paroxetine,1,44,0.022727272727272728
+Lung neoplasm,paroxetine,1,28,0.03571428571428571
+Lung neoplasm malignant,paroxetine,12,394,0.030456852791878174
+Lung transplant,paroxetine,4,66,0.06060606060606061
+Lupus pleurisy,paroxetine,2,4,0.5
+Lupus vasculitis,paroxetine,1,1,1.0
+Lupus-like syndrome,paroxetine,6,187,0.03208556149732621
+Lyme disease,paroxetine,2,95,0.021052631578947368
+Lymph node pain,paroxetine,3,16,0.1875
+Lymph node tuberculosis,paroxetine,1,4,0.25
+Lymphadenectomy,paroxetine,2,16,0.125
+Lymphadenitis,paroxetine,2,23,0.08695652173913043
+Lymphadenopathy,paroxetine,6,253,0.023715415019762844
+Lymphangiosis carcinomatosa,paroxetine,1,7,0.14285714285714285
+Lymphangitis,paroxetine,1,3,0.3333333333333333
+Lymphatic disorder,paroxetine,1,6,0.16666666666666666
+Lymphocyte count abnormal,paroxetine,1,18,0.05555555555555555
+Lymphocyte count decreased,paroxetine,10,182,0.054945054945054944
+Lymphocyte count increased,paroxetine,3,17,0.17647058823529413
+Lymphoedema,paroxetine,1,122,0.00819672131147541
+Lymphoma,paroxetine,2,101,0.019801980198019802
+Lymphopenia,paroxetine,16,222,0.07207207207207207
+Macular degeneration,paroxetine,3,191,0.015706806282722512
+Macular oedema,paroxetine,7,65,0.1076923076923077
+Maculopathy,paroxetine,11,469,0.023454157782515993
+Madarosis,paroxetine,3,58,0.05172413793103448
+Magnetic resonance imaging abnormal,paroxetine,2,12,0.16666666666666666
+Major depression,paroxetine,12,512,0.0234375
+Malabsorption,paroxetine,10,80,0.125
+Malaise,paroxetine,185,4500,0.04111111111111111
+Malignant catatonia,paroxetine,2,28,0.07142857142857142
+Malignant melanoma,paroxetine,14,294,0.047619047619047616
+Malignant melanoma in situ,paroxetine,8,34,0.23529411764705882
+Malignant neoplasm progression,paroxetine,31,639,0.048513302034428794
+Malignant peritoneal neoplasm,paroxetine,1,3,0.3333333333333333
+Malignant pleural effusion,paroxetine,1,13,0.07692307692307693
+Malnutrition,paroxetine,7,63,0.1111111111111111
+Malocclusion,paroxetine,4,20,0.2
+Mania,paroxetine,33,818,0.040342298288508556
+Mantle cell lymphoma,paroxetine,1,12,0.08333333333333333
+Manufacturing process control procedure issue,paroxetine,1,1,1.0
+Marcus Gunn syndrome,paroxetine,1,1,1.0
+Mass,paroxetine,4,97,0.041237113402061855
+Mastectomy,paroxetine,1,26,0.038461538461538464
+Mastication disorder,paroxetine,1,14,0.07142857142857142
+Maternal drugs affecting foetus,paroxetine,5,33,0.15151515151515152
+Maternal exposure before pregnancy,paroxetine,2,65,0.03076923076923077
+Maternal exposure during breast feeding,paroxetine,1,86,0.011627906976744186
+Maternal exposure during pregnancy,paroxetine,80,2214,0.036133694670280034
+Maternal exposure timing unspecified,paroxetine,3,78,0.038461538461538464
+Mean cell haemoglobin increased,paroxetine,2,7,0.2857142857142857
+Mediastinal disorder,paroxetine,1,2,0.5
+Medical device battery replacement,paroxetine,1,7,0.14285714285714285
+Medical device change,paroxetine,4,14,0.2857142857142857
+Medical device site infection,paroxetine,1,15,0.06666666666666667
+Medical device site pain,paroxetine,1,8,0.125
+Medical induction of coma,paroxetine,1,2,0.5
+Medical procedure,paroxetine,1,40,0.025
+Medication error,paroxetine,48,841,0.057074910820451845
+Medication overuse headache,paroxetine,3,83,0.03614457831325301
+Medication residue present,paroxetine,6,130,0.046153846153846156
+Megacolon,paroxetine,1,24,0.041666666666666664
+Meige's syndrome,paroxetine,3,16,0.1875
+Melaena,paroxetine,27,211,0.12796208530805686
+Melanocytic naevus,paroxetine,1,50,0.02
+Memory impairment,paroxetine,96,1777,0.05402363534046145
+Meniere's disease,paroxetine,1,29,0.034482758620689655
+Meningioma,paroxetine,8,102,0.0784313725490196
+Meningitis,paroxetine,3,82,0.036585365853658534
+Meningitis cryptococcal,paroxetine,1,16,0.0625
+Meningitis pneumococcal,paroxetine,3,3,1.0
+Meningitis viral,paroxetine,1,28,0.03571428571428571
+Meniscus injury,paroxetine,7,125,0.056
+Menopausal symptoms,paroxetine,3,22,0.13636363636363635
+Menopause,paroxetine,5,44,0.11363636363636363
+Menorrhagia,paroxetine,8,183,0.04371584699453552
+Menstrual disorder,paroxetine,3,97,0.030927835051546393
+Menstruation irregular,paroxetine,2,125,0.016
+Mental disorder,paroxetine,23,640,0.0359375
+Mental impairment,paroxetine,15,271,0.055350553505535055
+Mental status changes,paroxetine,21,404,0.05198019801980198
+Mesenteric haemorrhage,paroxetine,1,6,0.16666666666666666
+Mesenteric vein thrombosis,paroxetine,1,8,0.125
+Metabolic acidosis,paroxetine,11,336,0.03273809523809524
+Metabolic disorder,paroxetine,4,51,0.0784313725490196
+Metabolic encephalopathy,paroxetine,13,89,0.14606741573033707
+Metabolic function test abnormal,paroxetine,1,5,0.2
+Metabolic syndrome,paroxetine,1,59,0.01694915254237288
+Metastases to central nervous system,paroxetine,4,49,0.08163265306122448
+Metastases to liver,paroxetine,2,87,0.022988505747126436
+Metastases to lung,paroxetine,2,24,0.08333333333333333
+Metastases to spine,paroxetine,5,13,0.38461538461538464
+Metastatic bronchial carcinoma,paroxetine,1,2,0.5
+Metastatic gastric cancer,paroxetine,1,5,0.2
+Metastatic malignant melanoma,paroxetine,5,33,0.15151515151515152
+Metastatic neoplasm,paroxetine,2,23,0.08695652173913043
+Methaemoglobinaemia,paroxetine,1,20,0.05
+Metrorrhagia,paroxetine,2,83,0.024096385542168676
+Microalbuminuria,paroxetine,1,4,0.25
+Microangiopathic haemolytic anaemia,paroxetine,13,16,0.8125
+Microcytic anaemia,paroxetine,6,31,0.1935483870967742
+Micturition disorder,paroxetine,2,65,0.03076923076923077
+Micturition urgency,paroxetine,1,170,0.0058823529411764705
+Middle insomnia,paroxetine,10,343,0.029154518950437316
+Migraine,paroxetine,66,2083,0.03168506961113778
+Migraine with aura,paroxetine,3,54,0.05555555555555555
+Miliaria,paroxetine,1,24,0.041666666666666664
+Miosis,paroxetine,10,137,0.072992700729927
+Mitochondrial cytopathy,paroxetine,3,8,0.375
+Mitochondrial encephalomyopathy,paroxetine,2,5,0.4
+Mitochondrial toxicity,paroxetine,5,16,0.3125
+Mitral valve incompetence,paroxetine,1,104,0.009615384615384616
+Mitral valve prolapse,paroxetine,2,20,0.1
+Mixed anxiety and depressive disorder,paroxetine,3,13,0.23076923076923078
+Mixed liver injury,paroxetine,25,172,0.14534883720930233
+Mobility decreased,paroxetine,28,879,0.03185437997724687
+Mole excision,paroxetine,1,1,1.0
+Monoclonal immunoglobulin present,paroxetine,1,10,0.1
+Monocyte chemotactic protein-2 decreased,paroxetine,1,1,1.0
+Monoplegia,paroxetine,2,40,0.05
+Mood altered,paroxetine,11,269,0.040892193308550186
+Mood swings,paroxetine,23,278,0.08273381294964029
+Motor developmental delay,paroxetine,1,9,0.1111111111111111
+Motor dysfunction,paroxetine,8,87,0.09195402298850575
+Mouth haemorrhage,paroxetine,5,50,0.1
+Mouth swelling,paroxetine,3,72,0.041666666666666664
+Mouth ulceration,paroxetine,9,287,0.0313588850174216
+Movement disorder,paroxetine,11,278,0.039568345323741004
+Mucosal inflammation,paroxetine,3,137,0.021897810218978103
+Mucous membrane disorder,paroxetine,1,5,0.2
+Mucous stools,paroxetine,4,51,0.0784313725490196
+Multi-vitamin deficiency,paroxetine,1,2,0.5
+Multiple allergies,paroxetine,2,144,0.013888888888888888
+Multiple fractures,paroxetine,3,62,0.04838709677419355
+Multiple organ dysfunction syndrome,paroxetine,11,194,0.05670103092783505
+Multiple sclerosis,paroxetine,20,758,0.026385224274406333
+Multiple sclerosis pseudo relapse,paroxetine,1,13,0.07692307692307693
+Multiple sclerosis relapse,paroxetine,55,1334,0.04122938530734633
+Multiple-drug resistance,paroxetine,4,36,0.1111111111111111
+Muscle atrophy,paroxetine,2,49,0.04081632653061224
+Muscle contractions involuntary,paroxetine,4,65,0.06153846153846154
+Muscle contracture,paroxetine,6,31,0.1935483870967742
+Muscle discomfort,paroxetine,1,5,0.2
+Muscle disorder,paroxetine,2,40,0.05
+Muscle haemorrhage,paroxetine,4,45,0.08888888888888889
+Muscle injury,paroxetine,1,11,0.09090909090909091
+Muscle mass,paroxetine,1,5,0.2
+Muscle rigidity,paroxetine,8,125,0.064
+Muscle rupture,paroxetine,1,71,0.014084507042253521
+Muscle spasms,paroxetine,95,1744,0.05447247706422018
+Muscle spasticity,paroxetine,5,164,0.03048780487804878
+Muscle strain,paroxetine,4,75,0.05333333333333334
+Muscle tightness,paroxetine,4,168,0.023809523809523808
+Muscle twitching,paroxetine,9,426,0.02112676056338028
+Muscular weakness,paroxetine,33,715,0.046153846153846156
+Musculoskeletal chest pain,paroxetine,6,98,0.061224489795918366
+Musculoskeletal disorder,paroxetine,8,160,0.05
+Musculoskeletal pain,paroxetine,7,215,0.03255813953488372
+Musculoskeletal stiffness,paroxetine,57,730,0.07808219178082192
+Myalgia,paroxetine,42,967,0.04343329886246122
+Myasthenia gravis,paroxetine,1,88,0.011363636363636364
+Myasthenic syndrome,paroxetine,2,22,0.09090909090909091
+Mycobacterium tuberculosis complex test positive,paroxetine,1,32,0.03125
+Mycoplasma infection,paroxetine,1,6,0.16666666666666666
+Mydriasis,paroxetine,29,270,0.10740740740740741
+Myelitis,paroxetine,1,10,0.1
+Myelitis transverse,paroxetine,1,15,0.06666666666666667
+Myelodysplastic syndrome,paroxetine,14,117,0.11965811965811966
+Myelodysplastic syndrome transformation,paroxetine,1,5,0.2
+Myelofibrosis,paroxetine,2,15,0.13333333333333333
+Myelopathy,paroxetine,1,18,0.05555555555555555
+Myocardial infarction,paroxetine,81,1488,0.05443548387096774
+Myocardial ischaemia,paroxetine,1,48,0.020833333333333332
+Myocarditis,paroxetine,8,145,0.05517241379310345
+Myocarditis bacterial,paroxetine,1,1,1.0
+Myoclonus,paroxetine,31,480,0.06458333333333334
+Myoglobin blood increased,paroxetine,1,5,0.2
+Myoglobin urine present,paroxetine,45,53,0.8490566037735849
+Myoglobinuria,paroxetine,4,29,0.13793103448275862
+Myopia,paroxetine,2,29,0.06896551724137931
+Myositis,paroxetine,18,137,0.13138686131386862
+Nail disorder,paroxetine,6,52,0.11538461538461539
+Nail operation,paroxetine,3,8,0.375
+Nail pitting,paroxetine,1,7,0.14285714285714285
+Nail psoriasis,paroxetine,2,5,0.4
+Narcolepsy,paroxetine,1,88,0.011363636363636364
+Nasal congestion,paroxetine,15,452,0.033185840707964605
+Nasal discharge discolouration,paroxetine,3,11,0.2727272727272727
+Nasal disorder,paroxetine,3,25,0.12
+Nasal dryness,paroxetine,2,21,0.09523809523809523
+Nasal operation,paroxetine,1,27,0.037037037037037035
+Nasal polyps,paroxetine,1,33,0.030303030303030304
+Nasal septal operation,paroxetine,1,22,0.045454545454545456
+Nasal septum deviation,paroxetine,1,39,0.02564102564102564
+Nasal turbinate hypertrophy,paroxetine,1,7,0.14285714285714285
+Nasopharyngitis,paroxetine,82,2101,0.0390290337934317
+Nausea,paroxetine,208,7027,0.029600113846591718
+Neck pain,paroxetine,17,386,0.04404145077720207
+Neck surgery,paroxetine,7,96,0.07291666666666667
+Necrosis,paroxetine,1,15,0.06666666666666667
+Needle issue,paroxetine,5,152,0.03289473684210526
+Negative thoughts,paroxetine,8,46,0.17391304347826086
+Neonatal asphyxia,paroxetine,5,21,0.23809523809523808
+Neonatal behavioural syndrome,paroxetine,2,15,0.13333333333333333
+Neoplasm,paroxetine,3,91,0.03296703296703297
+Neoplasm malignant,paroxetine,27,522,0.05172413793103448
+Neoplasm progression,paroxetine,20,328,0.06097560975609756
+Neoplasm recurrence,paroxetine,2,28,0.07142857142857142
+Neoplasm skin,paroxetine,1,11,0.09090909090909091
+Neovascular age-related macular degeneration,paroxetine,1,48,0.020833333333333332
+Nephrectomy,paroxetine,1,39,0.02564102564102564
+Nephritic syndrome,paroxetine,1,6,0.16666666666666666
+Nephritis,paroxetine,1,26,0.038461538461538464
+Nephrogenic anaemia,paroxetine,7,116,0.0603448275862069
+Nephrogenic diabetes insipidus,paroxetine,5,21,0.23809523809523808
+Nephrogenic systemic fibrosis,paroxetine,1,6,0.16666666666666666
+Nephrolithiasis,paroxetine,34,1345,0.025278810408921933
+Nephropathy,paroxetine,3,67,0.04477611940298507
+Nephropathy toxic,paroxetine,1,41,0.024390243902439025
+Nephrotic syndrome,paroxetine,4,25,0.16
+Nerve compression,paroxetine,2,108,0.018518518518518517
+Nerve injury,paroxetine,3,88,0.03409090909090909
+Nervous system disorder,paroxetine,11,137,0.08029197080291971
+Nervousness,paroxetine,26,336,0.07738095238095238
+Neuralgia,paroxetine,9,303,0.0297029702970297
+Neuritis,paroxetine,3,10,0.3
+Neuroendocrine carcinoma metastatic,paroxetine,1,3,0.3333333333333333
+Neuroendocrine carcinoma of the skin,paroxetine,5,12,0.4166666666666667
+Neuroleptic malignant syndrome,paroxetine,89,876,0.10159817351598173
+Neurological decompensation,paroxetine,4,24,0.16666666666666666
+Neurological symptom,paroxetine,2,34,0.058823529411764705
+Neuropathy peripheral,paroxetine,21,1167,0.017994858611825194
+Neurosurgery,paroxetine,1,8,0.125
+Neurotoxicity,paroxetine,2,125,0.016
+Neutropenia,paroxetine,118,1557,0.07578676942838793
+Neutrophil count decreased,paroxetine,19,424,0.04481132075471698
+Neutrophil count increased,paroxetine,1,48,0.020833333333333332
+Neutrophil percentage increased,paroxetine,1,2,0.5
+Neutrophilia,paroxetine,6,39,0.15384615384615385
+Nicotine dependence,paroxetine,7,137,0.051094890510948905
+Night sweats,paroxetine,16,458,0.034934497816593885
+Nightmare,paroxetine,33,1096,0.030109489051094892
+Nipple pain,paroxetine,1,17,0.058823529411764705
+No adverse event,paroxetine,83,1892,0.04386892177589852
+No therapeutic response,paroxetine,3,57,0.05263157894736842
+Nocturia,paroxetine,16,135,0.11851851851851852
+Non-Hodgkin's lymphoma stage II,paroxetine,3,11,0.2727272727272727
+Non-alcoholic steatohepatitis,paroxetine,2,36,0.05555555555555555
+Non-cardiac chest pain,paroxetine,2,52,0.038461538461538464
+Non-cardiogenic pulmonary oedema,paroxetine,6,21,0.2857142857142857
+Non-infectious endophthalmitis,paroxetine,1,4,0.25
+Non-small cell lung cancer,paroxetine,2,24,0.08333333333333333
+Noninfective encephalitis,paroxetine,1,9,0.1111111111111111
+Noninfective gingivitis,paroxetine,1,10,0.1
+Noninfective myringitis,paroxetine,1,1,1.0
+Nonspecific reaction,paroxetine,5,159,0.031446540880503145
+Normal newborn,paroxetine,1,43,0.023255813953488372
+Obesity,paroxetine,10,317,0.031545741324921134
+Obsessive-compulsive disorder,paroxetine,6,192,0.03125
+Obstruction,paroxetine,3,37,0.08108108108108109
+Obstructive airways disorder,paroxetine,7,152,0.046052631578947366
+Obstructive pancreatitis,paroxetine,1,17,0.058823529411764705
+Obstructive sleep apnoea syndrome,paroxetine,1,126,0.007936507936507936
+Occult blood positive,paroxetine,1,8,0.125
+Ocular discomfort,paroxetine,6,137,0.043795620437956206
+Ocular hyperaemia,paroxetine,8,184,0.043478260869565216
+Ocular hypertension,paroxetine,6,48,0.125
+Ocular icterus,paroxetine,1,15,0.06666666666666667
+Ocular procedural complication,paroxetine,1,1,1.0
+Oculogyric crisis,paroxetine,1,85,0.011764705882352941
+Oculomucocutaneous syndrome,paroxetine,2,2,1.0
+Oedema,paroxetine,13,373,0.03485254691689008
+Oedema mouth,paroxetine,1,8,0.125
+Oedema peripheral,paroxetine,43,886,0.04853273137697517
+Oedematous pancreatitis,paroxetine,1,32,0.03125
+Oesophageal candidiasis,paroxetine,1,40,0.025
+Oesophageal disorder,paroxetine,2,23,0.08695652173913043
+Oesophageal fistula,paroxetine,1,1,1.0
+Oesophageal hypomotility,paroxetine,4,10,0.4
+Oesophageal injury,paroxetine,1,6,0.16666666666666666
+Oesophageal irritation,paroxetine,1,11,0.09090909090909091
+Oesophageal pain,paroxetine,1,52,0.019230769230769232
+Oesophageal rupture,paroxetine,1,7,0.14285714285714285
+Oesophageal spasm,paroxetine,2,65,0.03076923076923077
+Oesophageal squamous cell carcinoma,paroxetine,1,5,0.2
+Oesophageal stenosis,paroxetine,5,27,0.18518518518518517
+Oesophageal ulcer,paroxetine,3,44,0.06818181818181818
+Oesophageal varices haemorrhage,paroxetine,2,31,0.06451612903225806
+Oesophagitis,paroxetine,3,53,0.05660377358490566
+Oestrogen receptor positive breast cancer,paroxetine,1,2,0.5
+Off label use,paroxetine,377,10509,0.035874012750975355
+Oliguria,paroxetine,7,29,0.2413793103448276
+On and off phenomenon,paroxetine,2,35,0.05714285714285714
+Onychoclasis,paroxetine,2,44,0.045454545454545456
+Onychomadesis,paroxetine,1,14,0.07142857142857142
+Opisthotonus,paroxetine,1,6,0.16666666666666666
+Opportunistic infection,paroxetine,1,10,0.1
+Optic atrophy,paroxetine,1,8,0.125
+Optic ischaemic neuropathy,paroxetine,13,82,0.15853658536585366
+Optic neuritis,paroxetine,7,80,0.0875
+Optic neuropathy,paroxetine,5,39,0.1282051282051282
+Oral candidiasis,paroxetine,9,150,0.06
+Oral discomfort,paroxetine,4,119,0.03361344537815126
+Oral disorder,paroxetine,1,86,0.011627906976744186
+Oral dysaesthesia,paroxetine,1,2,0.5
+Oral herpes,paroxetine,8,223,0.03587443946188341
+Oral infection,paroxetine,6,61,0.09836065573770492
+Oral mucosa erosion,paroxetine,1,6,0.16666666666666666
+Oral mucosal blistering,paroxetine,3,107,0.028037383177570093
+Oral mucosal eruption,paroxetine,2,16,0.125
+Oral neoplasm,paroxetine,1,5,0.2
+Oral pain,paroxetine,4,189,0.021164021164021163
+Oral surgery,paroxetine,1,46,0.021739130434782608
+Orbital oedema,paroxetine,1,1,1.0
+Organising pneumonia,paroxetine,1,102,0.00980392156862745
+Orgasm abnormal,paroxetine,3,22,0.13636363636363635
+Oromandibular dystonia,paroxetine,4,62,0.06451612903225806
+Oropharyngeal discomfort,paroxetine,1,56,0.017857142857142856
+Oropharyngeal pain,paroxetine,18,565,0.03185840707964602
+Orthopaedic procedure,paroxetine,2,3,0.6666666666666666
+Orthostatic hypertension,paroxetine,2,11,0.18181818181818182
+Orthostatic hypotension,paroxetine,15,820,0.018292682926829267
+Osteitis,paroxetine,5,31,0.16129032258064516
+Osteoarthritis,paroxetine,21,496,0.04233870967741935
+Osteochondrosis,paroxetine,1,11,0.09090909090909091
+Osteomyelitis,paroxetine,12,159,0.07547169811320754
+Osteonecrosis,paroxetine,14,192,0.07291666666666667
+Osteonecrosis of jaw,paroxetine,23,260,0.08846153846153847
+Osteopenia,paroxetine,7,193,0.03626943005181347
+Osteoporosis,paroxetine,8,344,0.023255813953488372
+Osteotomy,paroxetine,3,5,0.6
+Otitis media,paroxetine,1,18,0.05555555555555555
+Ototoxicity,paroxetine,2,13,0.15384615384615385
+Ovarian cancer,paroxetine,7,49,0.14285714285714285
+Ovarian cyst,paroxetine,3,103,0.02912621359223301
+Ovarian enlargement,paroxetine,1,3,0.3333333333333333
+Ovarian neoplasm,paroxetine,1,2,0.5
+Overdose,paroxetine,130,4348,0.029898804047838085
+Overlap syndrome,paroxetine,2,4,0.5
+Overweight,paroxetine,4,128,0.03125
+Oxygen consumption decreased,paroxetine,1,2,0.5
+Oxygen saturation abnormal,paroxetine,2,19,0.10526315789473684
+Oxygen saturation decreased,paroxetine,20,368,0.05434782608695652
+PCO2 increased,paroxetine,2,5,0.4
+PO2 decreased,paroxetine,1,4,0.25
+Pain,paroxetine,111,4732,0.02345731191885038
+Pain in extremity,paroxetine,58,1731,0.033506643558636626
+Pain in jaw,paroxetine,10,182,0.054945054945054944
+Pain of skin,paroxetine,5,74,0.06756756756756757
+Painful erection,paroxetine,1,21,0.047619047619047616
+Palatal oedema,paroxetine,1,7,0.14285714285714285
+Palliative care,paroxetine,1,18,0.05555555555555555
+Pallor,paroxetine,2,54,0.037037037037037035
+Palmar erythema,paroxetine,1,6,0.16666666666666666
+Palmar-plantar erythrodysaesthesia syndrome,paroxetine,4,96,0.041666666666666664
+Palpitations,paroxetine,102,846,0.12056737588652482
+Pancreatic atrophy,paroxetine,1,8,0.125
+Pancreatic carcinoma,paroxetine,15,189,0.07936507936507936
+Pancreatic carcinoma metastatic,paroxetine,1,56,0.017857142857142856
+Pancreatic disorder,paroxetine,3,15,0.2
+Pancreatic failure,paroxetine,1,22,0.045454545454545456
+Pancreatitis,paroxetine,36,824,0.043689320388349516
+Pancreatitis acute,paroxetine,38,638,0.05956112852664577
+Pancreatitis chronic,paroxetine,11,41,0.2682926829268293
+Pancreatitis necrotising,paroxetine,1,39,0.02564102564102564
+Pancytopenia,paroxetine,39,625,0.0624
+Panic attack,paroxetine,39,504,0.07738095238095238
+Panic disorder,paroxetine,1,36,0.027777777777777776
+Panic disorder with agoraphobia,paroxetine,1,1,1.0
+Panic reaction,paroxetine,2,70,0.02857142857142857
+Panniculitis,paroxetine,1,10,0.1
+Papillary renal cell carcinoma,paroxetine,2,5,0.4
+Papillary thyroid cancer,paroxetine,3,49,0.061224489795918366
+Papilloedema,paroxetine,1,61,0.01639344262295082
+Papilloma excision,paroxetine,1,1,1.0
+Papilloma viral infection,paroxetine,1,28,0.03571428571428571
+Papule,paroxetine,5,40,0.125
+Paraesthesia,paroxetine,117,1119,0.10455764075067024
+Parainfluenzae virus infection,paroxetine,2,21,0.09523809523809523
+Paralysis,paroxetine,32,126,0.25396825396825395
+Paranasal sinus discomfort,paroxetine,6,37,0.16216216216216217
+Paranasal sinus hypersecretion,paroxetine,1,8,0.125
+Paranoia,paroxetine,10,289,0.03460207612456748
+Paraparesis,paroxetine,2,6,0.3333333333333333
+Parapsoriasis,paroxetine,4,20,0.2
+Parasomnia,paroxetine,1,64,0.015625
+Parathyroid disorder,paroxetine,1,13,0.07692307692307693
+Parathyroid tumour benign,paroxetine,1,4,0.25
+Parathyroidectomy,paroxetine,1,4,0.25
+Parenteral nutrition,paroxetine,1,2,0.5
+Parkinson's disease,paroxetine,21,552,0.03804347826086957
+Parkinsonism,paroxetine,30,669,0.04484304932735426
+Parosmia,paroxetine,29,129,0.2248062015503876
+Parotid gland enlargement,paroxetine,1,4,0.25
+Partial seizures,paroxetine,2,73,0.0273972602739726
+Parvovirus infection,paroxetine,1,4,0.25
+Patent ductus arteriosus,paroxetine,2,17,0.11764705882352941
+Pathogen resistance,paroxetine,1,16,0.0625
+Pathological fracture,paroxetine,8,40,0.2
+Pelvic floor dysfunction,paroxetine,2,3,0.6666666666666666
+Pelvic fracture,paroxetine,2,46,0.043478260869565216
+Pelvic haematoma,paroxetine,1,4,0.25
+Pelvic mass,paroxetine,2,4,0.5
+Pelvic operation,paroxetine,1,1,1.0
+Pelvic organ prolapse,paroxetine,1,2,0.5
+Pelvic pain,paroxetine,2,59,0.03389830508474576
+Pelvic venous thrombosis,paroxetine,3,10,0.3
+Pemphigoid,paroxetine,18,250,0.072
+Penile contusion,paroxetine,1,8,0.125
+Penile infection,paroxetine,1,2,0.5
+Penile vascular disorder,paroxetine,2,3,0.6666666666666666
+Penis disorder,paroxetine,1,21,0.047619047619047616
+Perforated ulcer,paroxetine,1,13,0.07692307692307693
+Perfume sensitivity,paroxetine,1,3,0.3333333333333333
+Periarthritis,paroxetine,1,26,0.038461538461538464
+Pericardial effusion,paroxetine,9,206,0.043689320388349516
+Pericardial haemorrhage,paroxetine,2,10,0.2
+Pericarditis,paroxetine,9,156,0.057692307692307696
+Perinatal depression,paroxetine,1,20,0.05
+Perinatal stroke,paroxetine,4,4,1.0
+Periodic limb movement disorder,paroxetine,1,16,0.0625
+Periorbital oedema,paroxetine,2,64,0.03125
+Periorbital swelling,paroxetine,1,31,0.03225806451612903
+Peripheral arterial occlusive disease,paroxetine,2,29,0.06896551724137931
+Peripheral artery occlusion,paroxetine,2,18,0.1111111111111111
+Peripheral artery surgery,paroxetine,1,1,1.0
+Peripheral artery thrombosis,paroxetine,1,12,0.08333333333333333
+Peripheral ischaemia,paroxetine,1,40,0.025
+Peripheral motor neuropathy,paroxetine,1,10,0.1
+Peripheral sensory neuropathy,paroxetine,4,40,0.1
+Peripheral swelling,paroxetine,60,1303,0.04604758250191865
+Peritoneal haemorrhage,paroxetine,4,8,0.5
+Peritonitis,paroxetine,3,59,0.05084745762711865
+Peritonsillar abscess,paroxetine,2,14,0.14285714285714285
+Peroneal nerve injury,paroxetine,1,1,1.0
+Peroneal nerve palsy,paroxetine,2,21,0.09523809523809523
+Persistent genital arousal disorder,paroxetine,2,91,0.02197802197802198
+Personality disorder,paroxetine,3,53,0.05660377358490566
+Pertussis,paroxetine,1,13,0.07692307692307693
+Petechiae,paroxetine,13,68,0.19117647058823528
+Petit mal epilepsy,paroxetine,1,96,0.010416666666666666
+Phaeochromocytoma,paroxetine,4,5,0.8
+Pharyngeal abscess,paroxetine,6,9,0.6666666666666666
+Pharyngeal hypoaesthesia,paroxetine,1,5,0.2
+Pharyngeal oedema,paroxetine,1,110,0.00909090909090909
+Pharyngitis,paroxetine,1,94,0.010638297872340425
+Pharyngitis streptococcal,paroxetine,2,154,0.012987012987012988
+Pharyngolaryngeal abscess,paroxetine,1,1,1.0
+Phimosis,paroxetine,7,18,0.3888888888888889
+Phlebitis,paroxetine,6,55,0.10909090909090909
+Photopsia,paroxetine,5,70,0.07142857142857142
+Photosensitivity reaction,paroxetine,9,169,0.05325443786982249
+Physical assault,paroxetine,2,21,0.09523809523809523
+Pigmentation disorder,paroxetine,7,46,0.15217391304347827
+Pilonidal cyst,paroxetine,1,12,0.08333333333333333
+Pituitary tumour,paroxetine,1,24,0.041666666666666664
+Pityriasis rubra pilaris,paroxetine,3,4,0.75
+Placenta praevia,paroxetine,1,4,0.25
+Plantar fasciitis,paroxetine,1,26,0.038461538461538464
+Plasma cell myeloma,paroxetine,20,583,0.03430531732418525
+Plasma cell myeloma recurrent,paroxetine,5,56,0.08928571428571429
+Plasmacytoma,paroxetine,1,30,0.03333333333333333
+Plasmodium vivax infection,paroxetine,1,1,1.0
+Platelet anisocytosis,paroxetine,1,1,1.0
+Platelet count abnormal,paroxetine,2,33,0.06060606060606061
+Platelet count decreased,paroxetine,40,683,0.05856515373352855
+Platelet count increased,paroxetine,3,59,0.05084745762711865
+Platelet function test abnormal,paroxetine,1,1,1.0
+Pleural cyst,paroxetine,1,1,1.0
+Pleural effusion,paroxetine,26,361,0.07202216066481995
+Pleurisy,paroxetine,2,48,0.041666666666666664
+Pleuritic pain,paroxetine,1,26,0.038461538461538464
+Pleurothotonus,paroxetine,7,155,0.04516129032258064
+Pneumocystis jirovecii infection,paroxetine,4,10,0.4
+Pneumocystis jirovecii pneumonia,paroxetine,6,72,0.08333333333333333
+Pneumonia,paroxetine,215,4909,0.04379710735383988
+Pneumonia aspiration,paroxetine,20,585,0.03418803418803419
+Pneumonia bacterial,paroxetine,3,79,0.0379746835443038
+Pneumonia fungal,paroxetine,5,35,0.14285714285714285
+Pneumonia haemophilus,paroxetine,3,20,0.15
+Pneumonia influenzal,paroxetine,1,12,0.08333333333333333
+Pneumonia legionella,paroxetine,3,39,0.07692307692307693
+Pneumonia staphylococcal,paroxetine,2,21,0.09523809523809523
+Pneumonia streptococcal,paroxetine,1,12,0.08333333333333333
+Pneumonia viral,paroxetine,2,55,0.03636363636363636
+Pneumonitis,paroxetine,24,362,0.06629834254143646
+Pneumothorax,paroxetine,5,97,0.05154639175257732
+Pneumothorax spontaneous,paroxetine,4,8,0.5
+Poisoning,paroxetine,20,315,0.06349206349206349
+Poisoning deliberate,paroxetine,94,640,0.146875
+Pollakiuria,paroxetine,10,382,0.02617801047120419
+Polyarthritis,paroxetine,1,42,0.023809523809523808
+Polycythaemia,paroxetine,10,35,0.2857142857142857
+Polydactyly,paroxetine,3,24,0.125
+Polyhydramnios,paroxetine,4,10,0.4
+Polymyositis,paroxetine,2,16,0.125
+Polyneuropathy,paroxetine,17,161,0.10559006211180125
+Polyuria,paroxetine,4,61,0.06557377049180328
+Poor dental condition,paroxetine,2,6,0.3333333333333333
+Poor feeding infant,paroxetine,3,27,0.1111111111111111
+Poor quality sleep,paroxetine,9,276,0.03260869565217391
+Poor venous access,paroxetine,2,110,0.01818181818181818
+Post polio syndrome,paroxetine,1,1,1.0
+Post procedural complication,paroxetine,7,80,0.0875
+Post procedural haematoma,paroxetine,1,19,0.05263157894736842
+Post procedural haematuria,paroxetine,1,2,0.5
+Post procedural haemorrhage,paroxetine,1,63,0.015873015873015872
+Post procedural inflammation,paroxetine,1,6,0.16666666666666666
+Post transplant distal limb syndrome,paroxetine,2,2,1.0
+Post-traumatic neck syndrome,paroxetine,2,33,0.06060606060606061
+Post-traumatic stress disorder,paroxetine,1,110,0.00909090909090909
+Posterior reversible encephalopathy syndrome,paroxetine,10,187,0.053475935828877004
+Postmenopausal haemorrhage,paroxetine,3,85,0.03529411764705882
+Postmenopause,paroxetine,1,1,1.0
+Postmortem blood drug level abnormal,paroxetine,9,72,0.125
+Postmortem blood drug level increased,paroxetine,1,41,0.024390243902439025
+Postprandial hypoglycaemia,paroxetine,1,12,0.08333333333333333
+Posture abnormal,paroxetine,1,12,0.08333333333333333
+Potentiating drug interaction,paroxetine,5,136,0.03676470588235294
+Pre-eclampsia,paroxetine,10,94,0.10638297872340426
+Pre-existing condition improved,paroxetine,31,978,0.03169734151329243
+Precancerous condition,paroxetine,1,17,0.058823529411764705
+Precancerous skin lesion,paroxetine,2,28,0.07142857142857142
+Pregnancy,paroxetine,2,210,0.009523809523809525
+Pregnancy with implant contraceptive,paroxetine,1,38,0.02631578947368421
+Premature baby,paroxetine,8,185,0.043243243243243246
+Premature delivery,paroxetine,4,125,0.032
+Premature labour,paroxetine,5,45,0.1111111111111111
+Premature menopause,paroxetine,1,4,0.25
+Premature rupture of membranes,paroxetine,1,15,0.06666666666666667
+Premenstrual syndrome,paroxetine,1,16,0.0625
+Prescribed overdose,paroxetine,10,604,0.016556291390728478
+Prescribed underdose,paroxetine,18,224,0.08035714285714286
+Prescription drug used without a prescription,paroxetine,18,117,0.15384615384615385
+Presyncope,paroxetine,16,248,0.06451612903225806
+Priapism,paroxetine,15,558,0.026881720430107527
+Primary adrenal insufficiency,paroxetine,1,12,0.08333333333333333
+Primary progressive multiple sclerosis,paroxetine,6,9,0.6666666666666666
+Procedural anxiety,paroxetine,1,4,0.25
+Procedural haemorrhage,paroxetine,1,15,0.06666666666666667
+Procedural pain,paroxetine,2,131,0.015267175572519083
+Proctectomy,paroxetine,1,4,0.25
+Proctitis ulcerative,paroxetine,3,6,0.5
+Product adhesion issue,paroxetine,7,187,0.0374331550802139
+Product administered by wrong person,paroxetine,1,4,0.25
+Product administration error,paroxetine,10,208,0.04807692307692308
+Product administration interrupted,paroxetine,7,606,0.01155115511551155
+Product appearance confusion,paroxetine,2,22,0.09090909090909091
+Product availability issue,paroxetine,6,253,0.023715415019762844
+Product complaint,paroxetine,2,73,0.0273972602739726
+Product container issue,paroxetine,2,29,0.06896551724137931
+Product contamination,paroxetine,2,9,0.2222222222222222
+Product design issue,paroxetine,1,5,0.2
+Product difficult to swallow,paroxetine,1,8,0.125
+Product dispensing error,paroxetine,9,310,0.02903225806451613
+Product dose omission,paroxetine,50,1203,0.04156275976724855
+Product dose omission in error,paroxetine,7,350,0.02
+Product dose omission issue,paroxetine,127,3685,0.0344640434192673
+Product name confusion,paroxetine,2,19,0.10526315789473684
+Product packaging difficult to open,paroxetine,1,7,0.14285714285714285
+Product packaging issue,paroxetine,3,21,0.14285714285714285
+Product packaging quantity issue,paroxetine,1,32,0.03125
+Product physical issue,paroxetine,5,177,0.02824858757062147
+Product preparation error,paroxetine,3,105,0.02857142857142857
+Product prescribing error,paroxetine,5,318,0.015723270440251572
+Product prescribing issue,paroxetine,7,120,0.058333333333333334
+Product quality issue,paroxetine,20,336,0.05952380952380952
+Product reconstitution quality issue,paroxetine,1,3,0.3333333333333333
+Product selection error,paroxetine,3,17,0.17647058823529413
+Product solubility abnormal,paroxetine,3,33,0.09090909090909091
+Product storage error,paroxetine,6,239,0.02510460251046025
+Product substitution error,paroxetine,1,1,1.0
+Product substitution issue,paroxetine,26,594,0.04377104377104377
+Product supply issue,paroxetine,2,43,0.046511627906976744
+Product taste abnormal,paroxetine,4,88,0.045454545454545456
+Product use complaint,paroxetine,2,97,0.020618556701030927
+Product use in unapproved indication,paroxetine,72,3366,0.0213903743315508
+Product use issue,paroxetine,45,1363,0.03301540719002201
+Productive cough,paroxetine,5,331,0.015105740181268883
+Progressive multifocal leukoencephalopathy,paroxetine,11,162,0.06790123456790123
+Progressive multiple sclerosis,paroxetine,1,27,0.037037037037037035
+Progressive relapsing multiple sclerosis,paroxetine,1,1,1.0
+Prolonged labour,paroxetine,1,5,0.2
+Prophylaxis against transplant rejection,paroxetine,1,2,0.5
+Prostate cancer,paroxetine,8,187,0.0427807486631016
+Prostate infection,paroxetine,2,20,0.1
+Prostatic adenoma,paroxetine,1,4,0.25
+Prostatic obstruction,paroxetine,1,2,0.5
+Prostatic specific antigen increased,paroxetine,4,74,0.05405405405405406
+Prostatism,paroxetine,4,18,0.2222222222222222
+Prostatitis,paroxetine,1,31,0.03225806451612903
+Prostatomegaly,paroxetine,1,32,0.03125
+Proteinuria,paroxetine,2,55,0.03636363636363636
+Prothrombin level decreased,paroxetine,2,5,0.4
+Prothrombin time prolonged,paroxetine,2,14,0.14285714285714285
+Prothrombin time ratio decreased,paroxetine,2,3,0.6666666666666666
+Prurigo,paroxetine,1,10,0.1
+Pruritus,paroxetine,120,3036,0.039525691699604744
+Pruritus generalised,paroxetine,11,215,0.05116279069767442
+Pruritus genital,paroxetine,1,11,0.09090909090909091
+Pseudomonas infection,paroxetine,1,53,0.018867924528301886
+Pseudophaeochromocytoma,paroxetine,3,5,0.6
+Psoriasis,paroxetine,74,2000,0.037
+Psoriatic arthropathy,paroxetine,32,805,0.03975155279503106
+Psychiatric decompensation,paroxetine,8,180,0.044444444444444446
+Psychiatric evaluation,paroxetine,1,9,0.1111111111111111
+Psychiatric symptom,paroxetine,3,73,0.0410958904109589
+Psychomotor hyperactivity,paroxetine,13,220,0.05909090909090909
+Psychomotor retardation,paroxetine,8,114,0.07017543859649122
+Psychomotor skills impaired,paroxetine,1,87,0.011494252873563218
+Psychotic behaviour,paroxetine,1,8,0.125
+Psychotic disorder,paroxetine,45,821,0.05481120584652863
+Psychotic symptom,paroxetine,6,41,0.14634146341463414
+Pulmonary alveolar haemorrhage,paroxetine,1,35,0.02857142857142857
+Pulmonary arterial hypertension,paroxetine,19,97,0.1958762886597938
+Pulmonary arterial pressure increased,paroxetine,3,7,0.42857142857142855
+Pulmonary calcification,paroxetine,1,1,1.0
+Pulmonary congestion,paroxetine,1,102,0.00980392156862745
+Pulmonary embolism,paroxetine,106,1570,0.06751592356687898
+Pulmonary fibrosis,paroxetine,10,162,0.06172839506172839
+Pulmonary function test abnormal,paroxetine,1,4,0.25
+Pulmonary hypertension,paroxetine,4,115,0.034782608695652174
+Pulmonary mass,paroxetine,3,122,0.02459016393442623
+Pulmonary oedema,paroxetine,14,286,0.04895104895104895
+Pulmonary thrombosis,paroxetine,5,171,0.029239766081871343
+Pulmonary tuberculosis,paroxetine,1,14,0.07142857142857142
+Pulmonary valve incompetence,paroxetine,1,4,0.25
+Pulmonary veno-occlusive disease,paroxetine,1,2,0.5
+Pulse absent,paroxetine,2,14,0.14285714285714285
+Purpura,paroxetine,8,157,0.050955414012738856
+Pustular psoriasis,paroxetine,1,29,0.034482758620689655
+Pyelonephritis,paroxetine,12,139,0.08633093525179857
+Pyoderma gangrenosum,paroxetine,1,21,0.047619047619047616
+Pyrexia,paroxetine,86,1580,0.05443037974683544
+Quadriparesis,paroxetine,1,7,0.14285714285714285
+Quality of life decreased,paroxetine,7,109,0.06422018348623854
+Radiation pneumonitis,paroxetine,3,7,0.42857142857142855
+Rales,paroxetine,1,17,0.058823529411764705
+Rapid eye movement sleep behaviour disorder,paroxetine,2,54,0.037037037037037035
+Rapid eye movements sleep abnormal,paroxetine,1,21,0.047619047619047616
+Rash,paroxetine,148,3577,0.04137545429130556
+Rash erythematous,paroxetine,12,287,0.041811846689895474
+Rash generalised,paroxetine,9,223,0.04035874439461883
+Rash macular,paroxetine,8,253,0.03162055335968379
+Rash maculo-papular,paroxetine,20,200,0.1
+Rash papular,paroxetine,7,101,0.06930693069306931
+Rash pruritic,paroxetine,19,555,0.03423423423423423
+Rash pustular,paroxetine,1,29,0.034482758620689655
+Rash vesicular,paroxetine,5,35,0.14285714285714285
+Raynaud's phenomenon,paroxetine,1,94,0.010638297872340425
+Reaction to colouring,paroxetine,1,7,0.14285714285714285
+Reaction to excipient,paroxetine,1,21,0.047619047619047616
+Reading disorder,paroxetine,1,14,0.07142857142857142
+Rebound acid hypersecretion,paroxetine,12,119,0.10084033613445378
+Rebound eczema,paroxetine,1,8,0.125
+Rectal cancer stage IV,paroxetine,1,3,0.3333333333333333
+Rectal discharge,paroxetine,1,9,0.1111111111111111
+Rectal haemorrhage,paroxetine,36,462,0.07792207792207792
+Rectal neoplasm,paroxetine,1,5,0.2
+Rectal polyp,paroxetine,1,6,0.16666666666666666
+Rectal tenesmus,paroxetine,1,1,1.0
+Recurrent cancer,paroxetine,1,29,0.034482758620689655
+Red blood cell count decreased,paroxetine,13,138,0.09420289855072464
+Red blood cell sedimentation rate increased,paroxetine,4,42,0.09523809523809523
+Reflexes abnormal,paroxetine,2,7,0.2857142857142857
+Reflux laryngitis,paroxetine,1,3,0.3333333333333333
+Rehabilitation therapy,paroxetine,4,92,0.043478260869565216
+Renal aplasia,paroxetine,1,9,0.1111111111111111
+Renal cancer,paroxetine,5,72,0.06944444444444445
+Renal cell carcinoma,paroxetine,1,27,0.037037037037037035
+Renal disorder,paroxetine,15,327,0.045871559633027525
+Renal failure,paroxetine,85,1170,0.07264957264957266
+Renal failure chronic,paroxetine,1,5,0.2
+Renal function test abnormal,paroxetine,1,90,0.011111111111111112
+Renal haemorrhage,paroxetine,1,15,0.06666666666666667
+Renal hamartoma,paroxetine,2,5,0.4
+Renal impairment,paroxetine,22,615,0.03577235772357724
+Renal injury,paroxetine,5,147,0.034013605442176874
+Renal mass,paroxetine,1,24,0.041666666666666664
+Renal neoplasm,paroxetine,1,13,0.07692307692307693
+Renal oncocytoma,paroxetine,2,2,1.0
+Renal pain,paroxetine,3,70,0.04285714285714286
+Renal salt-wasting syndrome,paroxetine,5,5,1.0
+Renal surgery,paroxetine,2,7,0.2857142857142857
+Renal transplant failure,paroxetine,1,1,1.0
+Renal tubular acidosis,paroxetine,1,18,0.05555555555555555
+Renal tubular disorder,paroxetine,19,22,0.8636363636363636
+Renal tubular necrosis,paroxetine,3,60,0.05
+Reperfusion arrhythmia,paroxetine,6,12,0.5
+Repetitive speech,paroxetine,1,1,1.0
+Respiration abnormal,paroxetine,1,60,0.016666666666666666
+Respiratory acidosis,paroxetine,4,57,0.07017543859649122
+Respiratory arrest,paroxetine,4,152,0.02631578947368421
+Respiratory depression,paroxetine,17,626,0.027156549520766772
+Respiratory disorder,paroxetine,7,203,0.034482758620689655
+Respiratory distress,paroxetine,18,130,0.13846153846153847
+Respiratory failure,paroxetine,32,456,0.07017543859649122
+Respiratory tract congestion,paroxetine,1,56,0.017857142857142856
+Respiratory tract infection,paroxetine,14,374,0.0374331550802139
+Respiratory tract infection fungal,paroxetine,1,1,1.0
+Respiratory tract infection viral,paroxetine,1,27,0.037037037037037035
+Resting tremor,paroxetine,2,16,0.125
+Restless legs syndrome,paroxetine,13,620,0.020967741935483872
+Restlessness,paroxetine,62,412,0.15048543689320387
+Restrictive cardiomyopathy,paroxetine,4,6,0.6666666666666666
+Resuscitation,paroxetine,1,3,0.3333333333333333
+Retching,paroxetine,1,141,0.0070921985815602835
+Retinal detachment,paroxetine,8,259,0.03088803088803089
+Retinal haemorrhage,paroxetine,5,29,0.1724137931034483
+Retinal neovascularisation,paroxetine,1,2,0.5
+Retinal oedema,paroxetine,1,10,0.1
+Retinal toxicity,paroxetine,1,14,0.07142857142857142
+Retinal vasculitis,paroxetine,1,13,0.07692307692307693
+Retinopathy,paroxetine,2,35,0.05714285714285714
+Retrograde ejaculation,paroxetine,2,34,0.058823529411764705
+Retroperitoneal fibrosis,paroxetine,1,17,0.058823529411764705
+Reversible cerebral vasoconstriction syndrome,paroxetine,45,501,0.08982035928143713
+Rhabdomyolysis,paroxetine,54,561,0.0962566844919786
+Rheumatic disorder,paroxetine,2,11,0.18181818181818182
+Rheumatoid arthritis,paroxetine,23,957,0.024033437826541274
+Rheumatoid factor positive,paroxetine,1,24,0.041666666666666664
+Rheumatoid nodule,paroxetine,3,26,0.11538461538461539
+Rhinalgia,paroxetine,4,19,0.21052631578947367
+Rhinitis,paroxetine,3,57,0.05263157894736842
+Rhinorrhoea,paroxetine,15,295,0.05084745762711865
+Rib fracture,paroxetine,5,195,0.02564102564102564
+Road traffic accident,paroxetine,12,458,0.026200873362445413
+Root canal infection,paroxetine,1,12,0.08333333333333333
+Rosacea,paroxetine,1,47,0.02127659574468085
+Rotator cuff repair,paroxetine,3,39,0.07692307692307693
+Rotator cuff syndrome,paroxetine,3,136,0.022058823529411766
+Ruptured cerebral aneurysm,paroxetine,2,8,0.25
+SARS-CoV-2 test positive,paroxetine,11,282,0.03900709219858156
+Saliva discolouration,paroxetine,1,12,0.08333333333333333
+Salivary hypersecretion,paroxetine,5,112,0.044642857142857144
+Salmonella sepsis,paroxetine,1,6,0.16666666666666666
+Salmonellosis,paroxetine,1,12,0.08333333333333333
+Sarcoidosis,paroxetine,1,34,0.029411764705882353
+Scab,paroxetine,2,28,0.07142857142857142
+Scaphocephaly,paroxetine,1,1,1.0
+Scapula fracture,paroxetine,2,6,0.3333333333333333
+Scar,paroxetine,1,65,0.015384615384615385
+Scarlet fever,paroxetine,1,2,0.5
+Schizophrenia,paroxetine,22,242,0.09090909090909091
+Sciatica,paroxetine,5,118,0.0423728813559322
+Scoliosis surgery,paroxetine,1,1,1.0
+Scratch,paroxetine,2,35,0.05714285714285714
+Seasonal allergy,paroxetine,10,281,0.03558718861209965
+Seborrhoea,paroxetine,1,8,0.125
+Secondary hypertension,paroxetine,2,14,0.14285714285714285
+Secondary progressive multiple sclerosis,paroxetine,2,15,0.13333333333333333
+Secretion discharge,paroxetine,2,59,0.03389830508474576
+Sedation,paroxetine,32,1427,0.02242466713384723
+Sedation complication,paroxetine,27,324,0.08333333333333333
+Seizure,paroxetine,99,2931,0.033776867963152504
+Seizure like phenomena,paroxetine,1,35,0.02857142857142857
+Self injurious behaviour,paroxetine,1,12,0.08333333333333333
+Self-injurious ideation,paroxetine,1,112,0.008928571428571428
+Self-medication,paroxetine,5,38,0.13157894736842105
+Sense of oppression,paroxetine,1,5,0.2
+Sensitive skin,paroxetine,1,43,0.023255813953488372
+Sensory disturbance,paroxetine,4,90,0.044444444444444446
+Sensory loss,paroxetine,28,100,0.28
+Sepsis,paroxetine,39,901,0.04328523862375139
+Sepsis neonatal,paroxetine,1,7,0.14285714285714285
+Sepsis syndrome,paroxetine,2,6,0.3333333333333333
+Septic shock,paroxetine,17,191,0.08900523560209424
+Serotonin syndrome,paroxetine,302,3465,0.08715728715728716
+Serum ferritin increased,paroxetine,1,11,0.09090909090909091
+Serum serotonin increased,paroxetine,1,28,0.03571428571428571
+Sexual dysfunction,paroxetine,22,430,0.05116279069767442
+Shock,paroxetine,5,98,0.05102040816326531
+Shock haemorrhagic,paroxetine,10,78,0.1282051282051282
+Shunt malfunction,paroxetine,1,4,0.25
+Sinoatrial block,paroxetine,1,15,0.06666666666666667
+Sinus bradycardia,paroxetine,9,132,0.06818181818181818
+Sinus congestion,paroxetine,4,70,0.05714285714285714
+Sinus disorder,paroxetine,4,176,0.022727272727272728
+Sinus headache,paroxetine,1,39,0.02564102564102564
+Sinus operation,paroxetine,1,60,0.016666666666666666
+Sinus pain,paroxetine,1,14,0.07142857142857142
+Sinus polyp,paroxetine,1,5,0.2
+Sinus rhythm,paroxetine,1,2,0.5
+Sinus tachycardia,paroxetine,5,132,0.03787878787878788
+Sinusitis,paroxetine,57,1885,0.030238726790450927
+Sjogren's syndrome,paroxetine,3,51,0.058823529411764705
+Skin abrasion,paroxetine,3,24,0.125
+Skin atrophy,paroxetine,1,15,0.06666666666666667
+Skin burning sensation,paroxetine,2,157,0.012738853503184714
+Skin cancer,paroxetine,11,239,0.04602510460251046
+Skin candida,paroxetine,1,20,0.05
+Skin discolouration,paroxetine,16,205,0.07804878048780488
+Skin disorder,paroxetine,8,138,0.057971014492753624
+Skin exfoliation,paroxetine,15,282,0.05319148936170213
+Skin fissures,paroxetine,3,69,0.043478260869565216
+Skin fragility,paroxetine,2,6,0.3333333333333333
+Skin graft,paroxetine,1,5,0.2
+Skin haemorrhage,paroxetine,1,44,0.022727272727272728
+Skin hyperpigmentation,paroxetine,1,25,0.04
+Skin infection,paroxetine,5,109,0.045871559633027525
+Skin irritation,paroxetine,3,74,0.04054054054054054
+Skin laceration,paroxetine,10,132,0.07575757575757576
+Skin lesion,paroxetine,6,146,0.0410958904109589
+Skin necrosis,paroxetine,5,29,0.1724137931034483
+Skin papilloma,paroxetine,2,24,0.08333333333333333
+Skin plaque,paroxetine,5,30,0.16666666666666666
+Skin reaction,paroxetine,4,85,0.047058823529411764
+Skin sensitisation,paroxetine,1,4,0.25
+Skin ulcer,paroxetine,12,156,0.07692307692307693
+Skin wrinkling,paroxetine,1,13,0.07692307692307693
+Sleep apnoea syndrome,paroxetine,30,1070,0.028037383177570093
+Sleep disorder,paroxetine,56,770,0.07272727272727272
+Sleep study,paroxetine,1,3,0.3333333333333333
+Sleep terror,paroxetine,3,130,0.023076923076923078
+Sleep-related eating disorder,paroxetine,1,86,0.011627906976744186
+Slow speech,paroxetine,6,27,0.2222222222222222
+Sluggishness,paroxetine,7,61,0.11475409836065574
+Small cell lung cancer metastatic,paroxetine,1,10,0.1
+Small for dates baby,paroxetine,12,173,0.06936416184971098
+Small intestinal obstruction,paroxetine,7,219,0.0319634703196347
+Sneezing,paroxetine,3,63,0.047619047619047616
+Snoring,paroxetine,1,60,0.016666666666666666
+Social phobia,paroxetine,2,3,0.6666666666666666
+Soft tissue inflammation,paroxetine,4,7,0.5714285714285714
+Soft tissue necrosis,paroxetine,1,2,0.5
+Somatic symptom disorder,paroxetine,1,32,0.03125
+Somnambulism,paroxetine,1,140,0.007142857142857143
+Somnolence,paroxetine,160,2728,0.05865102639296188
+Sopor,paroxetine,87,761,0.11432325886990802
+Spasmodic dysphonia,paroxetine,4,40,0.1
+Speech disorder,paroxetine,32,352,0.09090909090909091
+Spinal compression fracture,paroxetine,3,65,0.046153846153846156
+Spinal cord infection,paroxetine,1,8,0.125
+Spinal deformity,paroxetine,1,9,0.1111111111111111
+Spinal disorder,paroxetine,4,89,0.0449438202247191
+Spinal fracture,paroxetine,6,144,0.041666666666666664
+Spinal fusion acquired,paroxetine,1,3,0.3333333333333333
+Spinal fusion surgery,paroxetine,1,88,0.011363636363636364
+Spinal instability,paroxetine,1,3,0.3333333333333333
+Spinal nerve stimulator implantation,paroxetine,1,9,0.1111111111111111
+Spinal operation,paroxetine,12,326,0.03680981595092025
+Spinal osteoarthritis,paroxetine,1,54,0.018518518518518517
+Spinal pain,paroxetine,1,59,0.01694915254237288
+Spinal stenosis,paroxetine,1,51,0.0196078431372549
+Spinal subdural haematoma,paroxetine,4,4,1.0
+Splenectomy,paroxetine,1,5,0.2
+Splenic haematoma,paroxetine,5,11,0.45454545454545453
+Splenic rupture,paroxetine,1,11,0.09090909090909091
+Splenomegaly,paroxetine,5,32,0.15625
+Spondyloarthropathy,paroxetine,2,10,0.2
+Sprue-like enteropathy,paroxetine,1,19,0.05263157894736842
+Sputum discoloured,paroxetine,2,45,0.044444444444444446
+Squamous cell carcinoma,paroxetine,15,193,0.07772020725388601
+Squamous cell carcinoma of lung,paroxetine,4,17,0.23529411764705882
+Squamous cell carcinoma of skin,paroxetine,1,116,0.008620689655172414
+Staphylococcal bacteraemia,paroxetine,2,34,0.058823529411764705
+Staphylococcal infection,paroxetine,28,313,0.08945686900958466
+Staphylococcal sepsis,paroxetine,1,33,0.030303030303030304
+Starvation,paroxetine,1,5,0.2
+Status epilepticus,paroxetine,13,243,0.053497942386831275
+Steatohepatitis,paroxetine,1,10,0.1
+Stem cell transplant,paroxetine,3,21,0.14285714285714285
+Stent placement,paroxetine,2,40,0.05
+Stevens-Johnson syndrome,paroxetine,32,313,0.10223642172523961
+Stoma complication,paroxetine,2,21,0.09523809523809523
+Stomatitis,paroxetine,9,335,0.026865671641791045
+Streptococcal bacteraemia,paroxetine,4,11,0.36363636363636365
+Streptococcal infection,paroxetine,2,33,0.06060606060606061
+Stress,paroxetine,15,534,0.028089887640449437
+Stress at work,paroxetine,1,8,0.125
+Stress cardiomyopathy,paroxetine,13,196,0.0663265306122449
+Stress fracture,paroxetine,1,26,0.038461538461538464
+Stridor,paroxetine,1,6,0.16666666666666666
+Stupor,paroxetine,2,31,0.06451612903225806
+Subacute cutaneous lupus erythematosus,paroxetine,1,59,0.01694915254237288
+Subarachnoid haemorrhage,paroxetine,17,195,0.08717948717948718
+Subcutaneous haematoma,paroxetine,5,11,0.45454545454545453
+Subdural haematoma,paroxetine,41,353,0.11614730878186968
+Subdural haemorrhage,paroxetine,1,32,0.03125
+Substance abuse,paroxetine,28,340,0.08235294117647059
+Substance use,paroxetine,4,47,0.0851063829787234
+Substance-induced psychotic disorder,paroxetine,2,71,0.028169014084507043
+Sudden cardiac death,paroxetine,9,123,0.07317073170731707
+Sudden death,paroxetine,34,355,0.09577464788732394
+Suffocation feeling,paroxetine,2,4,0.5
+Suicidal behaviour,paroxetine,2,169,0.011834319526627219
+Suicidal ideation,paroxetine,101,3174,0.031821045998739764
+Suicide attempt,paroxetine,118,2118,0.05571293673276676
+Suicide threat,paroxetine,1,4,0.25
+Sunburn,paroxetine,2,46,0.043478260869565216
+Superficial spreading melanoma stage unspecified,paroxetine,1,7,0.14285714285714285
+Superficial vein thrombosis,paroxetine,1,16,0.0625
+Superinfection bacterial,paroxetine,2,5,0.4
+Superior semicircular canal dehiscence,paroxetine,1,1,1.0
+Supraventricular tachycardia,paroxetine,5,129,0.03875968992248062
+Surgery,paroxetine,51,1457,0.035003431708991076
+Suspected COVID-19,paroxetine,2,48,0.041666666666666664
+Suspected suicide,paroxetine,33,1377,0.023965141612200435
+Sweat gland infection,paroxetine,1,7,0.14285714285714285
+Swelling,paroxetine,14,399,0.03508771929824561
+Swelling face,paroxetine,12,525,0.022857142857142857
+Swollen tongue,paroxetine,15,633,0.023696682464454975
+Sympathicotonia,paroxetine,1,3,0.3333333333333333
+Symptom recurrence,paroxetine,2,104,0.019230769230769232
+Syncope,paroxetine,65,1048,0.06202290076335878
+Syndactyly,paroxetine,7,14,0.5
+Synovial cyst,paroxetine,3,38,0.07894736842105263
+Synovitis,paroxetine,2,53,0.03773584905660377
+Syphilis,paroxetine,1,14,0.07142857142857142
+Syringe issue,paroxetine,1,31,0.03225806451612903
+Systemic inflammatory response syndrome,paroxetine,2,31,0.06451612903225806
+Systemic lupus erythematosus,paroxetine,8,236,0.03389830508474576
+Systemic lupus erythematosus rash,paroxetine,1,7,0.14285714285714285
+Systemic viral infection,paroxetine,1,5,0.2
+Tachycardia,paroxetine,57,693,0.08225108225108226
+Tachycardia foetal,paroxetine,1,5,0.2
+Tachypnoea,paroxetine,3,70,0.04285714285714286
+Talipes,paroxetine,4,49,0.08163265306122448
+Tardive dyskinesia,paroxetine,23,678,0.03392330383480826
+Tarsal tunnel syndrome,paroxetine,1,2,0.5
+Taste disorder,paroxetine,10,202,0.04950495049504951
+Teeth brittle,paroxetine,2,9,0.2222222222222222
+Temperature intolerance,paroxetine,2,47,0.0425531914893617
+Temporal arteritis,paroxetine,1,21,0.047619047619047616
+Tenderness,paroxetine,1,66,0.015151515151515152
+Tendon disorder,paroxetine,2,38,0.05263157894736842
+Tendon injury,paroxetine,1,13,0.07692307692307693
+Tendon rupture,paroxetine,2,140,0.014285714285714285
+Tendonitis,paroxetine,2,102,0.0196078431372549
+Tenosynovitis,paroxetine,1,7,0.14285714285714285
+Tenosynovitis stenosans,paroxetine,2,2,1.0
+Tension headache,paroxetine,1,42,0.023809523809523808
+Terminal state,paroxetine,3,41,0.07317073170731707
+Therapeutic procedure,paroxetine,1,29,0.034482758620689655
+Therapeutic product effect decreased,paroxetine,15,587,0.02555366269165247
+Therapeutic product effect delayed,paroxetine,1,48,0.020833333333333332
+Therapeutic product effect incomplete,paroxetine,36,1193,0.030176026823134954
+Therapeutic product effect variable,paroxetine,4,85,0.047058823529411764
+Therapeutic product ineffective,paroxetine,1,33,0.030303030303030304
+Therapeutic reaction time decreased,paroxetine,2,75,0.02666666666666667
+Therapeutic response changed,paroxetine,1,45,0.022222222222222223
+Therapeutic response decreased,paroxetine,15,454,0.03303964757709251
+Therapeutic response prolonged,paroxetine,1,4,0.25
+Therapeutic response shortened,paroxetine,7,276,0.025362318840579712
+Therapeutic response unexpected,paroxetine,17,411,0.0413625304136253
+Therapy cessation,paroxetine,13,372,0.03494623655913978
+Therapy interrupted,paroxetine,12,665,0.01804511278195489
+Therapy non-responder,paroxetine,35,1063,0.03292568203198495
+Therapy partial responder,paroxetine,7,148,0.0472972972972973
+Thermal burn,paroxetine,42,161,0.2608695652173913
+Thinking abnormal,paroxetine,13,187,0.06951871657754011
+Thirst,paroxetine,2,125,0.016
+Throat cancer,paroxetine,1,29,0.034482758620689655
+Throat clearing,paroxetine,3,17,0.17647058823529413
+Throat irritation,paroxetine,8,207,0.03864734299516908
+Throat tightness,paroxetine,8,172,0.046511627906976744
+Thrombocytopenia,paroxetine,91,996,0.09136546184738956
+Thrombocytosis,paroxetine,5,26,0.19230769230769232
+Thrombophlebitis,paroxetine,4,65,0.06153846153846154
+Thrombophlebitis superficial,paroxetine,4,42,0.09523809523809523
+Thrombosis,paroxetine,36,825,0.04363636363636364
+Thrombosis in device,paroxetine,1,8,0.125
+Thrombotic microangiopathy,paroxetine,3,47,0.06382978723404255
+Thyroid cancer,paroxetine,5,89,0.056179775280898875
+Thyroid disorder,paroxetine,4,96,0.041666666666666664
+Thyroid function test abnormal,paroxetine,1,36,0.027777777777777776
+Thyroid hormones decreased,paroxetine,1,13,0.07692307692307693
+Thyroid hormones increased,paroxetine,1,16,0.0625
+Thyroid mass,paroxetine,4,50,0.08
+Thyroid neoplasm,paroxetine,1,11,0.09090909090909091
+Tinea infection,paroxetine,1,6,0.16666666666666666
+Tinnitus,paroxetine,22,718,0.03064066852367688
+Toe amputation,paroxetine,1,18,0.05555555555555555
+Toe operation,paroxetine,2,11,0.18181818181818182
+Tongue biting,paroxetine,1,15,0.06666666666666667
+Tongue discolouration,paroxetine,2,33,0.06060606060606061
+Tongue disorder,paroxetine,1,52,0.019230769230769232
+Tongue neoplasm benign,paroxetine,1,2,0.5
+Tongue ulceration,paroxetine,1,22,0.045454545454545456
+Tonic clonic movements,paroxetine,15,37,0.40540540540540543
+Tonsillitis,paroxetine,1,62,0.016129032258064516
+Tooth abscess,paroxetine,8,124,0.06451612903225806
+Tooth discolouration,paroxetine,1,18,0.05555555555555555
+Tooth disorder,paroxetine,13,283,0.045936395759717315
+Tooth extraction,paroxetine,2,84,0.023809523809523808
+Tooth fracture,paroxetine,3,86,0.03488372093023256
+Tooth infection,paroxetine,7,171,0.04093567251461988
+Tooth injury,paroxetine,1,27,0.037037037037037035
+Tooth loss,paroxetine,2,77,0.025974025974025976
+Toothache,paroxetine,3,95,0.031578947368421054
+Torsade de pointes,paroxetine,8,150,0.05333333333333334
+Torticollis,paroxetine,11,148,0.07432432432432433
+Toxic encephalopathy,paroxetine,11,80,0.1375
+Toxic epidermal necrolysis,paroxetine,25,749,0.03337783711615487
+Toxic leukoencephalopathy,paroxetine,1,5,0.2
+Toxic skin eruption,paroxetine,21,168,0.125
+Toxicity to various agents,paroxetine,287,6972,0.04116465863453815
+Transaminases increased,paroxetine,4,199,0.020100502512562814
+Transformation to acute myeloid leukaemia,paroxetine,2,14,0.14285714285714285
+Transfusion,paroxetine,6,51,0.11764705882352941
+Transient ischaemic attack,paroxetine,16,367,0.043596730245231606
+Transitional cell carcinoma,paroxetine,4,24,0.16666666666666666
+Transplant rejection,paroxetine,1,22,0.045454545454545456
+Traumatic intracranial haemorrhage,paroxetine,1,4,0.25
+Treatment delayed,paroxetine,2,14,0.14285714285714285
+Treatment failure,paroxetine,73,1390,0.05251798561151079
+Treatment noncompliance,paroxetine,37,465,0.07956989247311828
+Tremor,paroxetine,60,1680,0.03571428571428571
+Trigeminal neuralgia,paroxetine,2,66,0.030303030303030304
+Trigger finger,paroxetine,1,61,0.01639344262295082
+Trismus,paroxetine,2,102,0.0196078431372549
+Troponin abnormal,paroxetine,1,2,0.5
+Troponin increased,paroxetine,15,66,0.22727272727272727
+Tuberculosis,paroxetine,3,81,0.037037037037037035
+Tubulointerstitial nephritis,paroxetine,22,187,0.11764705882352941
+Tumour lysis syndrome,paroxetine,1,33,0.030303030303030304
+Tumour marker increased,paroxetine,2,20,0.1
+Tumour pain,paroxetine,1,11,0.09090909090909091
+Tunnel vision,paroxetine,1,38,0.02631578947368421
+Turner's syndrome,paroxetine,1,1,1.0
+Tympanic membrane perforation,paroxetine,3,11,0.2727272727272727
+Type 1 diabetes mellitus,paroxetine,2,36,0.05555555555555555
+Type 2 diabetes mellitus,paroxetine,47,364,0.12912087912087913
+Type I hypersensitivity,paroxetine,5,16,0.3125
+Type IV hypersensitivity reaction,paroxetine,1,26,0.038461538461538464
+Ulcer,paroxetine,4,72,0.05555555555555555
+Ulcer haemorrhage,paroxetine,2,66,0.030303030303030304
+Ulcerative keratitis,paroxetine,1,17,0.058823529411764705
+Umbilical cord prolapse,paroxetine,2,2,1.0
+Underdose,paroxetine,10,400,0.025
+Unevaluable event,paroxetine,23,706,0.032577903682719546
+Unevaluable therapy,paroxetine,1,2,0.5
+Unintentional medical device removal,paroxetine,1,46,0.021739130434782608
+Unmasking of previously unidentified disease,paroxetine,1,11,0.09090909090909091
+Unresponsive to stimuli,paroxetine,2,216,0.009259259259259259
+Upper gastrointestinal haemorrhage,paroxetine,31,519,0.05973025048169557
+Upper limb fracture,paroxetine,15,177,0.0847457627118644
+Upper respiratory tract infection,paroxetine,11,642,0.017133956386292833
+Upper-airway cough syndrome,paroxetine,4,59,0.06779661016949153
+Ureteric cancer,paroxetine,2,3,0.6666666666666666
+Urinary bladder rupture,paroxetine,3,7,0.42857142857142855
+Urinary hesitation,paroxetine,1,235,0.00425531914893617
+Urinary incontinence,paroxetine,5,347,0.01440922190201729
+Urinary retention,paroxetine,68,805,0.084472049689441
+Urinary tract infection,paroxetine,97,2282,0.04250657318141981
+Urinary tract infection bacterial,paroxetine,4,31,0.12903225806451613
+Urine abnormality,paroxetine,1,16,0.0625
+Urine analysis,paroxetine,1,3,0.3333333333333333
+Urine flow decreased,paroxetine,1,14,0.07142857142857142
+Urine ketone body present,paroxetine,1,6,0.16666666666666666
+Urine odour abnormal,paroxetine,2,53,0.03773584905660377
+Urine output decreased,paroxetine,2,23,0.08695652173913043
+Urosepsis,paroxetine,5,104,0.04807692307692308
+Urticaria,paroxetine,60,1208,0.04966887417218543
+Urticaria cholinergic,paroxetine,1,1,1.0
+Uterine cancer,paroxetine,3,60,0.05
+Uterine disorder,paroxetine,2,52,0.038461538461538464
+Uterine haemorrhage,paroxetine,6,65,0.09230769230769231
+Uterine leiomyoma,paroxetine,4,48,0.08333333333333333
+Uterine polyp,paroxetine,1,13,0.07692307692307693
+Uveitis,paroxetine,7,107,0.06542056074766354
+VIth nerve paralysis,paroxetine,5,9,0.5555555555555556
+Vaginal abscess,paroxetine,1,4,0.25
+Vaginal discharge,paroxetine,3,55,0.05454545454545454
+Vaginal haemorrhage,paroxetine,11,319,0.034482758620689655
+Varicella zoster virus infection,paroxetine,2,3,0.6666666666666666
+Varices oesophageal,paroxetine,1,11,0.09090909090909091
+Varicose vein,paroxetine,1,30,0.03333333333333333
+Vascular device infection,paroxetine,5,87,0.05747126436781609
+Vascular pseudoaneurysm,paroxetine,6,13,0.46153846153846156
+Vascular purpura,paroxetine,11,43,0.2558139534883721
+Vasculitic rash,paroxetine,4,44,0.09090909090909091
+Vasculitis,paroxetine,1,79,0.012658227848101266
+Vasoplegia syndrome,paroxetine,6,36,0.16666666666666666
+Vein discolouration,paroxetine,1,2,0.5
+Vein rupture,paroxetine,2,22,0.09090909090909091
+Venous thrombosis limb,paroxetine,3,18,0.16666666666666666
+Ventricular arrhythmia,paroxetine,1,56,0.017857142857142856
+Ventricular dysfunction,paroxetine,1,27,0.037037037037037035
+Ventricular extrasystoles,paroxetine,2,116,0.017241379310344827
+Ventricular septal defect,paroxetine,3,59,0.05084745762711865
+Ventricular tachycardia,paroxetine,4,130,0.03076923076923077
+Vertigo,paroxetine,12,484,0.024793388429752067
+Vessel puncture site bruise,paroxetine,1,1,1.0
+Victim of chemical submission,paroxetine,3,44,0.06818181818181818
+Victim of sexual abuse,paroxetine,2,15,0.13333333333333333
+Violence-related symptom,paroxetine,3,13,0.23076923076923078
+Viral infection,paroxetine,8,227,0.03524229074889868
+Viral load increased,paroxetine,1,9,0.1111111111111111
+Viral pericarditis,paroxetine,1,1,1.0
+Visceral congestion,paroxetine,2,4,0.5
+Vision blurred,paroxetine,26,852,0.03051643192488263
+Visual acuity reduced,paroxetine,4,123,0.032520325203252036
+Visual evoked potentials abnormal,paroxetine,3,3,1.0
+Visual field defect,paroxetine,1,22,0.045454545454545456
+Visual impairment,paroxetine,14,588,0.023809523809523808
+Vitamin A deficiency,paroxetine,4,8,0.5
+Vitamin B12 decreased,paroxetine,1,29,0.034482758620689655
+Vitamin B12 deficiency,paroxetine,1,29,0.034482758620689655
+Vitamin D abnormal,paroxetine,3,9,0.3333333333333333
+Vitamin D decreased,paroxetine,7,75,0.09333333333333334
+Vitreous haemorrhage,paroxetine,1,35,0.02857142857142857
+Volvulus,paroxetine,2,47,0.0425531914893617
+Vomiting,paroxetine,97,2145,0.04522144522144522
+Vulval cancer,paroxetine,1,7,0.14285714285714285
+Vulvovaginal burning sensation,paroxetine,3,46,0.06521739130434782
+Vulvovaginal mycotic infection,paroxetine,2,41,0.04878048780487805
+Vulvovaginitis,paroxetine,1,3,0.3333333333333333
+Waldenstrom's macroglobulinaemia,paroxetine,1,7,0.14285714285714285
+Walking aid user,paroxetine,2,23,0.08695652173913043
+Walking disability,paroxetine,2,11,0.18181818181818182
+Weight decreased,paroxetine,53,1437,0.03688239387613083
+Weight fluctuation,paroxetine,3,102,0.029411764705882353
+Weight increased,paroxetine,104,2518,0.04130262112787927
+Wheelchair user,paroxetine,1,25,0.04
+Wheezing,paroxetine,1,432,0.0023148148148148147
+White blood cell count abnormal,paroxetine,3,52,0.057692307692307696
+White blood cell count decreased,paroxetine,45,721,0.06241331484049931
+White blood cell count increased,paroxetine,5,127,0.03937007874015748
+Wisdom teeth removal,paroxetine,1,27,0.037037037037037035
+Withdrawal syndrome,paroxetine,57,889,0.06411698537682789
+Wound,paroxetine,22,186,0.11827956989247312
+Wound complication,paroxetine,16,67,0.23880597014925373
+Wound haemorrhage,paroxetine,2,18,0.1111111111111111
+Wound infection,paroxetine,3,62,0.04838709677419355
+Wound secretion,paroxetine,1,10,0.1
+Wrist fracture,paroxetine,4,144,0.027777777777777776
+Wrong patient,paroxetine,3,13,0.23076923076923078
+Wrong patient received medication,paroxetine,1,7,0.14285714285714285
+Wrong patient received product,paroxetine,5,57,0.08771929824561403
+Wrong product administered,paroxetine,2,79,0.02531645569620253
+Wrong schedule,paroxetine,1,7,0.14285714285714285
+Wrong technique in device usage process,paroxetine,5,51,0.09803921568627451
+Wrong technique in drug usage process,paroxetine,2,45,0.044444444444444446
+Wrong technique in product usage process,paroxetine,52,758,0.06860158311345646
+Yawning,paroxetine,2,58,0.034482758620689655
+Yellow nail syndrome,paroxetine,2,3,0.6666666666666666

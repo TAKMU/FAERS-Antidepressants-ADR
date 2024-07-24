@@ -1,0 +1,29 @@
+pt,prod_ai,no_reactions,total,prr
+Adverse drug reaction,isocarboxazid,1,4524,0.00022104332449160034
+Adverse event,isocarboxazid,1,3941,0.0002537427048972342
+Agitation,isocarboxazid,3,12595,0.00023818975784041285
+Altered state of consciousness,isocarboxazid,1,2218,0.0004508566275924256
+Antipsychotic drug level below therapeutic,isocarboxazid,1,81,0.012345679012345678
+Anxiety,isocarboxazid,3,30085,9.971746717633372e-05
+Arthritis,isocarboxazid,2,3709,0.0005392289026691831
+Ascites,isocarboxazid,2,464,0.004310344827586207
+Blood glucose increased,isocarboxazid,1,2803,0.00035676061362825543
+Blood pressure increased,isocarboxazid,1,6102,0.00016388069485414618
+Cardiac arrest,isocarboxazid,1,4297,0.00023272050267628578
+Cardiac failure congestive,isocarboxazid,1,1435,0.0006968641114982578
+Coagulopathy,isocarboxazid,2,306,0.006535947712418301
+Completed suicide,isocarboxazid,15,18279,0.0008206138191367143
+Confusional state,isocarboxazid,1,8039,0.00012439358129120537
+Constipation,isocarboxazid,2,7743,0.0002582978173834431
+Depression,isocarboxazid,1,14880,6.720430107526882e-05
+Diarrhoea,isocarboxazid,2,13927,0.00014360594528613484
+Drug ineffective,isocarboxazid,4,39294,0.0001017967119662035
+Drug withdrawal syndrome,isocarboxazid,1,3060,0.000326797385620915
+Dry mouth,isocarboxazid,1,1921,0.0005205622071837585
+Feeling abnormal,isocarboxazid,1,4445,0.0002249718785151856
+Homicidal ideation,isocarboxazid,1,167,0.005988023952095809
+Mental status changes,isocarboxazid,1,404,0.0024752475247524753
+Myocardial infarction,isocarboxazid,1,1488,0.0006720430107526882
+Off label use,isocarboxazid,1,10509,9.515653249595585e-05
+Pruritus,isocarboxazid,2,3036,0.0006587615283267457
+Stress cardiomyopathy,isocarboxazid,2,196,0.01020408163265306

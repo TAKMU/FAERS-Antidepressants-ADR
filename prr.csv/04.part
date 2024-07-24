@@ -1,0 +1,420 @@
+pt,prod_ai,no_reactions,total,prr
+Abasia,desipramine,3,1659,0.0018083182640144665
+Abdominal abscess,desipramine,3,237,0.012658227848101266
+Abdominal discomfort,desipramine,26,14497,0.0017934745119679934
+Abdominal distension,desipramine,11,7202,0.0015273535129130798
+Abdominal pain,desipramine,21,16090,0.0013051584835301428
+Abdominal pain lower,desipramine,2,1175,0.001702127659574468
+Abdominal pain upper,desipramine,15,12523,0.0011977960552583247
+Abnormal dreams,desipramine,7,4505,0.0015538290788013318
+Abortion spontaneous,desipramine,1,2003,0.0004992511233150275
+Abscess,desipramine,4,802,0.004987531172069825
+Accident,desipramine,4,802,0.004987531172069825
+Accidental death,desipramine,3,388,0.007731958762886598
+Accidental exposure to product,desipramine,1,1296,0.0007716049382716049
+Accidental overdose,desipramine,1,2453,0.00040766408479412964
+Acne,desipramine,10,2209,0.004526935264825713
+Activities of daily living impaired,desipramine,2,1625,0.0012307692307692308
+Acute kidney injury,desipramine,47,23399,0.002008632847557588
+Acute respiratory distress syndrome,desipramine,2,922,0.0021691973969631237
+Acute respiratory failure,desipramine,1,1222,0.0008183306055646482
+Adverse drug reaction,desipramine,15,4524,0.0033156498673740055
+Adverse event,desipramine,13,3941,0.0032986551636640447
+Affective disorder,desipramine,4,1853,0.0021586616297895305
+Ageusia,desipramine,1,1179,0.0008481764206955047
+Aggression,desipramine,4,6601,0.0006059687926071808
+Agitation,desipramine,2,12595,0.00015879317189360857
+Akathisia,desipramine,4,3096,0.0012919896640826874
+Alanine aminotransferase increased,desipramine,1,2960,0.00033783783783783786
+Alkalosis,desipramine,2,8,0.25
+Allergic oedema,desipramine,2,78,0.02564102564102564
+Alopecia,desipramine,12,13201,0.0009090220437845618
+Amenorrhoea,desipramine,2,610,0.003278688524590164
+Ammonia increased,desipramine,1,214,0.004672897196261682
+Amnesia,desipramine,14,5868,0.0023858214042263124
+Anaemia,desipramine,3,8359,0.00035889460461777724
+Anal abscess,desipramine,3,169,0.01775147928994083
+Anal fistula,desipramine,5,136,0.03676470588235294
+Anaphylactic reaction,desipramine,2,2181,0.0009170105456212746
+Anaphylactic shock,desipramine,1,664,0.0015060240963855422
+Anger,desipramine,1,3376,0.0002962085308056872
+Angina pectoris,desipramine,65,1254,0.051834130781499205
+Angioplasty,desipramine,1,43,0.023255813953488372
+Anhedonia,desipramine,3,2717,0.001104158998895841
+Ankle fracture,desipramine,1,1678,0.0005959475566150178
+Anterior chamber cell,desipramine,1,8,0.125
+Antidepressant drug level above therapeutic,desipramine,7,93,0.07526881720430108
+Anxiety,desipramine,18,30085,0.0005983048030580023
+Aphonia,desipramine,1,696,0.0014367816091954023
+Aphthous stomatitis,desipramine,1,23,0.043478260869565216
+Aphthous ulcer,desipramine,1,481,0.002079002079002079
+Appendicitis,desipramine,1,340,0.0029411764705882353
+Application site pruritus,desipramine,1,138,0.007246376811594203
+Argyria,desipramine,1,1,1.0
+Arnold-Chiari malformation,desipramine,1,156,0.00641025641025641
+Arrhythmia,desipramine,2,2306,0.0008673026886383347
+Arterial occlusive disease,desipramine,1,286,0.0034965034965034965
+Arteriosclerosis coronary artery,desipramine,1,585,0.0017094017094017094
+Arthralgia,desipramine,24,19575,0.0012260536398467432
+Arthritis,desipramine,1,3709,0.00026961445133459155
+Arthropathy,desipramine,3,2120,0.0014150943396226414
+Asphyxia,desipramine,1,657,0.0015220700152207
+Aspiration,desipramine,2,901,0.0022197558268590455
+Asterixis,desipramine,1,59,0.01694915254237288
+Asthenia,desipramine,9,15885,0.0005665722379603399
+Asthma,desipramine,3,6690,0.0004484304932735426
+Atrial fibrillation,desipramine,4,3425,0.0011678832116788322
+Atrial flutter,desipramine,1,244,0.004098360655737705
+Atypical pneumonia,desipramine,1,169,0.005917159763313609
+Autism spectrum disorder,desipramine,1,254,0.003937007874015748
+Autoimmune disorder,desipramine,1,351,0.002849002849002849
+Autoimmune hepatitis,desipramine,1,252,0.003968253968253968
+Autoimmune myocarditis,desipramine,1,3,0.3333333333333333
+Back disorder,desipramine,2,1055,0.0018957345971563982
+Back injury,desipramine,2,648,0.0030864197530864196
+Back pain,desipramine,5,8125,0.0006153846153846154
+Bacteraemia,desipramine,2,318,0.006289308176100629
+Balance disorder,desipramine,2,7162,0.00027925160569673273
+Basal cell carcinoma,desipramine,1,619,0.0016155088852988692
+Bedridden,desipramine,1,586,0.0017064846416382253
+Benign neoplasm of thyroid gland,desipramine,1,68,0.014705882352941176
+Biliary dyskinesia,desipramine,1,21,0.047619047619047616
+Bipolar disorder,desipramine,10,1272,0.007861635220125786
+Bladder catheterisation,desipramine,2,41,0.04878048780487805
+Blister,desipramine,2,1764,0.0011337868480725624
+Blood calcium decreased,desipramine,2,682,0.002932551319648094
+Blood cholesterol increased,desipramine,1,1843,0.0005425935973955507
+Blood cortisol decreased,desipramine,1,8,0.125
+Blood creatine phosphokinase increased,desipramine,1,1404,0.0007122507122507123
+Blood creatinine abnormal,desipramine,1,77,0.012987012987012988
+Blood glucose increased,desipramine,3,2803,0.0010702818408847663
+Blood iron decreased,desipramine,2,384,0.005208333333333333
+Blood oestrogen increased,desipramine,2,28,0.07142857142857142
+Blood pH decreased,desipramine,3,16,0.1875
+Blood potassium increased,desipramine,1,437,0.002288329519450801
+Blood pressure fluctuation,desipramine,3,1371,0.002188183807439825
+Blood pressure increased,desipramine,5,6102,0.0008194034742707309
+Body height decreased,desipramine,3,633,0.004739336492890996
+Body temperature increased,desipramine,2,665,0.0030075187969924814
+Bone disorder,desipramine,2,336,0.005952380952380952
+Bradycardia,desipramine,2,3517,0.0005686664771111743
+Brain injury,desipramine,1,609,0.0016420361247947454
+Breast cancer,desipramine,1,1699,0.0005885815185403178
+Bronchitis,desipramine,1,3621,0.00027616680475006904
+Bronchopneumonia,desipramine,1,20,0.05
+Bronchopulmonary aspergillosis,desipramine,2,103,0.019417475728155338
+Bundle branch block right,desipramine,4,237,0.016877637130801686
+Bunion operation,desipramine,3,21,0.14285714285714285
+Burning sensation,desipramine,5,2609,0.0019164430816404753
+COVID-19,desipramine,2,5340,0.0003745318352059925
+COVID-19 pneumonia,desipramine,3,424,0.007075471698113208
+Cardiac arrest,desipramine,10,4297,0.0023272050267628577
+Cardiac death,desipramine,1,33,0.030303030303030304
+Cardiac disorder,desipramine,2,1766,0.0011325028312570782
+Cardiac failure,desipramine,1,1781,0.0005614823133071309
+Cardiac failure congestive,desipramine,2,1435,0.0013937282229965157
+Cardiac flutter,desipramine,3,202,0.01485148514851485
+Cardio-respiratory arrest,desipramine,17,4099,0.004147353012929983
+Cardiogenic shock,desipramine,1,567,0.001763668430335097
+Cardiomyopathy,desipramine,1,272,0.003676470588235294
+Cardiotoxicity,desipramine,2,205,0.00975609756097561
+Cartilage injury,desipramine,2,95,0.021052631578947368
+Cataract,desipramine,5,1677,0.0029815146094215863
+Cellulitis,desipramine,6,1773,0.00338409475465313
+Cerebral atrophy,desipramine,2,81,0.024691358024691357
+Cerebral haemorrhage,desipramine,2,1339,0.0014936519790888724
+Cerebrospinal fluid leakage,desipramine,3,72,0.041666666666666664
+Cerebrovascular accident,desipramine,1,3539,0.00028256569652444194
+Chest discomfort,desipramine,3,2503,0.0011985617259288853
+Chest pain,desipramine,4,4011,0.0009972575417601596
+Chills,desipramine,4,2640,0.0015151515151515152
+Chronic kidney disease,desipramine,12,10392,0.0011547344110854503
+Chronic obstructive pulmonary disease,desipramine,2,1524,0.0013123359580052493
+Chronotropic incompetence,desipramine,1,4,0.25
+Circumstance or information capable of leading to medication error,desipramine,1,322,0.003105590062111801
+Clostridium difficile colitis,desipramine,1,422,0.002369668246445498
+Cognitive disorder,desipramine,1,2731,0.0003661662394727206
+Colitis,desipramine,1,1183,0.0008453085376162299
+Coma,desipramine,1,6481,0.00015429717636167257
+Completed suicide,desipramine,67,18279,0.0036654083921439902
+Compulsive sexual behaviour,desipramine,4,72,0.05555555555555555
+Concussion,desipramine,1,507,0.0019723865877712033
+Condition aggravated,desipramine,44,12103,0.0036354622820788233
+Conductive deafness,desipramine,1,6,0.16666666666666666
+Confusional state,desipramine,11,8039,0.0013683293942032592
+Congestive cardiomyopathy,desipramine,2,114,0.017543859649122806
+Constipation,desipramine,8,7743,0.0010331912695337724
+Contusion,desipramine,4,2928,0.001366120218579235
+Cough,desipramine,10,5339,0.0018730099269526129
+Crohn's disease,desipramine,3,1856,0.0016163793103448276
+Crying,desipramine,1,2514,0.0003977724741447892
+Cyst rupture,desipramine,4,17,0.23529411764705882
+Cytomegalovirus viraemia,desipramine,2,32,0.0625
+Death,desipramine,15,17866,0.0008395835665509907
+Decreased appetite,desipramine,1,4648,0.0002151462994836489
+Decreased immune responsiveness,desipramine,1,137,0.0072992700729927005
+Dehydration,desipramine,4,3088,0.0012953367875647669
+Dementia,desipramine,2,789,0.0025348542458808617
+Depressed level of consciousness,desipramine,1,3196,0.00031289111389236547
+Depressed mood,desipramine,3,2480,0.0012096774193548388
+Depression,desipramine,5,14880,0.0003360215053763441
+Dermatitis atopic,desipramine,2,1208,0.0016556291390728477
+Dermatitis contact,desipramine,3,236,0.012711864406779662
+Device issue,desipramine,1,1272,0.0007861635220125787
+Device malfunction,desipramine,2,898,0.0022271714922048997
+Diabetes mellitus,desipramine,3,1660,0.0018072289156626507
+Diarrhoea,desipramine,9,13927,0.0006462267537876068
+Disability,desipramine,1,462,0.0021645021645021645
+Discomfort,desipramine,1,990,0.00101010101010101
+Disease progression,desipramine,1,1795,0.0005571030640668524
+Disease recurrence,desipramine,6,1389,0.004319654427645789
+Disorientation,desipramine,5,1227,0.004074979625101874
+Dissociation,desipramine,2,431,0.004640371229698376
+Disturbance in attention,desipramine,1,1671,0.0005984440454817474
+Diverticulitis,desipramine,1,736,0.001358695652173913
+Dizziness,desipramine,12,14470,0.00082930200414651
+Drug administration error,desipramine,2,588,0.003401360544217687
+Drug dependence,desipramine,3,2254,0.0013309671694764862
+Drug dispensing error,desipramine,2,503,0.003976143141153081
+Drug dose omission,desipramine,6,4784,0.001254180602006689
+Drug effect decreased,desipramine,7,1363,0.005135730007336757
+Drug effect incomplete,desipramine,1,1805,0.000554016620498615
+Drug hypersensitivity,desipramine,44,13219,0.003328542249791966
+Drug ineffective,desipramine,54,39294,0.001374255611543747
+Drug ineffective for unapproved indication,desipramine,21,2737,0.0076726342710997444
+Drug interaction,desipramine,10,13502,0.0007406310176270182
+Drug intolerance,desipramine,1,2251,0.000444247001332741
+Drug level increased,desipramine,2,472,0.00423728813559322
+Drug tolerance increased,desipramine,2,9,0.2222222222222222
+Drug withdrawal syndrome,desipramine,6,3060,0.00196078431372549
+Dry age-related macular degeneration,desipramine,2,151,0.013245033112582781
+Dry mouth,desipramine,3,1921,0.0015616866215512754
+Dupuytren's contracture operation,desipramine,2,2,1.0
+Dyskinesia,desipramine,4,1759,0.0022740193291642978
+Dyspepsia,desipramine,4,1412,0.0028328611898017
+Dysphagia,desipramine,2,1637,0.0012217470983506415
+Dyspnoea,desipramine,3,7178,0.00041794371691278906
+Dystonia,desipramine,1,798,0.0012531328320802004
+Ear infection,desipramine,1,707,0.0014144271570014145
+Eating disorder,desipramine,1,274,0.0036496350364963502
+Ejaculation failure,desipramine,1,74,0.013513513513513514
+Electrocardiogram QRS complex prolonged,desipramine,1,205,0.004878048780487805
+Electrocardiogram QT prolonged,desipramine,4,2734,0.001463057790782736
+Erythema,desipramine,1,2008,0.00049800796812749
+Exposure during pregnancy,desipramine,1,3152,0.00031725888324873094
+Extrapyramidal disorder,desipramine,1,657,0.0015220700152207
+Eye irritation,desipramine,1,445,0.0022471910112359553
+Eye pain,desipramine,2,942,0.0021231422505307855
+Eye swelling,desipramine,1,388,0.002577319587628866
+Fall,desipramine,3,11531,0.00026016824212991065
+Fatigue,desipramine,11,12154,0.0009050518347869014
+Feeling abnormal,desipramine,3,4445,0.0006749156355455568
+Feeling cold,desipramine,1,228,0.0043859649122807015
+Feeling hot,desipramine,1,654,0.0015290519877675841
+Feeling jittery,desipramine,1,457,0.002188183807439825
+Female sterilisation,desipramine,1,10,0.1
+Flushing,desipramine,1,1098,0.0009107468123861566
+Foetal arrhythmia,desipramine,1,11,0.09090909090909091
+Foetal exposure during pregnancy,desipramine,5,4277,0.0011690437222352116
+Food allergy,desipramine,1,262,0.003816793893129771
+Foot deformity,desipramine,1,217,0.004608294930875576
+Formication,desipramine,1,172,0.005813953488372093
+Full blood count decreased,desipramine,1,490,0.0020408163265306124
+Gait disturbance,desipramine,1,2248,0.00044483985765124553
+Galactorrhoea,desipramine,6,475,0.01263157894736842
+Gallbladder abscess,desipramine,1,3,0.3333333333333333
+Gallbladder disorder,desipramine,3,298,0.010067114093959731
+Gambling disorder,desipramine,2,264,0.007575757575757576
+Gastric disorder,desipramine,1,496,0.0020161290322580645
+Gastroenteritis,desipramine,1,212,0.0047169811320754715
+Gastrointestinal disorder,desipramine,1,925,0.001081081081081081
+Gastrointestinal haemorrhage,desipramine,1,2522,0.0003965107057890563
+Gastrointestinal motility disorder,desipramine,1,60,0.016666666666666666
+Generalised oedema,desipramine,1,128,0.0078125
+Glaucoma,desipramine,1,347,0.002881844380403458
+Goitre,desipramine,1,88,0.011363636363636364
+Haematemesis,desipramine,2,417,0.004796163069544364
+Haematochezia,desipramine,1,511,0.0019569471624266144
+Haemoglobin decreased,desipramine,3,698,0.004297994269340974
+Haemorrhage,desipramine,1,776,0.001288659793814433
+Hair colour changes,desipramine,1,93,0.010752688172043012
+Hallucination,desipramine,1,2187,0.0004572473708276177
+"Hallucination, visual",desipramine,2,821,0.00243605359317905
+Headache,desipramine,19,9335,0.0020353508302088912
+Heart rate increased,desipramine,1,1002,0.000998003992015968
+Heart rate variability increased,desipramine,1,2,0.5
+Hepatic cirrhosis,desipramine,1,291,0.003436426116838488
+Hepatic enzyme abnormal,desipramine,2,89,0.02247191011235955
+Hepatic enzyme increased,desipramine,2,1240,0.0016129032258064516
+Herpes zoster,desipramine,3,1094,0.002742230347349177
+Hospitalisation,desipramine,6,3411,0.001759014951627089
+Hot flush,desipramine,1,868,0.001152073732718894
+Hyperammonaemic encephalopathy,desipramine,2,57,0.03508771929824561
+Hypercalcaemia,desipramine,1,168,0.005952380952380952
+Hyperhidrosis,desipramine,1,2295,0.00043572984749455336
+Hypersensitivity,desipramine,5,3106,0.0016097875080489374
+Hypertension,desipramine,4,3093,0.0012932428063368898
+Hypoaesthesia,desipramine,4,1667,0.0023995200959808036
+Hypotension,desipramine,2,2910,0.0006872852233676976
+Hysterectomy,desipramine,4,272,0.014705882352941176
+Ill-defined disorder,desipramine,2,464,0.004310344827586207
+Immobile,desipramine,2,33,0.06060606060606061
+Immune system disorder,desipramine,1,124,0.008064516129032258
+Immune thrombocytopenia,desipramine,38,455,0.08351648351648351
+Inappropriate schedule of drug administration,desipramine,1,826,0.0012106537530266344
+Inappropriate schedule of product administration,desipramine,1,1683,0.0005941770647653001
+Incorrect drug administration duration,desipramine,1,116,0.008620689655172414
+Infectious mononucleosis,desipramine,1,52,0.019230769230769232
+Influenza,desipramine,1,1753,0.0005704506560182544
+Infusion related reaction,desipramine,1,527,0.0018975332068311196
+Infusion site extravasation,desipramine,2,186,0.010752688172043012
+Injection site haemorrhage,desipramine,2,326,0.006134969325153374
+Injection site pain,desipramine,3,1724,0.0017401392111368909
+Insomnia,desipramine,2,3870,0.0005167958656330749
+Insurance issue,desipramine,1,206,0.0048543689320388345
+Intentional dose omission,desipramine,2,378,0.005291005291005291
+Intentional overdose,desipramine,1,4185,0.00023894862604540023
+Intentional product misuse,desipramine,1,2138,0.0004677268475210477
+Intentional product use issue,desipramine,2,2102,0.0009514747859181732
+Internal haemorrhage,desipramine,1,202,0.0049504950495049506
+Intestinal obstruction,desipramine,2,651,0.0030721966205837174
+Intestinal perforation,desipramine,1,105,0.009523809523809525
+Intracranial pressure increased,desipramine,1,134,0.007462686567164179
+Irritability,desipramine,1,601,0.0016638935108153079
+Irritable bowel syndrome,desipramine,2,237,0.008438818565400843
+Knee arthroplasty,desipramine,1,453,0.002207505518763797
+Laboratory test abnormal,desipramine,1,432,0.0023148148148148147
+Labour induction,desipramine,1,7,0.14285714285714285
+Large intestinal obstruction,desipramine,2,28,0.07142857142857142
+Lethargy,desipramine,1,435,0.0022988505747126436
+Lip swelling,desipramine,2,493,0.004056795131845842
+Long QT syndrome,desipramine,2,203,0.009852216748768473
+Loss of consciousness,desipramine,3,1674,0.0017921146953405018
+Lower respiratory tract infection,desipramine,1,609,0.0016420361247947454
+Maculopathy,desipramine,1,469,0.0021321961620469083
+Malaise,desipramine,2,4500,0.00044444444444444447
+Maternal exposure during pregnancy,desipramine,1,2214,0.00045167118337850043
+Medication residue present,desipramine,1,130,0.007692307692307693
+Memory impairment,desipramine,2,1777,0.0011254924029262803
+Meningitis aseptic,desipramine,2,57,0.03508771929824561
+Menstrual disorder,desipramine,1,97,0.010309278350515464
+Mental disability,desipramine,2,15,0.13333333333333333
+Metamyelocyte count increased,desipramine,1,1,1.0
+Micturition urgency,desipramine,2,170,0.011764705882352941
+Migraine,desipramine,4,2083,0.0019203072491598655
+Mitral valve prolapse,desipramine,2,20,0.1
+Mouth injury,desipramine,1,6,0.16666666666666666
+Moyamoya disease,desipramine,1,2,0.5
+Multiple sclerosis relapse,desipramine,1,1334,0.0007496251874062968
+Muscle spasms,desipramine,1,1744,0.0005733944954128441
+Mydriasis,desipramine,1,270,0.003703703703703704
+Myocardial infarction,desipramine,2,1488,0.0013440860215053765
+Myoclonus,desipramine,1,480,0.0020833333333333333
+Nail growth abnormal,desipramine,1,5,0.2
+Narcotic bowel syndrome,desipramine,1,4,0.25
+Nasopharyngitis,desipramine,2,2101,0.0009519276534983341
+Nausea,desipramine,6,7027,0.0008538494378824534
+Needle issue,desipramine,1,152,0.006578947368421052
+Neovascular age-related macular degeneration,desipramine,2,48,0.041666666666666664
+Nephrolithiasis,desipramine,2,1345,0.001486988847583643
+Neutropenia,desipramine,1,1557,0.0006422607578676942
+Night sweats,desipramine,1,458,0.002183406113537118
+No adverse event,desipramine,4,1892,0.0021141649048625794
+Ocular hyperaemia,desipramine,1,184,0.005434782608695652
+Oedema,desipramine,1,373,0.002680965147453083
+Off label use,desipramine,6,10509,0.0005709391949757351
+Optic neuritis,desipramine,2,80,0.025
+Ovarian cyst,desipramine,2,103,0.019417475728155338
+Overdose,desipramine,6,4348,0.0013799448022079118
+Pain,desipramine,1,4732,0.00021132713440405747
+Pain in extremity,desipramine,4,1731,0.002310803004043905
+Pain of skin,desipramine,1,74,0.013513513513513514
+Palpitations,desipramine,4,846,0.004728132387706856
+Pancreatitis,desipramine,3,824,0.0036407766990291263
+Pancreatitis acute,desipramine,1,638,0.001567398119122257
+Paradoxical drug reaction,desipramine,1,54,0.018518518518518517
+Parkinsonism,desipramine,1,669,0.0014947683109118087
+Peripheral coldness,desipramine,1,60,0.016666666666666666
+Pharyngitis,desipramine,1,94,0.010638297872340425
+Pharyngitis streptococcal,desipramine,1,154,0.006493506493506494
+Pneumonia,desipramine,3,4909,0.0006111224281931147
+Pneumonia bacterial,desipramine,1,79,0.012658227848101266
+Pneumothorax,desipramine,1,97,0.010309278350515464
+Polymorphic light eruption,desipramine,1,1,1.0
+Postural orthostatic tachycardia syndrome,desipramine,2,85,0.023529411764705882
+Product dose omission,desipramine,1,1203,0.0008312551953449709
+Product physical issue,desipramine,1,177,0.005649717514124294
+Product prescribing issue,desipramine,1,120,0.008333333333333333
+Product quality issue,desipramine,1,336,0.002976190476190476
+Product substitution issue,desipramine,1,594,0.0016835016835016834
+Product taste abnormal,desipramine,1,88,0.011363636363636364
+Product use complaint,desipramine,1,97,0.010309278350515464
+Product use in unapproved indication,desipramine,5,3366,0.0014854426619132501
+Product use issue,desipramine,1,1363,0.0007336757153338225
+Pruritus,desipramine,1,3036,0.00032938076416337287
+Psoriasis,desipramine,1,2000,0.0005
+Psoriatic arthropathy,desipramine,1,805,0.0012422360248447205
+Psychotic symptom,desipramine,1,41,0.024390243902439025
+Pulmonary fibrosis,desipramine,1,162,0.006172839506172839
+Pulmonary thrombosis,desipramine,1,171,0.005847953216374269
+Pyrexia,desipramine,2,1580,0.0012658227848101266
+Rash,desipramine,6,3577,0.0016773832820799553
+Renal cancer,desipramine,1,72,0.013888888888888888
+Renal failure,desipramine,1,1170,0.0008547008547008547
+Renal impairment,desipramine,1,615,0.0016260162601626016
+Renal neoplasm,desipramine,1,13,0.07692307692307693
+Renal pain,desipramine,1,70,0.014285714285714285
+Respiratory arrest,desipramine,1,152,0.006578947368421052
+Respiratory disorder,desipramine,2,203,0.009852216748768473
+Retinal dystrophy,desipramine,2,62,0.03225806451612903
+Retinal pigmentation,desipramine,1,103,0.009708737864077669
+Scoliosis,desipramine,1,22,0.045454545454545456
+Seizure,desipramine,3,2931,0.0010235414534288639
+Sepsis,desipramine,1,901,0.0011098779134295228
+Serotonin syndrome,desipramine,1,3465,0.0002886002886002886
+Sinusitis,desipramine,3,1885,0.0015915119363395225
+Skin discolouration,desipramine,1,205,0.004878048780487805
+Skin exfoliation,desipramine,1,282,0.0035460992907801418
+Skin lesion,desipramine,1,146,0.00684931506849315
+Sleep apnoea syndrome,desipramine,5,1070,0.004672897196261682
+Sleep disorder,desipramine,2,770,0.0025974025974025974
+Small intestinal obstruction,desipramine,2,219,0.0091324200913242
+Spinal operation,desipramine,1,326,0.003067484662576687
+Status epilepticus,desipramine,1,243,0.00411522633744856
+Subacute cutaneous lupus erythematosus,desipramine,1,59,0.01694915254237288
+Sudden cardiac death,desipramine,1,123,0.008130081300813009
+Suicidal ideation,desipramine,9,3174,0.002835538752362949
+Supraventricular tachycardia,desipramine,1,129,0.007751937984496124
+Surgery,desipramine,6,1457,0.004118050789293068
+Suspected suicide,desipramine,6,1377,0.004357298474945534
+Swelling face,desipramine,2,525,0.0038095238095238095
+Swollen tongue,desipramine,2,633,0.00315955766192733
+Syncope,desipramine,1,1048,0.0009541984732824427
+Tachycardia,desipramine,1,693,0.001443001443001443
+Therapeutic product effect decreased,desipramine,1,587,0.0017035775127768314
+Therapeutic product effect incomplete,desipramine,7,1193,0.00586756077116513
+Therapeutic reaction time decreased,desipramine,1,75,0.013333333333333334
+Therapeutic response unexpected,desipramine,1,411,0.0024330900243309003
+Therapy cessation,desipramine,1,372,0.002688172043010753
+Therapy interrupted,desipramine,1,665,0.0015037593984962407
+Therapy non-responder,desipramine,17,1063,0.01599247412982126
+Thinking abnormal,desipramine,1,187,0.0053475935828877
+Thirst,desipramine,1,125,0.008
+Throat tightness,desipramine,1,172,0.005813953488372093
+Thrombocytopenic purpura,desipramine,1,22,0.045454545454545456
+Tinnitus,desipramine,3,718,0.004178272980501393
+Toxicity to various agents,desipramine,2,6972,0.00028686173264486515
+Transient ischaemic attack,desipramine,1,367,0.0027247956403269754
+Treatment failure,desipramine,5,1390,0.0035971223021582736
+Tremor,desipramine,2,1680,0.0011904761904761906
+Type 2 diabetes mellitus,desipramine,1,364,0.0027472527472527475
+Unevaluable event,desipramine,2,706,0.0028328611898017
+Upper gastrointestinal haemorrhage,desipramine,1,519,0.0019267822736030828
+Upper respiratory tract infection,desipramine,1,642,0.001557632398753894
+Urinary tract infection,desipramine,2,2282,0.0008764241893076249
+Vertigo,desipramine,2,484,0.004132231404958678
+Vitamin B12 decreased,desipramine,1,29,0.034482758620689655
+Vitamin D decreased,desipramine,1,75,0.013333333333333334
+Weight decreased,desipramine,1,1437,0.0006958942240779402
+Weight increased,desipramine,14,2518,0.005559968228752979
+Withdrawal syndrome,desipramine,5,889,0.00562429696287964
