@@ -22,7 +22,7 @@ DB_NAME = os.environ.get("DB_NAME")
 DB_USER = os.environ.get("DB_USER")
 DB_PSSWD = os.environ.get("DB_PSSWD")
 
-def reac_data(drug, server):
+def reac_data(drug):
    print(f"Starting {drug}")
    
    cursor = connection.cursor()
@@ -38,11 +38,14 @@ def reac_data(drug, server):
       df = pd.DataFrame(data, columns=column_names)
       df["prod_ai"] = drug
       df = df.groupby(["pt", "prod_ai"])["no_reactions"].sum().reset_index()
-      file_path = f"./drugs/{drug}/adr.csv"
+      file_path = f"./drugs/{drug}/adr_real.csv"
       df.to_csv(file_path, index=False)
    cursor.close()
    
    return f"Finish {drug}"
+
+
+
 
 try:
 
@@ -61,8 +64,21 @@ try:
                         password=DB_PSSWD,
                         port=server.local_bind_port
                      )
+         cursor = connection.cursor()
+         query = f"""SELECT pt, count(primaryid) AS no_events_global FROM REAC 
+               GROUP BY pt
+               """
+         cursor.execute(query)
+         data_global = cursor.fetchall()
+         if len(data_global) > 0: 
+            column_names = [desc[0] for desc in cursor.description]
+            df_global = pd.DataFrame(data_global, columns=column_names)
+            file_path = f"./data/adr_global.csv"
+            df_global.to_csv(file_path, index=False)
+            total_reactions_global= df_global["no_events_global"].sum()
+            print(total_reactions_global)
          if __name__ == '__main__':
-            pattern = "./drugs/*/adr.csv"  
+            pattern = "./drugs/*/adr_real.csv"  
             files_to_delete = glob.glob(pattern)
             for file_path in files_to_delete:
                 try:
@@ -74,24 +90,35 @@ try:
             drugs = study["Drug"].to_list()
 
             with futures.ThreadPoolExecutor() as e:
-               f = [e.submit(reac_data, drug, server) for drug in drugs]
+               f = [e.submit(reac_data, drug) for drug in drugs]
                for r in futures.as_completed(f):
                   print(r.result())
             
-            pattern = "./drugs/*/adr.csv"  
+            pattern = "./drugs/*/adr_real.csv"  
             df = dd.read_csv(pattern)
             df['no_reactions'].astype(int)
+            total_reactions_antidep = df["no_reactions"].sum().compute()
 
             # Perform groupby and sum aggregation
             result = df.groupby(['pt'])["no_reactions"].sum().reset_index().compute()
-            print(result.head())
-            result = result.rename(columns={'no_reactions': 'total'})
+            result = result.rename(columns={'no_reactions': 'total_pt'})
+            #New line (to check Proportional Reporting Ratio)
+            df_final = df.merge(result, on="pt", how="inner")
+            result = df.groupby(['prod_ai'])["no_reactions"].sum().reset_index().compute()
+            result = result.rename(columns={'no_reactions': 'total_events_drug'})
+            df_final = df_final.merge(result, on="prod_ai", how="inner")
+            df_final = df_final.merge(df_global, on="pt", how="inner")
+            print(df_final.head())
 
             # Write result to a CSV file
-            result.to_csv("./drugs/adr_summary.csv", index=False) 
-            df_prr = dd.merge(df, result, on='pt', how='inner')
-            df_prr["prr"] = df_prr["no_reactions"] / df_prr["total"]
-            df_prr.to_csv("prr.csv", index=False)
+            df_final.to_csv("./drugs/adr_summary_real.csv", index=False) 
+            df_final["prr_global"] = (df_final["no_reactions"]/df_final["total_events_drug"])/(df_final["no_events_global"]/total_reactions_global)
+            df_final["prr_local"] = (df_final["no_reactions"]/df_final["total_events_drug"])/(df_final["total_pt"]/total_reactions_antidep)
+            #df_prr = dd.merge(df, result, on='pt', how='inner')
+            #df_prr["risk_ratio"] = df_prr["no_reactions"] / df_prr["total_pt"]
+            #df_prr["adr_proportion"] = df_prr["no_reactions"] / df_prr["total_pt"]
+            df_final.to_csv("prr_real.csv", index=False)
+            #df_prr["no_events_global"] = df_prr["no_reactions"] / df_prr["total_pt"]
             connection.close()
 except Exception as error:
     print ("Connection Failed")

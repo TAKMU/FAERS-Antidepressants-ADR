@@ -1,0 +1,1846 @@
+index_pt,cluster,pt
+0,8,Abasia
+1,8,Abdominal abscess
+2,8,Abdominal adhesions
+3,8,Abdominal discomfort
+4,8,Abdominal distension
+5,8,Abdominal hernia
+6,8,Abdominal infection
+7,8,Abdominal injury
+8,8,Abdominal mass
+9,8,Abdominal neoplasm
+10,8,Abdominal operation
+11,8,Abdominal pain
+12,8,Abdominal pain lower
+13,8,Abdominal pain upper
+14,8,Abdominal tenderness
+15,8,Abdominoplasty
+16,8,Abnormal behaviour
+17,8,Abnormal dreams
+18,8,Abnormal faeces
+19,8,Abnormal loss of weight
+20,8,Abnormal sleep-related event
+21,8,Abortion induced
+22,8,Abortion missed
+23,8,Abortion spontaneous
+24,8,Abscess
+25,8,Abscess intestinal
+26,8,Abscess jaw
+27,8,Abscess limb
+28,8,Abulia
+29,8,Accident
+30,8,Accident at work
+31,8,Accidental death
+32,8,Accidental exposure to product
+33,8,Accidental exposure to product by child
+34,8,Accidental overdose
+35,8,Accidental underdose
+36,8,Acidosis
+37,8,Acne
+38,8,Acrochordon
+39,8,Actinic keratosis
+40,8,Actinomycosis
+41,8,Activated partial thromboplastin time prolonged
+42,8,Activities of daily living impaired
+43,8,Acute abdomen
+44,8,Acute coronary syndrome
+45,8,Acute generalised exanthematous pustulosis
+46,8,Acute hepatic failure
+47,8,Acute kidney injury
+48,8,Acute lymphocytic leukaemia recurrent
+49,8,Acute myeloid leukaemia
+50,8,Acute myocardial infarction
+51,8,Acute promyelocytic leukaemia
+52,8,Acute psychosis
+53,8,Acute respiratory distress syndrome
+54,8,Acute respiratory failure
+55,8,Acute sinusitis
+56,8,Adenocarcinoma gastric
+57,8,Adenocarcinoma of colon
+58,8,Adenocarcinoma pancreas
+59,8,Adenoma benign
+60,8,Adjustment disorder with depressed mood
+61,8,Administration site pain
+62,8,Adnexa uteri pain
+63,8,Adrenal disorder
+64,8,Adrenal gland cancer
+65,8,Adrenal insufficiency
+66,8,Adult failure to thrive
+67,8,Adverse drug reaction
+68,8,Adverse event
+69,8,Adverse food reaction
+70,8,Adverse reaction
+71,8,Affective disorder
+72,8,Age-related macular degeneration
+73,8,Ageusia
+74,8,Aggression
+75,8,Agitated depression
+76,8,Agitation
+77,8,Agoraphobia
+78,8,Agranulocytosis
+79,8,Akathisia
+80,8,Akinesia
+81,8,Alanine aminotransferase increased
+82,8,Alcohol abuse
+83,8,Alcohol poisoning
+84,8,Alcohol use
+85,8,Alcohol withdrawal syndrome
+86,8,Alcoholic hangover
+87,8,Alcoholism
+88,8,Allergic cough
+89,8,Allergic reaction to excipient
+90,8,Allergy to arthropod sting
+91,8,Allergy to chemicals
+92,8,Alopecia
+93,8,Alopecia areata
+94,8,Alopecia totalis
+95,8,Altered state of consciousness
+96,8,Altered visual depth perception
+97,8,Amaurosis fugax
+98,8,Amenorrhoea
+99,3,Amino acid level decreased
+100,8,Ammonia abnormal
+101,8,Ammonia increased
+102,8,Amnesia
+103,7,Amputation
+104,8,Amyloidosis
+105,8,Amyotrophic lateral sclerosis
+106,8,Anaemia
+107,8,Anaemia postoperative
+108,8,Anal abscess
+109,8,Anal fistula
+110,8,Anal haemorrhage
+111,8,Anal incontinence
+112,8,Anal pruritus
+113,1,Anal squamous cell carcinoma
+114,8,Anaphylactic reaction
+115,8,Anaphylactic shock
+116,8,Anastomotic ulcer
+117,8,Aneurysm
+118,8,Anger
+119,8,Angina pectoris
+120,8,Angioedema
+121,8,Angiopathy
+122,8,Angioplasty
+123,8,Angle closure glaucoma
+124,8,Angular cheilitis
+125,8,Anhedonia
+126,8,Animal bite
+127,8,Anion gap increased
+128,8,Ankle arthroplasty
+129,8,Ankle fracture
+130,8,Ankylosing spondylitis
+131,8,Anorectal discomfort
+132,8,Anorectal disorder
+133,8,Anorexia nervosa
+134,8,Anorgasmia
+135,8,Anosmia
+136,8,Anosognosia
+137,8,Anterograde amnesia
+138,7,Anti-neutrophil cytoplasmic antibody positive vasculitis
+139,8,Antidepressant drug level above therapeutic
+140,7,Antidepressant drug level below therapeutic
+141,8,Antidepressant drug level increased
+142,8,Antinuclear antibody positive
+143,8,Antiphospholipid syndrome
+144,8,Antipsychotic drug level above therapeutic
+145,8,Antipsychotic drug level below therapeutic
+146,8,Antipsychotic drug level increased
+147,8,Anuria
+148,8,Anxiety
+149,8,Anxiety disorder
+150,8,Aortic aneurysm
+151,8,Aortic dilatation
+152,8,Aortic stenosis
+153,7,Aortic valve incompetence
+154,8,Aortic valve replacement
+155,8,Apathy
+156,8,Aphasia
+157,8,Aphonia
+158,8,Aphthous ulcer
+159,8,Apnoea
+160,4,Apnoea test abnormal
+161,8,Apparent death
+162,8,Appendicectomy
+163,8,Appendicitis
+164,8,Appendicitis perforated
+165,8,Appendix disorder
+166,8,Appetite disorder
+167,8,Application site acne
+168,8,Application site bruise
+169,8,Application site burn
+170,3,Application site discolouration
+171,8,Application site erythema
+172,8,Application site exfoliation
+173,8,Application site haemorrhage
+174,8,Application site infection
+175,8,Application site irritation
+176,8,Application site pain
+177,8,Application site pruritus
+178,8,Application site rash
+179,8,Application site reaction
+180,8,Apraxia
+181,8,Arachnoiditis
+182,8,Arrhythmia
+183,8,Arrhythmia supraventricular
+184,8,Arterial occlusive disease
+185,8,Arterial thrombosis
+186,8,Arteriosclerosis
+187,8,Arteriovenous malformation
+188,8,Arthralgia
+189,8,Arthritis
+190,8,Arthritis bacterial
+191,8,Arthritis infective
+192,8,Arthropathy
+193,8,Arthropod bite
+194,8,Arthroscopy
+195,8,Ascites
+196,7,Asocial behaviour
+197,8,Aspartate aminotransferase decreased
+198,8,Aspartate aminotransferase increased
+199,8,Aspergillus infection
+200,8,Asphyxia
+201,8,Aspiration
+202,8,Asthenia
+203,8,Asthenopia
+204,7,Asthma
+205,8,Ataxia
+206,8,Atelectasis
+207,8,Atrial fibrillation
+208,8,Atrial flutter
+209,8,Atrial septal defect repair
+210,8,Atrial tachycardia
+211,8,Atrial thrombosis
+212,8,Atrioventricular block
+213,8,Atrioventricular block complete
+214,8,Atrioventricular block first degree
+215,8,Atrophic vulvovaginitis
+216,8,Atypical femur fracture
+217,8,Atypical pneumonia
+218,8,Auditory disorder
+219,8,Aura
+220,8,Autoimmune disorder
+221,8,Autoimmune haemolytic anaemia
+222,8,Autoimmune hepatitis
+223,8,Autoimmune thyroiditis
+224,8,Autonomic nervous system imbalance
+225,8,Axillary mass
+226,8,B-cell lymphoma
+227,8,Back disorder
+228,8,Back injury
+229,8,Back pain
+230,8,Bacteraemia
+231,8,Bacterial infection
+232,8,Bacterial sepsis
+233,8,Bacterial test positive
+234,8,Bacterial vaginosis
+235,8,Balance disorder
+236,7,Balanoposthitis
+237,8,Bankruptcy
+238,8,Barrett's oesophagus
+239,8,Basal cell carcinoma
+240,8,Basedow's disease
+241,8,Bedridden
+242,8,Behaviour disorder
+243,8,Behcet's syndrome
+244,8,Benign breast neoplasm
+245,8,Benign intracranial hypertension
+246,8,Benign neoplasm
+247,8,Benign prostatic hyperplasia
+248,8,Beta haemolytic streptococcal infection
+249,8,Bicytopenia
+250,8,Bile duct obstruction
+251,8,Biliary colic
+252,8,Biliary dyskinesia
+253,7,Biliary tract disorder
+254,8,Binge eating
+255,1,Biopsy bone marrow abnormal
+256,8,Bipolar I disorder
+257,8,Bipolar II disorder
+258,8,Bipolar disorder
+259,8,Bladder cancer
+260,8,Bladder catheterisation
+261,8,Bladder dilatation
+262,8,Bladder discomfort
+263,8,Bladder disorder
+264,8,Bladder pain
+265,8,Bladder prolapse
+266,8,Blepharitis
+267,8,Blepharospasm
+268,8,Blindness
+269,8,Blindness transient
+270,8,Blindness unilateral
+271,8,Blister
+272,8,Blister infected
+273,8,Blister rupture
+274,8,Blood albumin decreased
+275,8,Blood alkaline phosphatase increased
+276,8,Blood blister
+277,8,Blood calcium abnormal
+278,8,Blood calcium increased
+279,8,Blood chloride decreased
+280,8,Blood cholesterol abnormal
+281,8,Blood cholesterol decreased
+282,5,Blood cholesterol increased
+283,8,Blood count abnormal
+284,5,Blood creatine increased
+285,8,Blood creatine phosphokinase increased
+286,8,Blood creatinine abnormal
+287,8,Blood creatinine decreased
+288,8,Blood creatinine increased
+289,8,Blood disorder
+290,8,Blood electrolytes decreased
+291,8,Blood glucose abnormal
+292,8,Blood glucose decreased
+293,8,Blood glucose fluctuation
+294,8,Blood glucose increased
+295,7,Blood immunoglobulin G decreased
+296,1,Blood immunoglobulin G increased
+297,8,Blood iron abnormal
+298,8,Blood iron decreased
+299,8,Blood iron increased
+300,8,Blood lactate dehydrogenase increased
+301,8,Blood loss anaemia
+302,8,Blood magnesium decreased
+303,8,Blood phosphorus decreased
+304,8,Blood potassium abnormal
+305,8,Blood potassium decreased
+306,8,Blood pressure abnormal
+307,8,Blood pressure decreased
+308,8,Blood pressure diastolic abnormal
+309,8,Blood pressure diastolic increased
+310,8,Blood pressure fluctuation
+311,8,Blood pressure inadequately controlled
+312,8,Blood pressure increased
+313,8,Blood pressure systolic increased
+314,8,Blood sodium decreased
+315,8,Blood sodium increased
+316,7,Blood test abnormal
+317,8,Blood testosterone abnormal
+318,8,Blood testosterone increased
+319,8,Blood thyroid stimulating hormone decreased
+320,8,Blood thyroid stimulating hormone increased
+321,8,Blood triglycerides increased
+322,8,Blood urea increased
+323,8,Blood urea nitrogen/creatinine ratio increased
+324,8,Blood uric acid increased
+325,8,Blood urine present
+326,8,Body height decreased
+327,8,Body mass index increased
+328,8,Body temperature abnormal
+329,8,Body temperature decreased
+330,8,Body temperature increased
+331,8,Bone contusion
+332,8,Bone deformity
+333,7,Bone density abnormal
+334,8,Bone density decreased
+335,8,Bone disorder
+336,8,Bone lesion excision
+337,8,Bone loss
+338,8,Bone marrow transplant
+339,8,Bone neoplasm
+340,8,Bone pain
+341,8,Bowel movement irregularity
+342,8,Bowen's disease
+343,8,Brachial plexus injury
+344,8,Bradycardia
+345,8,Bradykinesia
+346,8,Bradyphrenia
+347,8,Bradypnoea
+348,8,Brain death
+349,8,Brain fog
+350,8,Brain injury
+351,8,Brain natriuretic peptide increased
+352,8,Brain neoplasm
+353,8,Brain neoplasm malignant
+354,8,Brain oedema
+355,8,Brain operation
+356,8,Brain stem haemorrhage
+357,8,Brain stem stroke
+358,8,Breast abscess
+359,8,Breast cancer
+360,8,Breast cancer metastatic
+361,8,Breast cancer recurrent
+362,11,Breast cyst
+363,8,Breast discharge
+364,8,Breast disorder female
+365,8,Breast enlargement
+366,8,Breast mass
+367,8,Breast neoplasm
+368,8,Breast pain
+369,8,Breast swelling
+370,8,Breast tenderness
+371,8,Bronchial disorder
+372,8,Bronchitis
+373,8,Bronchitis bacterial
+374,8,Bronchopulmonary aspergillosis
+375,8,Bronchoscopy
+376,8,Bronchospasm
+377,8,Brow ptosis
+378,7,Brugada syndrome
+379,8,Bundle branch block left
+380,8,Bundle branch block right
+381,8,Burning sensation
+382,8,Bursitis
+383,8,C-reactive protein increased
+384,7,CD4 lymphocytes decreased
+385,8,COVID-19
+386,8,COVID-19 immunisation
+387,8,CYP2C19 polymorphism
+388,8,CYP3A4 polymorphism
+389,8,Caesarean section
+390,8,Calculus bladder
+391,8,Campylobacter gastroenteritis
+392,8,Cancer pain
+393,8,Cancer surgery
+394,8,Candida infection
+395,8,Carbohydrate antigen 125 increased
+396,8,Carbon dioxide increased
+397,8,Cardiac ablation
+398,7,Cardiac aneurysm
+399,8,Cardiac arrest
+400,8,Cardiac discomfort
+401,8,Cardiac disorder
+402,8,Cardiac dysfunction
+403,8,Cardiac failure
+404,8,Cardiac failure chronic
+405,8,Cardiac failure congestive
+406,8,Cardiac flutter
+407,8,Cardiac operation
+408,8,Cardiac pacemaker insertion
+409,8,Cardiac stress test abnormal
+410,8,Cardiac valve disease
+411,8,Cardio-respiratory arrest
+412,8,Cardiogenic shock
+413,8,Cardiomegaly
+414,8,Cardiomyopathy
+415,8,Cardiotoxicity
+416,8,Cardiovascular disorder
+417,8,Cardiovascular insufficiency
+418,7,Cardiovascular symptom
+419,8,Carotid arteriosclerosis
+420,8,Carotid artery occlusion
+421,8,Carpal tunnel syndrome
+422,8,Cartilage atrophy
+423,7,Cartilage injury
+424,8,Cataract
+425,8,Cataract nuclear
+426,8,Cataract operation
+427,8,Catatonia
+428,8,Catheter placement
+429,8,Catheter site infection
+430,8,Catheterisation cardiac
+431,8,Cellulitis
+432,8,Cellulitis staphylococcal
+433,8,Central nervous system lesion
+434,8,Central nervous system lymphoma
+435,5,Central pain syndrome
+436,7,Central venous catheterisation
+437,8,Cerebellar haemorrhage
+438,8,Cerebral artery occlusion
+439,8,Cerebral atrophy
+440,8,Cerebral disorder
+441,8,Cerebral haemorrhage
+442,8,Cerebral infarction
+443,8,Cerebrospinal fluid leakage
+444,8,Cerebrovascular accident
+445,8,Cervical dysplasia
+446,8,Cervical radiculopathy
+447,8,Cervical vertebral fracture
+448,8,Cervix carcinoma
+449,8,Change of bowel habit
+450,8,Chapped lips
+451,8,Cheilitis
+452,7,Chemical poisoning
+453,8,Chemotherapy
+454,8,Chest discomfort
+455,8,Chest injury
+456,8,Chest pain
+457,8,Chills
+458,8,Choking
+459,8,Choking sensation
+460,2,Cholangitis
+461,8,Cholangitis sclerosing
+462,8,Cholecystectomy
+463,8,Cholecystitis
+464,8,Cholecystitis acute
+465,8,Cholecystitis infective
+466,8,Cholelithiasis
+467,8,Cholestasis
+468,8,Chondropathy
+469,8,Chorea
+470,8,Chromaturia
+471,8,Chronic gastritis
+472,8,Chronic kidney disease
+473,8,Chronic lymphocytic leukaemia
+474,8,Chronic myeloid leukaemia
+475,8,Chronic obstructive pulmonary disease
+476,8,Chronic sinusitis
+477,8,Circadian rhythm sleep disorder
+478,8,Circulatory collapse
+479,8,Circumstance or information capable of leading to medication error
+480,8,Claustrophobia
+481,8,Clavicle fracture
+482,8,Clonic convulsion
+483,8,Clonus
+484,8,Clostridium difficile colitis
+485,8,Clostridium difficile infection
+486,8,Clostridium test positive
+487,8,Clumsiness
+488,8,Cluster headache
+489,8,Coagulopathy
+490,8,Coating in mouth
+491,8,Coeliac disease
+492,8,Cognitive disorder
+493,8,Cold sweat
+494,8,Colectomy
+495,8,Colitis
+496,8,Colitis ischaemic
+497,8,Colitis ulcerative
+498,8,Colon cancer
+499,8,Colon cancer stage III
+500,8,Colon operation
+501,8,Colonic abscess
+502,8,Colonoscopy
+503,8,Colorectal cancer
+504,8,Colorectal cancer metastatic
+505,8,Colostomy
+506,8,Coma
+507,8,Communication disorder
+508,8,Completed suicide
+509,8,Complex partial seizures
+510,8,Complication associated with device
+511,8,Complication of device insertion
+512,8,Complication of device removal
+513,8,Compression fracture
+514,8,Compulsions
+515,8,Compulsive hoarding
+516,8,Compulsive sexual behaviour
+517,8,Compulsive shopping
+518,8,Computerised tomogram abnormal
+519,8,Concomitant disease aggravated
+520,8,Concussion
+521,5,Condition aggravated
+522,8,Confusional state
+523,8,Conjunctival haemorrhage
+524,8,Conjunctival hyperaemia
+525,8,Conjunctivitis
+526,3,Connective tissue disorder
+527,8,Constipation
+528,8,Contraindication to medical treatment
+529,8,Contrast media reaction
+530,8,Contusion
+531,8,Convulsion
+532,8,Coordination abnormal
+533,7,Corneal abrasion
+534,8,Coronary arterial stent insertion
+535,8,Coronary artery bypass
+536,8,Coronary artery disease
+537,8,Coronary artery occlusion
+538,8,Coronary artery thrombosis
+539,8,Coronavirus infection
+540,8,Coronavirus test positive
+541,3,Costochondritis
+542,8,Cough
+543,8,Craniocerebral injury
+544,8,Crohn's disease
+545,8,Cushing's syndrome
+546,8,Cutaneous lupus erythematosus
+547,8,Cutaneous vasculitis
+548,8,Cyclic vomiting syndrome
+549,8,Cyst
+550,8,Cystic fibrosis
+551,8,Cystic fibrosis respiratory infection suppression
+552,7,Cystitis noninfective
+553,8,Cytokine release syndrome
+554,8,Cytomegalovirus infection
+555,8,Cytopenia
+556,8,Dandruff
+557,8,Dark circles under eyes
+558,8,Daydreaming
+559,8,Deafness
+560,8,Deafness bilateral
+561,8,Deafness unilateral
+562,8,Death
+563,8,Decreased activity
+564,8,Decreased appetite
+565,8,Decreased immune responsiveness
+566,8,Decreased interest
+567,8,Decubitus ulcer
+568,8,Deep vein thrombosis
+569,8,Defaecation urgency
+570,9,Deformity
+571,5,Dehydration
+572,8,Delirium
+573,8,Delirium tremens
+574,8,Delusion
+575,8,"Delusional disorder, unspecified type"
+576,8,Dementia
+577,8,Dementia Alzheimer's type
+578,8,Demyelination
+579,8,Dengue fever
+580,8,Dental care
+581,8,Dental caries
+582,8,Dental implantation
+583,8,Dental operation
+584,8,Dependence
+585,8,Depersonalisation/derealisation disorder
+586,8,Depressed level of consciousness
+587,8,Depressed mood
+588,8,Depression
+589,8,Depression suicidal
+590,8,Depressive symptom
+591,7,Dermal cyst
+592,8,Dermatitis
+593,8,Dermatitis acneiform
+594,8,Dermatitis allergic
+595,8,Dermatitis atopic
+596,8,Dermatitis bullous
+597,8,Dermatitis contact
+598,8,Dermatitis infected
+599,8,Developmental delay
+600,8,Developmental hip dysplasia
+601,8,Device alarm issue
+602,8,Device breakage
+603,8,Device connection issue
+604,8,Device defective
+605,8,Device delivery system issue
+606,8,Device difficult to use
+607,8,Device failure
+608,8,Device infusion issue
+609,8,Device issue
+610,8,Device leakage
+611,8,Device malfunction
+612,8,Device occlusion
+613,8,Device related infection
+614,7,Device related sepsis
+615,8,Device use error
+616,8,Device use issue
+617,8,Diabetes mellitus
+618,8,Diabetes mellitus inadequate control
+619,8,Diabetic complication
+620,8,Diabetic foot
+621,8,Diabetic ketoacidosis
+622,8,Dialysis
+623,8,Diarrhoea
+624,8,Diarrhoea haemorrhagic
+625,8,Diffuse alopecia
+626,8,Diffuse large B-cell lymphoma
+627,8,Diplegia
+628,8,Diplopia
+629,8,Disability
+630,8,Discharge
+631,8,Discomfort
+632,8,Disease complication
+633,8,Disease progression
+634,8,Disease recurrence
+635,8,Disorganised speech
+636,8,Disorientation
+637,8,Disseminated intravascular coagulation
+638,8,Dissociation
+639,5,Dissociative disorder
+640,8,Distributive shock
+641,8,Disturbance in attention
+642,8,Disturbance in social behaviour
+643,8,Diverticular perforation
+644,8,Diverticulitis
+645,8,Diverticulum
+646,8,Dizziness
+647,8,Dizziness exertional
+648,8,Dizziness postural
+649,8,Drooling
+650,8,Drug abuse
+651,8,Drug administered to patient of inappropriate age
+652,8,Drug administration error
+653,8,Drug delivery system malfunction
+654,8,Drug dependence
+655,8,Drug dispensing error
+656,8,Drug diversion
+657,8,Drug dose omission
+658,8,Drug dose omission by device
+659,8,Drug dose titration not performed
+660,8,Drug effect decreased
+661,7,Drug effect delayed
+662,8,Drug effect incomplete
+663,8,Drug effect increased
+664,8,Drug effect less than expected
+665,8,Drug effect variable
+666,8,Drug effective for unapproved indication
+667,8,Drug eruption
+668,8,Drug hypersensitivity
+669,8,Drug ineffective
+670,8,Drug ineffective for unapproved indication
+671,8,Drug interaction
+672,8,Drug intolerance
+673,8,Drug level decreased
+674,8,Drug level increased
+675,8,Drug monitoring procedure not performed
+676,8,Drug prescribing error
+677,8,Drug reaction with eosinophilia and systemic symptoms
+678,8,Drug resistance
+679,8,Drug screen negative
+680,8,Drug screen positive
+681,8,Drug tolerance
+682,5,Drug use disorder
+683,8,Drug withdrawal syndrome neonatal
+684,8,Drug-genetic interaction
+685,8,Drug-induced liver injury
+686,8,Dry eye
+687,8,Dry mouth
+688,8,Dry skin
+689,8,Dry throat
+690,8,Duodenal ulcer
+691,8,Duodenal ulcer haemorrhage
+692,8,Duodenitis
+693,8,Dysaesthesia
+694,8,Dysarthria
+695,8,Dysgeusia
+696,8,Dyskinesia
+697,8,Dyslipidaemia
+698,8,Dysmenorrhoea
+699,8,Dyspareunia
+700,8,Dyspepsia
+701,8,Dysphagia
+702,8,Dysphonia
+703,8,Dysphoria
+704,8,Dyspnoea
+705,8,Dysstasia
+706,8,Dystonia
+707,8,Dysuria
+708,8,Ear discomfort
+709,8,Ear disorder
+710,8,Ear infection
+711,8,Ear infection fungal
+712,8,Ear pain
+713,8,Ear swelling
+714,8,Eating disorder
+715,8,Ecchymosis
+716,8,Eczema
+717,8,Ehlers-Danlos syndrome
+718,8,Ejection fraction decreased
+719,8,Elbow operation
+720,8,Electrocardiogram PR prolongation
+721,8,Electrocardiogram QT prolonged
+722,8,Electrocardiogram T wave inversion
+723,8,Electrocardiogram abnormal
+724,7,Electroencephalogram abnormal
+725,8,Electrolyte imbalance
+726,8,Embolic stroke
+727,8,Embolism
+728,8,Emergency care
+729,8,Emotional disorder
+730,8,Emotional distress
+731,8,Emotional poverty
+732,8,Emphysema
+733,8,Encephalitis
+734,8,Encephalitis autoimmune
+735,8,Encephalopathy
+736,8,End stage renal disease
+737,8,Endocarditis
+738,8,Endodontic procedure
+739,8,Endometrial adenocarcinoma
+740,8,Endometrial cancer
+741,8,Endometrial hyperplasia
+742,8,Endometriosis
+743,8,Endotracheal intubation
+744,7,Enteritis infectious
+745,8,Enterocolitis
+746,8,Enuresis
+747,8,Enzyme abnormality
+748,8,Eosinophil count increased
+749,8,Eosinophilia
+750,8,Eosinophilic pneumonia
+751,8,Epicondylitis
+752,8,Epigastric discomfort
+753,8,Epilepsy
+754,8,Epistaxis
+755,8,Erectile dysfunction
+756,8,Eructation
+757,8,Erysipelas
+758,8,Erythema
+759,8,Erythema of eyelid
+760,8,Escherichia bacteraemia
+761,8,Escherichia infection
+762,8,Escherichia sepsis
+763,8,Escherichia urinary tract infection
+764,8,Essential hypertension
+765,7,Essential tremor
+766,8,Euglycaemic diabetic ketoacidosis
+767,8,Euphoric mood
+768,8,Excessive granulation tissue
+769,8,Exercise tolerance decreased
+770,3,Exostosis
+771,8,Expired product administered
+772,8,Exposure during breast feeding
+773,8,Exposure during pregnancy
+774,7,Exposure to SARS-CoV-2
+775,8,Exposure to toxic agent
+776,8,Exposure via ingestion
+777,8,Exposure via skin contact
+778,8,Extra dose administered
+779,8,Extradural abscess
+780,8,Extrapyramidal disorder
+781,8,Extrasystoles
+782,8,Extravasation
+783,8,Eye contusion
+784,8,Eye discharge
+785,8,Eye disorder
+786,8,Eye haemorrhage
+787,8,Eye infection
+788,8,Eye inflammation
+789,8,Eye irritation
+790,8,Eye operation
+791,8,Eye pain
+792,5,Eye pruritus
+793,8,Eye swelling
+794,8,Eye ulcer
+795,8,Eyelid disorder
+796,8,Eyelid oedema
+797,8,Eyelid pain
+798,8,Eyelid ptosis
+799,8,Face injury
+800,8,Face oedema
+801,8,Facial bones fracture
+802,8,Facial nerve disorder
+803,8,Facial pain
+804,8,Facial paresis
+805,8,Facial spasm
+806,8,Faecal incontinence
+807,8,Faecaloma
+808,8,Faeces discoloured
+809,8,Faeces soft
+810,8,Failure to thrive
+811,8,Fall
+812,5,Fatigue
+813,8,Fear
+814,8,Fear of injection
+815,8,Febrile neutropenia
+816,8,Feeding disorder
+817,8,Feeling abnormal
+818,8,Feeling cold
+819,8,Feeling drunk
+820,8,Feeling hot
+821,8,Feeling jittery
+822,8,Feeling of despair
+823,8,Femoral neck fracture
+824,8,Femur fracture
+825,8,Fibromyalgia
+826,8,Fine motor skill dysfunction
+827,8,Fistula
+828,8,Flank pain
+829,8,Flatulence
+830,8,Fluid overload
+831,8,Fluid retention
+832,8,Flushing
+833,8,Foetal exposure during pregnancy
+834,8,Food craving
+835,8,Food intolerance
+836,8,Food poisoning
+837,8,Foot amputation
+838,8,Foot deformity
+839,8,Foot fracture
+840,8,Foot operation
+841,8,Foreign body
+842,8,Foreign body aspiration
+843,5,Foreign body in respiratory tract
+844,8,Foreign body in throat
+845,8,Formication
+846,8,Fournier's gangrene
+847,8,Fracture
+848,8,Freezing phenomenon
+849,8,Frequent bowel movements
+850,5,Full blood count decreased
+851,8,Full blood count increased
+852,8,Functional gastrointestinal disorder
+853,8,Fungal infection
+854,8,Fungal skin infection
+855,8,Furuncle
+856,8,Gait disturbance
+857,8,Gait inability
+858,8,Galactorrhoea
+859,8,Gallbladder disorder
+860,8,Gallbladder operation
+861,8,Gambling
+862,8,Gastrectomy
+863,8,Gastric bypass
+864,8,Gastric cancer
+865,8,Gastric disorder
+866,8,Gastric haemorrhage
+867,8,Gastric infection
+868,8,Gastric perforation
+869,8,Gastric polyps
+870,8,Gastric ulcer
+871,8,Gastric ulcer haemorrhage
+872,8,Gastritis
+873,8,Gastritis erosive
+874,8,Gastroenteritis
+875,8,Gastroenteritis viral
+876,8,Gastrointestinal disorder
+877,8,Gastrointestinal haemorrhage
+878,8,Gastrointestinal infection
+879,8,Gastrointestinal motility disorder
+880,8,Gastrointestinal pain
+881,8,Gastrointestinal perforation
+882,8,Gastrointestinal procedural complication
+883,7,Gastrointestinal stoma complication
+884,8,Gastrointestinal stromal tumour
+885,8,Gastrooesophageal reflux disease
+886,8,Gastrostomy
+887,8,General physical health deterioration
+888,8,General symptom
+889,8,Generalised anxiety disorder
+890,8,Generalised erythema
+891,8,Generalised oedema
+892,8,Generalised tonic-clonic seizure
+893,8,Genital haemorrhage
+894,8,Genital herpes
+895,8,Genital infection fungal
+896,8,Gestational diabetes
+897,8,Gestational hypertension
+898,8,Gingival bleeding
+899,8,Gingival discomfort
+900,8,Gingival disorder
+901,7,Gingival recession
+902,8,Gingival swelling
+903,8,Gingivitis
+904,8,Glaucoma
+905,8,Glioma
+906,8,Glomerular filtration rate decreased
+907,8,Glossitis
+908,8,Glossodynia
+909,8,Glucose tolerance impaired
+910,8,Gluten sensitivity
+911,8,Glycosylated haemoglobin increased
+912,8,Goitre
+913,6,Granulomatosis with polyangiitis
+914,8,Grip strength decreased
+915,8,Groin pain
+916,8,Guillain-Barre syndrome
+917,8,Gun shot wound
+918,8,Gynaecomastia
+919,8,Haemangioma
+920,8,Haemarthrosis
+921,8,Haematemesis
+922,8,Haematochezia
+923,8,Haematocrit decreased
+924,8,Haematoma
+925,8,Haematuria
+926,7,Haemochromatosis
+927,8,Haemoglobin abnormal
+928,8,Haemoglobin decreased
+929,8,Haemolytic anaemia
+930,8,Haemophagocytic lymphohistiocytosis
+931,8,Haemoptysis
+932,8,Haemorrhage
+933,8,Haemorrhage intracranial
+934,8,Haemorrhage urinary tract
+935,8,Haemorrhagic anaemia
+936,8,Haemorrhagic diathesis
+937,8,Haemorrhagic stroke
+938,8,Haemorrhoidal haemorrhage
+939,8,Haemorrhoids
+940,8,Hair colour changes
+941,8,Hair texture abnormal
+942,8,Hallucination
+943,8,"Hallucination, auditory"
+944,7,"Hallucination, olfactory"
+945,8,"Hallucination, tactile"
+946,8,"Hallucination, visual"
+947,8,Hand fracture
+948,8,Hangover
+949,8,Head discomfort
+950,8,Head injury
+951,8,Headache
+952,8,Heart rate decreased
+953,8,Heart rate increased
+954,8,Heart rate irregular
+955,8,Helicobacter infection
+956,8,Hemiparesis
+957,8,Hemiplegia
+958,8,Hepatic cancer
+959,8,Hepatic cirrhosis
+960,8,Hepatic cyst
+961,8,Hepatic cytolysis
+962,8,Hepatic enzyme abnormal
+963,8,Hepatic enzyme increased
+964,8,Hepatic failure
+965,8,Hepatic steatosis
+966,8,Hepatitis
+967,8,Hepatitis C
+968,8,Hepatitis acute
+969,8,Hepatocellular carcinoma
+970,8,Hepatocellular injury
+971,8,Hepatomegaly
+972,8,Hepatotoxicity
+973,8,Hereditary angioedema
+974,8,Hernia
+975,8,Herpes simplex
+976,8,Herpes virus infection
+977,8,Herpes zoster
+978,7,Herpes zoster disseminated
+979,8,Hiatus hernia
+980,8,Hidradenitis
+981,8,Hip arthroplasty
+982,8,Hip fracture
+983,8,Hip surgery
+984,8,Histoplasmosis
+985,8,Homicidal ideation
+986,8,Hormone level abnormal
+987,8,Hospice care
+988,8,Hospitalisation
+989,8,Hot flush
+990,8,Humerus fracture
+991,8,Hydronephrosis
+992,8,Hyperacusis
+993,8,Hyperaesthesia
+994,8,Hyperammonaemia
+995,8,Hypercalcaemia
+996,8,Hyperemesis gravidarum
+997,8,Hyperglycaemia
+998,8,Hyperhidrosis
+999,8,Hyperkalaemia
+1000,8,Hyperkinesia
+1001,8,Hyperlactacidaemia
+1002,8,Hypernatraemia
+1003,8,Hyperparathyroidism secondary
+1004,8,Hyperphagia
+1005,8,Hyperprolactinaemia
+1006,8,Hyperreflexia
+1007,8,Hypersensitivity
+1008,8,Hypersensitivity vasculitis
+1009,8,Hypersomnia
+1010,8,Hypertension
+1011,8,Hypertensive crisis
+1012,8,Hypertensive heart disease
+1013,8,Hyperthermia
+1014,8,Hyperthyroidism
+1015,8,Hypertonia
+1016,7,Hypertonic bladder
+1017,8,Hypertransaminasaemia
+1018,8,Hypoaesthesia
+1019,8,Hypoaesthesia oral
+1020,8,Hypocalcaemia
+1021,8,Hypoglycaemia
+1022,8,Hypokalaemia
+1023,8,Hypomagnesaemia
+1024,8,Hypomania
+1025,8,Hyponatraemia
+1026,8,Hypophagia
+1027,8,Hypophosphataemia
+1028,8,Hypophysitis
+1029,8,Hypotension
+1030,7,Hypothermia
+1031,8,Hypothyroidism
+1032,8,Hypotonia
+1033,8,Hypoventilation
+1034,8,Hypoxia
+1035,8,Hysterectomy
+1036,8,Ileus
+1037,8,Ileus paralytic
+1038,8,Ill-defined disorder
+1039,8,Illness
+1040,8,Illusion
+1041,8,Immobile
+1042,8,Immune effector cell-associated neurotoxicity syndrome
+1043,8,Immune reconstitution inflammatory syndrome
+1044,8,Immune system disorder
+1045,8,Immunodeficiency
+1046,8,Immunosuppression
+1047,8,Impaired driving ability
+1048,8,Impaired gastric emptying
+1049,8,Impaired healing
+1050,8,Impaired quality of life
+1051,8,Impaired work ability
+1052,8,Implant site bruising
+1053,9,Implant site extravasation
+1054,8,Impulsive behaviour
+1055,8,Inadequate analgesia
+1056,8,Inappropriate antidiuretic hormone secretion
+1057,8,Inappropriate schedule of drug administration
+1058,8,Inappropriate schedule of product administration
+1059,8,Incisional hernia
+1060,8,Incoherent
+1061,8,Incorrect dosage administered
+1062,8,Incorrect dose administered
+1063,8,Incorrect dose administered by device
+1064,8,Incorrect drug administration duration
+1065,8,Incorrect product administration duration
+1066,8,Incorrect product storage
+1067,8,Incorrect route of drug administration
+1068,8,Increased appetite
+1069,8,Infected skin ulcer
+1070,8,Infection
+1071,8,Infectious mononucleosis
+1072,8,Infective exacerbation of chronic obstructive airways disease
+1073,8,Infective pulmonary exacerbation of cystic fibrosis
+1074,8,Inflammation
+1075,8,Inflammatory bowel disease
+1076,8,Influenza
+1077,8,Influenza like illness
+1078,8,Infusion related reaction
+1079,8,Infusion site bruising
+1080,8,Infusion site erythema
+1081,8,Infusion site extravasation
+1082,8,Infusion site haemorrhage
+1083,8,Infusion site infection
+1084,8,Infusion site mass
+1085,8,Infusion site pain
+1086,8,Infusion site rash
+1087,8,Infusion site swelling
+1088,5,Ingrowing nail
+1089,8,Inguinal hernia
+1090,8,Inhibitory drug interaction
+1091,8,Initial insomnia
+1092,8,Injection site abscess
+1093,8,Injection site bruising
+1094,8,Injection site cellulitis
+1095,7,Injection site discharge
+1096,8,Injection site discolouration
+1097,8,Injection site discomfort
+1098,8,Injection site erythema
+1099,8,Injection site extravasation
+1100,8,Injection site haemorrhage
+1101,8,Injection site induration
+1102,8,Injection site infection
+1103,8,Injection site irritation
+1104,8,Injection site mass
+1105,8,Injection site necrosis
+1106,8,Injection site nodule
+1107,8,Injection site pain
+1108,8,Injection site pruritus
+1109,8,Injection site rash
+1110,8,Injection site reaction
+1111,8,Injection site swelling
+1112,8,Injection site urticaria
+1113,8,Injury
+1114,8,Insomnia
+1115,7,Instillation site pain
+1116,8,Insurance issue
+1117,8,Intentional dose omission
+1118,8,Intentional overdose
+1119,8,Intentional product misuse
+1120,8,Intentional product use issue
+1121,8,Intentional self-injury
+1122,8,Intentional underdose
+1123,7,Intercepted drug dispensing error
+1124,8,Intercepted product administration error
+1125,8,Intercepted product dispensing error
+1126,8,Intermenstrual bleeding
+1127,8,Internal haemorrhage
+1128,8,International normalised ratio decreased
+1129,8,International normalised ratio increased
+1130,8,Interstitial lung disease
+1131,8,Intervertebral disc degeneration
+1132,7,Intervertebral disc disorder
+1133,8,Intervertebral disc operation
+1134,8,Intervertebral disc protrusion
+1135,8,Intestinal obstruction
+1136,8,Intestinal operation
+1137,8,Intestinal perforation
+1138,8,Intestinal resection
+1139,8,Intra-abdominal fluid collection
+1140,8,Intracranial aneurysm
+1141,8,Intracranial pressure increased
+1142,8,Intraductal proliferative breast lesion
+1143,8,Invasive ductal breast carcinoma
+1144,8,Iron deficiency
+1145,8,Iron deficiency anaemia
+1146,8,Irritability
+1147,8,Irritable bowel syndrome
+1148,8,Ischaemia
+1149,8,Ischaemic stroke
+1150,8,Jaundice
+1151,8,Jaundice cholestatic
+1152,8,Jaw disorder
+1153,8,Joint dislocation
+1154,8,Joint injury
+1155,8,Joint range of motion decreased
+1156,8,Joint stiffness
+1157,8,Joint swelling
+1158,8,Ketoacidosis
+1159,8,Kidney infection
+1160,8,Knee arthroplasty
+1161,8,Knee operation
+1162,8,Labelled drug-drug interaction medication error
+1163,8,Laboratory test abnormal
+1164,8,Laceration
+1165,8,Lacrimation increased
+1166,8,Lactic acidosis
+1167,8,Large intestinal haemorrhage
+1168,8,Large intestinal obstruction
+1169,8,Large intestine perforation
+1170,8,Large intestine polyp
+1171,8,Laryngeal oedema
+1172,8,Laryngitis
+1173,8,Laryngospasm
+1174,8,Leg amputation
+1175,8,Lethargy
+1176,8,Leukaemia
+1177,8,Leukocytosis
+1178,8,Leukopenia
+1179,8,Libido increased
+1180,8,Ligament rupture
+1181,8,Ligament sprain
+1182,8,Light chain analysis increased
+1183,8,Limb discomfort
+1184,8,Limb injury
+1185,8,Limb mass
+1186,8,Limb operation
+1187,8,Lip blister
+1188,8,Lip dry
+1189,8,Lip swelling
+1190,8,Lipase increased
+1191,8,Lipodystrophy acquired
+1192,8,Live birth
+1193,8,Liver disorder
+1194,8,Liver function test abnormal
+1195,8,Liver function test increased
+1196,8,Liver injury
+1197,8,Living in residential institution
+1198,8,Local swelling
+1199,8,Localised infection
+1200,8,Localised oedema
+1201,8,Long QT syndrome
+1202,8,Loss of consciousness
+1203,8,Loss of therapeutic response
+1204,8,Lower gastrointestinal haemorrhage
+1205,8,Lower limb fracture
+1206,8,Lower respiratory tract infection
+1207,8,Lumbar spinal stenosis
+1208,8,Lumbar vertebral fracture
+1209,8,Lung adenocarcinoma
+1210,8,Lung cancer metastatic
+1211,8,Lung disorder
+1212,8,Lung infection
+1213,8,Lung neoplasm malignant
+1214,8,Lyme disease
+1215,8,Lymphadenopathy
+1216,8,Lymphocyte count decreased
+1217,8,Lymphoma
+1218,8,Lymphopenia
+1219,8,Macular degeneration
+1220,8,Maculopathy
+1221,8,Major depression
+1222,8,Malabsorption
+1223,8,Malaise
+1224,8,Malignant catatonia
+1225,8,Malignant melanoma
+1226,8,Malignant neoplasm progression
+1227,8,Malnutrition
+1228,8,Mammoplasty
+1229,8,Mania
+1230,8,Mastectomy
+1231,8,Mastitis
+1232,8,Maternal exposure during pregnancy
+1233,8,Medical procedure
+1234,8,Medication error
+1235,8,Melaena
+1236,8,Memory impairment
+1237,8,Meningitis
+1238,8,Meningitis aseptic
+1239,8,Meningitis viral
+1240,8,Menopausal symptoms
+1241,8,Menorrhagia
+1242,8,Menstrual disorder
+1243,8,Mental disorder
+1244,8,Mental impairment
+1245,7,Mental status changes
+1246,8,Metabolic acidosis
+1247,8,Metabolic disorder
+1248,8,Metastases to bone
+1249,8,Metastases to central nervous system
+1250,8,Metastases to liver
+1251,8,Metastases to lung
+1252,8,Metastatic neoplasm
+1253,8,Metrorrhagia
+1254,8,Microcytic anaemia
+1255,8,Micturition disorder
+1256,8,Micturition urgency
+1257,8,Middle insomnia
+1258,8,Migraine
+1259,8,Miliaria
+1260,8,Mitral valve prolapse
+1261,8,Mixed liver injury
+1262,5,Mood altered
+1263,8,Mood swings
+1264,8,Mouth haemorrhage
+1265,8,Mouth swelling
+1266,8,Mouth ulceration
+1267,8,Movement disorder
+1268,8,Mucosal inflammation
+1269,8,Mucous stools
+1270,8,Multi-organ failure
+1271,8,Multiple allergies
+1272,8,Multiple fractures
+1273,8,Multiple organ dysfunction syndrome
+1274,8,Multiple sclerosis
+1275,8,Multiple sclerosis pseudo relapse
+1276,8,Multiple sclerosis relapse
+1277,8,Multiple-drug resistance
+1278,8,Muscle atrophy
+1279,8,Muscle contractions involuntary
+1280,8,Muscle disorder
+1281,8,Muscle fatigue
+1282,8,Muscle injury
+1283,8,Muscle rigidity
+1284,8,Muscle spasms
+1285,8,Muscle spasticity
+1286,8,Muscle twitching
+1287,8,Muscular weakness
+1288,8,Musculoskeletal chest pain
+1289,8,Musculoskeletal discomfort
+1290,8,Musculoskeletal disorder
+1291,8,Musculoskeletal pain
+1292,8,Musculoskeletal stiffness
+1293,8,Myalgia
+1294,8,Myasthenia gravis
+1295,8,Mycobacterium tuberculosis complex test positive
+1296,8,Mydriasis
+1297,8,Myelodysplastic syndrome
+1298,8,Myocardial infarction
+1299,8,Myocarditis
+1300,8,Myoclonus
+1301,8,Myopathy
+1302,8,Myopia
+1303,8,Nail discolouration
+1304,8,Narcolepsy
+1305,8,Nasal congestion
+1306,8,Nasal discomfort
+1307,8,Nasal dryness
+1308,8,Nasal polyps
+1309,7,Nasal ulcer
+1310,8,Nasopharyngitis
+1311,8,Nausea
+1312,8,Neck pain
+1313,8,Necrotising fasciitis
+1314,8,Needle issue
+1315,8,Negative thoughts
+1316,8,Neonatal respiratory distress syndrome
+1317,8,Neoplasm
+1318,8,Neoplasm malignant
+1319,8,Neoplasm progression
+1320,8,Nephritis
+1321,8,Nephrogenic anaemia
+1322,8,Nephrolithiasis
+1323,8,Nephropathy
+1324,8,Nephropathy toxic
+1325,8,Nerve compression
+1326,8,Nerve injury
+1327,8,Nervous system disorder
+1328,8,Nervousness
+1329,8,Neuralgia
+1330,7,Neurodegenerative disorder
+1331,8,Neurodermatitis
+1332,8,Neuroendocrine tumour
+1333,8,Neurogenic bladder
+1334,8,Neuroleptic malignant syndrome
+1335,8,Neurological symptom
+1336,8,Neuropathy peripheral
+1337,8,Neutropenia
+1338,8,Neutropenic colitis
+1339,8,Neutrophil count decreased
+1340,8,Neutrophil count increased
+1341,8,Nightmare
+1342,8,No adverse event
+1343,7,No therapeutic response
+1344,8,Nocturia
+1345,8,Non-Hodgkin's lymphoma
+1346,8,Non-alcoholic steatohepatitis
+1347,8,Non-cardiac chest pain
+1348,8,Nonspecific reaction
+1349,8,Nystagmus
+1350,8,Obesity
+1351,8,Obsessive-compulsive disorder
+1352,8,Obstructive airways disorder
+1353,8,Obstructive sleep apnoea syndrome
+1354,2,Occult blood positive
+1355,8,Ocular discomfort
+1356,7,Ocular hyperaemia
+1357,8,Oedema
+1358,8,Oedema peripheral
+1359,8,Oesophageal candidiasis
+1360,8,Oesophageal carcinoma
+1361,8,Off label use
+1362,8,Onychomadesis
+1363,3,Oophorectomy
+1364,8,Optic neuritis
+1365,8,Oral candidiasis
+1366,8,Oral discomfort
+1367,8,Oral herpes
+1368,8,Oral mucosal blistering
+1369,8,Oral mucosal eruption
+1370,8,Oral pain
+1371,8,Oral surgery
+1372,8,Orchitis
+1373,8,Oropharyngeal discomfort
+1374,8,Oropharyngeal pain
+1375,8,Osteoarthritis
+1376,8,Osteomyelitis
+1377,8,Osteonecrosis
+1378,8,Osteonecrosis of jaw
+1379,8,Osteopenia
+1380,8,Osteoporosis
+1381,8,Overdose
+1382,8,Oxygen saturation decreased
+1383,8,Pain
+1384,8,Pain in extremity
+1385,8,Pain in jaw
+1386,8,Pain of skin
+1387,8,Pallor
+1388,8,Palpitations
+1389,8,Pancreatic carcinoma
+1390,8,Pancreatic carcinoma metastatic
+1391,8,Pancreatic neoplasm
+1392,8,Pancreatitis
+1393,8,Pancreatitis acute
+1394,2,Pancreatitis chronic
+1395,8,Pancytopenia
+1396,8,Panic attack
+1397,8,Panic disorder
+1398,8,Panic reaction
+1399,7,Papillary thyroid cancer
+1400,7,Papilloma viral infection
+1401,8,Paraesthesia
+1402,8,Paraesthesia oral
+1403,8,Paraplegia
+1404,8,Parasomnia
+1405,8,Paresis
+1406,8,Parkinson's disease
+1407,8,Parkinsonism
+1408,8,Partial seizures
+1409,8,Pathological gambling
+1410,8,Pelvic fracture
+1411,7,Pelvic prolapse
+1412,8,Pemphigoid
+1413,5,Penis disorder
+1414,8,Periarthritis
+1415,8,Pericardial effusion
+1416,8,Periodic limb movement disorder
+1417,7,Periodontal disease
+1418,8,Periorbital cellulitis
+1419,8,Periorbital oedema
+1420,8,Periorbital pain
+1421,8,Peripheral coldness
+1422,8,Peripheral ischaemia
+1423,8,Peripheral swelling
+1424,7,Peripheral vascular disorder
+1425,8,Peritonitis
+1426,8,Peritonitis bacterial
+1427,8,Personality change
+1428,7,Personality disorder
+1429,8,Pharyngeal oedema
+1430,8,Pharyngeal swelling
+1431,8,Pharyngitis
+1432,8,Pharyngitis streptococcal
+1433,10,Phlebitis
+1434,8,Photophobia
+1435,8,Photopsia
+1436,8,Photosensitivity reaction
+1437,8,Physical assault
+1438,8,Plantar fasciitis
+1439,8,Plasma cell myeloma
+1440,8,Platelet count decreased
+1441,8,Platelet count increased
+1442,8,Pleural effusion
+1443,8,Pleurothotonus
+1444,8,Pneumocystis jirovecii pneumonia
+1445,8,Pneumonia
+1446,8,Pneumonia aspiration
+1447,8,Pneumonia bacterial
+1448,8,Pneumonia haemophilus
+1449,8,Pneumonia pseudomonal
+1450,8,Pneumonia streptococcal
+1451,8,Pneumonia viral
+1452,8,Pneumonitis
+1453,8,Pneumothorax
+1454,8,Poisoning
+1455,8,Poisoning deliberate
+1456,8,Pollakiuria
+1457,8,Polymenorrhoea
+1458,8,Polymyalgia rheumatica
+1459,8,Polyp
+1460,8,Poor feeding infant
+1461,8,Poor peripheral circulation
+1462,8,Poor quality device used
+1463,7,Poor quality sleep
+1464,8,Post procedural complication
+1465,8,Post procedural haemorrhage
+1466,8,Post procedural infection
+1467,8,Post-traumatic stress disorder
+1468,8,Postoperative wound complication
+1469,8,Postoperative wound infection
+1470,8,Potentiating drug interaction
+1471,8,Pre-eclampsia
+1472,8,Pre-existing condition improved
+1473,3,Precancerous condition
+1474,8,Precancerous skin lesion
+1475,8,Pregnancy
+1476,8,Prescribed overdose
+1477,8,Prescribed underdose
+1478,8,Prescription drug used without a prescription
+1479,8,Procedural haemorrhage
+1480,8,Procedural pain
+1481,8,Proctalgia
+1482,8,Product adhesion issue
+1483,8,Product administered at inappropriate site
+1484,8,Product administration error
+1485,8,Product administration interrupted
+1486,8,Product availability issue
+1487,8,Product complaint
+1488,8,Product container issue
+1489,8,Product dispensing error
+1490,8,Product dispensing issue
+1491,5,Product distribution issue
+1492,8,Product dose omission
+1493,8,Product dose omission in error
+1494,8,Product dose omission issue
+1495,8,Product formulation issue
+1496,7,Product lot number issue
+1497,8,Product packaging quantity issue
+1498,8,Product physical issue
+1499,8,Product preparation error
+1500,8,Product prescribing error
+1501,8,Product prescribing issue
+1502,8,Product quality issue
+1503,8,Product solubility abnormal
+1504,8,Product storage error
+1505,8,Product substitution issue
+1506,8,Product taste abnormal
+1507,8,Product use complaint
+1508,8,Product use in unapproved indication
+1509,8,Product use issue
+1510,8,Productive cough
+1511,8,Progressive multifocal leukoencephalopathy
+1512,8,Prostate cancer
+1513,8,Prostatic specific antigen increased
+1514,8,Prostatomegaly
+1515,8,Pruritus
+1516,8,Pruritus generalised
+1517,8,Pseudomonas infection
+1518,8,Psoriasis
+1519,8,Psoriatic arthropathy
+1520,8,Psychiatric symptom
+1521,8,Psychomotor hyperactivity
+1522,8,Psychotic disorder
+1523,8,Psychotic symptom
+1524,8,Pulmonary arterial hypertension
+1525,8,Pulmonary congestion
+1526,8,Pulmonary embolism
+1527,8,Pulmonary function test decreased
+1528,8,Pulmonary haemorrhage
+1529,8,Pulmonary hypertension
+1530,8,Pulmonary mass
+1531,8,Pulmonary oedema
+1532,8,Pulmonary thrombosis
+1533,8,Pulpitis dental
+1534,8,Purpura
+1535,8,Pyelonephritis
+1536,8,Pyelonephritis acute
+1537,8,Pyoderma gangrenosum
+1538,8,Pyrexia
+1539,8,Quality of life decreased
+1540,8,Rapid eye movement sleep behaviour disorder
+1541,8,Rash
+1542,8,Rash erythematous
+1543,8,Rash generalised
+1544,8,Rash macular
+1545,8,Rash maculo-papular
+1546,8,Rash papular
+1547,8,Rash pruritic
+1548,7,Raynaud's phenomenon
+1549,8,Rebound acid hypersecretion
+1550,8,Rebound effect
+1551,8,Recalled product
+1552,8,Recalled product administered
+1553,8,Rectal cancer
+1554,8,Rectal haemorrhage
+1555,8,Rectal prolapse
+1556,8,Red blood cell count decreased
+1557,8,Reduced facial expression
+1558,8,Refusal of treatment by patient
+1559,8,Rehabilitation therapy
+1560,8,Renal cancer
+1561,8,Renal cell carcinoma
+1562,8,Renal cyst
+1563,8,Renal disorder
+1564,8,Renal failure
+1565,8,Renal impairment
+1566,8,Renal injury
+1567,8,Renal pain
+1568,8,Respiration abnormal
+1569,8,Respiratory arrest
+1570,8,Respiratory disorder
+1571,8,Respiratory distress
+1572,8,Respiratory failure
+1573,8,Respiratory symptom
+1574,8,Respiratory syncytial virus infection
+1575,8,Respiratory tract congestion
+1576,8,Respiratory tract infection
+1577,8,Restless legs syndrome
+1578,8,Restlessness
+1579,7,Restrictive pulmonary disease
+1580,8,Retching
+1581,8,Retinal artery occlusion
+1582,8,Retinal pigmentation
+1583,8,Retinal vein occlusion
+1584,2,Retinopathy
+1585,8,Reversible cerebral vasoconstriction syndrome
+1586,8,Rhabdomyolysis
+1587,7,Rheumatoid arthritis
+1588,5,Rhinorrhoea
+1589,8,Rhinovirus infection
+1590,8,Rib fracture
+1591,8,Right ventricular failure
+1592,8,Road traffic accident
+1593,8,Rosacea
+1594,8,Rotator cuff syndrome
+1595,3,Rubber sensitivity
+1596,8,SARS-CoV-2 test negative
+1597,8,SARS-CoV-2 test positive
+1598,8,Salivary hypersecretion
+1599,8,Scar
+1600,8,Schizophrenia
+1601,8,Sciatica
+1602,8,Scratch
+1603,8,Screaming
+1604,8,Seasonal allergy
+1605,7,Seborrhoeic dermatitis
+1606,8,Secretion discharge
+1607,8,Seizure
+1608,8,Seizure like phenomena
+1609,8,Self-injurious ideation
+1610,7,Self-medication
+1611,8,Sensitive skin
+1612,8,Sensory disturbance
+1613,8,Sepsis
+1614,8,Sepsis neonatal
+1615,8,Septic shock
+1616,8,Serotonin syndrome
+1617,8,Sexual dysfunction
+1618,8,Shock
+1619,8,Shock haemorrhagic
+1620,8,Shoulder arthroplasty
+1621,8,Shoulder operation
+1622,8,Sickle cell anaemia with crisis
+1623,8,Sinus congestion
+1624,8,Sinus disorder
+1625,5,Sinus headache
+1626,8,Sinus operation
+1627,8,Sinus tachycardia
+1628,8,Sinusitis
+1629,8,Sjogren's syndrome
+1630,8,Skin abrasion
+1631,8,Skin burning sensation
+1632,8,Skin cancer
+1633,8,Skin discolouration
+1634,8,Skin disorder
+1635,8,Skin exfoliation
+1636,8,Skin fissures
+1637,8,Skin haemorrhage
+1638,8,Skin hyperpigmentation
+1639,8,Skin infection
+1640,8,Skin irritation
+1641,8,Skin laceration
+1642,8,Skin lesion
+1643,6,Skin plaque
+1644,8,Skin reaction
+1645,7,Skin swelling
+1646,8,Skin ulcer
+1647,8,Sleep apnoea syndrome
+1648,8,Sleep disorder
+1649,8,Sleep disorder due to a general medical condition
+1650,8,Sleep paralysis
+1651,8,Sleep terror
+1652,8,Sleep-related eating disorder
+1653,8,Sluggishness
+1654,8,Small intestinal obstruction
+1655,5,Sneezing
+1656,8,Snoring
+1657,8,Somatic symptom disorder
+1658,8,Somnambulism
+1659,8,Somnolence
+1660,8,Speech disorder
+1661,8,Spinal column stenosis
+1662,8,Spinal compression fracture
+1663,8,Spinal cord disorder
+1664,5,Spinal disorder
+1665,8,Spinal fracture
+1666,8,Spinal fusion surgery
+1667,8,Spinal operation
+1668,8,Spinal osteoarthritis
+1669,8,Spinal stenosis
+1670,8,Spinocerebellar disorder
+1671,8,Splenomegaly
+1672,8,Spondylolisthesis
+1673,8,Sprue-like enteropathy
+1674,8,Sputum discoloured
+1675,8,Squamous cell carcinoma of skin
+1676,8,Staphylococcal bacteraemia
+1677,8,Staphylococcal infection
+1678,8,Staphylococcal sepsis
+1679,8,Staphylococcal skin infection
+1680,8,Status epilepticus
+1681,7,Stem cell transplant
+1682,8,Stent placement
+1683,8,Stevens-Johnson syndrome
+1684,8,Stillbirth
+1685,8,Stoma site haemorrhage
+1686,8,Stoma site infection
+1687,8,Stomatitis
+1688,8,Strabismus
+1689,8,Stress
+1690,8,Stress fracture
+1691,8,Subarachnoid haemorrhage
+1692,8,Subdural haematoma
+1693,8,Subdural haemorrhage
+1694,8,Substance use
+1695,8,Substance-induced psychotic disorder
+1696,8,Sudden death
+1697,8,Sudden hearing loss
+1698,8,Suicidal behaviour
+1699,8,Suicidal ideation
+1700,8,Suicide attempt
+1701,8,Supraventricular tachycardia
+1702,8,Surgery
+1703,8,Suspected COVID-19
+1704,7,Suspected suicide
+1705,8,Suspected suicide attempt
+1706,8,Swelling
+1707,8,Swelling face
+1708,8,Syncope
+1709,8,Systemic lupus erythematosus
+1710,8,Tachycardia
+1711,8,Tardive dyskinesia
+1712,8,Taste disorder
+1713,8,Temporomandibular joint syndrome
+1714,8,Tenderness
+1715,8,Tendon pain
+1716,8,Tendon rupture
+1717,8,Tendonitis
+1718,8,Tension headache
+1719,8,Terminal state
+1720,8,Therapeutic product effect decreased
+1721,8,Therapeutic product effect delayed
+1722,8,Therapeutic product effect incomplete
+1723,8,Therapeutic product effect variable
+1724,8,Therapeutic reaction time decreased
+1725,8,Therapeutic response changed
+1726,8,Therapeutic response decreased
+1727,8,Therapeutic response shortened
+1728,8,Therapeutic response unexpected
+1729,8,Therapy cessation
+1730,8,Therapy change
+1731,8,Therapy interrupted
+1732,8,Therapy non-responder
+1733,8,Therapy partial responder
+1734,8,Thinking abnormal
+1735,8,Thirst
+1736,8,Throat cancer
+1737,8,Throat irritation
+1738,8,Throat tightness
+1739,8,Thrombocytopenia
+1740,8,Thrombocytosis
+1741,8,Thrombophlebitis
+1742,8,Thrombosis
+1743,8,Thyroid disorder
+1744,8,Thyroid hormones decreased
+1745,7,Thyroid hormones increased
+1746,8,Thyroid operation
+1747,8,Tibia fracture
+1748,8,Tinnitus
+1749,8,Toe amputation
+1750,8,Toe operation
+1751,8,Tongue discolouration
+1752,8,Tongue disorder
+1753,8,Tongue movement disturbance
+1754,8,Tonsillectomy
+1755,8,Tooth abscess
+1756,8,Tooth disorder
+1757,8,Tooth extraction
+1758,8,Tooth fracture
+1759,8,Tooth infection
+1760,8,Tooth injury
+1761,8,Tooth loss
+1762,8,Torsade de pointes
+1763,8,Toxic encephalopathy
+1764,8,Toxic skin eruption
+1765,8,Toxicity to various agents
+1766,8,Transaminases increased
+1767,8,Transient ischaemic attack
+1768,8,Treatment failure
+1769,8,Treatment noncompliance
+1770,8,Tremor
+1771,8,Trichorrhexis
+1772,8,Trigeminal neuralgia
+1773,8,Troponin increased
+1774,8,Tuberculin test positive
+1775,8,Tuberculosis
+1776,8,Tubulointerstitial nephritis
+1777,8,Tumour marker increased
+1778,8,Uhthoff's phenomenon
+1779,8,Ulcer
+1780,8,Ulcer haemorrhage
+1781,8,Umbilical hernia
+1782,8,Unevaluable event
+1783,8,Unresponsive to stimuli
+1784,8,Upper gastrointestinal haemorrhage
+1785,8,Upper limb fracture
+1786,8,Upper respiratory tract congestion
+1787,8,Upper respiratory tract infection
+1788,8,Upper-airway cough syndrome
+1789,8,Urinary incontinence
+1790,8,Urinary retention
+1791,8,Urinary tract disorder
+1792,8,Urinary tract infection
+1793,8,Urine abnormality
+1794,8,Urine analysis abnormal
+1795,8,Urine odour abnormal
+1796,8,Urine output decreased
+1797,8,Urine output increased
+1798,8,Urosepsis
+1799,8,Urticaria
+1800,8,Uterine cancer
+1801,8,Uterine disorder
+1802,8,Uveitis
+1803,8,Vaginal discharge
+1804,8,Vaginal haemorrhage
+1805,7,Vascular access site complication
+1806,8,Vascular graft
+1807,8,Vasculitis
+1808,8,Vein disorder
+1809,7,Ventricular extrasystoles
+1810,8,Ventricular tachycardia
+1811,8,Vertigo
+1812,8,Vertigo positional
+1813,8,Viral infection
+1814,8,Vision blurred
+1815,8,Visual acuity reduced
+1816,8,Visual field defect
+1817,8,Visual impairment
+1818,8,Vitamin B12 decreased
+1819,8,Vitamin D decreased
+1820,8,Vitamin D deficiency
+1821,8,Vitreous floaters
+1822,8,Vitreous haemorrhage
+1823,8,Vomiting
+1824,8,Vulvovaginal burning sensation
+1825,8,Vulvovaginal dryness
+1826,7,Vulvovaginal mycotic infection
+1827,8,Walking aid user
+1828,8,Weight abnormal
+1829,8,Weight decreased
+1830,8,Weight fluctuation
+1831,8,Weight increased
+1832,8,White blood cell count abnormal
+1833,8,White blood cell count decreased
+1834,8,White blood cell count increased
+1835,8,White blood cell disorder
+1836,8,Withdrawal syndrome
+1837,8,Wound dehiscence
+1838,8,Wound infection
+1839,8,Wrist fracture
+1840,8,Wrist surgery
+1841,8,Wrong patient received product
+1842,8,Wrong product administered
+1843,8,Wrong technique in device usage process
+1844,8,Wrong technique in product usage process

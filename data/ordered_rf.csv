@@ -1,0 +1,1760 @@
+index_pt,pt
+0,Abasia
+1,Abdominal adhesions
+2,Abdominal distension
+3,Abdominal hernia
+4,Abdominal hernia obstructive
+5,Abdominal infection
+6,Abdominal injury
+7,Abdominal lymphadenopathy
+8,Abdominal neoplasm
+9,Abdominal operation
+10,Abdominal pain
+11,Abdominal wall haematoma
+12,Abdominal wall haemorrhage
+13,Abdominal wall wound
+14,Abdominoplasty
+15,Abnormal behaviour
+16,Abnormal loss of weight
+17,Abnormal uterine bleeding
+18,Abnormal weight gain
+19,Abnormal withdrawal bleeding
+20,Abscess drainage
+21,Abscess fungal
+22,Abscess intestinal
+23,Abscess jaw
+24,Abscess limb
+25,Abscess oral
+26,Accidental exposure to product
+27,Accidental overdose
+28,Accidental underdose
+29,Acetonaemia
+30,Acidosis hyperchloraemic
+31,Acne cystic
+32,Acne pustular
+33,Acquired oesophageal web
+34,Acrochordon
+35,Actinic keratosis
+36,Actinomycosis
+37,Activated partial thromboplastin time abnormal
+38,Activities of daily living impaired
+39,Acute cardiac event
+40,Acute disseminated encephalomyelitis
+41,Acute generalised exanthematous pustulosis
+42,Acute left ventricular failure
+43,Acute leukaemia
+44,Acute lymphocytic leukaemia
+45,Acute myocardial infarction
+46,Acute psychosis
+47,Acute stress disorder
+48,Addison's disease
+49,Adenocarcinoma
+50,Adenoma benign
+51,Adenotonsillectomy
+52,Adenoviral haemorrhagic cystitis
+53,Adenovirus infection
+54,Adhesion
+55,Adjustment disorder with depressed mood
+56,Administration site discolouration
+57,Administration site pruritus
+58,Administration site rash
+59,Administration site reaction
+60,Adnexa uteri cyst
+61,Adnexa uteri pain
+62,Adrenal disorder
+63,Adrenal mass
+64,Adrenal neoplasm
+65,Adrenocortical insufficiency acute
+66,Age-related macular degeneration
+67,Agitation neonatal
+68,Agraphia
+69,Alanine aminotransferase decreased
+70,Alcohol poisoning
+71,Alcohol use disorder
+72,Alcohol withdrawal syndrome
+73,Alcoholic hangover
+74,Aldolase increased
+75,Allergic bronchitis
+76,Allergic cough
+77,Allergic reaction to excipient
+78,Allergic respiratory symptom
+79,Allergy to animal
+80,Allergy to arthropod sting
+81,Allergy to chemicals
+82,Allergy to immunoglobulin therapy
+83,Allodynia
+84,Alopecia
+85,Alpha haemolytic streptococcal infection
+86,Altered visual depth perception
+87,Amenorrhoea
+88,Amino acid level decreased
+89,Amnesia
+90,Amniotic fluid volume decreased
+91,Amniotic fluid volume increased
+92,Amphetamines positive
+93,Amyloid related imaging abnormality-microhaemorrhages and haemosiderin deposits
+94,Amyloidosis
+95,Anaemia of chronic disease
+96,Anaemia vitamin B12 deficiency
+97,Anal cancer
+98,Anal fissure
+99,Anal haemorrhage
+100,Anal incontinence
+101,Anal pruritus
+102,Anal skin tags
+103,Anal squamous cell carcinoma
+104,Analgesic drug level increased
+105,Anaphylactic reaction
+106,Anaplastic astrocytoma
+107,Anastomotic ulcer
+108,Androgen deficiency
+109,Angina bullosa haemorrhagica
+110,Angina unstable
+111,Angioedema
+112,Angiofibroma
+113,Angiogram
+114,Angiopathy
+115,Anhedonia
+116,Animal scratch
+117,Anion gap decreased
+118,Anion gap increased
+119,Anisocoria
+120,Ankylosing spondylitis
+121,Anorectal disorder
+122,Anorectal infection
+123,Anorexia nervosa
+124,Anti-neutrophil cytoplasmic antibody positive vasculitis
+125,Antibiotic therapy
+126,Antibody test abnormal
+127,Antibody test positive
+128,Anticoagulation drug level below therapeutic
+129,Anticoagulation drug level increased
+130,Anticonvulsant drug level below therapeutic
+131,Anticonvulsant drug level increased
+132,Antinuclear antibody increased
+133,Antinuclear antibody positive
+134,Antiphospholipid syndrome
+135,Antipsychotic drug level decreased
+136,Antisocial behaviour
+137,Anxiety
+138,Aortic dilatation
+139,Aortic valve stenosis
+140,Aphagia
+141,Aphonia
+142,Application site bruise
+143,Application site discharge
+144,Application site discomfort
+145,Application site erosion
+146,Application site exfoliation
+147,Application site haemorrhage
+148,Application site hypersensitivity
+149,Application site infection
+150,Application site pain
+151,Application site rash
+152,Application site reaction
+153,Application site vesicles
+154,Arterial insufficiency
+155,Arteriosclerosis
+156,Arteriovenous malformation
+157,Arthralgia
+158,Arthritis bacterial
+159,Arthritis enteropathic
+160,Arthritis infective
+161,Arthropathy
+162,Arthropod sting
+163,Arthroscopy
+164,Asocial behaviour
+165,Aspartate aminotransferase decreased
+166,Aspartate aminotransferase increased
+167,Aspiration pleural cavity
+168,Asthenia
+169,Asthenopia
+170,Asthma exercise induced
+171,Atelectasis
+172,Atrial fibrillation
+173,Atrial septal defect repair
+174,Atrioventricular block second degree
+175,Atrophy
+176,Atypical femur fracture
+177,Auditory disorder
+178,Autoimmune arthritis
+179,Autoimmune colitis
+180,Autoimmune disorder
+181,B-cell lymphoma
+182,Back pain
+183,Bacterial sepsis
+184,Balance disorder
+185,Band sensation
+186,Bankruptcy
+187,Bartholin's cyst
+188,Basal cell carcinoma
+189,Basal ganglia haemorrhage
+190,Basal ganglia stroke
+191,Basedow's disease
+192,Basilar migraine
+193,Behcet's syndrome
+194,Bell's palsy
+195,Benign bone neoplasm
+196,Benign breast neoplasm
+197,Benign intracranial hypertension
+198,Benign neoplasm
+199,Benign neoplasm of skin
+200,Benign renal neoplasm
+201,Bicytopenia
+202,Bile acid malabsorption
+203,Bile duct stenosis
+204,Biliary cirrhosis primary
+205,Biliary dilatation
+206,Bilirubin conjugated increased
+207,Binge eating
+208,Biopsy bone marrow
+209,Biopsy lung
+210,Bladder dysfunction
+211,Bladder injury
+212,Bladder operation
+213,Bladder pain
+214,Bladder perforation
+215,Blast cell count increased
+216,Blighted ovum
+217,Blindness
+218,Blindness transient
+219,Blindness unilateral
+220,Blood albumin decreased
+221,Blood alkaline phosphatase abnormal
+222,Blood blister
+223,Blood calcium abnormal
+224,Blood chloride increased
+225,Blood cholesterol abnormal
+226,Blood cholesterol increased
+227,Blood corticotrophin decreased
+228,Blood creatine decreased
+229,Blood creatine phosphokinase MB increased
+230,Blood electrolytes abnormal
+231,Blood electrolytes decreased
+232,Blood growth hormone increased
+233,Blood immunoglobulin A increased
+234,Blood immunoglobulin E abnormal
+235,Blood immunoglobulin M decreased
+236,Blood iron increased
+237,Blood ketone body increased
+238,Blood loss anaemia
+239,Blood magnesium decreased
+240,Blood oestrogen decreased
+241,Blood parathyroid hormone increased
+242,Blood potassium abnormal
+243,Blood potassium increased
+244,Blood pressure decreased
+245,Blood pressure diastolic decreased
+246,Blood pressure diastolic increased
+247,Blood pressure inadequately controlled
+248,Blood pressure orthostatic decreased
+249,Blood pressure systolic abnormal
+250,Blood test
+251,Blood testosterone abnormal
+252,Blood testosterone increased
+253,Blood thyroid stimulating hormone decreased
+254,Blood urea abnormal
+255,Blood urea increased
+256,Blood urea nitrogen/creatinine ratio increased
+257,Blood urine present
+258,Blood viscosity decreased
+259,Blue toe syndrome
+260,Blunted affect
+261,Body fat disorder
+262,Body height increased
+263,Body temperature abnormal
+264,Body temperature decreased
+265,Bone cancer
+266,Bone contusion
+267,Bone cyst
+268,Bone deformity
+269,Bone demineralisation
+270,Bone graft
+271,Bone lesion
+272,Bone loss
+273,Bone marrow transplant
+274,Bone neoplasm
+275,Bone operation
+276,Bone pain
+277,Bone swelling
+278,Bowel movement irregularity
+279,Bowen's disease
+280,Brachial plexus injury
+281,Brachioradial pruritus
+282,Bradyphrenia
+283,Brain cancer metastatic
+284,Brain neoplasm malignant
+285,Brain operation
+286,Breakthrough pain
+287,Breast abscess
+288,Breast cancer
+289,Breast cancer female
+290,Breast cancer recurrent
+291,Breast cancer stage I
+292,Breast cancer stage III
+293,Breast conserving surgery
+294,Breast cyst
+295,Breast discharge
+296,Breast disorder female
+297,Breast enlargement
+298,Breast haematoma
+299,Breast inflammation
+300,Breast mass
+301,Breast neoplasm
+302,Breast operation
+303,Breast pain
+304,Breast reconstruction
+305,Breast tenderness
+306,Breast ulceration
+307,Breath odour
+308,Bronchial secretion retention
+309,Bronchitis chronic
+310,Bronchopulmonary dysplasia
+311,Bronchoscopy
+312,Brow ptosis
+313,Burning feet syndrome
+314,Burning mouth syndrome
+315,Burning sensation
+316,Bursitis
+317,Bursitis infective
+318,Butterfly rash
+319,C-reactive protein abnormal
+320,CD4 lymphocytes decreased
+321,COVID-19
+322,COVID-19 immunisation
+323,CSF pressure increased
+324,CYP3A4 polymorphism
+325,Calcinosis
+326,Calculus bladder
+327,Calculus ureteric
+328,Campylobacter infection
+329,Cancer pain
+330,Cancer surgery
+331,Candida infection
+332,Capillary fragility
+333,Carbohydrate antigen 125 increased
+334,Carbon dioxide abnormal
+335,Carbon dioxide increased
+336,Carcinoembryonic antigen increased
+337,Carcinoid tumour
+338,Carcinoid tumour pulmonary
+339,Cardiac assistance device user
+340,Cardiac disorder
+341,Cardiac stress test abnormal
+342,Cardiac tamponade
+343,Cardiac valve disease
+344,Cardiac ventricular thrombosis
+345,Cardiomyopathy acute
+346,Cardiovascular symptom
+347,Carotid arteriosclerosis
+348,Carotid artery aneurysm
+349,Carotid artery dissection
+350,Carotid artery occlusion
+351,Carotid artery stenosis
+352,Carpal tunnel decompression
+353,Carpal tunnel syndrome
+354,Cartilage atrophy
+355,Castleman's disease
+356,Cat scratch disease
+357,Cataract nuclear
+358,Cataract operation
+359,Cataract subcapsular
+360,Catheter management
+361,Catheter site haemorrhage
+362,Catheter site infection
+363,Catheter site inflammation
+364,Catheter site pain
+365,Catheterisation cardiac
+366,Cellulitis
+367,Cellulitis staphylococcal
+368,Central nervous system infection
+369,Central nervous system stimulation
+370,Central obesity
+371,Central sleep apnoea syndrome
+372,Central venous catheter removal
+373,Central venous catheterisation
+374,Cerebral artery embolism
+375,Cerebral small vessel ischaemic disease
+376,Cerebral thrombosis
+377,Cerebral vasoconstriction
+378,Cerebrovascular accident
+379,Cervical spinal stenosis
+380,Chalazion
+381,Change in seizure presentation
+382,Change in sustained attention
+383,Chapped lips
+384,Cheilitis
+385,Chemical burn
+386,Chemical burn of skin
+387,Chemical poisoning
+388,Chest X-ray abnormal
+389,Chest discomfort
+390,Chest injury
+391,Chest pain
+392,Chest wall mass
+393,Chikungunya virus infection
+394,Chillblains
+395,Chloasma
+396,Choking
+397,Cholangitis acute
+398,Cholecystitis acute
+399,Cholecystitis chronic
+400,Cholecystostomy
+401,Cholelithiasis
+402,Chondrocalcinosis pyrophosphate
+403,Chondropathy
+404,Chordee
+405,Chorioretinopathy
+406,Choroidal neovascularisation
+407,Chromatopsia
+408,Chromaturia
+409,Chronic disease
+410,Chronic fatigue syndrome
+411,Chronic hepatitis C
+412,Chronic inflammatory demyelinating polyradiculoneuropathy
+413,Chronic myeloid leukaemia
+414,Chronic obstructive pulmonary disease
+415,Circumstance or information capable of leading to medication error
+416,Claustrophobia
+417,Clitoral engorgement
+418,Clostridium difficile infection
+419,Clostridium test positive
+420,Cluster headache
+421,Coccydynia
+422,Cold sweat
+423,Colitis
+424,Colitis microscopic
+425,Colitis ulcerative
+426,Colon adenoma
+427,Colon cancer
+428,Colon cancer metastatic
+429,Colon dysplasia
+430,Colon injury
+431,Colon operation
+432,Colonic abscess
+433,Colonic fistula
+434,Colonoscopy
+435,Colorectal cancer
+436,Colorectal cancer metastatic
+437,Colostomy
+438,Complex regional pain syndrome
+439,Complication associated with device
+440,Complication of device insertion
+441,Complication of pregnancy
+442,Compulsive cheek biting
+443,Computerised tomogram abnormal
+444,Concomitant disease aggravated
+445,Concussion
+446,Condition aggravated
+447,Congenital anomaly
+448,Congenital cystic kidney disease
+449,Congenital pulmonary valve disorder
+450,Congenital skin dimples
+451,Contraindicated drug administered
+452,Contrast media allergy
+453,Conversion disorder
+454,Convulsion
+455,Coordination abnormal
+456,Corneal disorder
+457,Corneal dystrophy
+458,Corneal perforation
+459,Corneal transplant
+460,Corona virus infection
+461,Coronary artery dissection
+462,Coronary artery insufficiency
+463,Coronary artery occlusion
+464,Coronary artery stenosis
+465,Coronavirus test positive
+466,Cortisol decreased
+467,Costochondritis
+468,Cough
+469,Counterfeit product administered
+470,Crime
+471,Crohn's disease
+472,Crying
+473,Cutis laxa
+474,Cycloplegia
+475,Cyst
+476,Cyst removal
+477,Cystic fibrosis
+478,Cystic fibrosis lung
+479,Cystic fibrosis related diabetes
+480,Cystic fibrosis respiratory infection suppression
+481,Cystitis
+482,Cystitis interstitial
+483,Cystocele
+484,Cystoscopy
+485,Cytokine release syndrome
+486,Cytomegalovirus colitis
+487,Cytomegalovirus test positive
+488,Cytopenia
+489,Dark circles under eyes
+490,Daydreaming
+491,Deafness unilateral
+492,Death
+493,Death of relative
+494,Debridement
+495,Decreased activity
+496,Decreased appetite
+497,Deep brain stimulation
+498,Deep vein thrombosis
+499,Defaecation disorder
+500,Defaecation urgency
+501,Degenerative bone disease
+502,Dehydration
+503,Delayed dark adaptation
+504,Delirium tremens
+505,Delusion of replacement
+506,Delusional perception
+507,Dementia Alzheimer's type
+508,Dementia with Lewy bodies
+509,Demyelination
+510,Dental implantation
+511,Dental restoration failure
+512,Dependence
+513,Dependence on respirator
+514,Depressed mood
+515,Depression suicidal
+516,Dermatitis acneiform
+517,Dermatitis allergic
+518,Detoxification
+519,Device adhesion issue
+520,Device alarm issue
+521,Device breakage
+522,Device colour issue
+523,Device connection issue
+524,Device defective
+525,Device delivery system issue
+526,Device deployment issue
+527,Device difficult to use
+528,Device expulsion
+529,Device failure
+530,Device ineffective
+531,Device information output issue
+532,Device issue
+533,Device kink
+534,Device material issue
+535,Device mechanical issue
+536,Device occlusion
+537,Device physical property issue
+538,Device placement issue
+539,Device related infection
+540,Device related thrombosis
+541,Device use error
+542,Device use issue
+543,Diabetic coma
+544,Diabetic neuropathy
+545,Diabetic ulcer
+546,Diarrhoea
+547,Diarrhoea haemorrhagic
+548,Diastolic dysfunction
+549,Diplegia
+550,Diplopia
+551,Discoloured vomit
+552,Discomfort
+553,Discouragement
+554,Disease complication
+555,Disease progression
+556,Distractibility
+557,Disturbance in sexual arousal
+558,Diverticular perforation
+559,Diverticulitis
+560,Dizziness
+561,Dizziness postural
+562,Dreamy state
+563,Dropped head syndrome
+564,Drug administered at inappropriate site
+565,Drug administered in wrong device
+566,Drug administration error
+567,Drug clearance decreased
+568,Drug delivery device implantation
+569,Drug delivery system malfunction
+570,Drug detoxification
+571,Drug dispensing error
+572,Drug diversion
+573,Drug dose omission
+574,Drug dose omission by device
+575,Drug effect delayed
+576,Drug effect incomplete
+577,Drug effect increased
+578,Drug effect variable
+579,Drug effective for unapproved indication
+580,Drug exposure before pregnancy
+581,Drug ineffective
+582,Drug intolerance
+583,Drug level abnormal
+584,Drug level above therapeutic
+585,Drug level decreased
+586,Drug monitoring procedure not performed
+587,Drug prescribing error
+588,Drug rehabilitation
+589,Drug screen false positive
+590,Drug screen negative
+591,Drug screen positive
+592,Drug tolerance decreased
+593,Drug use disorder
+594,Drug withdrawal convulsions
+595,Drug withdrawal headache
+596,Drug withdrawal syndrome neonatal
+597,Dry skin
+598,Dry throat
+599,Duodenal perforation
+600,Duodenal ulcer
+601,Dysarthria
+602,Dysgeusia
+603,Dysgraphia
+604,Dysmenorrhoea
+605,Dyspareunia
+606,Dyspepsia
+607,Dysphagia
+608,Dysphemia
+609,Dysphonia
+610,Dysphoria
+611,Dyspnoea
+612,Dyspnoea at rest
+613,Dysstasia
+614,Ear congestion
+615,Ear discomfort
+616,Ear haemorrhage
+617,Ear infection
+618,Ear infection bacterial
+619,Ear pain
+620,Ear swelling
+621,Early satiety
+622,Eclampsia
+623,Economic problem
+624,Ectopic pregnancy
+625,Eczema
+626,Ehlers-Danlos syndrome
+627,Elbow operation
+628,Electric shock
+629,Electric shock sensation
+630,Electrocardiogram repolarisation abnormality
+631,Electrolyte imbalance
+632,Embedded device
+633,Emergency care
+634,Emotional poverty
+635,Empyema
+636,Encephalitis
+637,Encephalomalacia
+638,End stage renal disease
+639,Endometrial ablation
+640,Endometrial adenocarcinoma
+641,Endometrial cancer
+642,Endometrial thickening
+643,Endophthalmitis
+644,Endoscopy
+645,Endotracheal intubation
+646,Endovenous ablation
+647,Energy increased
+648,Enteritis infectious
+649,Enterococcal bacteraemia
+650,Enterostomy
+651,Eosinophilic oesophagitis
+652,Ephelides
+653,Epicondylitis
+654,Epigastric discomfort
+655,Epiglottitis
+656,Epistaxis
+657,Epstein-Barr viraemia
+658,Erectile dysfunction
+659,Erection increased
+660,Eructation
+661,Erythema
+662,Erythema multiforme
+663,Erythema nodosum
+664,Erythema of eyelid
+665,Escherichia infection
+666,Escherichia test positive
+667,Executive dysfunction
+668,Exercise tolerance decreased
+669,Exostosis
+670,Exposure during pregnancy
+671,Exposure to SARS-CoV-2
+672,Exposure to fungus
+673,Exposure to toxic agent
+674,Exposure via breast milk
+675,Exposure via father
+676,Exposure via ingestion
+677,Extrasystoles
+678,Eye allergy
+679,Eye complication associated with device
+680,Eye disorder
+681,Eye infection
+682,Eye inflammation
+683,Eye injury
+684,Eye irritation
+685,Eye movement disorder
+686,Eye pain
+687,Eye pruritus
+688,Eye swelling
+689,Eye ulcer
+690,Eyelid disorder
+691,Eyelid irritation
+692,Eyelid operation
+693,Eyelid pain
+694,Eyelid ptosis
+695,Eyelid rash
+696,Face injury
+697,Facial pain
+698,Facial spasm
+699,Faecaloma
+700,Faeces discoloured
+701,Faeces pale
+702,Faeces soft
+703,Failure to thrive
+704,Fall
+705,Fallopian tube cyst
+706,False positive investigation result
+707,Fatigue
+708,Fear of injection
+709,Feeling cold
+710,Feeling drunk
+711,Feeling jittery
+712,Feeling of body temperature change
+713,Female genital tract fistula
+714,Femoroacetabular impingement
+715,Fibula fracture
+716,Flank pain
+717,Flat affect
+718,Flatulence
+719,Fluid overload
+720,Fluid retention
+721,Flushing
+722,Foaming at mouth
+723,Foetal exposure during pregnancy
+724,Foetal exposure timing unspecified
+725,Food poisoning
+726,Foot amputation
+727,Foot fracture
+728,Foreign body
+729,Foreign body aspiration
+730,Foreign body in reproductive tract
+731,Foreign body sensation in eyes
+732,Fournier's gangrene
+733,Fractured sacrum
+734,Frequent bowel movements
+735,Frustration
+736,Frustration tolerance decreased
+737,Full blood count abnormal
+738,Full blood count decreased
+739,Full blood count increased
+740,Fumbling
+741,Fungal test positive
+742,Furuncle
+743,Gait disturbance
+744,Gallbladder obstruction
+745,Gallbladder operation
+746,Gambling
+747,Gangrene
+748,Gastric banding
+749,Gastric disorder
+750,Gastric fistula
+751,Gastric haemorrhage
+752,Gastric infection
+753,Gastric neoplasm
+754,Gastric perforation
+755,Gastric polyps
+756,Gastric ulcer
+757,Gastritis bacterial
+758,Gastritis erosive
+759,Gastritis haemorrhagic
+760,Gastroenteritis salmonella
+761,Gastrointestinal disorder
+762,Gastrointestinal haemorrhage
+763,Gastrointestinal inflammation
+764,Gastrointestinal lymphoma
+765,Gastrointestinal oedema
+766,Gastrointestinal pain
+767,Gastrointestinal perforation
+768,Gastrointestinal scarring
+769,Gastrointestinal sounds abnormal
+770,Gastrointestinal ulcer
+771,Gastrointestinal ulcer haemorrhage
+772,Gastroschisis
+773,Gastrostomy
+774,Generalised anxiety disorder
+775,Genital abscess
+776,Genital haemorrhage
+777,Genital herpes
+778,Genital hypoaesthesia
+779,Gingival bleeding
+780,Gingival blister
+781,Gingival cyst
+782,Gingival discomfort
+783,Gingival erosion
+784,Gingival pain
+785,Gingival recession
+786,Gingival swelling
+787,Glassy eyes
+788,Glioma
+789,Glossodynia
+790,Glucose tolerance impaired
+791,Glucose urine present
+792,Gluten sensitivity
+793,Glycosylated haemoglobin increased
+794,Gout
+795,Graft versus host disease in skin
+796,Grip strength decreased
+797,Groin pain
+798,Growth retardation
+799,Gun shot wound
+800,HELLP syndrome
+801,HIV infection
+802,Haemangioma
+803,Haemarthrosis
+804,Haematocrit decreased
+805,Haematological infection
+806,Haematoma muscle
+807,Haematuria
+808,Haemochromatosis
+809,Haemodialysis
+810,Haemodynamic instability
+811,Haemoglobin abnormal
+812,Haemoglobin decreased
+813,Haemoglobin increased
+814,Haemophagocytic lymphohistiocytosis
+815,Haemoptysis
+816,Haemorrhage in pregnancy
+817,Haemorrhage urinary tract
+818,Haemorrhagic anaemia
+819,Haemorrhagic arteriovenous malformation
+820,Haemorrhagic disorder
+821,Haemorrhagic erosive gastritis
+822,Haemorrhagic ovarian cyst
+823,Haemorrhoids
+824,Haemothorax
+825,Hair disorder
+826,Hair texture abnormal
+827,Hallucination
+828,"Hallucination, tactile"
+829,Halo vision
+830,Hand fracture
+831,Hanging
+832,Hangover
+833,Head discomfort
+834,Head injury
+835,Headache
+836,Hearing impaired
+837,Heart rate increased
+838,Heart rate irregular
+839,Heart valve replacement
+840,Heavy menstrual bleeding
+841,Hemianaesthesia
+842,Hemiparesis
+843,Hemiplegia
+844,Hepatic adenoma
+845,Hepatic cancer
+846,Hepatic cyst
+847,Hepatic neoplasm
+848,Hepatitis A
+849,Hepatitis B core antibody positive
+850,Hepatitis C
+851,Hepatitis E
+852,Hepatitis toxic
+853,Hepatomegaly
+854,Hepatotoxicity
+855,Herbal interaction
+856,Hereditary angioedema
+857,Hernia pain
+858,Hernia repair
+859,Herpes ophthalmic
+860,Herpes virus infection
+861,Herpes zoster
+862,Hidradenitis
+863,High density lipoprotein decreased
+864,High density lipoprotein increased
+865,Hip fracture
+866,Hip surgery
+867,Hirsutism
+868,Histamine intolerance
+869,Histoplasmosis
+870,Hodgkin's disease
+871,Hordeolum
+872,Hospice care
+873,Hospitalisation
+874,Human chorionic gonadotropin increased
+875,Hunger
+876,Hydrocephalus
+877,Hyperaesthesia teeth
+878,Hyperammonaemia
+879,Hyperbilirubinaemia
+880,Hyperemesis gravidarum
+881,Hypergammaglobulinaemia benign monoclonal
+882,Hyperglycaemia
+883,Hyperkeratosis
+884,Hypermetabolism
+885,Hyperparathyroidism
+886,Hyperphagia
+887,Hyperpyrexia
+888,Hyperreflexia
+889,Hypersensitivity
+890,Hypersomnia
+891,Hypertensive urgency
+892,Hyperthyroidism
+893,Hypertransaminasaemia
+894,Hypertrichosis
+895,Hypertrophic cardiomyopathy
+896,Hyperuricaemia
+897,Hyperventilation
+898,Hypervigilance
+899,Hypervolaemia
+900,Hypoacusis
+901,Hypoaesthesia oral
+902,Hypoglycaemia
+903,Hypoglycaemia neonatal
+904,Hypogonadism
+905,Hypohidrosis
+906,Hypokinesia
+907,Hypomenorrhoea
+908,Hypoparathyroidism
+909,Hypophosphataemia
+910,Hypospadias
+911,Ileal stenosis
+912,Ileostomy
+913,Immune effector cell-associated neurotoxicity syndrome
+914,Immune-mediated enterocolitis
+915,Impaired driving ability
+916,Impaired healing
+917,Impaired self-care
+918,Impaired work ability
+919,Implant site bruising
+920,Implant site cellulitis
+921,Implant site infection
+922,Implant site pain
+923,Implantable cardiac monitor insertion
+924,Implantable defibrillator insertion
+925,Implantation complication
+926,Inadequate analgesia
+927,Inappropriate prescribing
+928,Inappropriate schedule of drug administration
+929,Incision site infection
+930,Incisional hernia
+931,Incontinence
+932,Incorrect disposal of product
+933,Incorrect dose administered
+934,Incorrect dose administered by device
+935,Incorrect drug administration rate
+936,Incorrect route of drug administration
+937,Increased tendency to bruise
+938,Indifference
+939,Infarction
+940,Infected cyst
+941,Infection
+942,Infective exacerbation of chronic obstructive airways disease
+943,Infective pulmonary exacerbation of cystic fibrosis
+944,Infertility male
+945,Inflammation
+946,Inflammatory marker increased
+947,Influenza
+948,Influenza like illness
+949,Infusion site bruising
+950,Infusion site discolouration
+951,Infusion site discomfort
+952,Infusion site irritation
+953,Infusion site mass
+954,Infusion site rash
+955,Infusion site swelling
+956,Infusion site urticaria
+957,Inhalation therapy
+958,Initial insomnia
+959,Injection related reaction
+960,Injection site abscess
+961,Injection site atrophy
+962,Injection site bruising
+963,Injection site cellulitis
+964,Injection site cyst
+965,Injection site erythema
+966,Injection site extravasation
+967,Injection site haematoma
+968,Injection site hypersensitivity
+969,Injection site induration
+970,Injection site inflammation
+971,Injection site irritation
+972,Injection site necrosis
+973,Injection site nodule
+974,Injection site pain
+975,Injection site papule
+976,Injection site pruritus
+977,Injection site rash
+978,Injection site reaction
+979,Injection site urticaria
+980,Injection site vesicles
+981,Injury
+982,Injury associated with device
+983,Insomnia
+984,Instillation site erythema
+985,Instillation site pain
+986,Intellectual disability
+987,Intensive care
+988,Intentional underdose
+989,Intercepted drug dispensing error
+990,Intercepted medication error
+991,Intercepted product administration error
+992,Intermenstrual bleeding
+993,International normalised ratio increased
+994,Intervertebral disc disorder
+995,Intervertebral disc injury
+996,Intervertebral disc operation
+997,Intestinal ischaemia
+998,Intestinal mass
+999,Intestinal mucosal tear
+1000,Intestinal polyp
+1001,Intestinal prolapse
+1002,Intra-abdominal fluid collection
+1003,Intracardiac thrombus
+1004,Intracranial aneurysm
+1005,Intraductal proliferative breast lesion
+1006,Intraocular pressure increased
+1007,Intraocular pressure test abnormal
+1008,Intrusive thoughts
+1009,Invasive breast carcinoma
+1010,Invasive ductal breast carcinoma
+1011,Invasive lobular breast carcinoma
+1012,Iritis
+1013,Ischaemic cerebral infarction
+1014,JC polyomavirus test positive
+1015,Jaundice neonatal
+1016,Jaw disorder
+1017,Jaw operation
+1018,Jejunostomy
+1019,Job dissatisfaction
+1020,Joint arthroplasty
+1021,Joint crepitation
+1022,Joint effusion
+1023,Joint hyperextension
+1024,Joint instability
+1025,Joint lock
+1026,Joint noise
+1027,Joint swelling
+1028,Ketoacidosis
+1029,Ketonuria
+1030,Ketosis
+1031,Kidney infection
+1032,Kidney transplant rejection
+1033,Klebsiella infection
+1034,Knee operation
+1035,Laboratory test interference
+1036,Labyrinthitis
+1037,Laceration
+1038,Lacrimal structure injury
+1039,Lactation disorder
+1040,Lactose intolerance
+1041,Lacunar stroke
+1042,Laparoscopic surgery
+1043,Large intestinal haemorrhage
+1044,Large intestine infection
+1045,Large intestine perforation
+1046,Laryngitis
+1047,Latent tuberculosis
+1048,Laziness
+1049,Left ventricular dysfunction
+1050,Left ventricular failure
+1051,Leg amputation
+1052,Legal problem
+1053,Leiomyoma
+1054,Leiomyosarcoma
+1055,Lethargy
+1056,Leukocytosis
+1057,Leukoencephalopathy
+1058,Leukoplakia oral
+1059,Ligament injury
+1060,Ligament operation
+1061,Light chain analysis increased
+1062,Limb crushing injury
+1063,Limb discomfort
+1064,Limb injury
+1065,Limb mass
+1066,Linear IgA disease
+1067,Lip blister
+1068,Lip dry
+1069,Lip pain
+1070,Lip pruritus
+1071,Lip swelling
+1072,Lipase increased
+1073,Lipoedema
+1074,Liquid product physical issue
+1075,Lithiasis
+1076,Liver function test increased
+1077,Liver transplant
+1078,Lobular breast carcinoma in situ
+1079,Local swelling
+1080,Localised infection
+1081,Localised oedema
+1082,Logorrhoea
+1083,Loose tooth
+1084,Loss of control of legs
+1085,Loss of employment
+1086,Loss of personal independence in daily activities
+1087,Lower gastrointestinal haemorrhage
+1088,Lower limb fracture
+1089,Lower respiratory tract infection fungal
+1090,Lower respiratory tract infection viral
+1091,Lumbar radiculopathy
+1092,Lumbar spinal stenosis
+1093,Lung adenocarcinoma
+1094,Lung adenocarcinoma stage IV
+1095,Lung carcinoma cell type unspecified stage III
+1096,Lung disorder
+1097,Lung neoplasm
+1098,Lung opacity
+1099,Lung transplant
+1100,Lung transplant rejection
+1101,Lymph node pain
+1102,Lymphocyte count abnormal
+1103,Lymphocyte count decreased
+1104,Lymphoedema
+1105,Lymphoma
+1106,Macrocytosis
+1107,Macular hole
+1108,Madarosis
+1109,Malabsorption
+1110,Malaise
+1111,Male orgasmic disorder
+1112,Malignant melanoma stage III
+1113,Malignant neoplasm of eye
+1114,Malignant neoplasm progression
+1115,Malignant pleural effusion
+1116,Malnutrition
+1117,Mantle cell lymphoma
+1118,Mass
+1119,Mastectomy
+1120,Mastitis
+1121,Maternal exposure before pregnancy
+1122,Maternal exposure during pregnancy
+1123,Maternal exposure timing unspecified
+1124,Medical device battery replacement
+1125,Medical device complication
+1126,Medical device implantation
+1127,Medical device pain
+1128,Medical device removal
+1129,Medical device site infection
+1130,Memory impairment
+1131,Meniere's disease
+1132,Meningioma
+1133,Meningitis viral
+1134,Meniscus injury
+1135,Meniscus operation
+1136,Menometrorrhagia
+1137,Menopausal symptoms
+1138,Menopause
+1139,Menorrhagia
+1140,Menstruation delayed
+1141,Menstruation irregular
+1142,Mesenteric vein thrombosis
+1143,Metabolic surgery
+1144,Metapneumovirus infection
+1145,Metastases to central nervous system
+1146,Metastases to lymph nodes
+1147,Metastatic uterine cancer
+1148,Migraine
+1149,Migraine without aura
+1150,Miliaria
+1151,Monocyte count decreased
+1152,Monocyte count increased
+1153,Mood altered
+1154,Morbid thoughts
+1155,Mouth swelling
+1156,Mouth ulceration
+1157,Movement disorder
+1158,Mucosal inflammation
+1159,Mucous stools
+1160,Multiple fractures
+1161,Multiple organ dysfunction syndrome
+1162,Multiple sclerosis
+1163,Multiple sclerosis pseudo relapse
+1164,Multiple sclerosis relapse
+1165,Multiple use of single-use product
+1166,Multisystem inflammatory syndrome
+1167,Muscle atrophy
+1168,Muscle contractions involuntary
+1169,Muscle fatigue
+1170,Muscle haemorrhage
+1171,Muscle rupture
+1172,Muscle spasms
+1173,Muscle spasticity
+1174,Muscle tightness
+1175,Muscle twitching
+1176,Musculoskeletal chest pain
+1177,Musculoskeletal discomfort
+1178,Musculoskeletal pain
+1179,Musculoskeletal stiffness
+1180,Mutism
+1181,Myasthenia gravis
+1182,Myelitis
+1183,Myeloid leukaemia
+1184,Myeloproliferative neoplasm
+1185,Myocardial necrosis marker increased
+1186,Myopericarditis
+1187,Myopia
+1188,Myositis
+1189,Nail discolouration
+1190,Nail disorder
+1191,Nail infection
+1192,Narcolepsy
+1193,Narrow anterior chamber angle
+1194,Nasal dryness
+1195,Nasal operation
+1196,Nasal septal operation
+1197,Nasopharyngitis
+1198,Nausea
+1199,Near death experience
+1200,Neck injury
+1201,Neck surgery
+1202,Necrotising fasciitis
+1203,Negative thoughts
+1204,Neonatal respiratory distress syndrome
+1205,Neoplasm
+1206,Neoplasm malignant
+1207,Nephrolithiasis
+1208,Nephropathy
+1209,Nerve block
+1210,Nerve compression
+1211,Neuralgia
+1212,Neurodegenerative disorder
+1213,Neuroendocrine tumour
+1214,Neurological symptom
+1215,Neuropathy peripheral
+1216,Neurosis
+1217,Neurosurgery
+1218,Neurotoxicity
+1219,Neutropenic colitis
+1220,Neutrophil count abnormal
+1221,Neutrophil count decreased
+1222,Nicotine dependence
+1223,Night sweats
+1224,Nipple pain
+1225,No adverse event
+1226,No reaction on previous exposure to drug
+1227,No therapeutic response
+1228,Nodule
+1229,Non-Hodgkin's lymphoma
+1230,Non-alcoholic steatohepatitis
+1231,Non-cardiac chest pain
+1232,Nonspecific reaction
+1233,Nosocomial infection
+1234,Nuclear magnetic resonance imaging abnormal
+1235,Obstruction
+1236,Obstruction gastric
+1237,Obstructive airways disorder
+1238,Obstructive uropathy
+1239,Ocular hypertension
+1240,Ocular icterus
+1241,Odynophagia
+1242,Oedema mouth
+1243,Oedema peripheral
+1244,Oesophageal disorder
+1245,Oesophageal motility disorder
+1246,Oesophageal pain
+1247,Oesophageal ulcer
+1248,Oesophageal varices haemorrhage
+1249,Off label use
+1250,Oligomenorrhoea
+1251,Omphalitis
+1252,Onychoclasis
+1253,Open angle glaucoma
+1254,Ophthalmic herpes zoster
+1255,Oral administration complication
+1256,Oral discomfort
+1257,Oral disorder
+1258,Oral fungal infection
+1259,Oral infection
+1260,Oral mucosal blistering
+1261,Oral mucosal eruption
+1262,Oral pain
+1263,Oral pruritus
+1264,Orchitis
+1265,Organ failure
+1266,Organic erectile dysfunction
+1267,Orgasm abnormal
+1268,Oromandibular dystonia
+1269,Oropharyngeal discomfort
+1270,Oropharyngeal pain
+1271,Osteomalacia
+1272,Osteomyelitis
+1273,Osteonecrosis of jaw
+1274,Osteosclerosis
+1275,Otorrhoea
+1276,Ovarian cancer recurrent
+1277,Ovarian cyst ruptured
+1278,Ovarian mass
+1279,Overdose
+1280,Oxygen saturation decreased
+1281,Oxygen therapy
+1282,Pain
+1283,Pain in extremity
+1284,Palatal oedema
+1285,Palmar erythema
+1286,Palmar-plantar erythrodysaesthesia syndrome
+1287,Palpitations
+1288,Pancreatic carcinoma
+1289,Pancreatic carcinoma stage IV
+1290,Pancreatitis
+1291,Pancreatitis relapsing
+1292,Panic disorder
+1293,Paraesthesia
+1294,Paraesthesia oral
+1295,Paranoia
+1296,Paraplegia
+1297,Parathyroid disorder
+1298,Parkinson's disease
+1299,Paronychia
+1300,Parotitis
+1301,Patent ductus arteriosus
+1302,Pathological fracture
+1303,Pelvic fracture
+1304,Pelvic inflammatory disease
+1305,Penile burning sensation
+1306,Performance status decreased
+1307,Periarthritis
+1308,Perinatal depression
+1309,Periodic limb movement disorder
+1310,Periodontal disease
+1311,Peripheral artery thrombosis
+1312,Peripheral sensorimotor neuropathy
+1313,Peripheral vascular disorder
+1314,Peritonitis bacterial
+1315,Peroneal nerve palsy
+1316,Persistent genital arousal disorder
+1317,Personality disorder
+1318,Petit mal epilepsy
+1319,Pharyngeal haemorrhage
+1320,Pharyngeal operation
+1321,Pharyngeal paraesthesia
+1322,Pharyngeal swelling
+1323,Photophobia
+1324,Photosensitivity reaction
+1325,Pigmentary maculopathy
+1326,Pilonidal cyst
+1327,Pituitary tumour benign
+1328,Plantar fasciitis
+1329,Plasma cell myeloma recurrent
+1330,Plasmacytoma
+1331,Platelet count abnormal
+1332,Platelet count decreased
+1333,Platelet disorder
+1334,Pleural effusion
+1335,Pleurisy
+1336,Pneumococcal sepsis
+1337,Pneumonia
+1338,Pneumonia fungal
+1339,Pneumonia influenzal
+1340,Pneumonia parainfluenzae viral
+1341,Pneumonia pseudomonal
+1342,Pneumonia respiratory syncytial viral
+1343,Pneumonia staphylococcal
+1344,Pneumonia streptococcal
+1345,Pneumonitis
+1346,Pneumoperitoneum
+1347,Polydipsia
+1348,Polyp
+1349,Poor quality device used
+1350,Poor quality drug administered
+1351,Poor quality product administered
+1352,Poor quality sleep
+1353,Poor venous access
+1354,Post concussion syndrome
+1355,Post procedural diarrhoea
+1356,Post procedural fever
+1357,Post procedural haematoma
+1358,Post procedural haemorrhage
+1359,Post procedural infection
+1360,Post-acute COVID-19 syndrome
+1361,Post-traumatic neck syndrome
+1362,Postmenopausal haemorrhage
+1363,Postoperative thrombosis
+1364,Postoperative wound complication
+1365,Postoperative wound infection
+1366,Posture abnormal
+1367,Pre-eclampsia
+1368,Precancerous condition
+1369,Pregnancy test false positive
+1370,Pregnancy with contraceptive device
+1371,Pregnancy with implant contraceptive
+1372,Premature labour
+1373,Prescribed overdose
+1374,Presyncope
+1375,Procedural complication
+1376,Procedural haemorrhage
+1377,Procedural pain
+1378,Product administered at inappropriate site
+1379,Product administration error
+1380,Product after taste
+1381,Product closure removal difficult
+1382,Product commingling
+1383,Product communication issue
+1384,Product container issue
+1385,Product contamination physical
+1386,Product counterfeit
+1387,Product delivery mechanism issue
+1388,Product dispensing issue
+1389,Product distribution issue
+1390,Product dose confusion
+1391,Product dose omission
+1392,Product dose omission in error
+1393,Product dose omission issue
+1394,Product label issue
+1395,Product package associated injury
+1396,Product packaging difficult to open
+1397,Product packaging quantity issue
+1398,Product physical consistency issue
+1399,Product preparation error
+1400,Product preparation issue
+1401,Product prescribing error
+1402,Product selection error
+1403,Product shape issue
+1404,Product size issue
+1405,Product storage error
+1406,Product substitution issue
+1407,Product tampering
+1408,Product use in unapproved indication
+1409,Product use issue
+1410,Productive cough
+1411,Progressive multiple sclerosis
+1412,Prostate cancer metastatic
+1413,Prostatic disorder
+1414,Prostatic specific antigen increased
+1415,Protein total abnormal
+1416,Protein total decreased
+1417,Proteinuria
+1418,Psoriatic arthropathy
+1419,Psychogenic seizure
+1420,Psychological trauma
+1421,Psychomotor retardation
+1422,Pulmonary artery thrombosis
+1423,Pulmonary congestion
+1424,Pulmonary function test decreased
+1425,Pulmonary haemorrhage
+1426,Pulmonary mass
+1427,Pulseless electrical activity
+1428,Pustular psoriasis
+1429,Pustule
+1430,Pyelonephritis
+1431,Pyoderma gangrenosum
+1432,Pyrexia
+1433,Quality of life decreased
+1434,Radioisotope scan abnormal
+1435,Rapid eye movement sleep behaviour disorder
+1436,Rapid eye movements sleep abnormal
+1437,Rash
+1438,Rash erythematous
+1439,Rash generalised
+1440,Rash morbilliform
+1441,Rash vesicular
+1442,Reading disorder
+1443,Rebound acid hypersecretion
+1444,Rebound effect
+1445,Recalled product administered
+1446,Rectal haemorrhage
+1447,Rectal prolapse
+1448,Rectocele
+1449,Recurrent cancer
+1450,Red blood cell count abnormal
+1451,Red blood cell count decreased
+1452,Red blood cell sedimentation rate increased
+1453,Red man syndrome
+1454,Reflux gastritis
+1455,Refusal of treatment by patient
+1456,Rehabilitation therapy
+1457,Renal aplasia
+1458,Renal atrophy
+1459,Renal colic
+1460,Renal cyst
+1461,Renal disorder
+1462,Renal failure acute
+1463,Renal haemorrhage
+1464,Renal hypertension
+1465,Renal mass
+1466,Renal stone removal
+1467,Renal transplant
+1468,Renal tubular necrosis
+1469,Respiration abnormal
+1470,Respiratory alkalosis
+1471,Respiratory failure
+1472,Respiratory rate decreased
+1473,Respiratory tract congestion
+1474,Respiratory tract irritation
+1475,Resting tremor
+1476,Restlessness
+1477,Restrictive pulmonary disease
+1478,Retinal artery occlusion
+1479,Retinal degeneration
+1480,Retinal depigmentation
+1481,Retinal disorder
+1482,Retinal haemorrhage
+1483,Retinal tear
+1484,Retinal vasculitis
+1485,Retrograde ejaculation
+1486,Retroperitoneal haematoma
+1487,Rheumatoid arthritis
+1488,Rheumatoid nodule
+1489,Rhinitis
+1490,Rhinorrhoea
+1491,Rhinovirus infection
+1492,Rib fracture
+1493,Rosacea
+1494,Rotator cuff repair
+1495,Rotator cuff syndrome
+1496,SARS-CoV-2 antibody test negative
+1497,SARS-CoV-2 test negative
+1498,SARS-CoV-2 test positive
+1499,Sacral pain
+1500,Sarcoma
+1501,Scab
+1502,Screaming
+1503,Scrotal abscess
+1504,Seasonal allergy
+1505,Seborrhoea
+1506,Seizure
+1507,Self injurious behaviour
+1508,Self-injurious ideation
+1509,Self-medication
+1510,Sensation of foreign body
+1511,Sensitivity of teeth
+1512,Sensory disturbance
+1513,Sepsis
+1514,Septic shock
+1515,Serum ferritin increased
+1516,Serum sickness
+1517,Sexually inappropriate behaviour
+1518,Shoulder operation
+1519,Sickle cell anaemia with crisis
+1520,Sinus congestion
+1521,Sinus headache
+1522,Sinusitis
+1523,Sjogren's syndrome
+1524,Skin abrasion
+1525,Skin atrophy
+1526,Skin burning sensation
+1527,Skin depigmentation
+1528,Skin discomfort
+1529,Skin exfoliation
+1530,Skin induration
+1531,Skin infection
+1532,Skin irritation
+1533,Skin mass
+1534,Skin odour abnormal
+1535,Skin papilloma
+1536,Skin squamous cell carcinoma recurrent
+1537,Skin striae
+1538,Skin swelling
+1539,Skin tightness
+1540,Skin ulcer
+1541,Sleep disorder due to a general medical condition
+1542,Sleep talking
+1543,Sleep terror
+1544,Small cell lung cancer metastatic
+1545,Small intestinal haemorrhage
+1546,Small intestinal resection
+1547,Social avoidant behaviour
+1548,Solar lentigo
+1549,Somatic symptom disorder
+1550,Somnambulism
+1551,Somnolence
+1552,Speech disorder
+1553,Spinal column injury
+1554,Spinal column stenosis
+1555,Spinal cord compression
+1556,Spinal cord disorder
+1557,Spinal cord infection
+1558,Spinal cord injury
+1559,Spinal cord neoplasm
+1560,Spinal disorder
+1561,Spinal epidural haematoma
+1562,Spinal fracture
+1563,Spinal nerve stimulator implantation
+1564,Spinal operation
+1565,Spinal pain
+1566,Spleen disorder
+1567,Splenic infarction
+1568,Splenic rupture
+1569,Splenomegaly
+1570,Spondylitis
+1571,Sprue-like enteropathy
+1572,Sputum increased
+1573,Squamous cell carcinoma of skin
+1574,Squamous cell carcinoma of the oral cavity
+1575,Squamous cell carcinoma of the tongue
+1576,Staphylococcal bacteraemia
+1577,Staphylococcal infection
+1578,Staphylococcal sepsis
+1579,Staring
+1580,Stent placement
+1581,Sternal fracture
+1582,Stevens-Johnson syndrome
+1583,Stillbirth
+1584,Stoma site discharge
+1585,Stoma site hypergranulation
+1586,Stoma site infection
+1587,Stomatitis
+1588,Stress
+1589,Stress fracture
+1590,Stroke in evolution
+1591,Subdural haematoma
+1592,Substance-induced psychotic disorder
+1593,Suicidal ideation
+1594,Suicide attempt
+1595,Superficial injury of eye
+1596,Superficial vein thrombosis
+1597,Superinfection
+1598,Suspected COVID-19
+1599,Suspected counterfeit product
+1600,Suspected product quality issue
+1601,Suspected suicide attempt
+1602,Swelling
+1603,Swelling face
+1604,Swelling of eyelid
+1605,Swollen tongue
+1606,Symmetrical drug-related intertriginous and flexural exanthema
+1607,Sympathomimetic effect
+1608,Symptom recurrence
+1609,Syncope
+1610,Systemic inflammatory response syndrome
+1611,Systemic lupus erythematosus
+1612,Tachyphrenia
+1613,Taste disorder
+1614,Temperature intolerance
+1615,Tenderness
+1616,Tendonitis
+1617,Tension
+1618,Tension headache
+1619,Testicular pain
+1620,Testicular swelling
+1621,Tethered cord syndrome
+1622,Therapeutic drug monitoring analysis not performed
+1623,Therapeutic procedure
+1624,Therapeutic product effect decreased
+1625,Therapeutic product effect increased
+1626,Therapeutic product ineffective
+1627,Therapeutic response shortened
+1628,Therapy cessation
+1629,Therapy interrupted
+1630,Throat cancer
+1631,Throat irritation
+1632,Thrombocytosis
+1633,Thrombophlebitis septic
+1634,Thrombophlebitis superficial
+1635,Thrombosis in device
+1636,Thyroid cancer
+1637,Thyroid cyst
+1638,Thyroid disorder
+1639,Thyroid function test abnormal
+1640,Thyroid hormones decreased
+1641,Thyroid mass
+1642,Tic
+1643,Tinea versicolour
+1644,Tinnitus
+1645,Tongue coated
+1646,Tongue ulceration
+1647,Tonsillar disorder
+1648,Tonsillectomy
+1649,Tooth abscess
+1650,Tooth discolouration
+1651,Tooth disorder
+1652,Tooth fracture
+1653,Tooth loss
+1654,Torsade de pointes
+1655,Torticollis
+1656,Tourette's disorder
+1657,Transcription medication error
+1658,Transfusion
+1659,Transient ischaemic attack
+1660,Transplant rejection
+1661,Transposition of the great vessels
+1662,Traumatic haematoma
+1663,Treatment noncompliance
+1664,Tremor
+1665,Trichorrhexis
+1666,Trichotillomania
+1667,Trigeminal neuralgia
+1668,Trigger finger
+1669,Triple negative breast cancer
+1670,Trisomy 21
+1671,Tuberculin test positive
+1672,Tuberculosis
+1673,Tumour haemorrhage
+1674,Tumour lysis syndrome
+1675,Tumour marker abnormal
+1676,Tumour pain
+1677,Tumour rupture
+1678,Tunnel vision
+1679,Uhthoff's phenomenon
+1680,Ulcer
+1681,Unintentional medical device removal
+1682,Upper gastrointestinal haemorrhage
+1683,Upper respiratory tract congestion
+1684,Upper respiratory tract infection
+1685,Upper-airway cough syndrome
+1686,Ureterolithiasis
+1687,Urethral disorder
+1688,Urinary incontinence
+1689,Urinary retention
+1690,Urinary tract disorder
+1691,Urinary tract infection
+1692,Urinary tract obstruction
+1693,Urine abnormality
+1694,Urine amphetamine positive
+1695,Urine analysis abnormal
+1696,Urine odour abnormal
+1697,Urine output decreased
+1698,Uterine cancer
+1699,Uterine disorder
+1700,Uterine leiomyoma
+1701,Uterine perforation
+1702,VIIth nerve paralysis
+1703,Vaginal discharge
+1704,Vaginal haemorrhage
+1705,Vaginal lesion
+1706,Varices oesophageal
+1707,Varicose vein
+1708,Vascular graft
+1709,Vascular occlusion
+1710,Vascular operation
+1711,Vascular pain
+1712,Vascular rupture
+1713,Vasculitis
+1714,Vasospasm
+1715,Vein collapse
+1716,Vein disorder
+1717,Vein rupture
+1718,Vena cava thrombosis
+1719,Venous occlusion
+1720,Ventricular tachycardia
+1721,Victim of chemical submission
+1722,Viral infection
+1723,Viral pharyngitis
+1724,Viral upper respiratory tract infection
+1725,Visual acuity reduced
+1726,Visual field defect
+1727,Vitamin B1 deficiency
+1728,Vitreous detachment
+1729,Vitreous haemorrhage
+1730,Vocal cord disorder
+1731,Volvulus
+1732,Vomiting
+1733,Vomiting projectile
+1734,Vulvovaginal burning sensation
+1735,Vulvovaginal candidiasis
+1736,Vulvovaginal discomfort
+1737,Vulvovaginal dryness
+1738,Vulvovaginal injury
+1739,Vulvovaginal mycotic infection
+1740,Vulvovaginal pruritus
+1741,Waist circumference increased
+1742,Weight decreased
+1743,Weight fluctuation
+1744,Weight gain poor
+1745,Wernicke's encephalopathy
+1746,Wheezing
+1747,White blood cell count abnormal
+1748,White blood cell count decreased
+1749,White blood cell disorder
+1750,White coat hypertension
+1751,Wolff-Parkinson-White syndrome
+1752,Wound infection
+1753,Wrist surgery
+1754,Wrong dose
+1755,Wrong product administered
+1756,Wrong technique in device usage process
+1757,Wrong technique in drug usage process
+1758,Yellow skin
